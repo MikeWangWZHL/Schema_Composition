@@ -423,5 +423,6 @@ def create_graph_dataset_gspan_official(dataset_case = 'train'):
 
 
 '''usage'''
-print('call create graph func in gspan official format... ')
-create_graph_dataset_gspan_official(dataset_case = 'test')
+if __name__ == "__main__":
+    print('call create graph func in gspan official format... ')
+    create_graph_dataset_gspan_official(dataset_case = 'test')

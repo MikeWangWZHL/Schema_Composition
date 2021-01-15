@@ -9,6 +9,7 @@ from networkx.algorithms import components
 from collections import defaultdict
 import matplotlib.pyplot as plt
 import math
+from filter_mined_graph import filter_mined_nx_subgraphs
 
 def get_single_subgraph_nx(frequent_subgraph_lines):
     '''
@@ -144,30 +145,41 @@ def draw_single_subgraph(G, ax, save_path = None):
 
 
 '''arg parser'''
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description='visualize remapped gSpan official frequent subgraphs')
+    parser.add_argument('-i', '--input_fp_file', help='input remapped fp file path', required=True)
+    parser.add_argument('-o', '--output_path', help='output visualization path', required=True)
+    parser.add_argument('-og', '--output_graph_pickle_path', help='output_graph_pickle_path', default = None)
+    parser.add_argument('-fil', '--if_filter', help='if filter subgraphs', default = True)
 
-parser = argparse.ArgumentParser(description='visualize remapped gSpan official frequent subgraphs')
-parser.add_argument('-i', '--input_fp_file', help='input remapped fp file path', required=True)
-parser.add_argument('-o', '--output_path', help='output visualization path', required=True)
-
-args = vars(parser.parse_args())
-
-remapped_fp_path = args['input_fp_file']
-save_path = args['output_path']
+    args = vars(parser.parse_args())
+    
+    if_filter = args['if_filter']
+    remapped_fp_path = args['input_fp_file']
+    save_path = args['output_path']
+    output_graph_pickle_path = args['output_graph_pickle_path']
 
 
-'''usage'''
-nx_subgraphs = get_subgraphs_nx(remapped_fp_path)
+    '''usage'''
+    nx_subgraphs = get_subgraphs_nx(remapped_fp_path)
 
-# test converting correctness:
-# nx_gs = graphData_to_nx(remapped_fp_path)
-# print('dataset size: ',len(nx_gs))
-# for g in nx_gs:
-#     print(len(list(nx.simple_cycles(g))))
-# print('early quit ...')
-# quit()
-
-print()
-print('number of subgraphs: ', len(nx_subgraphs))
-print()
-draw_subgraphs(nx_subgraphs, save_path)
-# draw_single_subgraph(nx_subgraphs[120], save_path)
+    if if_filter:
+        nx_filtered_subgraphs = filter_mined_nx_subgraphs(nx_subgraphs, save_path = output_graph_pickle_path)
+    # test converting correctness:
+    # nx_gs = graphData_to_nx(remapped_fp_path)
+    # print('dataset size: ',len(nx_gs))
+    # for g in nx_gs:
+    #     print(len(list(nx.simple_cycles(g))))
+    # print('early quit ...')
+    # quit()
+    if if_filter:
+        print()
+        print('number of filtered subgraphs: ', len(nx_filtered_subgraphs))
+        print()
+        draw_subgraphs(nx_filtered_subgraphs, save_path)
+    else:
+        print()
+        print('number of subgraphs: ', len(nx_subgraphs))
+        print()
+        draw_subgraphs(nx_subgraphs, save_path)
+        # draw_single_subgraph(nx_subgraphs[120], save_path)
