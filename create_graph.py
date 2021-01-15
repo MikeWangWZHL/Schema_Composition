@@ -193,7 +193,6 @@ def check_event_type_frequency(nx_g_dataset):
     return frequent_dict
 
 
-
 def get_connected_components(G):
     S = [G.subgraph(c).copy() for c in nx.weakly_connected_components(G)]
     return S
