@@ -10,6 +10,7 @@ from collections import defaultdict
 import matplotlib.pyplot as plt
 import math
 from filter_mined_graph import filter_mined_nx_subgraphs
+import pickle
 
 def get_single_subgraph_nx(frequent_subgraph_lines):
     '''
@@ -91,9 +92,12 @@ def graphData_to_nx(graphData_file):
 
     return nx_subgraphs
 
-def draw_subgraphs(nx_subgraphs, save_path, if_show_edge_type = False):
+def draw_subgraphs(nx_subgraphs, save_path, if_show_edge_type = False, show_max = None):
+    if show_max is None:
+        nrows = int(math.sqrt(len(nx_subgraphs)))+1
+    else:
+        nrows = int(math.sqrt(int(show_max)))+1
 
-    nrows = int(math.sqrt(len(nx_subgraphs)))+1
     fig, axes = plt.subplots(nrows=nrows, ncols=nrows, figsize = (5*nrows,5*nrows))
     fig.tight_layout()
     ax = axes.flatten()
@@ -143,27 +147,50 @@ def draw_single_subgraph(G, ax, save_path = None):
         plt.savefig(save_path)
         print(f'saved visualization to {save_path}')
 
+def write_graphs(nx_subgraphs, output_pickle_path):
+    # Dump List of graphs
+    with open(output_pickle_path, 'wb') as f:
+        pickle.dump(nx_subgraphs, f)
+
+
+def load_graphs(input_pickle_path):
+    # Load List of graphs
+    with open(input_pickle_path, 'rb') as f:
+        return pickle.load(f)
 
 '''arg parser'''
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='visualize remapped gSpan official frequent subgraphs')
-    parser.add_argument('-i', '--input_fp_file', help='input remapped fp file path', required=True)
+    parser.add_argument('-i', '--input_fp_file', help='input remapped fp file path', default = None)
+    parser.add_argument('-ig', '--input_graph_pickle', help='input remapped fp file path', default = None)
+    
     parser.add_argument('-o', '--output_path', help='output visualization path', required=True)
     parser.add_argument('-og', '--output_graph_pickle_path', help='output_graph_pickle_path', default = None)
     parser.add_argument('-fil', '--if_filter', help='if filter subgraphs', default = True)
+    parser.add_argument('-max', '--show_max', help='show max number of subgraphs', default = -1)
 
     args = vars(parser.parse_args())
     
+    input_graph_pickle = args['input_graph_pickle']
     if_filter = args['if_filter']
     remapped_fp_path = args['input_fp_file']
     save_path = args['output_path']
     output_graph_pickle_path = args['output_graph_pickle_path']
+    show_max = args['show_max']
+    
 
+    if input_graph_pickle is None and remapped_fp_path is None:
+        print('ERROR: no input file!!!!')
+        quit()
 
     '''usage'''
-    nx_subgraphs = get_subgraphs_nx(remapped_fp_path)
+    if input_graph_pickle is not None:
+        print('read from pickle ... ')
+        nx_subgraphs = load_graphs(input_graph_pickle)
+    else:
+        nx_subgraphs = get_subgraphs_nx(remapped_fp_path)
 
-    if if_filter:
+    if if_filter and input_graph_pickle is None:
         nx_filtered_subgraphs = filter_mined_nx_subgraphs(nx_subgraphs, save_path = output_graph_pickle_path)
     # test converting correctness:
     # nx_gs = graphData_to_nx(remapped_fp_path)
@@ -172,14 +199,16 @@ if __name__ == "__main__":
     #     print(len(list(nx.simple_cycles(g))))
     # print('early quit ...')
     # quit()
-    if if_filter:
+    if show_max is not None:
+        print(f'showing only {show_max} graphs')
+    if if_filter and input_graph_pickle is None:
         print()
         print('number of filtered subgraphs: ', len(nx_filtered_subgraphs))
         print()
-        draw_subgraphs(nx_filtered_subgraphs, save_path)
+        draw_subgraphs(nx_filtered_subgraphs, save_path, show_max = show_max)
     else:
         print()
         print('number of subgraphs: ', len(nx_subgraphs))
         print()
-        draw_subgraphs(nx_subgraphs, save_path)
+        draw_subgraphs(nx_subgraphs, save_path, show_max = show_max)
         # draw_single_subgraph(nx_subgraphs[120], save_path)
