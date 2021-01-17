@@ -15,7 +15,7 @@ import itertools
 
 from create_graph import create_nx_graph_Event_Only, create_nx_graph_Event_and_Argument
 
-
+'''generate mini example'''
 def create_mini_example_graph_1():
     G1 = nx.DiGraph()
 
@@ -34,12 +34,15 @@ def create_mini_example_graph_1():
         (0,3),
         (3,2),
         (2,4),
+        (4,6),
         (4,5),
         (6,5)
     ],type='Temporal_Order')
 
     return G1
 
+
+'''graph partition'''
 def cal_modularity(nx_graph, partition):
     return modularity(nx_graph, partition)
 
@@ -73,7 +76,7 @@ def partition_graph(nx_graph, most_valuable_edge_func = None, first_k = 1):
                 
                 current_highest_edge = max(betweenness, key=betweenness.get)
 
-            ## print('pick highest betweenness score edge: ', current_highest_edge)
+            # print('pick highest betweenness score edge: ', current_highest_edge)
             return current_highest_edge
  
 
@@ -83,7 +86,25 @@ def partition_graph(nx_graph, most_valuable_edge_func = None, first_k = 1):
         partitions.append(tuple(sorted(c) for c in communities))
     return partitions
 
+def filter_partition(nx_graph, partition):
+    '''
+        filter out community that does not have at least two event nodes
+    '''
+    print('===== filter partition =====')
+    print('original community number: ', len(partition))
+    filtered_partition = []
+    for community in partition:
+        subgraph_view = nx_graph.subgraph(community)
+        for e in subgraph_view.edges().data():
+            if e[2]['type'] == 'Temporal_Order':
+                filtered_partition.append(community)
+                break
 
+    print('filtered community number: ', len(filtered_partition))
+    print()
+    return filtered_partition
+
+'''edge score function'''
 def most_valuable_edge_f(nx_graph):
     '''
         Parameters:
@@ -97,6 +118,7 @@ def most_valuable_edge_f(nx_graph):
     # TODO
     pass
 
+'''visualization'''
 def draw_subgraphs(nx_subgraphs, save_path, if_show_edge_type = True, show_max = None):
     if show_max is None:
         nrows = int(math.sqrt(len(nx_subgraphs)))+1
@@ -140,41 +162,52 @@ def visualize_partition(nx_graph, partition, save_path = 'temp.png', if_show_edg
     draw_subgraphs(partition_subgraphs, save_path, if_show_edge_type, show_max)
 
 
-'''example test'''
+'''usage example'''
 if __name__ == '__main__':
 
-    # stopping criteria 
+    '''set up hyperparameters'''
+    # stopping criteria, run:
     K = 30
-
+    # input graph g objects json file:
     doc = '/shared/nas/data/m1/wangz3/schema_induction/data/Kairos/Kairos_system_data/IED_splited_like_LDC/test/suicide_ied_test.json'
+    # using instance index:
+    instance_index = 0
+
+    '''load instance graph g objects'''
     g_dicts = []
     with open(doc) as f:
         for line in f:
             g_dicts.append(json.loads(line))
-    G = create_nx_graph_Event_and_Argument(g_dicts[0])
+    
+    '''create nx graph of the specified instance'''
+    G = create_nx_graph_Event_and_Argument(g_dicts[instance_index])
     # G = create_nx_graph_Event_Only(g_dicts[0])
+    
+    print('using instance: ', instance_index)
     print()
     print("graph name: ", G.graph)
     print()
-    print('Nodes: ', G.nodes().data())
+    print('edge betweenness: ', edge_betweenness_centrality(G))
     print()
-    print('Edges: ',G.edges().data())
-    print()
-    print('========================================================')
 
-
+    # # print('Nodes: ', G.nodes().data())
+    # # print()
+    # # print('Edges: ',G.edges().data())
+    # # print()
+    # # print('========================================================')
 
     # print('mini example: ')
     # G = create_mini_example_graph_1()
+    # K = 1
     # print(G.nodes().data())
     # print(G.edges().data())
     # print()
     # print('========================================================')
     
-    print('edge betweenness: ', edge_betweenness_centrality(G))
-    print()
-
+    '''do partition'''
     partitions = partition_graph(G, most_valuable_edge_func = None, first_k = K)
+    # print('vis full graph: ')
+    # visualize_partition(G, [G.nodes()], save_path = 'full_G_temp.png')
     partitions_with_modularity = []
     for partition in partitions:
         # print('partition: ', partition)
@@ -184,12 +217,18 @@ if __name__ == '__main__':
         print('moduality: ', this_partition_modularity)
         print('--------------')
         partitions_with_modularity.append((partition,this_partition_modularity))
-
+    
+    '''sort based on modularity score'''
     sorted_partitions_with_modularity = sorted(partitions_with_modularity, key = lambda p : p[1], reverse = True)
     print('highest modularity partition: ', sorted_partitions_with_modularity[0][0])
     print(f'\n\nhighest modularity partition community number: {len(sorted_partitions_with_modularity[0][0])}, modularity: {sorted_partitions_with_modularity[0][1]}')
     
+    '''visualize highest partition'''
     best_partition = sorted_partitions_with_modularity[0][0]
     print()
-    visualize_partition(G, best_partition)
+    '''filter parition'''
+    filtered_best = filter_partition(G,best_partition)
+    '''visualize'''
+    visualize_partition(G, best_partition, save_path = 'before_filtering_temp.png')
+    visualize_partition(G, filtered_best, save_path = 'after_filtering_temp.png')
 
