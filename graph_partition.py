@@ -20,13 +20,13 @@ def create_mini_example_graph_1():
     G1 = nx.DiGraph()
 
     G1.add_nodes_from([
-        (0,{'type':'A'}),
-        (1,{'type':'B'}),
-        (2,{'type':'D'}),
-        (3,{'type':'C'}),
-        (4,{'type':'E'}),
-        (5,{'type':'F'}),
-        (6,{'type':'G'})
+        (0,{'type':'A','category':'Event'}),
+        (1,{'type':'B','category':'Event'}),
+        (2,{'type':'D','category':'Event'}),
+        (3,{'type':'C','category':'Event'}),
+        (4,{'type':'E','category':'Event'}),
+        (5,{'type':'F','category':'Event'}),
+        (6,{'type':'G','category':'Event'})
     ])
     G1.add_edges_from([
         (0,1),
@@ -39,14 +39,26 @@ def create_mini_example_graph_1():
         (6,5)
     ],type='Temporal_Order')
 
+    G1.add_nodes_from([
+        (7,{'type': 'PER','category': 'Entity'})
+    ])
+    G1.add_edges_from([
+        (3,7),
+        (2,7)
+    ])
+
+
     return G1
 
 
 '''graph partition'''
-def cal_modularity(nx_graph, partition):
-    return modularity(nx_graph, partition)
+def cal_modularity(nx_graph, partition, if_weighted = True):
+    if if_weighted:
+        return modularity(nx_graph, partition, weight = 'score')
+    else:
+        return modularity(nx_graph, partition)
 
-def partition_graph(nx_graph, most_valuable_edge_func = None, first_k = 1):
+def partition_graph(nx_graph, most_valuable_edge_func = None, first_k = 1, if_weighted = True):
     '''
         Parameters:
         ----------
@@ -62,14 +74,18 @@ def partition_graph(nx_graph, most_valuable_edge_func = None, first_k = 1):
     if most_valuable_edge_func is None:
 
         def most_valuable_edge_func(G):
-            betweenness = edge_betweenness_centrality(G)
+            if if_weighted:
+                betweenness = edge_betweenness_centrality(G, weight = 'score')
+            else:
+                betweenness = edge_betweenness_centrality(G)
+
             current_highest_edge = max(betweenness, key=betweenness.get)
 
             # check if it is an event->event temporal edge, if not keep searching for the highest score temperal edge   
             while G.get_edge_data(*current_highest_edge)['type'] != 'Temporal_Order':
                 del betweenness[current_highest_edge]
             
-                # handle edge case that the current community has on Temporal Edge
+                # handle edge case that the current community has no Temporal Edge
                 if betweenness == {}:
                     original_betweenness = edge_betweenness_centrality(G)
                     return max(original_betweenness, key=original_betweenness.get)
@@ -79,7 +95,6 @@ def partition_graph(nx_graph, most_valuable_edge_func = None, first_k = 1):
             # print('pick highest betweenness score edge: ', current_highest_edge)
             return current_highest_edge
  
-
     comp = girvan_newman(nx_graph, most_valuable_edge = most_valuable_edge_func)
     partitions = []
     for communities in itertools.islice(comp, first_k):
@@ -105,7 +120,52 @@ def filter_partition(nx_graph, partition):
     return filtered_partition
 
 '''edge score function'''
-def most_valuable_edge_f(nx_graph):
+# TODO add multi-hop overlapping arg calculation
+def count_overlapping_arg(nx_graph,e1,e2):
+    count = 0
+
+    e1_nbs = []
+    for e1_nb in nx_graph.neighbors(e1):
+        e1_nbs.append(e1_nb)
+
+    for e2_nb in nx_graph.neighbors(e2):
+        if e2_nb in e1_nbs and nx_graph.nodes[e2_nb]['category'] == 'Entity':
+            count += 1
+    
+    return count
+       
+def calculate_single_edge_score(nx_graph,e1,e2, dataset_name = 'suicide_ied', conditional_prob_path = './conditional_probability_json'):
+    '''calculate s(e1->e2)'''
+    # load p(e2|e1) score
+    p_e2_given_e1_dict = json.load(open(conditional_prob_path + f'/{dataset_name}_conditional_prob.json'))
+    e1_type = nx_graph.nodes[e1]['type']
+    e2_type = nx_graph.nodes[e2]['type']
+    
+    p_e2_given_e1_score = p_e2_given_e1_dict[e1_type][e2_type]
+
+    # calculate overlapping args
+    overlap_arg_count = count_overlapping_arg(nx_graph,e1,e2)
+
+    # spatial score
+    #TODO
+    spatial_score = 1
+
+    # calculate score
+    s = p_e2_given_e1_score * spatial_score * (1 + math.log(1 + overlap_arg_count))
+    
+    return s
+
+def add_edge_scores(nx_graph, dataset_name = 'suicide_ied', conditional_prob_path = './conditional_probability_json'):
+    for edge in nx_graph.edges().data():
+        u = edge[0]
+        v = edge[1]
+        e_attr = edge[2]
+        if e_attr['category'] == 'Temporal_Order':
+            new_score = calculate_single_edge_score(nx_graph,u,v,dataset_name = dataset_name, conditional_prob_path = conditional_prob_path)
+            nx_graph[u][v]['score'] = new_score
+    return nx_graph
+
+def most_valuable_edge_f(nx_graph, dataset_name = 'suicide_ied', conditional_prob_path = './conditional_probability_json'):
     '''
         Parameters:
         ----------
@@ -116,7 +176,7 @@ def most_valuable_edge_f(nx_graph):
         an edge with highest inter-episode score
     '''
     # TODO
-    pass
+    
 
 '''visualization'''
 def draw_subgraphs(nx_subgraphs, save_path, if_show_edge_type = True, show_max = None):
@@ -140,12 +200,12 @@ def draw_subgraphs(nx_subgraphs, save_path, if_show_edge_type = True, show_max =
             # pos = nx.spring_layout(G)
             # pos = nx.rescale_layout_dict(pos, scale = 3)
             # pos = nx.shell_layout(G)
-            nx.draw(G, pos, ax = ax[i], alpha = 0.7, arrowsize = 8, node_size = 400)
+            nx.draw(G, pos, ax = ax[i], alpha = 0.7, arrowsize = 10, node_size = 400)
             node_labels = nx.get_node_attributes(G,'type')
-            nx.draw_networkx_labels(G, pos, ax = ax[i],labels = node_labels,font_size = 8)
+            nx.draw_networkx_labels(G, pos, ax = ax[i],labels = node_labels,font_size = 10)
             if if_show_edge_type:
                 edge_labels = nx.get_edge_attributes(G,'type')
-                nx.draw_networkx_edge_labels(G, pos,edge_labels,ax = ax[i],font_size = 6)
+                nx.draw_networkx_edge_labels(G, pos,edge_labels,ax = ax[i],font_size = 8)
             
             ax[i].set_xlim([1.5*x for x in ax[i].get_xlim()])
             ax[i].set_ylim([1.5*y for y in ax[i].get_ylim()])
@@ -186,16 +246,16 @@ if __name__ == '__main__':
     print('using instance: ', instance_index)
     print()
     print("graph name: ", G.graph)
-    print()
-    print('edge betweenness: ', edge_betweenness_centrality(G))
-    print()
+    # print()
+    # print('edge betweenness: ', edge_betweenness_centrality(G))
+    # print()
 
-    # # print('Nodes: ', G.nodes().data())
-    # # print()
-    # # print('Edges: ',G.edges().data())
-    # # print()
-    # # print('========================================================')
-
+    # print('Nodes: ', G.nodes().data())
+    # print()
+    # print('Edges: ',G.edges().data())
+    # print()
+    # print('========================================================')
+    
     # print('mini example: ')
     # G = create_mini_example_graph_1()
     # K = 1
@@ -204,8 +264,20 @@ if __name__ == '__main__':
     # print()
     # print('========================================================')
     
+    '''calculate and add edge scores as weight'''
+    add_edge_scores(G, dataset_name = 'suicide_ied', conditional_prob_path = './conditional_probability_json')
+    ## check scores
+        # score_list = []
+        # for e in G.edges().data():
+        #     if e[2]['category'] == 'Temporal_Order':
+        #         # print(G.nodes[e[0]]['type'],G.nodes[e[1]]['type'],e[2]['score'])
+        #         score_list.append((G.nodes[e[0]]['type'],G.nodes[e[1]]['type'],e[2]['score']))
+        # score_list.sort(reverse = True, key = lambda a: a[2])
+        # for s in score_list:
+        #     print(s)
+
     '''do partition'''
-    partitions = partition_graph(G, most_valuable_edge_func = None, first_k = K)
+    partitions = partition_graph(G, most_valuable_edge_func = None, first_k = K, if_weighted = True)
     # print('vis full graph: ')
     # visualize_partition(G, [G.nodes()], save_path = 'full_G_temp.png')
     partitions_with_modularity = []
@@ -213,7 +285,7 @@ if __name__ == '__main__':
         # print('partition: ', partition)
         print('number of communities: ', len(partition))
         print()
-        this_partition_modularity = cal_modularity(G, list(partition))
+        this_partition_modularity = cal_modularity(G, list(partition), if_weighted = True)
         print('moduality: ', this_partition_modularity)
         print('--------------')
         partitions_with_modularity.append((partition,this_partition_modularity))
@@ -229,6 +301,6 @@ if __name__ == '__main__':
     '''filter parition'''
     filtered_best = filter_partition(G,best_partition)
     '''visualize'''
-    visualize_partition(G, best_partition, save_path = 'before_filtering_temp.png')
-    visualize_partition(G, filtered_best, save_path = 'after_filtering_temp.png')
+    visualize_partition(G, best_partition, save_path = 'before_filtering_weighted_temp.png',if_show_edge_type = True)
+    visualize_partition(G, filtered_best, save_path = 'after_filtering_weighted_temp.png',if_show_edge_type = True)
 
