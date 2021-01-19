@@ -20,7 +20,7 @@ def create_nx_graph_Event_Only(input_dict):
         edges_list.append((order.before, order.after))
     for node in nodes_list:
         graph_nx.add_node(node[0],type = node[1])
-    graph_nx.add_edges_from(edges_list, type = 'Temporal_Order', category = 'Temporal_Order', score = 0)
+    graph_nx.add_edges_from(edges_list, type = 'Temporal_Order', category = 'Temporal_Order', score = 1)
     
     return graph_nx
 
@@ -38,7 +38,7 @@ def create_nx_graph_Event_and_Argument(input_dict):
         event_edges_list.append((order.before, order.after))
     for node in event_nodes_list:
         graph_nx.add_node(node[0],type = node[1], category = 'Event')
-    graph_nx.add_edges_from(event_edges_list, type = 'Temporal_Order', category = 'Temporal_Order', score = 0)
+    graph_nx.add_edges_from(event_edges_list, type = 'Temporal_Order', category = 'Temporal_Order', score = 1)
     
     # add entity nodes
     entity_nodes_list = []
@@ -59,7 +59,7 @@ def create_nx_graph_Event_and_Argument(input_dict):
         u = arg_edge[0]
         v = arg_edge[1]
         arg_role_type = arg_edge[2]
-        graph_nx.add_edge(u,v,type = arg_role_type, category = 'Argument', score = 0)
+        graph_nx.add_edge(u,v,type = arg_role_type, category = 'Argument', score = 1)
 
     # add relation edges
     relation_edges_list = []
@@ -72,7 +72,7 @@ def create_nx_graph_Event_and_Argument(input_dict):
         u = rel_edge[0]
         v = rel_edge[1]
         rel_edge_type = rel_edge[2]
-        graph_nx.add_edge(u,v,type = rel_edge_type, category = 'Relation', score = 0) 
+        graph_nx.add_edge(u,v,type = rel_edge_type, category = 'Relation', score = 1) 
 
     return graph_nx
 
