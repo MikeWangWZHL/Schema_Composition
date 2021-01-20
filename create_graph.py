@@ -19,7 +19,7 @@ def create_nx_graph_Event_Only(input_dict):
     for order in graph_g.schemas[0].order:
         edges_list.append((order.before, order.after))
     for node in nodes_list:
-        graph_nx.add_node(node[0],type = node[1])
+        graph_nx.add_node(node[0],type = node[1], group = 0)
     graph_nx.add_edges_from(edges_list, type = 'Temporal_Order', category = 'Temporal_Order', score = 1)
     
     return graph_nx
@@ -37,7 +37,7 @@ def create_nx_graph_Event_and_Argument(input_dict):
     for order in graph_g.schemas[0].order:
         event_edges_list.append((order.before, order.after))
     for node in event_nodes_list:
-        graph_nx.add_node(node[0],type = node[1], category = 'Event')
+        graph_nx.add_node(node[0],type = node[1], category = 'Event', group = 0)
     graph_nx.add_edges_from(event_edges_list, type = 'Temporal_Order', category = 'Temporal_Order', score = 1)
     
     # add entity nodes
@@ -45,7 +45,7 @@ def create_nx_graph_Event_and_Argument(input_dict):
     for entity in graph_g.schemas[0].entities:
         entity_nodes_list.append((entity.at_id,entity.entity_types.split('/')[-1].strip()))
     for node in entity_nodes_list:
-        graph_nx.add_node(node[0],type = node[1], category = 'Entity')
+        graph_nx.add_node(node[0],type = node[1], category = 'Entity', group = 0)
 
     # add argument edges 
     argument_edges_list = []

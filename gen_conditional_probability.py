@@ -1,6 +1,9 @@
 import json
 from create_graph import create_nx_graph_Event_Only, create_nx_graph_Event_and_Argument
 from collections import defaultdict
+from os import listdir
+from os.path import isfile, join
+
 
 def load_dataset(dataset_train_path):
     nx_dataset = []
@@ -36,17 +39,23 @@ def calculate_p_e2_given_e1(nx_dataset):
 # calculate_p_e2_given_e1(nx_dataset)
 
 if __name__ == '__main__':
-    outpath = '/shared/nas/data/m1/wangz3/schema_composition/Schema_Composition/conditional_probability_json'
-    dataset_path = '/shared/nas/data/m1/wangz3/schema_induction/data/Kairos/Kairos_system_data/IED_splited_like_LDC/train'
+    # outpath = '/shared/nas/data/m1/wangz3/schema_composition/Schema_Composition/conditional_probability_json_system_quizlet'
+    outpath = '/shared/nas/data/m1/wangz3/schema_composition/Schema_Composition/conditional_probs/conditional_probability_json_annotation_quizlet_4'
+    # outpath = '/shared/nas/data/m1/wangz3/schema_composition/Schema_Composition/conditional_probalility_json_LDC_schema_learning_corpus'
+    # dataset_path = '/shared/nas/data/m1/wangz3/schema_induction/data/Kairos/Kairos_system_data/IED_splited_like_LDC/train'
+    # dataset_path = '/shared/nas/data/m1/wangz3/schema_induction/data/Kairos/LDC_schema_corpus/LDC_schema_corpus_ce_split/train'
+    dataset_path = './data/annotation_quizlet_4_data/train'
 
     '''set dataset name'''
     # suicide_ied_train.json, wiki_drone_strikes_train.json, wiki_ied_bombings_train.json, wiki_mass_car_bombings_train.json
-    dataset_names = ['suicide_ied','wiki_drone_strikes','wiki_ied_bombings','wiki_mass_car_bombings']
+    # dataset_names = ['suicide_ied','wiki_drone_strikes','wiki_ied_bombings','wiki_mass_car_bombings']
+    
+    files = [f for f in listdir(dataset_path) if isfile(join(dataset_path, f))]
 
-    for name in dataset_names:
-        print(f'creating conditional probability for {name}...')
-        dataset_train_path = dataset_path + f'/{name}_train.json'
-        output_json_path = outpath + f'/{name}_conditional_prob.json'
+    for f in files:
+        print(f'creating conditional probability for {f}...')
+        dataset_train_path = join(dataset_path, f)
+        output_json_path = outpath + f'/{f}_conditional_prob.json'
         
         nx_dataset = load_dataset(dataset_train_path)
         p_e2_given_e1 = calculate_p_e2_given_e1(nx_dataset)

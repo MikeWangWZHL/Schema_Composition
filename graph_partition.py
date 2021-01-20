@@ -8,6 +8,7 @@ import matplotlib.pyplot as plt
 import math
 import argparse
 import itertools
+from itertools import count
 
 import networkx as nx 
 from networkx.algorithms.community.centrality import girvan_newman
@@ -127,13 +128,14 @@ def filter_partition(nx_graph, partition, if_keep_single_event_episode = False):
     
     # check filtered community:
 
-    print('filtered out single event episodes: ')
+    print('===== filtered out single event episodes: =====')
     for c in partition:
         if c not in filtered_partition:
             subgraph_view = nx_graph.subgraph(c)
             for n in subgraph_view.nodes().data():
                 if n[1]['category'] == 'Event':
                     print(n[1]['type'])
+    print()
     
     return filtered_partition
 
@@ -187,7 +189,7 @@ def count_multihop_overlapping_arg(nx_graph,e1,e2,hop = 0):
                         total_count += discount*count_overlapping_arg(nx_graph,e1_nb,e2)
         return total_count
 
-def calculate_single_edge_score(nx_graph,e1,e2, hop = 0, dataset_name = 'suicide_ied', conditional_prob_path = './conditional_probability_json'):
+def calculate_single_edge_score(nx_graph,e1,e2, hop = 0, dataset_name = 'suicide_ied', conditional_prob_path = './conditional_probability_json_IED'):
     '''calculate s(e1->e2)'''
     # load p(e2|e1) score
     p_e2_given_e1_dict = json.load(open(conditional_prob_path + f'/{dataset_name}_conditional_prob.json'))
@@ -217,7 +219,7 @@ def calculate_single_edge_score(nx_graph,e1,e2, hop = 0, dataset_name = 'suicide
     
     return s
 
-def add_edge_scores(nx_graph, hop = 0, dataset_name = 'suicide_ied', conditional_prob_path = './conditional_probability_json'):
+def add_edge_scores(nx_graph, hop = 0, dataset_name = 'suicide_ied', conditional_prob_path = './conditional_probability_json_IED'):
     # print(f'using <{dataset_name}> conditional json ')
     for edge in nx_graph.edges().data():
         u = edge[0]
@@ -228,7 +230,7 @@ def add_edge_scores(nx_graph, hop = 0, dataset_name = 'suicide_ied', conditional
             nx_graph[u][v]['score'] = new_score
     return nx_graph
 
-def most_valuable_edge_f(nx_graph, dataset_name = 'suicide_ied', conditional_prob_path = './conditional_probability_json'):
+def most_valuable_edge_f(nx_graph, dataset_name = 'suicide_ied', conditional_prob_path = './conditional_probability_json_IED'):
     '''
         Parameters:
         ----------
@@ -284,7 +286,69 @@ def visualize_partition(nx_graph, partition, save_path = 'temp.png', if_show_edg
         partition_subgraphs.append(nx_graph.subgraph(community))
     draw_subgraphs(partition_subgraphs, save_path, if_show_edge_type, show_max)
 
+def get_event_node_partition(nx_graph, partition):
+    event_node_partition = []
+    for community in partition:
+        new_community = []
+        for node_id in community:
+            if nx_graph.nodes[node_id]['category'] == 'Event':
+                new_community.append(node_id)
+        event_node_partition.append(new_community)
+    return event_node_partition
 
+def add_event_node_group_attr(nx_graph, event_partition):
+    for i in range(len(event_partition)):
+        group_id = i+1
+        community = event_partition[i]
+        for node in community:
+            nx_graph.nodes[node]['group'] = group_id
+    return nx_graph
+
+def visualize_instance_graph(G, partition = None, save_path = 'partition_vis_temp.png'):
+    """
+        G: a networkx graph
+    """
+    num_nodes = G.number_of_nodes()
+
+    pos = nx.spring_layout(G, k=1.0, iterations=5)
+
+    plt.figure(figsize=(int(num_nodes*0.3), int(num_nodes*0.3)))
+
+    # load partition info
+    if partition is not None:
+        add_event_node_group_attr(G, partition)
+
+        groups = set(nx.get_node_attributes(G,'group').values())
+        mapping = dict(zip(sorted(groups),count()))
+        nodes = G.nodes()
+        colors = [mapping[G.nodes[n]['group']] for n in nodes]
+        
+        pos = nx.multipartite_layout(G, subset_key = 'group', scale = 1)
+        # rescale:
+        # TODO
+
+        ec = nx.draw_networkx_edges(G, pos, alpha=0.4)
+        nc = nx.draw_networkx_nodes(G, pos, node_color=colors, node_size=1000, cmap=plt.cm.jet)
+        plt.colorbar(nc)
+        plt.axis('off')
+
+
+    else:
+        nx.draw(G, pos, alpha = 0.7, arrowsize = 10, node_size = 200)
+    
+    node_labels = nx.get_node_attributes(G,'type')
+    nx.draw_networkx_labels(G, pos, labels = node_labels,font_size = 8)
+    # edge_labels = nx.get_edge_attributes(G,'type')
+    # nx.draw_networkx_edge_labels(G, pos, edge_labels)
+    
+    x_values, y_values = zip(*pos.values())
+    x_max = max(x_values)
+    x_min = min(x_values)
+    x_margin = (x_max - x_min) * 0.25
+    plt.xlim(x_min - x_margin, x_max + x_margin)
+    
+    plt.savefig(save_path)
+    print(f'saved visualization to {save_path}')
 
 # unit test:
 # print('mini example: ')
@@ -297,6 +361,12 @@ def visualize_partition(nx_graph, partition, save_path = 'temp.png', if_show_edg
 # print(count_multihop_overlapping_arg(G,0,2,hop = 1))
 # quit()
 
+def bool_arg(bool_str):
+    if bool_str in ['False', 'false', 'f', 'no', 'No', 'N']:
+        return False
+    else:
+        return True
+
 '''usage example'''
 if __name__ == '__main__':
     '''set up arg parser'''
@@ -306,22 +376,28 @@ if __name__ == '__main__':
     # parser.add_argument('-k', '--stop_at_K', help='stopping criteria', default = 30)
     parser.add_argument('-p', '--phase', help='train test dev', default = 'test')
     parser.add_argument('-hp', '--hop', help='number of hops considering when counting overlapping args', default = 0)
-
+    parser.add_argument('-i','--input_dir',help = 'input json dataset directory', default = '.')
+    parser.add_argument('-cd','--conditional_prob_dir',help = 'input conditional probability dir path', default = './conditional_probs/conditional_probability_json_IED')
+    parser.add_argument('-keep','--if_keep_single_node_episode',help = 'if show single node episode', default = False)
+    
     args = vars(parser.parse_args())
 
     '''set up hyperparameters'''
     # input graph g objects json file:
-    phase = args['phase'] # train, dev
+    phase = args['phase'] # train, dev, test
     dataset_name = args['dataset_name']
     if dataset_name is None:
         dataset_name = 'suicide_ied'
     # dataset_name = 'wiki_ied_bombings'
     dataset_file = f'{dataset_name}_{phase}' # suicide_ied_, wiki_drone_strikes_, wiki_mass_car_bombings_
-    doc = f'/shared/nas/data/m1/wangz3/schema_induction/data/Kairos/Kairos_system_data/IED_splited_like_LDC/{phase}/{dataset_file}.json'
+    input_dir = args['input_dir']
+    doc = f'{input_dir}/{phase}/{dataset_file}.json'
+    # using conditional probability dir
+    conditional_prob_dir = args['conditional_prob_dir']
     # using instance index:
     instance_index = int(args['input_instance_index'])
     # episode filtering
-    if_keep_single_event_episode = False
+    if_keep_single_event_episode = bool_arg(args['if_keep_single_node_episode'])
     # hops
     hop_num = int(args['hop'])
 
@@ -367,7 +443,7 @@ if __name__ == '__main__':
     
     '''calculate and add edge scores as weight'''
     print('adding edge score ... ')
-    add_edge_scores(G,hop = hop_num, dataset_name = dataset_name, conditional_prob_path = './conditional_probability_json')
+    add_edge_scores(G,hop = hop_num, dataset_name = dataset_name, conditional_prob_path = conditional_prob_dir)
     ## check scores
         # score_list = []
         # for e in G.edges().data():
@@ -402,11 +478,19 @@ if __name__ == '__main__':
     best_partition = sorted_partitions_with_modularity[0][0]
     print()
     '''filter parition'''
-    filtered_best = filter_partition(G,best_partition, if_keep_single_event_episode = if_keep_single_event_episode)
+    filtered_best_partition = filter_partition(G,best_partition, if_keep_single_event_episode = if_keep_single_event_episode)
+    
+    
     '''visualize'''
-    # visualize_partition(G, best_partition, save_path = 'before_filtering_weighted_temp.png',if_show_edge_type = True)
-    if if_keep_single_event_episode:
-        visualize_partition(G, filtered_best, save_path = f'after_filtering_weighted_keepsingle_{dataset_name}_{phase}_{instance_index}_hop_{hop_num}_discount_{DISCOUNT}.png',if_show_edge_type = True)
-    else:
-        visualize_partition(G, filtered_best, save_path = f'after_filtering_weighted_{dataset_name}_{phase}_{instance_index}_hop_{hop_num}_discount_{DISCOUNT}.png',if_show_edge_type = True)
+    # visualize partition subgraphs
+        # if if_keep_single_event_episode:
+        #     visualize_partition(G, filtered_best_partition, save_path = f'./png/keepsingle_{dataset_name}_{phase}_{instance_index}_hop_{hop_num}_discount_{DISCOUNT}.png',if_show_edge_type = True)
+        # else:
+        #     visualize_partition(G, filtered_best_partition, save_path = f'./png/{dataset_name}_{phase}_{instance_index}_hop_{hop_num}_discount_{DISCOUNT}.png',if_show_edge_type = True)
 
+    # visualize instance graph with partition
+    G_event_only = create_nx_graph_Event_Only(g_dicts[instance_index])
+    filtered_best_event_partition = get_event_node_partition(G, filtered_best_partition)
+    assert len(filtered_best_partition) == len(filtered_best_event_partition)
+
+    visualize_instance_graph(G_event_only, partition = filtered_best_event_partition, save_path = f'./fullgraph_{dataset_name}_{phase}_{instance_index}_hop_{hop_num}_discount_{DISCOUNT}_temp.png')
