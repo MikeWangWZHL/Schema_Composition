@@ -9,6 +9,7 @@ import math
 import argparse
 import itertools
 from itertools import count
+import copy
 
 import networkx as nx 
 from networkx.algorithms.community.centrality import girvan_newman
@@ -17,6 +18,8 @@ from networkx.algorithms.centrality import edge_betweenness_centrality
 from networkx.algorithms.traversal.breadth_first_search import descendants_at_distance
 
 from create_graph import create_nx_graph_Event_Only, create_nx_graph_Event_and_Argument
+from generate_UoF_visualization_format import convert_to_UoF_format
+from spectral_clustering import spectral_clustering
 
 DISCOUNT = 0.5
 '''generate mini example'''
@@ -304,13 +307,16 @@ def add_event_node_group_attr(nx_graph, event_partition):
             nx_graph.nodes[node]['group'] = group_id
     return nx_graph
 
+def add_node_group_attr(nx_graph, partition):
+    return add_event_node_group_attr(nx_graph, partition)
+
 def visualize_instance_graph(G, partition = None, save_path = 'partition_vis_temp.png'):
     """
         G: a networkx graph
     """
     num_nodes = G.number_of_nodes()
 
-    pos = nx.spring_layout(G, k=1.0, iterations=5)
+    pos = nx.spring_layout(G, k=1.0, iterations=50)
 
     plt.figure(figsize=(int(num_nodes*0.3), int(num_nodes*0.3)))
 
@@ -324,19 +330,33 @@ def visualize_instance_graph(G, partition = None, save_path = 'partition_vis_tem
         colors = [mapping[G.nodes[n]['group']] for n in nodes]
         
         pos = nx.multipartite_layout(G, subset_key = 'group', scale = 1)
-        # rescale:
-        # TODO
+        # pos = nx.nx_pydot.pydot_layout(G, prog="dot")
+        
+        # flat_episode_events = [item for sublist in partition for item in sublist]
+        # single_nodes = [n for n in G.nodes() if n not in flat_episode_events ]
+        # whole_partition = copy.deepcopy(partition)
+        # whole_partition.append(single_nodes)
+        # pos = nx.shell_layout(G, nlist = whole_partition)
 
-        ec = nx.draw_networkx_edges(G, pos, alpha=0.4)
-        nc = nx.draw_networkx_nodes(G, pos, node_color=colors, node_size=1000, cmap=plt.cm.jet)
+        # pos = nx.kamada_kawai_layout(G, pos = pos, weight = 'score')
+        # pos = nx.rescale_layout_dict(pos,scale = 1.5)
+        # pos = nx.planar_layout(G)
+
+        ec = nx.draw_networkx_edges(G, pos, alpha=0.2)
+        nc = nx.draw_networkx_nodes(G, pos, alpha = 0.7, node_color=colors, node_size=500, cmap=plt.cm.jet)
         plt.colorbar(nc)
         plt.axis('off')
 
 
     else:
-        nx.draw(G, pos, alpha = 0.7, arrowsize = 10, node_size = 200)
+        nx.draw(G, pos, alpha = 0.5, arrowsize = 10, node_size = 200)
     
     node_labels = nx.get_node_attributes(G,'type')
+
+    # use shorter type label:
+    for key, value in node_labels.items():
+        node_labels[key] = value.split('.')[1]
+
     nx.draw_networkx_labels(G, pos, labels = node_labels,font_size = 8)
     # edge_labels = nx.get_edge_attributes(G,'type')
     # nx.draw_networkx_edge_labels(G, pos, edge_labels)
@@ -347,7 +367,7 @@ def visualize_instance_graph(G, partition = None, save_path = 'partition_vis_tem
     x_margin = (x_max - x_min) * 0.25
     plt.xlim(x_min - x_margin, x_max + x_margin)
     
-    plt.savefig(save_path)
+    plt.savefig(save_path, dpi = 250)
     print(f'saved visualization to {save_path}')
 
 # unit test:
@@ -371,126 +391,181 @@ def bool_arg(bool_str):
 if __name__ == '__main__':
     '''set up arg parser'''
     parser = argparse.ArgumentParser(description='graph partition')
-    parser.add_argument('-d', '--dataset_name', help='input dataset name', default = None)
+    parser.add_argument('-d', '--dataset_name', help='input dataset name', default = 'suicide_ied')
     parser.add_argument('-index', '--input_instance_index', help='input_instance_index', default = 0)
-    # parser.add_argument('-k', '--stop_at_K', help='stopping criteria', default = 30)
     parser.add_argument('-p', '--phase', help='train test dev', default = 'test')
     parser.add_argument('-hp', '--hop', help='number of hops considering when counting overlapping args', default = 0)
     parser.add_argument('-i','--input_dir',help = 'input json dataset directory', default = '.')
     parser.add_argument('-cd','--conditional_prob_dir',help = 'input conditional probability dir path', default = './conditional_probs/conditional_probability_json_IED')
     parser.add_argument('-keep','--if_keep_single_node_episode',help = 'if show single node episode', default = False)
     
+    parser.add_argument('-par','--partition_method',help = 'choose from girvan_newman, spectral_clustering', default = 'girvan_newman')
+    # parser.add_argument('-nc','--cluster_num',help = 'specify cluster number for spectral clustering', default = 2)
+    # parser.add_argument('-mnc','--max_cluster_num',help = 'specify max cluster number for spectral clustering', default = 2)
+    parser.add_argument('-o', '--output_graph_pickle_dir', help = 'specify output graph pickle object dir', default = '.')
+
     args = vars(parser.parse_args())
 
     '''set up hyperparameters'''
-    # input graph g objects json file:
+    # phase
     phase = args['phase'] # train, dev, test
-    dataset_name = args['dataset_name']
-    if dataset_name is None:
-        dataset_name = 'suicide_ied'
-    # dataset_name = 'wiki_ied_bombings'
-    dataset_file = f'{dataset_name}_{phase}' # suicide_ied_, wiki_drone_strikes_, wiki_mass_car_bombings_
-    input_dir = args['input_dir']
-    doc = f'{input_dir}/{phase}/{dataset_file}.json'
-    # using conditional probability dir
-    conditional_prob_dir = args['conditional_prob_dir']
-    # using instance index:
-    instance_index = int(args['input_instance_index'])
-    # episode filtering
-    if_keep_single_event_episode = bool_arg(args['if_keep_single_node_episode'])
-    # hops
-    hop_num = int(args['hop'])
+    # output dir
+    output_graph_dir = args['output_graph_pickle_dir']
+    if not os.path.exists(output_graph_dir):
+        os.makedirs(output_graph_dir)
+    if not os.path.exists(join(output_graph_dir,'png')):
+        os.makedirs(join(output_graph_dir,'png'))
+    if not os.path.exists(join(output_graph_dir,'graph_objects')):
+        os.makedirs(join(output_graph_dir,'graph_objects'))
+    
+    # using what partition method
+    partition_method = args['partition_method']
+    
+    for dataset_name in ['suicide_ied','wiki_drone_strikes','wiki_mass_car_bombings','wiki_ied_bombings']:
+        # input graph g objects json file:
+        print(f'**************************************************')
+        print(f'******** using dataset: {dataset_name} ***********')
+        print(f'**************************************************')
+        # dataset_name = args['dataset_name']
+        dataset_file = f'{dataset_name}_{phase}' # suicide_ied_, wiki_drone_strikes_, wiki_mass_car_bombings_
+        input_dir = args['input_dir']
+        doc = f'{input_dir}/{phase}/{dataset_file}.json'
+        # using conditional probability dir
+        conditional_prob_dir = args['conditional_prob_dir']
+        # using instance index:
+        if args['input_instance_index'] == 'inf':
+            instance_index = 'inf'
+        else:
+            instance_index = int(args['input_instance_index'])
+        # episode filtering
+        if_keep_single_event_episode = bool_arg(args['if_keep_single_node_episode'])
+        # hops
+        hop_num = int(args['hop'])
+        
+        # '''required for spectral_cluster'''
+        # max_cluster_num = int(args['max_cluster_num'])
 
-    print('======== config =========')
-    print(f'using dataset: {dataset_name}_{phase}, instance: {instance_index}')
-    print()
-    '''load instance graph g objects'''
-    g_dicts = []
-    with open(doc) as f:
-        for line in f:
-            g_dicts.append(json.loads(line))
-    
-    '''create nx graph of the specified instance'''
-    G = create_nx_graph_Event_and_Argument(g_dicts[instance_index])
-    # G = create_nx_graph_Event_Only(g_dicts[0])
-    
-    # stopping criteria, should be related to graph size:
-    node_number = G.number_of_nodes()
-    print(node_number)
-    K = int(node_number/4)
-    print(f'stop at {K}')
-    print("graph name: ", G.graph)
-    print(f'number of hops: {hop_num} with discount {DISCOUNT}')
-    print("graph filtering criteria: if keep single event episode? ", if_keep_single_event_episode)
-    print('=========================')
-    # print()
-    # print('edge betweenness: ', edge_betweenness_centrality(G))
-    # print()
+        print('======== config =========')
+        print(f'using partiton method: {partition_method}\n')
+        print(f'using dataset: {dataset_name}_{phase}, instance: {instance_index}\n')
+        print(f'output path: ', output_graph_dir)
+        
+        '''load instance graph g objects'''
+        g_dicts = []
+        with open(doc) as f:
+            for line in f:
+                g_dicts.append(json.loads(line))
+        print('total number of instances: ',len(g_dicts))
+        
+        if instance_index == 'inf':
+            for instance_index in range(len(g_dicts)):
+                '''create nx graph of the specified instance'''
+                G = create_nx_graph_Event_and_Argument(g_dicts[instance_index])
+                # G = create_nx_graph_Event_Only(g_dicts[0])
+                print(f'  == instance {instance_index} ==')
+                print("graph name: ", G.graph['name'])
+                
+                if partition_method == 'girvan_newman':
+                    # stopping criteria, should be related to graph size:
+                    node_number = G.number_of_nodes()
+                    print('node_number: ', node_number)
+                    K = int(node_number/4)
+                    print(f'stop at {K}')
 
-    # print('Nodes: ', G.nodes().data())
-    # print()
-    # print('Edges: ',G.edges().data())
-    # print()
-    # print('========================================================')
-    
-    # print('mini example: ')
-    # G = create_mini_example_graph_1()
-    # K = 1
-    # print(G.nodes().data())
-    # print(G.edges().data())
-    # print()
-    # print('========================================================')
-    
-    '''calculate and add edge scores as weight'''
-    print('adding edge score ... ')
-    add_edge_scores(G,hop = hop_num, dataset_name = dataset_name, conditional_prob_path = conditional_prob_dir)
-    ## check scores
-        # score_list = []
-        # for e in G.edges().data():
-        #     if e[2]['category'] == 'Temporal_Order':
-        #         # print(G.nodes[e[0]]['type'],G.nodes[e[1]]['type'],e[2]['score'])
-        #         score_list.append((G.nodes[e[0]]['type'],G.nodes[e[1]]['type'],e[2]['score']))
-        # score_list.sort(reverse = True, key = lambda a: a[2])
-        # for s in score_list:
-        #     print(s)
+                elif partition_method == 'spectral_clustering':
+                    node_number = G.number_of_nodes()
+                    print('node_number: ', node_number)
+                    max_cluster_num = int(node_number/4)
+                    print('max cluster num: ', max_cluster_num)
 
-    '''do partition'''
-    print('running girvan_newman ...')
-    partitions = partition_graph(G, most_valuable_edge_func = None, first_k = K, if_weighted = True)
-    # print('vis full graph: ')
-    # visualize_partition(G, [G.nodes()], save_path = 'full_G_temp.png')
-    partitions_with_modularity = []
-    for partition in partitions:
-        # print('partition: ', partition)
-        print('--------------')
-        print('number of communities: ', len(partition))
-        this_partition_modularity = cal_modularity(G, list(partition), if_weighted = True)
-        print('moduality: ', this_partition_modularity)
-        print('--------------')
-        partitions_with_modularity.append((partition,this_partition_modularity))
-    
-    '''sort based on modularity score'''
-    sorted_partitions_with_modularity = sorted(partitions_with_modularity, key = lambda p : p[1], reverse = True)
-    print('highest modularity partition: ', sorted_partitions_with_modularity[0][0])
-    print(f'\n\nhighest modularity partition community number: {len(sorted_partitions_with_modularity[0][0])}, modularity: {sorted_partitions_with_modularity[0][1]}')
-    
-    '''visualize highest partition'''
-    best_partition = sorted_partitions_with_modularity[0][0]
-    print()
-    '''filter parition'''
-    filtered_best_partition = filter_partition(G,best_partition, if_keep_single_event_episode = if_keep_single_event_episode)
-    
-    
-    '''visualize'''
-    # visualize partition subgraphs
-        # if if_keep_single_event_episode:
-        #     visualize_partition(G, filtered_best_partition, save_path = f'./png/keepsingle_{dataset_name}_{phase}_{instance_index}_hop_{hop_num}_discount_{DISCOUNT}.png',if_show_edge_type = True)
-        # else:
-        #     visualize_partition(G, filtered_best_partition, save_path = f'./png/{dataset_name}_{phase}_{instance_index}_hop_{hop_num}_discount_{DISCOUNT}.png',if_show_edge_type = True)
+                print(f'number of hops: {hop_num} with discount {DISCOUNT}\n')
+                print("graph filtering criteria: if keep single event episode? ", if_keep_single_event_episode)
+                print('=========================')
+                # printing
+                    # print()
+                    # print('edge betweenness: ', edge_betweenness_centrality(G))
+                    # print()
 
-    # visualize instance graph with partition
-    G_event_only = create_nx_graph_Event_Only(g_dicts[instance_index])
-    filtered_best_event_partition = get_event_node_partition(G, filtered_best_partition)
-    assert len(filtered_best_partition) == len(filtered_best_event_partition)
+                    # print('Nodes: ', G.nodes().data())
+                    # print()
+                    # print('Edges: ',G.edges().data())
+                    # print()
+                    # print('========================================================')
+                    
+                    # print('mini example: ')
+                    # G = create_mini_example_graph_1()
+                    # K = 1
+                    # print(G.nodes().data())
+                    # print(G.edges().data())
+                    # print()
+                    # print('========================================================')
+                
+                '''calculate and add edge scores as weight'''
+                print('adding edge score ... ')
+                add_edge_scores(G,hop = hop_num, dataset_name = dataset_name, conditional_prob_path = conditional_prob_dir)
+                ## check scores
+                    # score_list = []
+                    # for e in G.edges().data():
+                    #     if e[2]['category'] == 'Temporal_Order':
+                    #         # print(G.nodes[e[0]]['type'],G.nodes[e[1]]['type'],e[2]['score'])
+                    #         score_list.append((G.nodes[e[0]]['type'],G.nodes[e[1]]['type'],e[2]['score']))
+                    # score_list.sort(reverse = True, key = lambda a: a[2])
+                    # for s in score_list:
+                    #     print(s)
 
-    visualize_instance_graph(G_event_only, partition = filtered_best_event_partition, save_path = f'./fullgraph_{dataset_name}_{phase}_{instance_index}_hop_{hop_num}_discount_{DISCOUNT}_temp.png')
+                '''do partition'''
+                if partition_method == 'girvan_newman':
+                    print('running girvan_newman ...')
+                    partitions = partition_graph(G, most_valuable_edge_func = None, first_k = K, if_weighted = True)
+                    
+                elif partition_method == 'spectral_clustering':
+                    print('running spectral_clustering ...')
+                    partitions = []
+                    for cluster_num in range(2, max_cluster_num):
+                        partitions.append(spectral_clustering(G, weight_keyword = 'score', cluster_num = cluster_num, save_visualization_path = None))
+                    
+                partitions_with_modularity = []
+                for partition in partitions:
+                    # print('partition: ', partition)
+                    # print('--------------')
+                    # print('number of communities: ', len(partition))
+                    this_partition_modularity = cal_modularity(G, list(partition), if_weighted = True)
+                    # print('moduality: ', this_partition_modularity)
+                    # print('--------------')
+                    partitions_with_modularity.append((partition,this_partition_modularity))
+                
+                '''sort based on modularity score'''
+                sorted_partitions_with_modularity = sorted(partitions_with_modularity, key = lambda p : p[1], reverse = True)
+                # print('highest modularity partition: ', sorted_partitions_with_modularity[0][0])
+                highest_score_cluster_num = len(sorted_partitions_with_modularity[0][0])
+                print(f'\n\nhighest modularity partition community number: {highest_score_cluster_num}, modularity: {sorted_partitions_with_modularity[0][1]}')
+                '''get highest moduality partition'''
+                best_partition = sorted_partitions_with_modularity[0][0]
+
+                '''filter parition'''
+                filtered_best_partition = filter_partition(G,best_partition, if_keep_single_event_episode = if_keep_single_event_episode)
+                
+                
+                '''save graph'''
+                G_with_partition = add_node_group_attr(G, filtered_best_partition)
+                save_object_path = join(join(output_graph_dir,'graph_objects'),f'{dataset_file}_{instance_index}.pickle')
+                nx.write_gpickle(G_with_partition, save_object_path)
+
+                '''visualize subgraphs'''
+                # if if_keep_single_event_episode:
+                #     visualize_partition(G, filtered_best_partition, save_path = f'./png/keepsingle_{dataset_name}_{phase}_{instance_index}_hop_{hop_num}_discount_{DISCOUNT}.png',if_show_edge_type = True)
+                # else:
+                #     visualize_partition(G, filtered_best_partition, save_path = f'./png/{dataset_name}_{phase}_{instance_index}_hop_{hop_num}_discount_{DISCOUNT}.png',if_show_edge_type = True)
+
+                '''visualize instance graph with partition'''
+                G_event_only = create_nx_graph_Event_Only(g_dicts[instance_index])
+                filtered_best_event_partition = get_event_node_partition(G, filtered_best_partition)
+                assert len(filtered_best_partition) == len(filtered_best_event_partition)
+                if partition_method == 'girvan_newman':
+                    visualize_instance_graph(G_event_only, partition = filtered_best_event_partition, save_path = f'{output_graph_dir}/png/{partition_method}_{dataset_name}_{phase}_{instance_index}_hop_{hop_num}_discount_{DISCOUNT}_cluster_{highest_score_cluster_num}.png')
+                elif partition_method == 'spectral_clustering':
+                    visualize_instance_graph(G_event_only, partition = filtered_best_event_partition, save_path = f'{output_graph_dir}/png/{partition_method}_{dataset_name}_{phase}_{instance_index}_hop_{hop_num}_discount_{DISCOUNT}_cluster_{highest_score_cluster_num}.png')
+                
+                '''convert to UoF format json'''
+                # add_event_node_group_attr(G_event_only, filtered_best_event_partition)
+                # convert_to_UoF_format(G_event_only, using_group = True, output_json_path = f'./vis_json_UoF/{partition_method}_UoF_json_{dataset_name}_{phase}_{instance_index}_cluster_{highest_score_cluster_num}.json')
