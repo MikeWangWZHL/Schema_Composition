@@ -1,0 +1,178 @@
+{
+    "_id": "55548364",
+    "id": "55548364",
+    "title": "Killyhevlin Hotel bombing",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "==Precursor events and reaction==",
+            "start": 629,
+            "end": 662
+        },
+        {
+            "text": "==See also==",
+            "start": 1456,
+            "end": 1468
+        },
+        {
+            "text": "==References==",
+            "start": 1525,
+            "end": 1539
+        }
+    ],
+    "categories": [
+        "1996 in Northern Ireland",
+        "Attacks on buildings and structures in Northern Ireland",
+        "Attacks on hotels in Europe",
+        "Attacks on weddings",
+        "Continuity Irish Republican Army",
+        "Explosions in 1996",
+        "Explosions in County Fermanagh",
+        "History of Enniskillen",
+        "Improvised explosive device bombings in 1996",
+        "Improvised explosive device bombings in Northern Ireland",
+        "July 1996 crimes",
+        "July 1996 events in Europe",
+        "Terrorist incidents in County Fermanagh",
+        "Terrorist incidents in the United Kingdom in 1996"
+    ],
+    "infobox": "{{Infobox civilian attack\n| title       = Killyhevlin Hotel bombing\n| partof      = [[the Troubles]]\n| image       = \n| location    = Killyhevlin, [[County Fermanagh]], Northern Ireland, United Kingdom\n| coordinates = \n| map         = \n| width =\n| lat = \n| long = \n| marksize = \n| caption =<!--Please leave this blank-->\n| date       = {{start date|df=yes|1996|07|13}}\n| time       = About 11.40 p.m\n| type       = [[Bombing]]\n| fatalities = None\n| injuries   = 17 slightly injured\n| perp       = [[Continuity IRA]]\n| weapons    = \n| numparts   = \n| numpart    =\n| dfens      =\n}}",
+    "article": "On Saturday 13 July 1996 a bomb planted by the Continuity IRA blew up in Killyhevlin Hotel, Enniskillen, County Fermanagh during a Catholic wedding. The bomb was estimated to have contained  of home-made explosive. The blast slightly injured 17 people. It left a crater  wide in the car park and destroyed at least a dozen cars. The hotel received two bomb warnings at 11.40 p.m. The warning stated that a silver grey Isuzu jeep with the registration number 92RN92 contained a bomb and was parked in the hotel car park.\n\nThe attendants at the wedding blamed the group for ending the wedding on what they called a terrible note.\n\n==Precursor events and reaction==\nA silver Isuzu Trooper jeep was stolen in Dublin on 3 July. On 4 July it was stopped at a Garda Siochana checkpoint at midnight near Redhills in County Cavan. The driver was asked for insurance and identification and drove off quickly.\n\nThe RUC were warned to watch out for the jeep. Three days later the RUC spotted it near Newtownbutler in Fermanagh. The RUC officers left the jeep and when they returned the vehicle was gone.\n\nLiz O'Donnell of the Progressive Democrats said: \"There will have to be questions asked at the most senior level. There has obviously been a lapse... Clearly, from their own security point of view, if a suspect vehicle is pointed out it should be followed up.\"\n\nThe Irish Minister for Justice Nora Owen said the slip-up was raised at the Anglo-Irish Conference.\n\n==See also==\n* Timeline of Continuity Irish Republican Army actions\n\n==References==",
+    "links": [
+        {
+            "title": "Continuity Irish Republican Army",
+            "text": "Continuity IRA",
+            "start": 47,
+            "end": 61,
+            "id": "5859"
+        },
+        {
+            "title": "Killyhevlin Hotel",
+            "text": "Killyhevlin Hotel",
+            "start": 73,
+            "end": 90,
+            "id": "21967813"
+        },
+        {
+            "title": "Enniskillen",
+            "text": "Enniskillen",
+            "start": 92,
+            "end": 103,
+            "id": "9459"
+        },
+        {
+            "title": "County Fermanagh",
+            "text": "County Fermanagh",
+            "start": 105,
+            "end": 121,
+            "id": "5833"
+        },
+        {
+            "title": "Isuzu Motors",
+            "text": "Isuzu",
+            "start": 418,
+            "end": 423,
+            "id": "523288"
+        },
+        {
+            "title": "Isuzu Trooper",
+            "text": "Isuzu Trooper",
+            "start": 672,
+            "end": 685,
+            "id": "1739088"
+        },
+        {
+            "title": "Jeep",
+            "text": "jeep",
+            "start": 686,
+            "end": 690,
+            "id": "15658"
+        },
+        {
+            "title": "Dublin",
+            "text": "Dublin",
+            "start": 705,
+            "end": 711,
+            "id": "8504"
+        },
+        {
+            "title": "Garda S\u00edoch\u00e1na",
+            "text": "Garda Siochana",
+            "start": 753,
+            "end": 767,
+            "id": "383207"
+        },
+        {
+            "title": "Border checkpoint",
+            "text": "checkpoint",
+            "start": 768,
+            "end": 778,
+            "id": "288329"
+        },
+        {
+            "title": "Redhills, County Cavan",
+            "text": "Redhills",
+            "start": 796,
+            "end": 804,
+            "id": "29839888"
+        },
+        {
+            "title": "County Cavan",
+            "text": "County Cavan",
+            "start": 808,
+            "end": 820,
+            "id": "429660"
+        },
+        {
+            "title": "Newtownbutler",
+            "text": "Newtownbutler",
+            "start": 988,
+            "end": 1001,
+            "id": "3995696"
+        },
+        {
+            "title": "Liz O'Donnell",
+            "text": "Liz O'Donnell",
+            "start": 1093,
+            "end": 1106,
+            "id": "1729975"
+        },
+        {
+            "title": "Progressive Democrats",
+            "text": "Progressive Democrats",
+            "start": 1114,
+            "end": 1135,
+            "id": "168462"
+        },
+        {
+            "title": "Minister for Justice (Ireland)",
+            "text": "Minister for Justice",
+            "start": 1365,
+            "end": 1385,
+            "id": "488644"
+        },
+        {
+            "title": "Nora Owen",
+            "text": "Nora Owen",
+            "start": 1386,
+            "end": 1395,
+            "id": "983140"
+        },
+        {
+            "title": "Anglo-Irish Conference",
+            "text": "Anglo-Irish Conference",
+            "start": 1431,
+            "end": 1453,
+            "id": null
+        },
+        {
+            "title": "Timeline of Continuity IRA actions",
+            "text": "Timeline of Continuity Irish Republican Army actions",
+            "start": 1471,
+            "end": 1523,
+            "id": "9976280"
+        }
+    ],
+    "_chunk_id": "b_16376033552-16383534844"
+}

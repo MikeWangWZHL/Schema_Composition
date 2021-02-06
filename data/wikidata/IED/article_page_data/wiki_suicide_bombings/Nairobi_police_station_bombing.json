@@ -1,0 +1,53 @@
+{
+    "_id": "42567117",
+    "id": "42567117",
+    "title": "Nairobi police station bombing",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "==References==",
+            "start": 164,
+            "end": 178
+        }
+    ],
+    "categories": [
+        "Explosions in 2014",
+        "2014 crimes in Kenya",
+        "2010s in Nairobi",
+        "Attacks in 2014",
+        "April 2014 events in Africa",
+        "Attacks on police stations",
+        "Car and truck bombings in Kenya",
+        "Crime in Nairobi",
+        "Mass murder in 2014",
+        "Terrorist incidents in Kenya in 2014",
+        "Terrorist incidents in Nairobi"
+    ],
+    "infobox": "{{Infobox civilian attack\n| title       = Nairobi police station bombing\n| partof      =\n| image       = \n| image_size  = \n| alt         = \n| caption     = \n| map         =\n| map_size    =\n| map_alt     =\n| map_caption =\n| location    = Pangani, [[Nairobi]], [[Kenya]]\n| target      = Police station\n| coordinates = \n| date        = {{start date|2014|04|23}}\n| time        = \n| timezone    = [[East Africa Time|EAT]]\n| type        = [[car bomb]]\n| fatalities  = 4\n| injuries    = \n| victims     = <!-- or | victim      = -->\n| perps       = <!-- or | perp        = -->\n| perpetrators= <!-- or | perpetrator = -->\n| susperps    = <!-- or | susperp     = -->\n| weapons     = \n| numparts    = <!-- or | numpart     = -->\n| dfens       = <!-- or | dfen        = -->\n| motive      =\n}}",
+    "article": "The Nairobi police station bombing occurred in front of a police station in Nairobi, Kenya on 23 April 2014. The bomb killed at least 4 people including 2 police.\n\n==References==",
+    "links": [
+        {
+            "title": "Nairobi police station bombing",
+            "text": "Nairobi police station bombing",
+            "start": 4,
+            "end": 34,
+            "id": "42567117"
+        },
+        {
+            "title": "Nairobi",
+            "text": "Nairobi",
+            "start": 76,
+            "end": 83,
+            "id": "21482"
+        },
+        {
+            "title": "Kenya",
+            "text": "Kenya",
+            "start": 85,
+            "end": 90,
+            "id": "188171"
+        }
+    ],
+    "_chunk_id": "b_13517458246-13526130324"
+}

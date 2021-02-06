@@ -1,0 +1,111 @@
+{
+    "_id": "45238268",
+    "id": "45238268",
+    "title": "2015 Corinthia Hotel attack",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "==Attack==",
+            "start": 255,
+            "end": 265
+        },
+        {
+            "text": "==Victims==",
+            "start": 593,
+            "end": 604
+        },
+        {
+            "text": "==Perpetrators and motivations==",
+            "start": 891,
+            "end": 923
+        },
+        {
+            "text": "==See also==",
+            "start": 1330,
+            "end": 1342
+        },
+        {
+            "text": "==References==",
+            "start": 1370,
+            "end": 1384
+        }
+    ],
+    "categories": [
+        "Suicide bombings in 2015",
+        "ISIL terrorist incidents in Libya in 2015",
+        "Mass shootings in Africa",
+        "21st century in Tripoli",
+        "Crime in Tripoli",
+        "Attacks on hotels in Africa",
+        "January 2015 events in Africa",
+        "Terrorist incidents in Libya in 2015",
+        "2015 crimes in Libya",
+        "2015 murders in Africa",
+        "2010s murders in Libya",
+        "2010s mass shootings in Africa",
+        "2015 mass shootings",
+        "Mass murder in 2015"
+    ],
+    "infobox": "{{Infobox civilian attack\n| title       = Corinthia Hotel Attack\n| image       = Corinthia Hotel Tripoli Libya.JPG\n| alt         = \n| caption     = The Corinthia Hotel main tower\n| map = \n| map_size = 250px\n| map_alt = \n| map_caption = \n| location    = [[Corinthia Hotel Tripoli]], [[Tripoli]], [[Libya]]\n| target = \n| coordinates = {{coord|32|53|50|N|13|10|13|E|display=inline}}\n| date        = {{start date|2015|01|27|df=y}}\n| time        = 09:00\n| timezone    = [[UTC+2]]\n| type        = [[car bomb]]ing; [[mass shooting]], suicide bombing \n| fatalities  = 10 (not including the perpetrators) \n| injuries    = 5\n| perps       = {{flag|Islamic State of Iraq and the Levant}}<ref name=DWDE>{{cite web|url=http://www.dw.de/islamic-state-attacks-libya-hotel/a-18217115|title=\u2032Islamic State\u2032 attacks Libya hotel - News - DW.DE - 27.01.2015|work=DW.DE|accessdate=3 March 2015}}</ref><br />\n*[[Islamic State of Iraq and the Levant in Libya|Wilayat Tarabulus]]\n| motive      = 2013 arrest of [[Abu Anas al-Libi]] by U.S. forces\n}}",
+    "article": "In January 2015, the Corinthia Hotel in Tripoli was attacked by men affiliated with the Islamic State of Iraq and the Levant (ISIL). The hotel was popular with foreign officials and government workers; it had previously housed the Libyan Prime Minister.\n\n==Attack==\nIn the early hours of 27 January 2015, ISIL-affiliated men detonated a car bomb in the parking garage of the hotel. In the chaos, an estimated 5 gunmen stormed past the local guard and entered the hotel, intent on killing guests.\n\nSome of the attackers survived the initial contact, leading to a protracted hostage situation.\n\n==Victims==\n\n\nFive foreigners died in the attack: one American, one Frenchman, and three Tajiks (including two women). The American, David Berry, was working as a contractor for an American security firm named Crucible. Five Libyan security personnel are also reported to have died in the attack.\n\n==Perpetrators and motivations==\nThe attack was carried out by men belonging to ISIL's \"Tripoli Province\", who are believed to have been natives of Libya. The attackers' stated objective was revenge for the death of Abu Anas al-Libi, a Libyan Al-Qaeda operative who was involved in the bombing of two American embassies in 1998. He was captured by American forces inside Libya in 2013, and died in an American hospital on 2 January 2015.\n\n==See also==\n\n* ISIL takeover of Derna\n\n==References==",
+    "links": [
+        {
+            "title": "Corinthia Hotel Tripoli",
+            "text": "Corinthia Hotel",
+            "start": 21,
+            "end": 36,
+            "id": "23177267"
+        },
+        {
+            "title": "Tripoli",
+            "text": "Tripoli",
+            "start": 40,
+            "end": 47,
+            "id": "31232"
+        },
+        {
+            "title": "Islamic State of Iraq and the Levant",
+            "text": "Islamic State of Iraq and the Levant",
+            "start": 88,
+            "end": 124,
+            "id": "9087364"
+        },
+        {
+            "title": "Islamic State of Iraq and the Levant in Libya",
+            "text": "Tripoli Province",
+            "start": 979,
+            "end": 995,
+            "id": "46213555"
+        },
+        {
+            "title": "Abu Anas al-Libi",
+            "text": "Abu Anas al-Libi",
+            "start": 1107,
+            "end": 1123,
+            "id": "695470"
+        },
+        {
+            "title": "Al-Qaeda",
+            "text": "Al-Qaeda",
+            "start": 1134,
+            "end": 1142,
+            "id": "1921"
+        },
+        {
+            "title": "1998 United States embassy bombings",
+            "text": "bombing of two American embassies in 1998",
+            "start": 1177,
+            "end": 1218,
+            "id": "10078354"
+        },
+        {
+            "title": "Derna campaign (2014\u20132016)",
+            "text": "ISIL takeover of Derna",
+            "start": 1346,
+            "end": 1368,
+            "id": "44413891"
+        }
+    ],
+    "_chunk_id": "b_14150996836-14159433137"
+}

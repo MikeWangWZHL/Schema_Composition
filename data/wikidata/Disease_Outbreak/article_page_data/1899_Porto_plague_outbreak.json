@@ -1,0 +1,166 @@
+{
+    "_id": "63267187",
+    "id": "63267187",
+    "title": "1899 Porto plague outbreak",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "==See also==",
+            "start": 1963,
+            "end": 1975
+        },
+        {
+            "text": "==References==",
+            "start": 1996,
+            "end": 2010
+        }
+    ],
+    "categories": [
+        "1890s health disasters",
+        "1890s in Portugal",
+        "19th-century epidemics",
+        "Health disasters in Portugal",
+        "History of Porto",
+        "Disease outbreaks in Portugal",
+        "Third plague pandemic"
+    ],
+    "infobox": "{{Infobox event\n| title                    = 1899 Porto plague outbreak\n| image                    = Dr. Ricardo Jorge no Laborat\u00f3rio Municipal de Bacteriologia.png\n| image_size               = \n| caption                  = Ricardo Jorge working in the [[Porto]] Municipal Bacteriological Laboratory\n| native_name              = \n| native_name_lang         = \n| date                     = 1899\n| place                    = [[Porto]], [[Portugal]]\n| coordinates              = <!-- {{coord|LAT|LON|region:XXXX_type:event|display=inline,title}} -->\n| also known as            = \n| cause                    = [[Bubonic plague]]\n| outcome                  = 320 cases<ref name=\"Pontes2012\">{{cite thesis |last=Pontes |first=David |date=2012 |title=O cerco da peste no Porto: Cidade, imprensa e sa\u00fade p\u00fablica na crise sanit\u00e1ria de 1899 |type=master's degree |chapter= |publisher=Faculdade de Letras da Universidade do Porto |docket= |oclc= |url=https://repositorio-aberto.up.pt/bitstream/10216/73326/2/28279.pdf |language=Portuguese |access-date=2 March 2020}}</ref>\n| reported deaths          = 132 deaths<ref name=\"Pontes2012\"/>\n| burial                   = \n| inquiries                = \n| litigation               = \n| notes                    = \n}}",
+    "article": "The 1899 Porto plague outbreak was an epidemic of bubonic plague centered in the city of Porto, in the north of Portugal.\n\nThe arrival of plague in the Portuguese city of Porto signalled the first outbreak of the third plague pandemic in Europe, attracting international attention, due to fears of a return of the Black Death in the continent. It also pitched local and national authorities as well as medical experts in heated arguments about the nature of the disease and the way to contain it, namely, the controversial decision to surround the city by a military-enforced cordon sanitaire for four months, imposed by the government of Prime Minister Jos\u00e9 Luciano de Castro.\n\nThe city's Medical Health Officer, Ricardo Jorge, head of the city's Municipal Services of Health and Hygiene and of the Municipal Bacteriological Laboratory, led the efforts to contain the disease and personally gathered laboratory proof to correctly identify the responsible infectious agent: this earned him a great reputation as a modern sanitarian and bacteriologist and launched his highly successful national and international career.\n\nThere were 132 deaths attributed to the plague outbreak, out of 320 total cases. Eminent bacteriologist Lu\u00eds da C\u00e2mara Pestana contracted the disease after receiving a small scratch while examining a plague corpse during the outbreak, and died shortly afterwards.\n\nThe plague outbreak had considerable political, social, and economic repercussions: it exacerbated class divisions and tensions between republicans in Porto and the royalist government in Lisbon (the centuries-old Portuguese Monarchy and would be replaced by the Portuguese First Republic in a revolution just 10 years later). Portugal's public health legislation was modernised in the years following the crisis; the Directorate-General of Health was established in response to the outbreak; it remains the country's leading agency for public health and disease prevention.\n\n==See also==\n*List of epidemics\n\n==References==",
+    "links": [
+        {
+            "title": "1899 Porto plague outbreak",
+            "text": "1899 Porto plague outbreak",
+            "start": 4,
+            "end": 30,
+            "id": "63267187"
+        },
+        {
+            "title": "Bubonic plague",
+            "text": "bubonic plague",
+            "start": 50,
+            "end": 64,
+            "id": "16392927"
+        },
+        {
+            "title": "Porto",
+            "text": "Porto",
+            "start": 89,
+            "end": 94,
+            "id": "100715"
+        },
+        {
+            "title": "Portugal",
+            "text": "Portugal",
+            "start": 112,
+            "end": 120,
+            "id": "23033"
+        },
+        {
+            "title": "Third plague pandemic",
+            "text": "third plague pandemic",
+            "start": 213,
+            "end": 234,
+            "id": "1543486"
+        },
+        {
+            "title": "Black Death",
+            "text": "Black Death",
+            "start": 314,
+            "end": 325,
+            "id": "4501"
+        },
+        {
+            "title": "Cordon sanitaire",
+            "text": "cordon sanitaire",
+            "start": 576,
+            "end": 592,
+            "id": "1166041"
+        },
+        {
+            "title": "Jos\u00e9 Luciano de Castro",
+            "text": "Jos\u00e9 Luciano de Castro",
+            "start": 654,
+            "end": 676,
+            "id": "13392095"
+        },
+        {
+            "title": "Medical officer of health",
+            "text": "Medical Health Officer",
+            "start": 690,
+            "end": 712,
+            "id": "16908870"
+        },
+        {
+            "title": "Ricardo Jorge",
+            "text": "Ricardo Jorge",
+            "start": 714,
+            "end": 727,
+            "id": null
+        },
+        {
+            "title": "Pathogen",
+            "text": "infectious agent",
+            "start": 956,
+            "end": 972,
+            "id": "35038133"
+        },
+        {
+            "title": "Environmental health officer",
+            "text": "sanitarian",
+            "start": 1021,
+            "end": 1031,
+            "id": "8774042"
+        },
+        {
+            "title": "Bacteriology",
+            "text": "bacteriologist",
+            "start": 1036,
+            "end": 1050,
+            "id": "58475"
+        },
+        {
+            "title": "Lu\u00eds da C\u00e2mara Pestana",
+            "text": "Lu\u00eds da C\u00e2mara Pestana",
+            "start": 1226,
+            "end": 1248,
+            "id": null
+        },
+        {
+            "title": "First Portuguese Republic",
+            "text": "Portuguese First Republic",
+            "start": 1650,
+            "end": 1675,
+            "id": "2569245"
+        },
+        {
+            "title": "5 October 1910 revolution",
+            "text": "revolution just 10 years later",
+            "start": 1681,
+            "end": 1711,
+            "id": "3921932"
+        },
+        {
+            "title": "Public health",
+            "text": "public health",
+            "start": 1725,
+            "end": 1738,
+            "id": "463734"
+        },
+        {
+            "title": "Directorate-General of Health",
+            "text": "Directorate-General of Health",
+            "start": 1805,
+            "end": 1834,
+            "id": "63208518"
+        },
+        {
+            "title": "List of epidemics",
+            "text": "List of epidemics",
+            "start": 1977,
+            "end": 1994,
+            "id": "945818"
+        }
+    ],
+    "_chunk_id": "b_18171415127-18179833927"
+}

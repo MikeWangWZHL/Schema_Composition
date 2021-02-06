@@ -1,0 +1,176 @@
+{
+    "_id": "63804437",
+    "id": "63804437",
+    "title": "2020 Afrin bombing",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "== Responsibility ==",
+            "start": 384,
+            "end": 404
+        },
+        {
+            "text": "==References==",
+            "start": 1345,
+            "end": 1359
+        }
+    ],
+    "categories": [
+        "2020 murders in Asia",
+        "21st-century mass murder in Syria",
+        "Afrin, Syria",
+        "Aleppo Governorate in the Syrian Civil War",
+        "April 2020 events in Syria",
+        "Crime in Aleppo Governorate",
+        "Mass murder in 2020",
+        "Suicide bombings in 2020",
+        "Suicide car and truck bombings in Syria",
+        "Terrorist incidents in Asia in 2020"
+    ],
+    "infobox": "{{Infobox civilian attack\n| title = 2020 Afrin bombing\n| partof = the [[Turkish occupation of northern Syria]]\n| image = \n| location = [[Afrin, Syria|Afrin]], [[Aleppo Governorate]], Syria\n| target = Marketplace\n| date = April 28, 2020\n| type = [[Car bomb|Truck bombing]], [[mass murder]]\n| fatalities = 53\n| injuries = 50+\n| perp = Unknown / not claimed<br>[[YPG]] <small>(Turkish claim)</small><br>[[Syrian National Army|SNA]] infighting <small>([[Syrian Democratic Forces|SDF]] claim)</small>\n}}",
+    "article": "On the afternoon of 28 April 2020, a truck bombing occurred a few meters away from the governor\u2019s residence in Raju street in Afrin, Aleppo Governorate, Syria. A bomb in a tank truck was detonated at an open-air market in Souk Ali in the city centre. The attack killed at least 53 civilians (including 11 children) and 12 Turkish-backed fighters, as well as injuring over 50 others.\n\n== Responsibility ==\nThe Turkish government blamed the People's Protection Units (YPG). The Syrian Democratic Council and the commander-in-chief of the Syrian Democratic Forces, Mazloum Abdi, condemned the bombing and blamed Turkish policy, pointing out that \"gangs armed by Turkey\" had been involved in similar attacks.\n\nAccording to the German Marxist newspaper Junge Welt, the nature of the attack and recent tensions suggests a jihadist group. Clashes between jihadist militias of the Syrian National Army are regular occurrences in the Afrin and Idlib regions. Significant tensions have recently re-emerged between Hayat Tahrir al-Sham (HTS), the main rebel jihadist force in Idlib, and the Turkish government. HTS has accused Ankara of treason since the Russian-Turkish ceasefire agreed in early March 2020. The week prior to the Afrin bombing, the militiamen destroyed a Turkish tank while the Turkish Air Force allegedly destroyed a HTS base by drone.\n\n==References==",
+    "links": [
+        {
+            "title": "Car bomb",
+            "text": "truck bomb",
+            "start": 37,
+            "end": 47,
+            "id": "155282"
+        },
+        {
+            "title": "Afrin, Syria",
+            "text": "Afrin",
+            "start": 126,
+            "end": 131,
+            "id": "7783933"
+        },
+        {
+            "title": "Aleppo Governorate",
+            "text": "Aleppo Governorate",
+            "start": 133,
+            "end": 151,
+            "id": "7444618"
+        },
+        {
+            "title": "Syria",
+            "text": "Syria",
+            "start": 153,
+            "end": 158,
+            "id": "7515849"
+        },
+        {
+            "title": "Tank truck",
+            "text": "tank truck",
+            "start": 172,
+            "end": 182,
+            "id": "2863776"
+        },
+        {
+            "title": "Marketplace",
+            "text": "open-air market",
+            "start": 203,
+            "end": 218,
+            "id": "9801859"
+        },
+        {
+            "title": "Syrian National Army",
+            "text": "Turkish-backed fighters",
+            "start": 322,
+            "end": 345,
+            "id": "53235629"
+        },
+        {
+            "title": "People's Protection Units",
+            "text": "People's Protection Units",
+            "start": 439,
+            "end": 464,
+            "id": "36497032"
+        },
+        {
+            "title": "Syrian Democratic Council",
+            "text": "Syrian Democratic Council",
+            "start": 476,
+            "end": 501,
+            "id": "49849056"
+        },
+        {
+            "title": "Commander-in-chief",
+            "text": "commander-in-chief",
+            "start": 510,
+            "end": 528,
+            "id": "254428"
+        },
+        {
+            "title": "Syrian Democratic Forces",
+            "text": "Syrian Democratic Forces",
+            "start": 536,
+            "end": 560,
+            "id": "48205248"
+        },
+        {
+            "title": "Mazloum Abdi",
+            "text": "Mazloum Abdi",
+            "start": 562,
+            "end": 574,
+            "id": "59386296"
+        },
+        {
+            "title": "Marxism",
+            "text": "Marxist",
+            "start": 730,
+            "end": 737,
+            "id": "1904053"
+        },
+        {
+            "title": "Junge Welt",
+            "text": "Junge Welt",
+            "start": 748,
+            "end": 758,
+            "id": "1591029"
+        },
+        {
+            "title": "Jihadism",
+            "text": "jihadist",
+            "start": 816,
+            "end": 824,
+            "id": "7826589"
+        },
+        {
+            "title": "Syrian National Army",
+            "text": "Syrian National Army",
+            "start": 873,
+            "end": 893,
+            "id": "53235629"
+        },
+        {
+            "title": "Hayat Tahrir al-Sham",
+            "text": "Hayat Tahrir al-Sham",
+            "start": 1004,
+            "end": 1024,
+            "id": "53015755"
+        },
+        {
+            "title": "Northwestern Syria offensive (December 2019\u2013March 2020)#Second Russia\u2013Turkey ceasefire",
+            "text": "Russian-Turkish ceasefire",
+            "start": 1144,
+            "end": 1169,
+            "id": null
+        },
+        {
+            "title": "Tank",
+            "text": "tank",
+            "start": 1270,
+            "end": 1274,
+            "id": "29970"
+        },
+        {
+            "title": "Turkish Air Force",
+            "text": "Turkish Air Force",
+            "start": 1285,
+            "end": 1302,
+            "id": "1799517"
+        }
+    ],
+    "_chunk_id": "b_18311755712-18319636676"
+}

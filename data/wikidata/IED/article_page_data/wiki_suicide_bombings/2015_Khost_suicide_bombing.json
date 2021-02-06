@@ -1,0 +1,53 @@
+{
+    "_id": "47230913",
+    "id": "47230913",
+    "title": "2015 Khost suicide bombing",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "==See also==",
+            "start": 179,
+            "end": 191
+        },
+        {
+            "text": "==References==",
+            "start": 229,
+            "end": 243
+        }
+    ],
+    "categories": [
+        "Suicide bombings in 2015",
+        "Suicide bombings in Afghanistan",
+        "Mass murder in 2015",
+        "Terrorist incidents in Afghanistan in 2015",
+        "July 2015 events in Asia",
+        "History of Khost Province"
+    ],
+    "infobox": "{{Infobox civilian attack\n|title       = Khost suicide bombing\n|image       = File:Khost in Afghanistan.svg\n|caption     = Location of Khost Province in Afghanistan\n|partof      = War in Afghanistan (2001\u2013present)\n|map         =\n|location    = Khost Province, [[Afghanistan]]\n|target      = \n|type        = [[suicide bombing]]\n|date        = 12 July 2015\n|fatalities  = 33\n|injuries    = 10\n}}",
+    "article": "The Khost suicide bombing occurred on 12 July 2015 in Khost Province when a suicide bombing killed at least 33 people, including 12 children  and another 10 people were wounded.\n\n==See also==\n* War in Afghanistan (2015\u2013present)\n\n==References==",
+    "links": [
+        {
+            "title": "2015 Khost suicide bombing",
+            "text": "Khost suicide bombing",
+            "start": 4,
+            "end": 25,
+            "id": "47230913"
+        },
+        {
+            "title": "Khost Province",
+            "text": "Khost Province",
+            "start": 54,
+            "end": 68,
+            "id": "457249"
+        },
+        {
+            "title": "War in Afghanistan (2001\u2013present)",
+            "text": "War in Afghanistan (2015\u2013present)",
+            "start": 194,
+            "end": 227,
+            "id": "19666611"
+        }
+    ],
+    "_chunk_id": "b_14540299655-14547644945"
+}

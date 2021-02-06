@@ -1,0 +1,65 @@
+{
+    "_id": "35696259",
+    "id": "35696259",
+    "title": "April 2012 Idlib bombings",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "==See also==",
+            "start": 234,
+            "end": 246
+        },
+        {
+            "text": "==References==",
+            "start": 295,
+            "end": 309
+        }
+    ],
+    "categories": [
+        "Idlib",
+        "Idlib Governorate in the Syrian Civil War",
+        "Car and truck bombings in Syria",
+        "Terrorist incidents in Syria in 2012"
+    ],
+    "infobox": "{{Infobox civilian attack\n|title= April 2012 Idlib Bombing \n|partof=[[Syrian Civil War]]\n|location=[[Idlib]]\n|date=April 30, 2012\n|type = Car bombing\n|fatalities=20\n|injuries=100\n|preps=\n}}",
+    "article": "The 30 April 2012 Idlib bombing was a car bombing that targeted the Syrian military in Idlib, killing twenty people. The majority of those killed were members of the security forces. The event took place during the Syrian Civil War.\n\n==See also==\n* List of bombings during the Syrian civil war\n\n==References==",
+    "links": [
+        {
+            "title": "April 2012 Idlib bombings",
+            "text": "30 April 2012 Idlib bombing",
+            "start": 4,
+            "end": 31,
+            "id": "35696259"
+        },
+        {
+            "title": "Car bomb",
+            "text": "car bombing",
+            "start": 38,
+            "end": 49,
+            "id": "155282"
+        },
+        {
+            "title": "Idlib",
+            "text": "Idlib",
+            "start": 87,
+            "end": 92,
+            "id": "2528679"
+        },
+        {
+            "title": "Syrian civil war",
+            "text": "Syrian Civil War",
+            "start": 215,
+            "end": 231,
+            "id": "30741795"
+        },
+        {
+            "title": "List of terrorist incidents in Syria",
+            "text": "List of bombings during the Syrian civil war",
+            "start": 249,
+            "end": 293,
+            "id": "49277698"
+        }
+    ],
+    "_chunk_id": "b_11818768184-11827893195"
+}

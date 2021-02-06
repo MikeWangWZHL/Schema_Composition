@@ -1,0 +1,117 @@
+{
+    "_id": "57381535",
+    "id": "57381535",
+    "title": "1985 Frankfurt airport bombing",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "==See also==",
+            "start": 888,
+            "end": 900
+        },
+        {
+            "text": "==References==",
+            "start": 1012,
+            "end": 1026
+        },
+        {
+            "text": "==External links==",
+            "start": 1029,
+            "end": 1047
+        }
+    ],
+    "categories": [
+        "1985 in international relations",
+        "1985 in West Germany",
+        "1985 murders in Europe",
+        "1980s in Frankfurt",
+        "1980s murders in Germany",
+        "Abu Nidal attacks",
+        "Crime in Frankfurt",
+        "Improvised explosive device bombings in 1985",
+        "Improvised explosive device bombings in Germany",
+        "June 1985 crimes",
+        "June 1985 events in Europe",
+        "Murder in Hesse",
+        "Palestinian terrorist incidents in Germany",
+        "Terrorist attacks on airports",
+        "Terrorist incidents in Europe in 1985",
+        "Terrorist incidents in Germany in the 1980s"
+    ],
+    "infobox": "{{Infobox terrorist attack\n|title = Frankfurt airport bombing\n|image = \n|caption = \n|location = [[Frankfurt]], [[West Germany]]\n|map=\n|map_caption = \n|target = \n|date = 19 June 1985\n|time =\n|timezone = \n|type = Bombing\n|fatalities = 3\n|injuries = 74\n|perps = [[Abu Nidal Organization]]<ref name=\"upi88\"/>\n|weapons = \n}}",
+    "article": "On 19 June 1985, a bombing at the Frankfurt Airport, West Germany, killed three and wounded 74 people. A second bomb was found and defused not far from the first explosion. Two of those killed were Australian children, 2-year-old and 5-year-old siblings, and the third a Portuguese man.\n\nAbout 30 groups claimed responsibility, among them an unprecedented group calling itself Arab Revolutionary Organisation, having done so because of West German intelligence recruiting Arabs to assassinate members of Arab revolutionary movements in Lebanon. In July 1988, West German investigators concluded that the Palestinian Abu Nidal Organization, which itself had also claimed responsibility, had perpetrated the attack, and that the Libyan embassy in Bonn had pre-knowledge of the attack. The investigators also claimed that Libyan leader Muammar Gaddafi may have played a role in the attack.\n\n==See also==\n*1985 Rome and Vienna airport attacks\n*1985 Rhein-Main Air Base bombing\n*1986 West Berlin discotheque bombing\n\n==References==\n\n\n==External links==\n*  View of the destroyed hall B after a bomb exploded at the airport in Frankfurt (Germany) on 19 June 1985",
+    "links": [
+        {
+            "title": "Frankfurt Airport",
+            "text": "Frankfurt Airport",
+            "start": 34,
+            "end": 51,
+            "id": "248285"
+        },
+        {
+            "title": "West Germany",
+            "text": "West Germany",
+            "start": 53,
+            "end": 65,
+            "id": "33166"
+        },
+        {
+            "title": "Lebanon",
+            "text": "Lebanon",
+            "start": 536,
+            "end": 543,
+            "id": "17771"
+        },
+        {
+            "title": "Abu Nidal Organization",
+            "text": "Abu Nidal Organization",
+            "start": 616,
+            "end": 638,
+            "id": "2360"
+        },
+        {
+            "title": "History of Libya under Muammar Gaddafi",
+            "text": "Libyan",
+            "start": 727,
+            "end": 733,
+            "id": "5171141"
+        },
+        {
+            "title": "Bonn",
+            "text": "Bonn",
+            "start": 745,
+            "end": 749,
+            "id": "3295"
+        },
+        {
+            "title": "Muammar Gaddafi",
+            "text": "Muammar Gaddafi",
+            "start": 833,
+            "end": 848,
+            "id": "53029"
+        },
+        {
+            "title": "1985 Rome and Vienna airport attacks",
+            "text": "1985 Rome and Vienna airport attacks",
+            "start": 902,
+            "end": 938,
+            "id": "458649"
+        },
+        {
+            "title": "Rhein-Main Air Base bombing",
+            "text": "1985 Rhein-Main Air Base bombing",
+            "start": 940,
+            "end": 972,
+            "id": "57848556"
+        },
+        {
+            "title": "West Berlin discotheque bombing",
+            "text": "1986 West Berlin discotheque bombing",
+            "start": 974,
+            "end": 1010,
+            "id": "317460"
+        }
+    ],
+    "_chunk_id": "b_16809599745-16818229613"
+}

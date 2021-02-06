@@ -1,0 +1,71 @@
+{
+    "_id": "1777327",
+    "id": "1777327",
+    "title": "Naples Plague",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "==See also==",
+            "start": 278,
+            "end": 290
+        },
+        {
+            "text": "==References==",
+            "start": 322,
+            "end": 336
+        }
+    ],
+    "categories": [
+        "17th century in Naples",
+        "Death in Italy",
+        "Second plague pandemic"
+    ],
+    "infobox": null,
+    "article": "In 1656, a plague nearly eradicated the population of Naples, Italy. It was prevented by forcible quarantine of the poorer districts, and the efforts of a Martinus Ludheim, a visiting physician from Bavaria, Germany. Santa Maria del Pianto was built to commemorate it in 1657.\n\n==See also==\n* Italian plague of 1629\u20131631\n\n==References==\n\n\n\n\n\n\n\n\n\n\n\nContemporary engraving of Naples in 1656.",
+    "links": [
+        {
+            "title": "Naples",
+            "text": "Naples",
+            "start": 54,
+            "end": 60,
+            "id": "55880"
+        },
+        {
+            "title": "Italy",
+            "text": "Italy",
+            "start": 62,
+            "end": 67,
+            "id": "14532"
+        },
+        {
+            "title": "Bavaria",
+            "text": "Bavaria",
+            "start": 199,
+            "end": 206,
+            "id": "3764"
+        },
+        {
+            "title": "Germany",
+            "text": "Germany",
+            "start": 208,
+            "end": 215,
+            "id": "11867"
+        },
+        {
+            "title": "Santa Maria del Pianto, Naples",
+            "text": "Santa Maria del Pianto",
+            "start": 217,
+            "end": 239,
+            "id": "56658206"
+        },
+        {
+            "title": "1629\u20131631 Italian plague",
+            "text": "Italian plague of 1629\u20131631",
+            "start": 293,
+            "end": 320,
+            "id": "1930322"
+        }
+    ],
+    "_chunk_id": "b_2397645103-2412385096"
+}

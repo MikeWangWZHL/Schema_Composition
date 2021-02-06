@@ -1,0 +1,76 @@
+{
+    "_id": "61839805",
+    "id": "61839805",
+    "title": "2019 Karbala bombing",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "== Attack ==",
+            "start": 222,
+            "end": 234
+        },
+        {
+            "text": "== References ==",
+            "start": 542,
+            "end": 558
+        }
+    ],
+    "categories": [
+        "Iraqi insurgency (2017\u2013present)",
+        "2019 murders in Asia",
+        "2010s in Karbala",
+        "2010s murders in Iraq",
+        "21st-century mass murder in Iraq",
+        "Bus bombings in Asia",
+        "Car and truck bombings in Iraq",
+        "Crime in Karbala",
+        "Explosions in Karbala",
+        "Improvised explosive device bombings in 2019",
+        "ISIL terrorist incidents in Iraq",
+        "Islamic terrorist incidents in 2019",
+        "Mass murder in 2019",
+        "September 2019 crimes in Asia",
+        "Terrorist incidents in Iraq in 2019"
+    ],
+    "infobox": "{{Infobox civilian attack|date=20 September 2019|fatalities=12<ref>{{Cite web |title=Iraq: Minibus explosion outside Karbala kills 12 |url=https://www.indiatoday.in/world/story/iraq-minibus-explosion-outside-karbala-kills-12-1601514-2019-09-21 |website=India Today |accessdate=21 September 2019}}</ref>|injuries=5+|location=[[Karbala]], [[Iraq]]|partof=the [[Iraqi insurgency (2017\u2013present)]]|susperps=<!-- or | susperp = -->}}",
+    "article": "On 20 September 2019, a bomb exploded on a minibus near Karbala, Iraq, killing 12 civilians and injuring at least five others. The bombing marked one of the worst attacks against civilians since the end of the Civil War.\n\n== Attack ==\nAn unidentified man boarded a minibus in the southern Iraqi city of Karbala, disembarking a little later after having left a bag behind. It exploded shortly afterwards, killing 12 and wounding five others. The suspect was later arrested and the Islamic State of Iraq and the Levant claimed responsibility.\n\n== References ==",
+    "links": [
+        {
+            "title": "Karbala",
+            "text": "Karbala",
+            "start": 56,
+            "end": 63,
+            "id": "210957"
+        },
+        {
+            "title": "Iraq",
+            "text": "Iraq",
+            "start": 65,
+            "end": 69,
+            "id": "7515928"
+        },
+        {
+            "title": "Iraqi Civil War (2014\u20132017)",
+            "text": "Civil War",
+            "start": 210,
+            "end": 219,
+            "id": "43514929"
+        },
+        {
+            "title": "Karbala",
+            "text": "Karbala",
+            "start": 303,
+            "end": 310,
+            "id": "210957"
+        },
+        {
+            "title": "Islamic State of Iraq and the Levant",
+            "text": "Islamic State of Iraq and the Levant",
+            "start": 480,
+            "end": 516,
+            "id": "9087364"
+        }
+    ],
+    "_chunk_id": "b_17809794348-17817466236"
+}

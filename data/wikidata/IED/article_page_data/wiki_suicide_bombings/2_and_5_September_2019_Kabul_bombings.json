@@ -1,0 +1,104 @@
+{
+    "_id": "61677508",
+    "id": "61677508",
+    "title": "2 and 5 September 2019 Kabul bombings",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "== References ==",
+            "start": 722,
+            "end": 738
+        }
+    ],
+    "categories": [
+        "2019 in Kabul",
+        "2019 murders in Afghanistan",
+        "2010s crimes in Kabul",
+        "21st-century mass murder in Afghanistan",
+        "Attacks on buildings and structures in Kabul",
+        "Mass murder in 2019",
+        "Mass murder in Kabul",
+        "September 2019 crimes in Asia",
+        "September 2019 events in Afghanistan",
+        "Suicide bombings in 2019",
+        "Suicide bombings in Kabul",
+        "Suicide car and truck bombings in Afghanistan",
+        "Taliban attacks"
+    ],
+    "infobox": "{{Infobox civilian attack\n| title         = 2 and 5 September 2019 Kabul bombings\n| partof        = [[War in Afghanistan (2001\u2013present)]]\n| image         = \n| image_size    = \n| image_upright =\n| alt           = \n| caption       = \n| map           = \n| map_size      = \n| map_alt       = \n| map_caption   = \n| location      = [[Kabul]], [[Afghanistan]]\n| target        = Foreign residents (first attack)<br>Civilians and security forces (second attack)\n| coordinates   = \n| date          = 2 September 2019 (first attack)<br>5 September 2019 (second attack)\n| time          = \n| timezone      = \n| type          = \n| fatalities    = 16 (2 September)<br>12 (5 September)<br>'''Total''': '''28'''\n| injuries      = 119 (2 September)<br>40+ (5 September)<br>'''Total''': '''159+'''\n| victims       = <!-- or | victim = -->\n| perpetrators  = <!-- or | perpetrator = --> [[Taliban]] <!-- alias: | perps = or | perp = -->\n| assailants    = <!-- or | assailant = -->\n| weapons       = \n| numparts      = <!-- or | numpart = -->\n| dfens         = <!-- or | dfen = -->\n| motive        = \n| inquiry       = \n| coroner       = \n| accused       = \n| convicted     = \n| verdict       = \n| convictions   = \n| charges       = \n| litigation    = \n| website       = <!-- {{URL|example.com}} -->\n| module        =\n}}",
+    "article": "On the evening of 2 September 2019, a bomb on a tractor killed 16 people and injured 119 others at a housing compound used by international organisations in Kabul, Afghanistan.\nThe target of the attack was foreign citizens living in the town; five Nepalis, two Britons and a 43-year-old Romanian diplomat were killed in the attack. Twenty-five other foreign residents were wounded, including another Romanian.\n\nOn 5 September 2019, at least 12 people, including an American service member and a Romanian soldier, were killed and more than 40 injured when a suicide car bomber exploded in a heavily fortified area of central Kabul, close to the Afghan security offices. The Taliban claimed responsibility for the attacks.\n\n== References ==",
+    "links": [
+        {
+            "title": "Car bomb",
+            "text": "bomb",
+            "start": 38,
+            "end": 42,
+            "id": "155282"
+        },
+        {
+            "title": "Tractor",
+            "text": "tractor",
+            "start": 48,
+            "end": 55,
+            "id": "152692"
+        },
+        {
+            "title": "International organization",
+            "text": "international organisations",
+            "start": 126,
+            "end": 153,
+            "id": "18201224"
+        },
+        {
+            "title": "Nepalis",
+            "text": "Nepalis",
+            "start": 248,
+            "end": 255,
+            "id": "10886000"
+        },
+        {
+            "title": "British people",
+            "text": "Britons",
+            "start": 261,
+            "end": 268,
+            "id": "19097669"
+        },
+        {
+            "title": "Romanians",
+            "text": "Romanian",
+            "start": 287,
+            "end": 295,
+            "id": "322831"
+        },
+        {
+            "title": "Diplomat",
+            "text": "diplomat",
+            "start": 296,
+            "end": 304,
+            "id": "82433"
+        },
+        {
+            "title": "Americans",
+            "text": "American",
+            "start": 465,
+            "end": 473,
+            "id": "19792942"
+        },
+        {
+            "title": "Suicide attack",
+            "text": "suicide",
+            "start": 557,
+            "end": 564,
+            "id": "18835454"
+        },
+        {
+            "title": "Taliban",
+            "text": "Taliban",
+            "start": 673,
+            "end": 680,
+            "id": "30635"
+        }
+    ],
+    "_chunk_id": "b_17779448675-17787046162"
+}

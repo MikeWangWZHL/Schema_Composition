@@ -1,0 +1,84 @@
+{
+    "_id": "58485989",
+    "id": "58485989",
+    "title": "September 2018 Jalalabad suicide bombing",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "== Perpetrators ==",
+            "start": 175,
+            "end": 193
+        },
+        {
+            "text": "== Responses ==",
+            "start": 431,
+            "end": 446
+        },
+        {
+            "text": "== References ==",
+            "start": 664,
+            "end": 680
+        }
+    ],
+    "categories": [
+        "Suicide bombings in 2018",
+        "Mass murder in 2018",
+        "Islamic terrorist incidents in 2018",
+        "Attacks in 2018"
+    ],
+    "infobox": "{{Infobox civilian attack\n| title       = September 2018 Jalalabad suicide bombing\n| image       =\n| caption     =\n| partof      = [[War in Afghanistan (2001\u2013present)]]\n| map         = {{Location map\n| Afghanistan\n| width       = 300\n| lat_deg     = 34.423221\n| lon_deg     = 70.460214\n| label       = Jalalabad\n}}\n| location    = [[Jalalabad]], [[Nangarhar Province]], [[Afghanistan]]\n| target      =\n| type        = Suicide bombing\n| date        = 11 September 2018\n| fatalities  = 68\n| injuries    = 150\n| perps       = {{flagdeco|ISIL}} [[Islamic State of Iraq and the Levant \u2013 Khorasan Province|ISIL-KP]] (suspected)\n}}",
+    "article": "On 11 September 2018, a suicide bomber detonated explosives in a crowd of protesters in the eastern Afghan city of Jalalabad, killing 68 people and injuring over 150 others.\n\n== Perpetrators ==\nNobody immediately claimed responsibility for the bombing, with the Taliban denying any involvement. Government officials suspected ISIL-KP to be involved, due to an increase in activity by the group in the months prior to the bombing.\n\n== Responses ==\nThe United Nations condemned the attack and expressed their deepest condolences to the victims, urging Afghan officials \"to combat by all means, threats to international peace and security caused by terrorist acts\".\n\n== References ==",
+    "links": [
+        {
+            "title": "Protest",
+            "text": "protesters",
+            "start": 74,
+            "end": 84,
+            "id": "266137"
+        },
+        {
+            "title": "Afghanistan",
+            "text": "Afghan",
+            "start": 100,
+            "end": 106,
+            "id": "737"
+        },
+        {
+            "title": "Jalalabad",
+            "text": "Jalalabad",
+            "start": 115,
+            "end": 124,
+            "id": "16274"
+        },
+        {
+            "title": "Taliban",
+            "text": "Taliban",
+            "start": 262,
+            "end": 269,
+            "id": "30635"
+        },
+        {
+            "title": "Politics of Afghanistan",
+            "text": "Government officials",
+            "start": 295,
+            "end": 315,
+            "id": "66463"
+        },
+        {
+            "title": "Islamic State of Iraq and the Levant \u2013 Khorasan Province",
+            "text": "ISIL-KP",
+            "start": 326,
+            "end": 333,
+            "id": "48029263"
+        },
+        {
+            "title": "United Nations",
+            "text": "United Nations",
+            "start": 451,
+            "end": 465,
+            "id": "31769"
+        }
+    ],
+    "_chunk_id": "b_17067115916-17075314998"
+}

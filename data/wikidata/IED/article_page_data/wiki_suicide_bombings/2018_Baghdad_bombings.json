@@ -1,0 +1,128 @@
+{
+    "_id": "56312338",
+    "id": "56312338",
+    "title": "2018 Baghdad bombings",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "==Attacks==",
+            "start": 211,
+            "end": 222
+        },
+        {
+            "text": "==Responsibility claim==",
+            "start": 656,
+            "end": 680
+        },
+        {
+            "text": "==References==",
+            "start": 1747,
+            "end": 1761
+        }
+    ],
+    "categories": [
+        "Suicide bombings in 2018",
+        "Iraqi insurgency (2017\u2013present)",
+        "21st-century mass murder in Iraq",
+        "2018 murders in Asia",
+        "2010s in Baghdad",
+        "ISIL terrorist incidents in Iraq",
+        "Islamic terrorist incidents in 2018",
+        "January 2018 crimes in Asia",
+        "Mass murder in 2018",
+        "Mass murder in Iraq",
+        "Suicide car and truck bombings in Iraq",
+        "Terrorist incidents in Baghdad",
+        "Terrorist incidents in Iraq in 2018"
+    ],
+    "infobox": "{{Infobox civilian attack|caption=|coordinates=|date={{Start date|2018|01|15|df=y}}|fatalities=38|image=|injuries=+105|location=[[Baghdad]], [[Iraq]]|map={{Location map|Iraq\n|width = 300\n|float = right\n|label = Baghdad\n  |marksize = 8\n  |lat_deg = 33 | lat_min = 20\n  |lon_deg = 44 | lon_min = 23\n}}|partof=the [[Iraqi insurgency (2017\u2013present)]]|perps={{flag|Islamic State of Iraq and the Levant}}|target=Civilians|time=|timezone=|title=January 15, 2018 Baghdad bombings|type=Suicide bombings|weapons=}}",
+    "article": "On Monday January 15, 2018, two suicide bombings took place at al-Tayaran Square of Baghdad, killing 38 people and injuring more than 105 others, attacks later claimed by the jihadist group Islamic State (IS).\n\n==Attacks==\nOn Monday January 15, 2018, two suicide bombings took place at al-Tayaran Square of Baghdad, killing 38 people and injuring more than 105 others. The attackers struck during rush hour in the city's Tayran Square, which is usually crowded by laborers seeking work. No group immediately claimed responsibility for the attack but it bore all the hallmarks of the Islamic State group, which has claimed many such attacks in the past.  \n\n==Responsibility claim==\nTwo days later (on Wednesday January 17, 2018) the jihadist group Islamic State (IS) \"claimed responsibility for the twin suicide bombings in Baghdad this week\", though the New York Times suggested that the delay, and a number of errors in the claim, may show that the group's \"media apparatus has been disrupted\".\nAccording to the New York Times, which relied on a translation of the IS statement provided by SITE Intelligence Group, the IS claim's errors included that the attack \"had occurred at Aden Square in Baghdad, where the police said an attack was foiled on Saturday, rather than in Tayaran Square, where Monday\u2019s explosions took place\", and that IS \"said that there were three attackers, not two ... and said that the first two detonated their explosive vests in quick succession, while the third hit another gathering in the same area sometime after the first two explosions\". IS referred to \"the open-air market that was attacked as a gathering of 'rafidha' and of 'polytheists', two words they use to refer to Shiite Muslims in a derogatory manner\".\n\n==References==",
+    "links": [
+        {
+            "title": "Suicide attack",
+            "text": "suicide bombings",
+            "start": 32,
+            "end": 48,
+            "id": "18835454"
+        },
+        {
+            "title": "Baghdad",
+            "text": "Baghdad",
+            "start": 84,
+            "end": 91,
+            "id": "4492"
+        },
+        {
+            "title": "Jihadism",
+            "text": "jihadist",
+            "start": 175,
+            "end": 183,
+            "id": "7826589"
+        },
+        {
+            "title": "Islamic State of Iraq and the Levant",
+            "text": "Islamic State (IS)",
+            "start": 190,
+            "end": 208,
+            "id": "9087364"
+        },
+        {
+            "title": "Jihadism",
+            "text": "jihadist",
+            "start": 732,
+            "end": 740,
+            "id": "7826589"
+        },
+        {
+            "title": "Islamic State of Iraq and the Levant",
+            "text": "Islamic State (IS)",
+            "start": 747,
+            "end": 765,
+            "id": "9087364"
+        },
+        {
+            "title": "The New York Times",
+            "text": "New York Times",
+            "start": 854,
+            "end": 868,
+            "id": "30680"
+        },
+        {
+            "title": "SITE Intelligence Group",
+            "text": "SITE Intelligence Group",
+            "start": 1091,
+            "end": 1114,
+            "id": "25696820"
+        },
+        {
+            "title": "Rafida",
+            "text": "rafidha",
+            "start": 1644,
+            "end": 1651,
+            "id": "2526869"
+        },
+        {
+            "title": "Polytheism#Use as a term of abuse",
+            "text": "polytheists",
+            "start": 1661,
+            "end": 1672,
+            "id": null
+        },
+        {
+            "title": "Shia Islam",
+            "text": "Shiite",
+            "start": 1706,
+            "end": 1712,
+            "id": "26961"
+        },
+        {
+            "title": "Pejorative",
+            "text": "derogatory",
+            "start": 1726,
+            "end": 1736,
+            "id": "23658801"
+        }
+    ],
+    "_chunk_id": "b_16560176230-16567813224"
+}

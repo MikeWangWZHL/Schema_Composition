@@ -1,0 +1,120 @@
+{
+    "_id": "62097271",
+    "id": "62097271",
+    "title": "Haska Meyna mosque bombing",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "== Attack ==",
+            "start": 220,
+            "end": 232
+        },
+        {
+            "text": "== Responsibility ==",
+            "start": 881,
+            "end": 901
+        },
+        {
+            "text": "== References ==",
+            "start": 1092,
+            "end": 1108
+        }
+    ],
+    "categories": [
+        "2019 murders in Afghanistan",
+        "21st century in Nangarhar Province",
+        "21st-century mass murder in Afghanistan",
+        "Attacks on mosques in Asia",
+        "Attacks on religious buildings and structures in Afghanistan",
+        "Crime in Nangarhar Province",
+        "Improvised explosive device bombings in 2019",
+        "Improvised explosive device bombings in Afghanistan",
+        "Mass murder in 2019",
+        "October 2019 crimes in Asia",
+        "October 2019 events in Afghanistan",
+        "Terrorist incidents in Afghanistan in 2019"
+    ],
+    "infobox": "{{Infobox civilian attack\n|date=18 October 2019\n|fatalities=73<ref name=\"guardian\">{{cite web |title=Afghanistan mosque bombing: death toll rises |url=https://www.theguardian.com/world/2019/oct/19/afghanistan-mosque-bombing-death-toll-rises |website=The Guardian |accessdate=19 October 2019}}</ref><ref name=\"UPI\">{{cite web |title=Death toll rises to 73 in Afghanistan mosque bombing |url=https://www.upi.com/Top_News/World-News/2019/10/19/Death-toll-rises-to-73-in-Afghanistan-mosque-bombing/6431571507100/|website=UPI|accessdate=20 October 2019}}</ref>\n|injuries=36\n|location=[[Haska Meyna District]], [[Nangarhar Province]], [[Afghanistan]]\n|partof=[[War in Afghanistan (2015\u2013present)]]\n|perps=Unknown\n|title=Haska Meyna mosque bombing\n|type=[[Bomb|Bombing]]\n|image=Nangarhar in Afghanistan.svg\n|caption=Nangarhar Province\n}}",
+    "article": "On 18 October 2019, a bombing occurred in a mosque in Haska Meyna District, Nangarhar province, Afghanistan, killing at least 73 worshippers. Dozens more were injured in the attack. No group has claimed responsibility.\n\n== Attack ==\nA bomb exploded during Friday prayer at the mosque, located in the Jawdara village of Haska Meyna District. Hundreds were there to take part in the prayer when the bomb detonated killing 72 and injuring at least 36 other people. The blast caused the roof to collapse, leaving many bodies under the rubble. The New York Times reported that the blast was caused by a suicide bomber, who entered the mosque during men's prayer and detonated explosives.\n\nAmong the victims of the blast were 23 teenagers and children, along with the village's only doctor, Mohammed Aref, and several of his family members. Two teachers were also killed in the attack.\n\n== Responsibility ==\nNo group has claimed responsibility for the attack. The Taliban denied responsibility, instead claiming the explosions and collapse of the mosque were caused by a government mortar attack.\n\n== References ==",
+    "links": [
+        {
+            "title": "Bomb",
+            "text": "bombing",
+            "start": 22,
+            "end": 29,
+            "id": "47628"
+        },
+        {
+            "title": "Haska Meyna District",
+            "text": "Haska Meyna District",
+            "start": 54,
+            "end": 74,
+            "id": "18550134"
+        },
+        {
+            "title": "Nangarhar Province",
+            "text": "Nangarhar province",
+            "start": 76,
+            "end": 94,
+            "id": "457263"
+        },
+        {
+            "title": "Bomb",
+            "text": "bomb",
+            "start": 235,
+            "end": 239,
+            "id": "47628"
+        },
+        {
+            "title": "Explosion",
+            "text": "explode",
+            "start": 240,
+            "end": 247,
+            "id": "18993857"
+        },
+        {
+            "title": "Friday prayer",
+            "text": "Friday prayer",
+            "start": 256,
+            "end": 269,
+            "id": "1162603"
+        },
+        {
+            "title": "Suicide attack",
+            "text": "suicide bomber",
+            "start": 598,
+            "end": 612,
+            "id": "18835454"
+        },
+        {
+            "title": "Detonation",
+            "text": "detonate",
+            "start": 661,
+            "end": 669,
+            "id": "306686"
+        },
+        {
+            "title": "Taliban",
+            "text": "Taliban",
+            "start": 958,
+            "end": 965,
+            "id": "30635"
+        },
+        {
+            "title": "Politics of Afghanistan",
+            "text": "government",
+            "start": 1065,
+            "end": 1075,
+            "id": "66463"
+        },
+        {
+            "title": "Mortar (weapon)",
+            "text": "mortar",
+            "start": 1076,
+            "end": 1082,
+            "id": "324499"
+        }
+    ],
+    "_chunk_id": "b_17870736066-17877589576"
+}

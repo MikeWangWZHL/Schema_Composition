@@ -1,0 +1,2535 @@
+{
+    "_id": "4501",
+    "id": "4501",
+    "title": "Black Death",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "==Names ==",
+            "start": 2045,
+            "end": 2055
+        },
+        {
+            "text": "== Previous plague epidemics ==",
+            "start": 4426,
+            "end": 4457
+        },
+        {
+            "text": "==14th-century plague==",
+            "start": 5428,
+            "end": 5451
+        },
+        {
+            "text": "===Causes===",
+            "start": 5453,
+            "end": 5465
+        },
+        {
+            "text": "==== Early theory ====",
+            "start": 5878,
+            "end": 5900
+        },
+        {
+            "text": "==== Predominant modern theory ====",
+            "start": 6578,
+            "end": 6613
+        },
+        {
+            "text": "=== Transmission ===",
+            "start": 8066,
+            "end": 8086
+        },
+        {
+            "text": "====Transmission within Asia====",
+            "start": 8792,
+            "end": 8824
+        },
+        {
+            "text": "==== Transmission outside of Asia ====",
+            "start": 9649,
+            "end": 9687
+        },
+        {
+            "text": "====European outbreak====",
+            "start": 9974,
+            "end": 9999
+        },
+        {
+            "text": "====Western Asian and North African outbreak====",
+            "start": 12740,
+            "end": 12788
+        },
+        {
+            "text": "=== Signs and symptoms ===",
+            "start": 15096,
+            "end": 15122
+        },
+        {
+            "text": "==== Bubonic plague ====",
+            "start": 15126,
+            "end": 15150
+        },
+        {
+            "text": "==== Pneumonic plague ====",
+            "start": 15870,
+            "end": 15896
+        },
+        {
+            "text": "====Septicaemic plague====",
+            "start": 16274,
+            "end": 16300
+        },
+        {
+            "text": "=== Consequences ===",
+            "start": 16708,
+            "end": 16728
+        },
+        {
+            "text": "==== Deaths ====",
+            "start": 16731,
+            "end": 16747
+        },
+        {
+            "text": "==== Economic ====",
+            "start": 20358,
+            "end": 20376
+        },
+        {
+            "text": "==== Environmental ====",
+            "start": 20821,
+            "end": 20844
+        },
+        {
+            "text": "==== Persecutions ====",
+            "start": 21029,
+            "end": 21051
+        },
+        {
+            "text": "====Social====",
+            "start": 22106,
+            "end": 22120
+        },
+        {
+            "text": "===DNA evidence===",
+            "start": 24109,
+            "end": 24127
+        },
+        {
+            "text": "===Alternative explanations ===",
+            "start": 25933,
+            "end": 25964
+        },
+        {
+            "text": "====Means of transmission====",
+            "start": 26513,
+            "end": 26542
+        },
+        {
+            "text": "====Summary====",
+            "start": 28093,
+            "end": 28108
+        },
+        {
+            "text": "==Recurrences==",
+            "start": 29365,
+            "end": 29380
+        },
+        {
+            "text": "=== Second plague pandemic ===",
+            "start": 29384,
+            "end": 29414
+        },
+        {
+            "text": "=== Third plague pandemic ===",
+            "start": 31470,
+            "end": 31499
+        },
+        {
+            "text": "=== Late 19th-century ===",
+            "start": 31973,
+            "end": 31998
+        },
+        {
+            "text": "===Others===",
+            "start": 32355,
+            "end": 32367
+        },
+        {
+            "text": "=== Fatality rate ===",
+            "start": 32977,
+            "end": 32998
+        },
+        {
+            "text": "== In popular culture ==",
+            "start": 33173,
+            "end": 33197
+        },
+        {
+            "text": "==See also==",
+            "start": 34999,
+            "end": 35011
+        },
+        {
+            "text": "==References==",
+            "start": 35212,
+            "end": 35226
+        },
+        {
+            "text": "==External links==",
+            "start": 36242,
+            "end": 36260
+        }
+    ],
+    "categories": [
+        "Black Death",
+        "Plague pandemics",
+        "14th-century health disasters",
+        "1340s in Asia",
+        "1340s in Europe",
+        "Eurasian history",
+        "History of medieval medicine",
+        "History of the Middle East",
+        "Medieval health disasters",
+        "Second plague pandemic",
+        "1350s in Europe",
+        "Causes of death",
+        "1350s in Asia"
+    ],
+    "infobox": "{{Infobox pandemic\n| name = Black Death\n| image = File:1346-1353 spread of the Black Death in Europe map.svg\n| image_size = 400px\n| alt = Spread of the Black Death in Europe and the [[Near East]] (1346\u20131353)\n| caption =Spread of the Black Death in Europe and the [[Near East]] (1346\u20131353)\n| map1 = \n| legend1 = \n| map2 = \n| legend2 = \n| map3 = \n| legend3 = \n| map4 = \n| legend4 = \n| map5 = \n| image2 = \n| alt2 = \n| image3 =\n| alt3 = \n| image4 =\n| alt4 = \n| image5 = \n| alt5 = \n| footer_align = \n| footer = \n| disease = [[Bubonic plague]] \n| virus_strain = \n| location = Worldwide\n| first_reported =\n| first_outbreak = \n| first_case = \n| date = 1346\u20131353\n| arrival_date = \n| confirmed_cases = \n| recovery_cases = \n| deaths = 75,000,000 \u2013 200,000,000 (estimate)\n| territories = \n| suspected_cases = \n| total_ili = \n| website = \n}}",
+    "article": "The Black Death, also known as the Pestilence and the Great Mortality, was the most fatal pandemic recorded in human history.  The Black Death resulted in the deaths of up to  people in Eurasia and North Africa, peaking in Europe from 1347 to 1351. Plague, the disease caused by the bacterium Yersinia pestis, was the cause; Y. pestis infection most commonly results in bubonic plague, but can cause septicaemic or pneumonic plagues.\n\nThe Black Death was the beginning of the second plague pandemic. The plague created religious, social, and economic upheavals, with profound effects on the course of European history.\n\nThe Black Death most likely originated in Central Asia or East Asia, from where it travelled along the Silk Road, reaching Crimea by 1347. From there, it was most likely carried by fleas living on the black rats that travelled on Genoese merchant ships, spreading throughout the Mediterranean Basin and reaching Africa, Western Asia, and the rest of Europe via Constantinople, Sicily, and the Italian Peninsula. Current evidence indicates that once it came onshore, the Black Death was in large part spread by human fleas \u2013 which cause pneumonic plague \u2013 and the person-to-person contact via aerosols which pneumonic plague enables, thus explaining the very fast inland spread of the epidemic, which was faster than would be expected if the primary vector was rat fleas causing bubonic plague.\n\nThe Black Death was the second disaster affecting Europe during the Late Middle Ages (the first one being the Great Famine) and is estimated to have killed 30% to 60% of Europe's population. In total, the plague may have reduced the world population from an estimated 475\u00a0million to 350\u2013375 million in the 14th century. There were further outbreaks throughout the Late Middle Ages, and with other contributing factors it took until 1500 for the European population to regain the levels of 1300 (Crisis of the Late Middle Ages). Outbreaks of the plague recurred at various locations around the world until the early 19th century.\n\n==Names ==\nEuropean writers contemporary with the plague described the disease in Latin as  or ; ; . In English prior to the 18th century, the event was called the \"pestilence\" or \"great pestilence\", \"the plague\" or the \"great death\". Subsequent to the pandemic \"the furste moreyn\" (first murrain) or \"first pestilence\" was applied, to distinguish the mid-14th century phenomenon from other infectious diseases and epidemics of plague. The 1347 pandemic plague was not referred to specifically as \"black\" in the 14th or 15th centuries in any European language, though the expression \"black death\" had occasionally been applied to fatal disease beforehand.\n\n\"Black death\" was not used to describe the plague pandemic in English until the 1750s; the term is first attested in 1755, where it translated . This expression as a proper name for the pandemic had been popularised by Swedish and Danish chroniclers in the 15th and early 16th centuries, and in the 16th and 17th centuries was the transferred to other languages as a calque: , , and . Previously, most European languages had named the pandemic a variant or calque of the .\n\nThe phrase 'black death' \u2013 describing Death as black \u2013 is very old. Homer used it in the Odyssey to describe the monstrous Scylla, with her mouths \"full of black Death\". Seneca the Younger may have been the first to describe an epidemic as 'black death', but only in reference to the acute lethality and dark prognosis of disease. The 12th\u201313th century French physician Gilles de Corbeil had already used  to refer to a \"pestilential fever\" in his work On the Signs and Symptoms of Diseases. The phrase , was used in 1350 by Simon de Covino (or Couvin), a Belgian astronomer, in his poem \"On the Judgement of the Sun at a Feast of Saturn\", which attributes the plague to an astrological conjunction of Jupiter and Saturn. His use of the phrase is not connected unambiguously with the plague pandemic of 1347 and appears to refer to the fatal outcome of disease.\n\nThe historian Cardinal Francis Aidan Gasquet wrote about the Great Pestilence in 1893 and suggested that it had been \"some form of the ordinary Eastern or bubonic plague\". In 1908, Gasquet claimed that use of the name ' for the 14th-century epidemic first appeared in a 1631 book on Danish history by J.\u00a0I. Pontanus: \"Commonly and from its effects, they called it the black death\" (').\n\n== Previous plague epidemics ==\n\n\nRecent research has suggested plague first infected humans in Europe and Asia in the Late Neolithic-Early Bronze Age. Research in 2018 found evidence of Yersinia pestis in an ancient Swedish tomb, which may have been associated with the \"Neolithic decline\" around 3000 BC, in which European populations fell significantly. This Y. pestis may have been different to more modern types, with bubonic plague transmissible by fleas first known from Bronze Age remains near Samara.\n\nThe symptoms of bubonic plague are first attested in a fragment of Rufus of Ephesus preserved by Oribasius; these ancient medical authorities suggest bubonic plague had appeared in the Roman Empire before the reign of Trajan, six centuries before arriving at Pelusium in the reign of Justinian I. In 2013, researchers confirmed earlier speculation that the cause of the Plague of Justinian (541\u2013542 AD, with recurrences until 750) was Y. pestis. This is known as the First plague pandemic.\n\n==14th-century plague==\n\n===Causes===\nThe 13th-century Mongol conquest of China caused a decline in farming and trading. Economic recovery had been observed at the beginning of the fourteenth\u00a0century. In the 1330s, many natural disasters and epidemics led to widespread famine, starting in 1331, with the deadly plague pandemic arriving soon after. Other conditions, such as war, famine, and weather, contributed to the severity of the Black Death.\n\n==== Early theory ====\nThe most authoritative contemporary account is found in a report from the medical faculty in Paris to Philip VI of France. It blamed the heavens, in the form of a conjunction of three planets in 1345 that caused a \"great pestilence in the air\" (miasma theory).\n\nMuslim religious scholars taught that the pandemic was a \u201cmartyrdom and mercy\u201d from God, assuring the believer's place in paradise. For non-believers, it was a punishment. Some Muslim doctors cautioned against trying to prevent or treat a disease sent by God. Others adopted preventive measures and treatments for plague used by Europeans. These Muslim doctors also depended on the writings of the ancient Greeks.\n\n==== Predominant modern theory ====\n\nDue to climate change in Asia, rodents began to flee the dried-out grasslands to more populated areas, spreading the disease. The plague disease, caused by the bacterium Yersinia pestis, is enzootic (commonly present) in populations of fleas carried by ground rodents, including marmots, in various areas, including Central Asia, Kurdistan, Western Asia, North India, Uganda and the western United States.\n\nY. pestis was discovered by Alexandre Yersin, a pupil of Louis Pasteur, during an epidemic of bubonic plague in Hong Kong in 1894; Yersin also proved this bacillus was present in rodents and suggested the rat was the main vehicle of transmission. The mechanism by which Y. pestis is usually transmitted was established in 1898 by Paul-Louis Simond and was found to involve the bites of fleas whose midguts had become obstructed by replicating Y. pestis several days after feeding on an infected host. This blockage starves the fleas and drives them to aggressive feeding behaviour and attempts to clear the blockage by regurgitation, resulting in thousands of plague bacteria being flushed into the feeding site, infecting the host. The bubonic plague mechanism was also dependent on two populations of rodents: one resistant to the disease, which act as hosts, keeping the disease endemic, and a second that lack resistance. When the second population dies, the fleas move on to other hosts, including people, thus creating a human epidemic.\n\n=== Transmission ===\n\n\nThe importance of hygiene was recognised only in the nineteenth century with the development of the germ theory of disease; until then streets were commonly filthy, with live animals of all sorts around and human parasites abounding, facilitating the spread of transmissible disease.\n\nThe spread of disease was significantly more rampant in areas of poverty. Epidemics ravaged cities, and particularly children. Plague was easily spread by lice, unsanitary drinking water, armies, or by poor sanitation.\n\nOne early medical advance as a result of the Black Death was the establishment of the idea of quarantine in the city-state of Ragusa (modern Dubrovnik, Croatia) in 1377 after continuing outbreaks.\n\n====Transmission within Asia====\nAccording to international medical geneticists led by Mark Achtman that analysed the global sequence variation of the bacterium, all three of the great waves of the pandemic had their bacterium \"evolved in or near China\". The analysis also found that \"sylvatic cycles of disease depend on transmission by flea vectors\" and \"the likely origin of the plague in China has nothing to do with its people or crowded cities\".\n\nNestorian graves dating to 1338\u20131339 near Issyk-Kul in Kyrgyzstan have inscriptions referring to plague, which has led many epidemiologists to think they mark the outbreak of the epidemic; from which it could easily have spread to China and India.\n\nEpidemics, that may have included plague, killed an estimated 25\u00a0million across Asia during the fifteen\u00a0years before it reached Constantinople in 1347.\n\n\n\n==== Transmission outside of Asia ====\nThe disease may have travelled along the Silk Road with Mongol armies and traders, or it could have arrived via ship. By the end of 1346, reports of plague had reached the seaports of Europe: \"India was depopulated, Tartary, Mesopotamia, Syria, Armenia were covered with dead bodies\".\n\n====European outbreak====\nPlague was reportedly first introduced to Europe via Genoese traders from their port city of Kaffa in the Crimea in 1347. During a protracted siege of the city, in 1345\u20131346 the Mongol Golden Horde army of Jani Beg, whose mainly Tatar troops were suffering from the disease, catapulted infected corpses over the city walls of Kaffa to infect the inhabitants, though it is more likely that infected rats travelled across the siege lines to spread the epidemic to the inhabitants. As the disease took hold, Genoese traders fled across the Black Sea to Constantinople, where the disease first arrived in Europe in summer 1347. The epidemic there killed the 13 year-old son of the Byzantine emperor, John VI Kantakouzenos, who wrote a description of the disease modelled on Thucydides's account of the 5th century BCE Plague of Athens, but noting the spread of the Black Death by ship between maritime cities. Nicephorus Gregoras also described in writing to Demetrios Kydones the rising death toll, the futility of medicine, and the panic of the citizens. The first outbreak in Constantinople lasted a year, but the disease recurred ten times before 1400.\n\nCarried by twelve Genoese galleys, plague arrived by ship in Sicily in October 1347; the disease spread rapidly all over the island. Galleys from Kaffa reached Genoa and Venice in January 1348, but it was the outbreak in Pisa a few weeks later that was the entry point to northern Italy. Towards the end of January, one of the galleys expelled from Italy arrived in Marseilles.\n\nFrom Italy, the disease spread northwest across Europe, striking France, Spain (which was hit due to the heat \u2013 the epidemic raged in the early weeks of July), Portugal and England by June 1348, then spread east and north through Germany, Scotland and Scandinavia from 1348 to 1350. It was introduced into Norway in 1349 when a ship landed at Ask\u00f8y, then spread to Bj\u00f8rgvin (modern Bergen) and Iceland. Finally, it spread to northwestern Russia in 1351. Plague was somewhat more uncommon in parts of Europe with less developed trade with their neighbours, including the majority of the Basque Country, isolated parts of Belgium and the Netherlands, and isolated Alpine villages throughout the continent.\n\nAccording to some epidemiologists, periods of unfavourable weather decimated plague-infected rodent populations and forced their fleas onto alternative hosts, inducing plague outbreaks which often peaked in the hot summers of the Mediterranean, as well as during the cool autumn months of the southern Baltic states. Among many other culprits of plague contagiousness, malnutrition, even if distantly, also contributed to such an immense loss in European population, since it weakened immune systems.\n\n====Western Asian and North African outbreak====\nThe disease struck various regions in the Middle East and North Africa during the pandemic, leading to serious depopulation and permanent change in both economic and social structures. As infected rodents infected new rodents, the disease spread across the region, entering also from southern Russia.\n\nBy autumn 1347, plague had reached Alexandria in Egypt, transmitted by sea from Constantinople; according to a contemporary witness, from a single merchant ship carrying slaves. By late summer 1348 it reached Cairo, capital of the Mamluk Sultanate, cultural centre of the Islamic world, and the largest city in the Mediterranean Basin; the Bahriyya child sultan an-Nasir Hasan fled and more than a third of the 600,000 residents died. The Nile was choked with corpses despite Cairo having a medieval hospital, the late 13th century bimaristan of the Qalawun complex. The historian al-Maqrizi described the abundant work for grave-diggers and practitioners of funeral rites, and plague recurred in Cairo more than fifty times over the following century and half.\n\nDuring 1347, the disease travelled eastward to Gaza by April; by July it had reached Damascus, and in October plague had broken out in Aleppo. That year, in the territory of modern Lebanon, Syria, Israel, and Palestine, the cities of Ashkelon, Acre, Jerusalem, Sidon, and Homs were all infected. In 1348\u20131349, the disease reached Antioch. The city's residents fled to the north, but most of them ended up dying during the journey. Within two years, plague had spread throughout the Islamic world, from Arabia across North Africa. The pandemic spread westwards from Alexandria along the African coast, while in April 1348 Tunis was infected by ship from Sicily. Tunis was then under attack by an army from Morocco; this army dispersed in 1348 and brought the contagion with them to Morocco, whose epidemic may also have been seeded from the Islamic city of Almer\u00eda in al-Andalus.\n\nMecca became infected in 1348 by pilgrims performing the Hajj. In 1351 or 1352, the Rasulid sultan of the Yemen, al-Mujahid Ali, was released from Mamluk captivity in Egypt and carried plague with him on his return home. During 1348, records show the city of Mosul suffered a massive epidemic, and the city of Baghdad experienced a second round of the disease.\n\n=== Signs and symptoms ===\n \n\n==== Bubonic plague ====\nSymptoms of the disease include fever of , headaches, painful aching joints, nausea and vomiting, and a general feeling of malaise. Left untreated, of those that contract the bubonic plague, 80 percent die within eight days.\n\nContemporary accounts of the pandemic are varied and often imprecise. The most commonly noted symptom was the appearance of buboes (or gavocciolos) in the groin, neck, and armpits, which oozed pus and bled when opened. Boccaccio's description:\n\n\n\nThis was followed by acute fever and vomiting of blood. Most victims died two to seven days after initial infection. Freckle-like spots and rashes, which could have been caused by flea-bites, were identified as another potential sign of plague.\n\n==== Pneumonic plague ====\nLodewijk Heyligen, whose master the Cardinal Colonna died of plague in 1348, noted a distinct form of the disease, pneumonic plague, that infected the lungs and led to respiratory problems. Symptoms include fever, cough, and blood-tinged sputum. As the disease progresses, sputum becomes free-flowing and bright red. Pneumonic plague has a mortality rate of 90 to 95 percent.\n\n====Septicaemic plague====\nSepticaemic plague is the least common of the three forms, with a mortality rate near 100%. Symptoms are high fevers and purple skin patches (purpura due to disseminated intravascular coagulation). In cases of pneumonic and particularly septicaemic plague, the progress of the disease is so rapid that there would often be no time for the development of the enlarged lymph nodes that were noted as buboes.\n\n=== Consequences ===\n\n\n==== Deaths ====\n\nThere are no exact figures for the death toll; the rate varied widely by locality. In urban centres, the greater the population before the outbreak, the longer the duration of the period of abnormal mortality. It killed some  people in Eurasia. The mortality rate of the Black Death in the 14th century was far greater than the worst 20th-century outbreaks of Y. pestis plague, which occurred in India and killed as much as 3% of the population of certain cities.\n\n\nAccording to medieval historian Philip Daileader, it is likely that over four years, 45\u201350% of the European population died of plague. Norwegian historian Ole Benedictow suggests it could have been as much as 60% of the European population.  In 1348, the disease spread so rapidly that before any physicians or government authorities had time to reflect upon its origins, about a third of the European population had already perished. In crowded cities, it was not uncommon for as much as 50% of the population to die. Half of Paris' population of 100,000 people died. In Italy, the population of Florence was reduced from 110,000\u2013120,000 inhabitants in 1338 down to 50,000 in 1351. At least 60% of the population of Hamburg and Bremen perished, and a similar percentage of Londoners may have died from the disease as well, with a death toll of approximately 62,000 between 1346 and 1353. Florence's tax records suggest that 80% of the city's population died within four months in 1348.  Before 1350, there were about 170,000 settlements in Germany, and this was reduced by nearly 40,000 by 1450. The disease bypassed some areas, with the most isolated areas being less vulnerable to contagion. Plague did not appear in Douai in Flanders until the turn of the 15th century, and the impact was less severe on the populations of Hainaut, Finland, northern Germany, and areas of Poland. Monks, nuns, and priests were especially hard-hit since they cared for victims of the Black Death.\n\nThe physician to the Avignon Papacy, Raimundo Chalmel de Vinario, observed the decreasing mortality rate of successive outbreaks of plague in 1347-8, 1362, 1371, and 1382 in his 1382 treatise On Epidemics. In the first outbreak, two thirds of the population contracted the illness and most patients died; in the next, half the population became ill but only some died; by the third, a tenth were affected and many survived; while by the fourth occurrence, only one in twenty people were sickened and most of them survived. By the 1380s in Europe, it predominantly affected children. The papal doctor recognised that bloodletting was ineffective (though he continued to prescribe bleeding for members of the Roman Curia, whom he disliked), and claimed that all true cases of plague were caused by astrological factors and were incurable; he himself was never able to effect a cure.\n\nThe most widely accepted estimate for the Middle East, including Iraq, Iran, and Syria, during this time, is for a death toll of about a third of the population. The Black Death killed about 40% of Egypt's population. In Cairo, with a population numbering as many as 600,000, and possibly the largest city west of China, between one third and 40% of the inhabitants died inside of eight months.\n\nChildren were hit the hardest because many diseases, such as typhus and congenital syphilis, target the immune system, leaving young children without a fighting chance. Children in city dwellings were more affected by the spread of disease than the children of the wealthy.\n\nItalian chronicler Agnolo di Tura recorded his experience from Siena, where plague arrived in May 1348:\n\n\n==== Economic ====\nWith such a large population decline from the pandemic, wages soared in response to a labour shortage. On the other hand, in the quarter century after the Black Death in England, it is clear many labourers, artisans, and craftsmen, those living from money-wages alone, did suffer a reduction in real incomes owing to rampant inflation. Landowners were also pushed to substitute monetary rents for labour services in an effort to keep tenants.\n\n==== Environmental ====\nSome historians believe the innumerable deaths brought on by the pandemic cooled the climate by freeing up land and triggering reforestation. This may have led to the Little Ice Age.\n\n==== Persecutions ====\n\n\nRenewed religious fervour and fanaticism bloomed in the wake of the Black Death. Some Europeans targeted \"various groups such as Jews, friars, foreigners, beggars, pilgrims\", lepers, and Romani, blaming them for the crisis. Lepers, and others with skin diseases such as acne or psoriasis, were killed throughout Europe.\n\nBecause 14th-century healers and governments were at a loss to explain or stop the disease, Europeans turned to astrological forces, earthquakes, and the poisoning of wells by Jews as possible reasons for outbreaks. Many believed the epidemic was a punishment by God for their sins, and could be relieved by winning God's forgiveness.\n\nThere were many attacks against Jewish communities. In the Strasbourg massacre of February 1349, about 2,000 Jews were murdered. In August 1349, the Jewish communities in Mainz and Cologne were annihilated. By 1351, 60 major and 150 smaller Jewish communities had been destroyed. During this period many Jews relocated to Poland, where they received a warm welcome from King Casimir the Great.\n\n====Social====\n\nOne theory that has been advanced is that the devastation in Florence caused by the Black Death, which hit Europe between 1348 and 1350, resulted in a shift in the world view of people in 14th-century Italy and led to the Renaissance. Italy was particularly badly hit by the pandemic, and it has been speculated that the resulting familiarity with death caused thinkers to dwell more on their lives on Earth, rather than on spirituality and the afterlife. It has also been argued that the Black Death prompted a new wave of piety, manifested in the sponsorship of religious works of art. However, this does not fully explain why the Renaissance occurred specifically in Italy in the 14th century. The Black Death was a pandemic that affected all of Europe in the ways described, not only Italy. The Renaissance's emergence in Italy was most likely the result of the complex interaction of the above factors, in combination with an influx of Greek scholars following the fall of the Byzantine Empire.\n\nAs a result of the decimation in the populace the value of the working class increased, and commoners came to enjoy more freedom. To answer the increased need for labour, workers travelled in search of the most favourable position economically.\n\nCairo's population, partly owing to the numerous plague epidemics, was in the early 18th century half of what it was in 1347. The populations of some Italian cities, notably Florence, did not regain their pre-14th century size until the 19th century.\n\nThe demographic decline due to the pandemic had economic consequences: the prices of food dropped and land values declined by 30\u201340% in most parts of Europe between 1350 and 1400. Landholders faced a great loss, but for ordinary men and women it was a windfall. The survivors of the pandemic found not only that the prices of food were lower but also that lands were more abundant, and many of them inherited property from their dead relatives, and this probably destabilised feudalism.\n\n===DNA evidence===\n\n\nDefinitive confirmation of the role of Y. pestis arrived in 2010 with a publication in PLOS Pathogens by Haensch et al. They assessed the presence of DNA/RNA with polymerase chain reaction (PCR) techniques for Y. pestis from the tooth sockets in human skeletons from mass graves in northern, central and southern Europe that were associated archaeologically with the Black Death and subsequent resurgences. The authors concluded that this new research, together with prior analyses from the south of France and Germany, \"ends the debate about the cause of the Black Death, and unambiguously demonstrates that Y. pestis was the causative agent of the epidemic plague that devastated Europe during the Middle Ages\". In 2011, these results were further confirmed with genetic evidence derived from Black Death victims in the East Smithfield burial site in England. Schuenemann et al. concluded in 2011 \"that the Black Death in medieval Europe was caused by a variant of Y. pestis that may no longer exist.\"\n\nLater in 2011, Bos et al. reported in Nature the first draft genome of Y. pestis from plague victims from the same East Smithfield cemetery and indicated that the strain that caused the Black Death is ancestral to most modern strains of Y. pestis.\n\nSince this time, further genomic papers have further confirmed the phylogenetic placement of the Y. pestis strain responsible for the Black Death as both the ancestor of later plague epidemics including the third plague pandemic and as the descendant of the strain responsible for the Plague of Justinian. In addition, plague genomes from significantly earlier in prehistory have been recovered.\n\nDNA taken from 25 skeletons from 14th century London have shown plague is a strain of Y. pestis almost identical to that which hit Madagascar in 2013.\n\n===Alternative explanations ===\n\n\nIt is recognised that an epidemiological account of plague is as important as an identification of symptoms, but researchers are hampered by the lack of reliable statistics from this period. Most work has been done on the spread of the disease in England, and even estimates of overall population at the start vary by over 100% as no census was undertaken in England between the time of publication of the Domesday Book of 1086 and the poll tax of the year 1377. Estimates of plague victims are usually extrapolated from figures for the clergy.\n\n====Means of transmission====\nMathematical modelling is used to match the spreading patterns and the means of transmission. A research in 2018 challenged the popular hypothesis that \"infected rats died, their flea parasites could have jumped from the recently dead rat hosts to humans\". It suggested an alternative model in which \"the disease was spread from human fleas and body lice to other people\". The second model claims to better fit the trends of death toll because the rat-flea-human hypothesis would have produced a delayed but very high spike in deaths, which contradict historical death data.\n\nWall\u00f8e complains that all of these authors \"take it for granted that Simond's infection model, black rat \u2192 rat flea \u2192 human, which was developed to explain the spread of plague in India, is the only way an epidemic of Yersinia pestis infection could spread\", whilst pointing to several other possibilities. Similarly, Green has argued that greater attention is needed to the range of (especially non-commensal) animals that might be involved in the transmission of plague.\n\nArchaeologist Barney Sloane has argued that there is insufficient evidence of the extinction of numerous rats in the archaeological record of the medieval waterfront in London and that the disease spread too quickly to support the thesis that Y. pestis was spread from fleas on rats; he argues that transmission must have been person to person. This theory is supported by research in 2018 which suggested transmission was more likely by body lice and human fleas during the second plague pandemic.\n\n====Summary====\nAlthough academic debate continues, no single alternative solution has achieved widespread acceptance. Many scholars arguing for Y. pestis as the major agent of the pandemic suggest that its extent and symptoms can be explained by a combination of bubonic plague with other diseases, including typhus, smallpox and respiratory infections. In addition to the bubonic infection, others point to additional septicaemic (a type of \"blood poisoning\") and pneumonic (an airborne plague that attacks the lungs before the rest of the body) forms of plague, which lengthen the duration of outbreaks throughout the seasons and help account for its high mortality rate and additional recorded symptoms. In 2014, Public Health England announced the results of an examination of 25 bodies exhumed in the Clerkenwell area of London, as well as of wills registered in London during the period, which supported the pneumonic hypothesis.  Currently, while osteoarcheologists have conclusively verified the presence of Y. pestis bacteria in burial sites across northern Europe through examination of bones and dental pulp, no other epidemic pathogen has been discovered to bolster the alternative explanations.  In the words of one researcher: \"Finally, plague is plague.\"\n\n==Recurrences==\n\n\n\n=== Second plague pandemic ===\n\n\nThe plague repeatedly returned to haunt Europe and the Mediterranean throughout the 14th to 17th centuries. According to Biraben, the plague was present somewhere in Europe in every year between 1346 and 1671. (Note that some researchers have cautions about the uncritical use of Biraben's data.) The second pandemic was particularly widespread in the following years: 1360\u20131363; 1374; 1400; 1438\u20131439; 1456\u20131457; 1464\u20131466; 1481\u20131485; 1500\u20131503; 1518\u20131531; 1544\u20131548; 1563\u20131566; 1573\u20131588; 1596\u20131599; 1602\u20131611; 1623\u20131640; 1644\u20131654; and 1664\u20131667. Subsequent outbreaks, though severe, marked the retreat from most of Europe (18th\u00a0century) and northern Africa (19th\u00a0century). The historian George Sussman argued that the plague had not occurred in East Africa until the 1900s. However, other sources suggest that the Second pandemic did indeed reach Sub-Saharan Africa.\n\nAccording to historian Geoffrey Parker, \"France alone lost almost a million people to the plague in the epidemic of 1628\u201331.\" In the first half of the 17th century, a plague claimed some 1.7 million victims in Italy. More than 1.25 million deaths resulted from the extreme incidence of plague in 17th-century Spain.\n\n\n\nThe Black Death ravaged much of the Islamic world. Plague was present in at least one location in the Islamic world virtually every year between 1500 and 1850. Plague repeatedly struck the cities of North Africa. Algiers lost 30,000\u201350,000 inhabitants to it in 1620\u20131621, and again in 1654\u20131657, 1665, 1691, and 1740\u20131742. Cairo suffered more than fifty plague epidemics within 150 years from the plague's first appearance, with the final outbreak of the second pandemic there in the 1840s. Plague remained a major event in Ottoman society until the second quarter of the 19th century. Between 1701 and 1750, thirty-seven larger and smaller epidemics were recorded in Constantinople, and an additional thirty-one between 1751 and 1800. Baghdad has suffered severely from visitations of the plague, and sometimes two-thirds of its population has been wiped out.\n\n=== Third plague pandemic ===\n\n\n\nThe third plague pandemic (1855\u20131859) started in China in the mid-19th century, spreading to all inhabited continents and killing 10 million people in India alone. Twelve plague outbreaks in Australia between 1900 and 1925 resulted in well over 1,000 deaths, chiefly in Sydney. This led to the establishment of a Public Health Department there which undertook some leading-edge research on plague transmission from rat fleas to humans via the bacillus Yersinia pestis.\n\n=== Late 19th-century ===\nYersinia pestis is also responsible for an epidemic that began in southern China in 1865, eventually spreading to India. The investigation of the pathogen that caused the 19th-century plague was begun by teams of scientists who visited Hong Kong in 1894, among whom was the French-Swiss bacteriologist Alexandre Yersin, after whom the pathogen was named.\n\n===Others===\n\nThe first North American plague epidemic was the San Francisco plague of 1900\u20131904, followed by another outbreak in 1907\u20131908.\n\nModern treatment methods include insecticides, the use of antibiotics, and a plague vaccine. It is feared that the plague bacterium could develop drug resistance and again become a major health threat. One case of a drug-resistant form of the bacterium was found in Madagascar in 1995. A further outbreak in Madagascar was reported in November 2014. In October 2017 the deadliest outbreak of the plague in modern times hit Madagascar, killing 170 people and infecting thousands.\n\n=== Fatality rate ===\nAn estimate of the case fatality rate for the modern bubonic plague, following the introduction of antibiotics, is 11%, although it may be higher in underdeveloped regions.\n\n== In popular culture ==\n\n* A Journal of the Plague Year \u2013 1722 book by Daniel Defoe describing the Great Plague of London of 1665\u20131666\n* Black Death \u2013 a 2010 action horror film set in medieval England in 1348\n* I promessi sposi (\"The Betrothed\") \u2013 a plague novel by Alessandro Manzoni, set in Milan, and published in 1827; turned into an opera by Amilcare Ponchielli in 1856, and adapted for film in 1908, 1941, 1990, and 2004\n* Cronaca fiorentina (\"Chronicle of Florence\") \u2013 a literary history of the plague, and of Florence up to 1386, by Baldassarre Bonaiuti\n* Danse Macabre (\"Dance of Death\") \u2013 an artistic genre of allegory of the Late Middle Ages on the universality of death\n* The Decameron \u2013 by Giovanni Boccaccio, finished in 1353. Tales told by a group of people sheltering from the Black Death in Florence.  Numeerous adaptations to other media have been made\n* Doomsday Book \u2013 a 1992 science fiction novel by Connie Willis\n* A Feast in Time of Plague \u2013 a verse play by Aleksandr Pushkin (1830), made into an opera by C\u00e9sar Cui in 1900\n* Four thieves vinegar \u2013 a popular French legend supposed to provide immunity to the plague\n* Geisslerlieder \u2013 Medieval \"flagellant songs\"\n* \"A Litany in Time of Plague\" \u2013 a sonnet by Thomas Nashe which was part of his play Summer's Last Will and Testament (1592)\n* The Plague \u2013 a 1947 novel by Albert Camus, often read as an allegory about Fascism\n* \"Ring a Ring o' Roses\" \u2013 an English nursery rhyme and playground singing game which dates from the 1790s\n* The Seventh Seal \u2013 a 1957 film written and directed by Ingmar Bergman\n* World Without End \u2013 a 2007 novel by Ken Follett, turned into a miniseries of the same name in 2012\n* The Years of Rice and Salt \u2013 an alternate history novel by Kim Stanley Robinson set in a world in which the plague killed virtually all Europeans\n\n==See also==\n* Second plague pandemic\n* Black Death in medieval culture\n* Black Death in England\n* Crisis of the Late Middle Ages\n* Flagellant\n* Globalization and disease\n* List of epidemics\n* Timeline of plague\n\n==References==\nInformational notes\n\n\nCitations\n\n\nBibliography\n\n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n*\n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* Herlihy, D., (1997). The Black Death and the Transformation of the West, Cambridge, Massachusetts: Harvard University Press. \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n*  \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n* \n*  1st editions 1969.\n* \n\n\nFurther reading\n\n* \n* Cantor, Norman F. (2001). In the Wake of the Plague: The Black Death and the World It Made, New York, Free Press. \n* Cohn, Samuel K. Jr., (2002). The Black Death Transformed: Disease and Culture in Early Renaissance Europe, London: Arnold. \n* \n* \n* Scott, S., and Duncan, C. J., (2001). Biology of Plagues: Evidence from Historical Populations, Cambridge: Cambridge University Press. \n* Shrewsbury, J. F. D., (1970). A History of Bubonic Plague in the British Isles, London: Cambridge University Press. \n* Twigg, G., (1984). The Black Death: A Biological Reappraisal, London: Batsford. \n\n\n==External links==\n\n* \n*  Black Death at BBC\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nYersinia pestis (200\u00d7 magnification), the bacterium which causes plague.\nSpread of plague in western Eurasia, 1346\u20131353.\nA hand showing how acral gangrene of the fingers due to bubonic plague causes the skin and flesh to die and turn black.\nAn inguinal bubo on the upper thigh of a person infected with bubonic plague. Swollen lymph nodes (buboes) often occur in the neck, armpit and groin (inguinal) regions of plague victims.\nInspired by the Black Death, The Dance of Death, or Danse Macabre, an allegory on the universality of death, was a common painting motif in the late medieval period.\nCitizens of Tournai bury plague victims.\nJews being burned at the stake in 1349. Miniature from a 14th-century manuscript Antiquitates Flandriae.\nPieter Bruegel's The Triumph of Death reflects the social upheaval and terror that followed plague, which devastated medieval Europe.\nSkeletons in a mass grave from 1720\u20131721 in Martigues, near Marseille in southern France, yielded molecular evidence of the orientalis strain of Yersinia pestis, the organism responsible for bubonic plague. The second pandemic of bubonic plague was active in Europe from\u00a01347, the beginning of the Black Death, until 1750.\nThe Great Plague of London, in 1665, killed up to 100,000 people.\nA plague doctor and his typical apparel during the 17th Century Outbreak.\nContemporaneous painting of Marseille during the Great Plague in 1720.\nWorldwide distribution of plague-infected animals, 1998.",
+    "links": [
+        {
+            "title": "Black Death",
+            "text": "Black Death",
+            "start": 4,
+            "end": 15,
+            "id": "4501"
+        },
+        {
+            "title": "Black Death",
+            "text": "Pestilence",
+            "start": 35,
+            "end": 45,
+            "id": "4501"
+        },
+        {
+            "title": "Black Death",
+            "text": "Great Mortality",
+            "start": 54,
+            "end": 69,
+            "id": "4501"
+        },
+        {
+            "title": "Pandemic",
+            "text": "pandemic",
+            "start": 90,
+            "end": 98,
+            "id": "24255"
+        },
+        {
+            "title": "Eurasia",
+            "text": "Eurasia",
+            "start": 186,
+            "end": 193,
+            "id": "20611107"
+        },
+        {
+            "title": "North Africa",
+            "text": "North Africa",
+            "start": 198,
+            "end": 210,
+            "id": "21714"
+        },
+        {
+            "title": "Plague (disease)",
+            "text": "Plague",
+            "start": 249,
+            "end": 255,
+            "id": "4746"
+        },
+        {
+            "title": "Bacteria",
+            "text": "bacterium",
+            "start": 283,
+            "end": 292,
+            "id": "9028799"
+        },
+        {
+            "title": "Yersinia pestis",
+            "text": "Yersinia pestis",
+            "start": 293,
+            "end": 308,
+            "id": "34367"
+        },
+        {
+            "title": "Bubonic plague",
+            "text": "bubonic plague",
+            "start": 370,
+            "end": 384,
+            "id": "16392927"
+        },
+        {
+            "title": "Septicemic plague",
+            "text": "septicaemic",
+            "start": 400,
+            "end": 411,
+            "id": "431178"
+        },
+        {
+            "title": "Pneumonic plague",
+            "text": "pneumonic plague",
+            "start": 415,
+            "end": 431,
+            "id": "71064"
+        },
+        {
+            "title": "Second plague pandemic",
+            "text": "second plague pandemic",
+            "start": 476,
+            "end": 498,
+            "id": "33390780"
+        },
+        {
+            "title": "Central Asia",
+            "text": "Central Asia",
+            "start": 662,
+            "end": 674,
+            "id": "6742"
+        },
+        {
+            "title": "East Asia",
+            "text": "East Asia",
+            "start": 678,
+            "end": 687,
+            "id": "19605700"
+        },
+        {
+            "title": "Silk Road",
+            "text": "Silk Road",
+            "start": 723,
+            "end": 732,
+            "id": "54253"
+        },
+        {
+            "title": "Crimea",
+            "text": "Crimea",
+            "start": 743,
+            "end": 749,
+            "id": "163045"
+        },
+        {
+            "title": "Oriental rat flea",
+            "text": "fleas",
+            "start": 801,
+            "end": 806,
+            "id": "5444531"
+        },
+        {
+            "title": "Black rat",
+            "text": "black rat",
+            "start": 821,
+            "end": 830,
+            "id": "55983"
+        },
+        {
+            "title": "Republic of Genoa",
+            "text": "Genoese",
+            "start": 850,
+            "end": 857,
+            "id": "559961"
+        },
+        {
+            "title": "Western Asia",
+            "text": "Western Asia",
+            "start": 940,
+            "end": 952,
+            "id": "399656"
+        },
+        {
+            "title": "Constantinople",
+            "text": "Constantinople",
+            "start": 981,
+            "end": 995,
+            "id": "5646"
+        },
+        {
+            "title": "Sicily",
+            "text": "Sicily",
+            "start": 997,
+            "end": 1003,
+            "id": "27619"
+        },
+        {
+            "title": "Italian Peninsula",
+            "text": "Italian Peninsula",
+            "start": 1013,
+            "end": 1030,
+            "id": "378368"
+        },
+        {
+            "title": "Human flea",
+            "text": "human flea",
+            "start": 1130,
+            "end": 1140,
+            "id": "17910191"
+        },
+        {
+            "title": "Rat flea",
+            "text": "rat flea",
+            "start": 1380,
+            "end": 1388,
+            "id": "25487053"
+        },
+        {
+            "title": "Crisis of the Late Middle Ages",
+            "text": "Late Middle Ages",
+            "start": 1483,
+            "end": 1499,
+            "id": "3525088"
+        },
+        {
+            "title": "Great Famine of 1315\u20131317",
+            "text": "Great Famine",
+            "start": 1525,
+            "end": 1537,
+            "id": "1422649"
+        },
+        {
+            "title": "World population",
+            "text": "world population",
+            "start": 1648,
+            "end": 1664,
+            "id": "19017269"
+        },
+        {
+            "title": "Crisis of the Late Middle Ages",
+            "text": "Crisis of the Late Middle Ages",
+            "start": 1910,
+            "end": 1940,
+            "id": "3525088"
+        },
+        {
+            "title": "Murrain",
+            "text": "murrain",
+            "start": 2334,
+            "end": 2341,
+            "id": "531457"
+        },
+        {
+            "title": "Calque",
+            "text": "calque",
+            "start": 3069,
+            "end": 3075,
+            "id": "163852"
+        },
+        {
+            "title": "Thanatos",
+            "text": "Death",
+            "start": 3214,
+            "end": 3219,
+            "id": "83102"
+        },
+        {
+            "title": "Homer",
+            "text": "Homer",
+            "start": 3244,
+            "end": 3249,
+            "id": "13633"
+        },
+        {
+            "title": "Odyssey",
+            "text": "Odyssey",
+            "start": 3265,
+            "end": 3272,
+            "id": "22349"
+        },
+        {
+            "title": "Scylla",
+            "text": "Scylla",
+            "start": 3299,
+            "end": 3305,
+            "id": "27888"
+        },
+        {
+            "title": "Seneca the Younger",
+            "text": "Seneca the Younger",
+            "start": 3346,
+            "end": 3364,
+            "id": "75150"
+        },
+        {
+            "title": "Prognosis",
+            "text": "prognosis",
+            "start": 3485,
+            "end": 3494,
+            "id": "727204"
+        },
+        {
+            "title": "Gilles de Corbeil",
+            "text": "Gilles de Corbeil",
+            "start": 3546,
+            "end": 3563,
+            "id": "30097895"
+        },
+        {
+            "title": "Astrological aspect",
+            "text": "conjunction",
+            "start": 3863,
+            "end": 3874,
+            "id": "179966"
+        },
+        {
+            "title": "Francis Aidan Gasquet",
+            "text": "Francis Aidan Gasquet",
+            "start": 4062,
+            "end": 4083,
+            "id": "3629281"
+        },
+        {
+            "title": "Johannes Isacius Pontanus",
+            "text": "J.\u00a0I. Pontanus",
+            "start": 4340,
+            "end": 4354,
+            "id": "11314468"
+        },
+        {
+            "title": "Yersinia pestis",
+            "text": "Yersinia pestis",
+            "start": 4613,
+            "end": 4628,
+            "id": "34367"
+        },
+        {
+            "title": "Neolithic decline",
+            "text": "Neolithic decline",
+            "start": 4698,
+            "end": 4715,
+            "id": "62333972"
+        },
+        {
+            "title": "Samara",
+            "text": "Samara",
+            "start": 4928,
+            "end": 4934,
+            "id": "72796"
+        },
+        {
+            "title": "Literary fragment",
+            "text": "fragment",
+            "start": 4992,
+            "end": 5000,
+            "id": "26184869"
+        },
+        {
+            "title": "Rufus of Ephesus",
+            "text": "Rufus of Ephesus",
+            "start": 5004,
+            "end": 5020,
+            "id": "5317583"
+        },
+        {
+            "title": "Oribasius",
+            "text": "Oribasius",
+            "start": 5034,
+            "end": 5043,
+            "id": "5317729"
+        },
+        {
+            "title": "Roman Empire",
+            "text": "Roman Empire",
+            "start": 5122,
+            "end": 5134,
+            "id": "25507"
+        },
+        {
+            "title": "Trajan",
+            "text": "Trajan",
+            "start": 5155,
+            "end": 5161,
+            "id": "30570"
+        },
+        {
+            "title": "Pelusium",
+            "text": "Pelusium",
+            "start": 5196,
+            "end": 5204,
+            "id": "986790"
+        },
+        {
+            "title": "Justinian I",
+            "text": "Justinian I",
+            "start": 5221,
+            "end": 5232,
+            "id": "16209"
+        },
+        {
+            "title": "Plague of Justinian",
+            "text": "Plague of Justinian",
+            "start": 5307,
+            "end": 5326,
+            "id": "548536"
+        },
+        {
+            "title": "First plague pandemic",
+            "text": "First plague pandemic",
+            "start": 5404,
+            "end": 5425,
+            "id": "33390747"
+        },
+        {
+            "title": "Mongol conquest of China",
+            "text": "Mongol conquest of China",
+            "start": 5483,
+            "end": 5507,
+            "id": "13383601"
+        },
+        {
+            "title": "Philip VI of France",
+            "text": "Philip VI of France",
+            "start": 6003,
+            "end": 6022,
+            "id": "77498"
+        },
+        {
+            "title": "Conjunction (astronomy)",
+            "text": "conjunction",
+            "start": 6064,
+            "end": 6075,
+            "id": "49434"
+        },
+        {
+            "title": "Miasma theory",
+            "text": "miasma theory",
+            "start": 6146,
+            "end": 6159,
+            "id": "223250"
+        },
+        {
+            "title": "Crisis of the Late Middle Ages#Climate change and plague epidemic correlation",
+            "text": "climate change in Asia",
+            "start": 6622,
+            "end": 6644,
+            "id": null
+        },
+        {
+            "title": "Yersinia pestis",
+            "text": "Yersinia pestis",
+            "start": 6785,
+            "end": 6800,
+            "id": "34367"
+        },
+        {
+            "title": "Enzootic",
+            "text": "enzootic",
+            "start": 6805,
+            "end": 6813,
+            "id": "11094380"
+        },
+        {
+            "title": "Rodent",
+            "text": "rodent",
+            "start": 6875,
+            "end": 6881,
+            "id": "19337310"
+        },
+        {
+            "title": "Marmot",
+            "text": "marmot",
+            "start": 6894,
+            "end": 6900,
+            "id": "401005"
+        },
+        {
+            "title": "Central Asia",
+            "text": "Central Asia",
+            "start": 6931,
+            "end": 6943,
+            "id": "6742"
+        },
+        {
+            "title": "Kurdistan",
+            "text": "Kurdistan",
+            "start": 6945,
+            "end": 6954,
+            "id": "80777"
+        },
+        {
+            "title": "Western Asia",
+            "text": "Western Asia",
+            "start": 6956,
+            "end": 6968,
+            "id": "399656"
+        },
+        {
+            "title": "North India",
+            "text": "North India",
+            "start": 6970,
+            "end": 6981,
+            "id": "1552939"
+        },
+        {
+            "title": "Uganda",
+            "text": "Uganda",
+            "start": 6983,
+            "end": 6989,
+            "id": "31816"
+        },
+        {
+            "title": "Alexandre Yersin",
+            "text": "Alexandre Yersin",
+            "start": 7050,
+            "end": 7066,
+            "id": "727904"
+        },
+        {
+            "title": "Louis Pasteur",
+            "text": "Louis Pasteur",
+            "start": 7079,
+            "end": 7092,
+            "id": "17740"
+        },
+        {
+            "title": "Bacilli",
+            "text": "bacillus",
+            "start": 7177,
+            "end": 7185,
+            "id": "261229"
+        },
+        {
+            "title": "Paul-Louis Simond",
+            "text": "Paul-Louis Simond",
+            "start": 7352,
+            "end": 7369,
+            "id": "9621333"
+        },
+        {
+            "title": "Midgut",
+            "text": "midgut",
+            "start": 7420,
+            "end": 7426,
+            "id": "4639041"
+        },
+        {
+            "title": "Vomiting",
+            "text": "regurgitation",
+            "start": 7641,
+            "end": 7654,
+            "id": "8507183"
+        },
+        {
+            "title": "Host (biology)",
+            "text": "hosts",
+            "start": 7877,
+            "end": 7882,
+            "id": "214053"
+        },
+        {
+            "title": "Endemic (epidemiology)",
+            "text": "endemic",
+            "start": 7904,
+            "end": 7911,
+            "id": "937967"
+        },
+        {
+            "title": "Epidemic typhus",
+            "text": "epidemic",
+            "start": 8055,
+            "end": 8063,
+            "id": "46177"
+        },
+        {
+            "title": "Hygiene",
+            "text": "hygiene",
+            "start": 8107,
+            "end": 8114,
+            "id": "147020"
+        },
+        {
+            "title": "Germ theory of disease",
+            "text": "germ theory of disease",
+            "start": 8189,
+            "end": 8211,
+            "id": "185259"
+        },
+        {
+            "title": "Transmission (medicine)",
+            "text": "transmissible disease",
+            "start": 8350,
+            "end": 8371,
+            "id": "729317"
+        },
+        {
+            "title": "Epidemic",
+            "text": "Epidemic",
+            "start": 8448,
+            "end": 8456,
+            "id": "66981"
+        },
+        {
+            "title": "Quarantine",
+            "text": "quarantine",
+            "start": 8688,
+            "end": 8698,
+            "id": "25237"
+        },
+        {
+            "title": "Republic of Ragusa",
+            "text": "Ragusa",
+            "start": 8720,
+            "end": 8726,
+            "id": "2946786"
+        },
+        {
+            "title": "Dubrovnik",
+            "text": "Dubrovnik",
+            "start": 8735,
+            "end": 8744,
+            "id": "55116"
+        },
+        {
+            "title": "Medical genetics",
+            "text": "medical geneticists",
+            "start": 8852,
+            "end": 8871,
+            "id": "3464219"
+        },
+        {
+            "title": "Sequence variation",
+            "text": "sequence variation",
+            "start": 8917,
+            "end": 8935,
+            "id": null
+        },
+        {
+            "title": "Sylvatic cycle",
+            "text": "sylvatic cycle",
+            "start": 9077,
+            "end": 9091,
+            "id": "15171756"
+        },
+        {
+            "title": "Transmission (medicine)",
+            "text": "transmission",
+            "start": 9114,
+            "end": 9126,
+            "id": "729317"
+        },
+        {
+            "title": "Flea",
+            "text": "flea",
+            "start": 9130,
+            "end": 9134,
+            "id": "77305"
+        },
+        {
+            "title": "Vector (epidemiology)",
+            "text": "vectors",
+            "start": 9135,
+            "end": 9142,
+            "id": "13865571"
+        },
+        {
+            "title": "Nestorianism",
+            "text": "Nestorian",
+            "start": 9245,
+            "end": 9254,
+            "id": "22065"
+        },
+        {
+            "title": "Issyk-Kul",
+            "text": "Issyk-Kul",
+            "start": 9287,
+            "end": 9296,
+            "id": "231745"
+        },
+        {
+            "title": "Kyrgyzstan",
+            "text": "Kyrgyzstan",
+            "start": 9300,
+            "end": 9310,
+            "id": "170131"
+        },
+        {
+            "title": "Epidemiology",
+            "text": "epidemiologists",
+            "start": 9369,
+            "end": 9384,
+            "id": "66997"
+        },
+        {
+            "title": "Epidemic",
+            "text": "epidemic",
+            "start": 9424,
+            "end": 9432,
+            "id": "66981"
+        },
+        {
+            "title": "Constantinople",
+            "text": "Constantinople",
+            "start": 9622,
+            "end": 9636,
+            "id": "5646"
+        },
+        {
+            "title": "Silk Road",
+            "text": "Silk Road",
+            "start": 9729,
+            "end": 9738,
+            "id": "54253"
+        },
+        {
+            "title": "Mongols",
+            "text": "Mongol",
+            "start": 9744,
+            "end": 9750,
+            "id": "18984"
+        },
+        {
+            "title": "Tartary",
+            "text": "Tartary",
+            "start": 9904,
+            "end": 9911,
+            "id": "229283"
+        },
+        {
+            "title": "Mesopotamia",
+            "text": "Mesopotamia",
+            "start": 9913,
+            "end": 9924,
+            "id": "20189"
+        },
+        {
+            "title": "Syria",
+            "text": "Syria",
+            "start": 9926,
+            "end": 9931,
+            "id": "7515849"
+        },
+        {
+            "title": "Armenia",
+            "text": "Armenia",
+            "start": 9933,
+            "end": 9940,
+            "id": "10918072"
+        },
+        {
+            "title": "Republic of Genoa",
+            "text": "Genoese",
+            "start": 10053,
+            "end": 10060,
+            "id": "559961"
+        },
+        {
+            "title": "Feodosia",
+            "text": "Kaffa",
+            "start": 10093,
+            "end": 10098,
+            "id": "248788"
+        },
+        {
+            "title": "Crimea",
+            "text": "Crimea",
+            "start": 10106,
+            "end": 10112,
+            "id": "163045"
+        },
+        {
+            "title": "Golden Horde",
+            "text": "Golden Horde",
+            "start": 10185,
+            "end": 10197,
+            "id": "147911"
+        },
+        {
+            "title": "Jani Beg",
+            "text": "Jani Beg",
+            "start": 10206,
+            "end": 10214,
+            "id": "1755270"
+        },
+        {
+            "title": "Tatars",
+            "text": "Tatar",
+            "start": 10229,
+            "end": 10234,
+            "id": "56877"
+        },
+        {
+            "title": "Biological warfare",
+            "text": "catapulted infected corpses",
+            "start": 10275,
+            "end": 10302,
+            "id": "4361"
+        },
+        {
+            "title": "Black Sea",
+            "text": "Black Sea",
+            "start": 10537,
+            "end": 10546,
+            "id": "3386"
+        },
+        {
+            "title": "Constantinople",
+            "text": "Constantinople",
+            "start": 10550,
+            "end": 10564,
+            "id": "5646"
+        },
+        {
+            "title": "Byzantine Empire",
+            "text": "Byzantine emperor",
+            "start": 10677,
+            "end": 10694,
+            "id": "16972981"
+        },
+        {
+            "title": "John VI Kantakouzenos",
+            "text": "John VI Kantakouzenos",
+            "start": 10696,
+            "end": 10717,
+            "id": "74226"
+        },
+        {
+            "title": "Thucydides",
+            "text": "Thucydides's",
+            "start": 10770,
+            "end": 10782,
+            "id": "30864"
+        },
+        {
+            "title": "Plague of Athens",
+            "text": "Plague of Athens",
+            "start": 10814,
+            "end": 10830,
+            "id": "1858051"
+        },
+        {
+            "title": "Nicephorus Gregoras",
+            "text": "Nicephorus Gregoras",
+            "start": 10906,
+            "end": 10925,
+            "id": "142391"
+        },
+        {
+            "title": "Demetrios Kydones",
+            "text": "Demetrios Kydones",
+            "start": 10955,
+            "end": 10972,
+            "id": "9635528"
+        },
+        {
+            "title": "Sicily",
+            "text": "Sicily",
+            "start": 11215,
+            "end": 11221,
+            "id": "27619"
+        },
+        {
+            "title": "Feodosia",
+            "text": "Kaffa",
+            "start": 11300,
+            "end": 11305,
+            "id": "248788"
+        },
+        {
+            "title": "Pisa",
+            "text": "Pisa",
+            "start": 11375,
+            "end": 11379,
+            "id": "24636"
+        },
+        {
+            "title": "Marseille",
+            "text": "Marseille",
+            "start": 11520,
+            "end": 11529,
+            "id": "40888948"
+        },
+        {
+            "title": "Ask\u00f8y",
+            "text": "Ask\u00f8y",
+            "start": 11876,
+            "end": 11881,
+            "id": "178119"
+        },
+        {
+            "title": "Bergen",
+            "text": "Bergen",
+            "start": 11915,
+            "end": 11921,
+            "id": "56494"
+        },
+        {
+            "title": "Iceland",
+            "text": "Iceland",
+            "start": 11927,
+            "end": 11934,
+            "id": "14531"
+        },
+        {
+            "title": "Basque Country (greater region)",
+            "text": "Basque Country",
+            "start": 12119,
+            "end": 12133,
+            "id": "683036"
+        },
+        {
+            "title": "Pandemic",
+            "text": "pandemic",
+            "start": 12871,
+            "end": 12879,
+            "id": "24255"
+        },
+        {
+            "title": "Alexandria",
+            "text": "Alexandria",
+            "start": 13126,
+            "end": 13136,
+            "id": "3080"
+        },
+        {
+            "title": "Constantinople",
+            "text": "Constantinople",
+            "start": 13171,
+            "end": 13185,
+            "id": "5646"
+        },
+        {
+            "title": "Mamluk Sultanate (Cairo)",
+            "text": "Mamluk Sultanate",
+            "start": 13322,
+            "end": 13338,
+            "id": "20738544"
+        },
+        {
+            "title": "Muslim world",
+            "text": "Islamic world",
+            "start": 13363,
+            "end": 13376,
+            "id": "191429"
+        },
+        {
+            "title": "Mediterranean Basin",
+            "text": "Mediterranean Basin",
+            "start": 13406,
+            "end": 13425,
+            "id": "2454408"
+        },
+        {
+            "title": "Bahri dynasty",
+            "text": "Bahriyya",
+            "start": 13431,
+            "end": 13439,
+            "id": "882845"
+        },
+        {
+            "title": "An-Nasir Hasan",
+            "text": "an-Nasir Hasan",
+            "start": 13453,
+            "end": 13467,
+            "id": "49074696"
+        },
+        {
+            "title": "Nile",
+            "text": "Nile",
+            "start": 13530,
+            "end": 13534,
+            "id": "21244"
+        },
+        {
+            "title": "Bimaristan",
+            "text": "bimaristan",
+            "start": 13623,
+            "end": 13633,
+            "id": "8284152"
+        },
+        {
+            "title": "Qalawun complex",
+            "text": "Qalawun complex",
+            "start": 13641,
+            "end": 13656,
+            "id": "18643363"
+        },
+        {
+            "title": "Al-Maqrizi",
+            "text": "al-Maqrizi",
+            "start": 13672,
+            "end": 13682,
+            "id": "343809"
+        },
+        {
+            "title": "Islamic funeral",
+            "text": "funeral rites",
+            "start": 13750,
+            "end": 13763,
+            "id": "8141896"
+        },
+        {
+            "title": "Gaza City",
+            "text": "Gaza",
+            "start": 13901,
+            "end": 13905,
+            "id": "55387"
+        },
+        {
+            "title": "Damascus",
+            "text": "Damascus",
+            "start": 13939,
+            "end": 13947,
+            "id": "8914"
+        },
+        {
+            "title": "Aleppo",
+            "text": "Aleppo",
+            "start": 13989,
+            "end": 13995,
+            "id": "159244"
+        },
+        {
+            "title": "Syria (region)",
+            "text": "the territory",
+            "start": 14011,
+            "end": 14024,
+            "id": "39513173"
+        },
+        {
+            "title": "Lebanon",
+            "text": "Lebanon",
+            "start": 14035,
+            "end": 14042,
+            "id": "17771"
+        },
+        {
+            "title": "Syria",
+            "text": "Syria",
+            "start": 14044,
+            "end": 14049,
+            "id": "7515849"
+        },
+        {
+            "title": "Israel",
+            "text": "Israel",
+            "start": 14051,
+            "end": 14057,
+            "id": "9282173"
+        },
+        {
+            "title": "Palestinian territories",
+            "text": "Palestine",
+            "start": 14063,
+            "end": 14072,
+            "id": "96665"
+        },
+        {
+            "title": "Ashkelon",
+            "text": "Ashkelon",
+            "start": 14088,
+            "end": 14096,
+            "id": "55386"
+        },
+        {
+            "title": "Acre, Israel",
+            "text": "Acre",
+            "start": 14098,
+            "end": 14102,
+            "id": "55690"
+        },
+        {
+            "title": "Jerusalem",
+            "text": "Jerusalem",
+            "start": 14104,
+            "end": 14113,
+            "id": "16043"
+        },
+        {
+            "title": "Sidon",
+            "text": "Sidon",
+            "start": 14115,
+            "end": 14120,
+            "id": "28366"
+        },
+        {
+            "title": "Homs",
+            "text": "Homs",
+            "start": 14126,
+            "end": 14130,
+            "id": "77533"
+        },
+        {
+            "title": "Antioch",
+            "text": "Antioch",
+            "start": 14184,
+            "end": 14191,
+            "id": "36900"
+        },
+        {
+            "title": "Tunis",
+            "text": "Tunis",
+            "start": 14475,
+            "end": 14480,
+            "id": "57659"
+        },
+        {
+            "title": "Almer\u00eda",
+            "text": "Almer\u00eda",
+            "start": 14710,
+            "end": 14717,
+            "id": "385256"
+        },
+        {
+            "title": "Al-Andalus",
+            "text": "al-Andalus",
+            "start": 14721,
+            "end": 14731,
+            "id": "355643"
+        },
+        {
+            "title": "Mecca",
+            "text": "Mecca",
+            "start": 14734,
+            "end": 14739,
+            "id": "21021"
+        },
+        {
+            "title": "Hajj",
+            "text": "Hajj",
+            "start": 14791,
+            "end": 14795,
+            "id": "23487999"
+        },
+        {
+            "title": "Rasulid dynasty",
+            "text": "Rasulid",
+            "start": 14818,
+            "end": 14825,
+            "id": "2441327"
+        },
+        {
+            "title": "Yemen",
+            "text": "Yemen",
+            "start": 14840,
+            "end": 14845,
+            "id": "350939"
+        },
+        {
+            "title": "Al-Mujahid Ali",
+            "text": "al-Mujahid Ali",
+            "start": 14847,
+            "end": 14861,
+            "id": null
+        },
+        {
+            "title": "Mosul",
+            "text": "Mosul",
+            "start": 14993,
+            "end": 14998,
+            "id": "200475"
+        },
+        {
+            "title": "Baghdad",
+            "text": "Baghdad",
+            "start": 15044,
+            "end": 15051,
+            "id": "4492"
+        },
+        {
+            "title": "Arthralgia",
+            "text": "painful aching joints",
+            "start": 15205,
+            "end": 15226,
+            "id": "380239"
+        },
+        {
+            "title": "Nausea",
+            "text": "nausea",
+            "start": 15228,
+            "end": 15234,
+            "id": "18947703"
+        },
+        {
+            "title": "Malaise",
+            "text": "malaise",
+            "start": 15274,
+            "end": 15281,
+            "id": "1046445"
+        },
+        {
+            "title": "Bubo",
+            "text": "bubo",
+            "start": 15501,
+            "end": 15505,
+            "id": "8542879"
+        },
+        {
+            "title": "Giovanni Boccaccio",
+            "text": "Boccaccio",
+            "start": 15596,
+            "end": 15605,
+            "id": "12957"
+        },
+        {
+            "title": "Fever",
+            "text": "fever",
+            "start": 15651,
+            "end": 15656,
+            "id": "46253"
+        },
+        {
+            "title": "Hematemesis",
+            "text": "vomiting of blood",
+            "start": 15661,
+            "end": 15678,
+            "id": "540173"
+        },
+        {
+            "title": "Pulicosis",
+            "text": "flea-bites",
+            "start": 15804,
+            "end": 15814,
+            "id": "22776958"
+        },
+        {
+            "title": "Lodewijk Heyligen",
+            "text": "Lodewijk Heyligen",
+            "start": 15897,
+            "end": 15914,
+            "id": "35237005"
+        },
+        {
+            "title": "Giovanni Colonna (cardinal, 1295\u20131348)",
+            "text": "Cardinal Colonna",
+            "start": 15933,
+            "end": 15949,
+            "id": "35235592"
+        },
+        {
+            "title": "Pneumonic plague",
+            "text": "pneumonic plague",
+            "start": 16012,
+            "end": 16028,
+            "id": "71064"
+        },
+        {
+            "title": "Hemoptysis",
+            "text": "blood-tinged sputum",
+            "start": 16122,
+            "end": 16141,
+            "id": "221228"
+        },
+        {
+            "title": "Septicemic plague",
+            "text": "Septicaemic plague",
+            "start": 16301,
+            "end": 16319,
+            "id": "431178"
+        },
+        {
+            "title": "Purpura",
+            "text": "purpura",
+            "start": 16443,
+            "end": 16450,
+            "id": "1157632"
+        },
+        {
+            "title": "Disseminated intravascular coagulation",
+            "text": "disseminated intravascular coagulation",
+            "start": 16458,
+            "end": 16496,
+            "id": "238124"
+        },
+        {
+            "title": "Philip Daileader",
+            "text": "Philip Daileader",
+            "start": 17247,
+            "end": 17263,
+            "id": "8167001"
+        },
+        {
+            "title": "Florence",
+            "text": "Florence",
+            "start": 17812,
+            "end": 17820,
+            "id": "11525"
+        },
+        {
+            "title": "Hamburg",
+            "text": "Hamburg",
+            "start": 17932,
+            "end": 17939,
+            "id": "13467"
+        },
+        {
+            "title": "Bremen",
+            "text": "Bremen",
+            "start": 17944,
+            "end": 17950,
+            "id": "9420388"
+        },
+        {
+            "title": "Contagious disease",
+            "text": "contagion",
+            "start": 18399,
+            "end": 18408,
+            "id": "1401706"
+        },
+        {
+            "title": "Douai",
+            "text": "Douai",
+            "start": 18435,
+            "end": 18440,
+            "id": "89875"
+        },
+        {
+            "title": "French Flanders",
+            "text": "Flanders",
+            "start": 18444,
+            "end": 18452,
+            "id": "1766597"
+        },
+        {
+            "title": "County of Hainaut",
+            "text": "Hainaut",
+            "start": 18542,
+            "end": 18549,
+            "id": "690885"
+        },
+        {
+            "title": "History of Finland",
+            "text": "Finland",
+            "start": 18551,
+            "end": 18558,
+            "id": "14378"
+        },
+        {
+            "title": "Avignon Papacy",
+            "text": "Avignon Papacy",
+            "start": 18720,
+            "end": 18734,
+            "id": "38174"
+        },
+        {
+            "title": "Bloodletting",
+            "text": "bloodletting",
+            "start": 19315,
+            "end": 19327,
+            "id": "64196"
+        },
+        {
+            "title": "Roman Curia",
+            "text": "Roman Curia",
+            "start": 19406,
+            "end": 19417,
+            "id": "26538"
+        },
+        {
+            "title": "Typhus",
+            "text": "typhus",
+            "start": 20038,
+            "end": 20044,
+            "id": "20321147"
+        },
+        {
+            "title": "Congenital syphilis",
+            "text": "congenital syphilis",
+            "start": 20049,
+            "end": 20068,
+            "id": "1043913"
+        },
+        {
+            "title": "Agnolo di Tura",
+            "text": "Agnolo di Tura",
+            "start": 20271,
+            "end": 20285,
+            "id": "19116057"
+        },
+        {
+            "title": "Siena",
+            "text": "Siena",
+            "start": 20315,
+            "end": 20320,
+            "id": "27856145"
+        },
+        {
+            "title": "Reforestation",
+            "text": "reforestation",
+            "start": 20972,
+            "end": 20985,
+            "id": "66984"
+        },
+        {
+            "title": "Little Ice Age",
+            "text": "Little Ice Age",
+            "start": 21012,
+            "end": 21026,
+            "id": "36786"
+        },
+        {
+            "title": "Fanaticism",
+            "text": "fanaticism",
+            "start": 21084,
+            "end": 21094,
+            "id": "192744"
+        },
+        {
+            "title": "Friar",
+            "text": "friar",
+            "start": 21189,
+            "end": 21194,
+            "id": "312753"
+        },
+        {
+            "title": "Pilgrim",
+            "text": "pilgrim",
+            "start": 21218,
+            "end": 21225,
+            "id": "61829"
+        },
+        {
+            "title": "Romani people",
+            "text": "Romani",
+            "start": 21241,
+            "end": 21247,
+            "id": "26152"
+        },
+        {
+            "title": "Leprosy",
+            "text": "Lepers",
+            "start": 21278,
+            "end": 21284,
+            "id": "44700"
+        },
+        {
+            "title": "Acne",
+            "text": "acne",
+            "start": 21324,
+            "end": 21328,
+            "id": "74555"
+        },
+        {
+            "title": "Psoriasis",
+            "text": "psoriasis",
+            "start": 21332,
+            "end": 21341,
+            "id": "101965"
+        },
+        {
+            "title": "Astrology",
+            "text": "astrological",
+            "start": 21487,
+            "end": 21499,
+            "id": "2122"
+        },
+        {
+            "title": "Divine retribution",
+            "text": "punishment by God",
+            "start": 21624,
+            "end": 21641,
+            "id": "456518"
+        },
+        {
+            "title": "Forgiveness",
+            "text": "God's forgiveness",
+            "start": 21691,
+            "end": 21708,
+            "id": "246042"
+        },
+        {
+            "title": "Strasbourg massacre",
+            "text": "Strasbourg massacre",
+            "start": 21770,
+            "end": 21789,
+            "id": "21765396"
+        },
+        {
+            "title": "Mainz",
+            "text": "Mainz",
+            "start": 21882,
+            "end": 21887,
+            "id": "20537"
+        },
+        {
+            "title": "Cologne",
+            "text": "Cologne",
+            "start": 21892,
+            "end": 21899,
+            "id": "6187"
+        },
+        {
+            "title": "Kingdom of Poland (1025\u20131385)",
+            "text": "Poland",
+            "start": 22033,
+            "end": 22039,
+            "id": "636823"
+        },
+        {
+            "title": "Casimir III the Great",
+            "text": "Casimir the Great",
+            "start": 22086,
+            "end": 22103,
+            "id": "7362"
+        },
+        {
+            "title": "Florence",
+            "text": "Florence",
+            "start": 22183,
+            "end": 22191,
+            "id": "11525"
+        },
+        {
+            "title": "Renaissance",
+            "text": "Renaissance",
+            "start": 22344,
+            "end": 22355,
+            "id": "25532"
+        },
+        {
+            "title": "Spirituality",
+            "text": "spirituality",
+            "start": 22546,
+            "end": 22558,
+            "id": "28387"
+        },
+        {
+            "title": "Afterlife",
+            "text": "afterlife",
+            "start": 22567,
+            "end": 22576,
+            "id": "1178"
+        },
+        {
+            "title": "Patron#Arts",
+            "text": "sponsorship",
+            "start": 22671,
+            "end": 22682,
+            "id": null
+        },
+        {
+            "title": "Greek scholars in the Renaissance#Contribution of Greek scholars to the Italian Renaissance",
+            "text": "influx of Greek scholars",
+            "start": 23053,
+            "end": 23077,
+            "id": null
+        },
+        {
+            "title": "Fall of Constantinople#Impact on the Renaissance",
+            "text": "fall of the Byzantine Empire",
+            "start": 23092,
+            "end": 23120,
+            "id": null
+        },
+        {
+            "title": "Florence",
+            "text": "Florence",
+            "start": 23543,
+            "end": 23551,
+            "id": "11525"
+        },
+        {
+            "title": "Feudalism",
+            "text": "feudalism",
+            "start": 24097,
+            "end": 24106,
+            "id": "11298"
+        },
+        {
+            "title": "PLOS Pathogens",
+            "text": "PLOS Pathogens",
+            "start": 24217,
+            "end": 24231,
+            "id": "6841548"
+        },
+        {
+            "title": "DNA",
+            "text": "DNA",
+            "start": 24280,
+            "end": 24283,
+            "id": "7955"
+        },
+        {
+            "title": "RNA",
+            "text": "RNA",
+            "start": 24284,
+            "end": 24287,
+            "id": "25758"
+        },
+        {
+            "title": "Polymerase chain reaction",
+            "text": "polymerase chain reaction",
+            "start": 24293,
+            "end": 24318,
+            "id": "23647"
+        },
+        {
+            "title": "Dental alveolus",
+            "text": "tooth sockets",
+            "start": 24359,
+            "end": 24372,
+            "id": "1999076"
+        },
+        {
+            "title": "Disease causative agent",
+            "text": "causative agent",
+            "start": 24757,
+            "end": 24772,
+            "id": "6428869"
+        },
+        {
+            "title": "East Smithfield",
+            "text": "East Smithfield",
+            "start": 24952,
+            "end": 24967,
+            "id": "16460453"
+        },
+        {
+            "title": "Kirsten Bos",
+            "text": "Bos",
+            "start": 25150,
+            "end": 25153,
+            "id": "60284044"
+        },
+        {
+            "title": "Nature (journal)",
+            "text": "Nature",
+            "start": 25173,
+            "end": 25179,
+            "id": "43427"
+        },
+        {
+            "title": "Phylogenetics",
+            "text": "phylogenetic",
+            "start": 25451,
+            "end": 25463,
+            "id": "23962"
+        },
+        {
+            "title": "Third plague pandemic",
+            "text": "third plague pandemic",
+            "start": 25591,
+            "end": 25612,
+            "id": "1543486"
+        },
+        {
+            "title": "Plague of Justinian",
+            "text": "Plague of Justinian",
+            "start": 25669,
+            "end": 25688,
+            "id": "548536"
+        },
+        {
+            "title": "Epidemiology",
+            "text": "epidemiological",
+            "start": 25992,
+            "end": 26007,
+            "id": "66997"
+        },
+        {
+            "title": "Domesday Book",
+            "text": "Domesday Book",
+            "start": 26373,
+            "end": 26386,
+            "id": "47752"
+        },
+        {
+            "title": "Poll tax (Great Britain)",
+            "text": "poll tax",
+            "start": 26403,
+            "end": 26411,
+            "id": "376991"
+        },
+        {
+            "title": "Extrapolation",
+            "text": "extrapolated",
+            "start": 26470,
+            "end": 26482,
+            "id": "546415"
+        },
+        {
+            "title": "Mathematical model",
+            "text": "Mathematical modelling",
+            "start": 26543,
+            "end": 26565,
+            "id": "20590"
+        },
+        {
+            "title": "Transmission (medicine)",
+            "text": "transmission",
+            "start": 26623,
+            "end": 26635,
+            "id": "729317"
+        },
+        {
+            "title": "Monica Green (historian)",
+            "text": "Green",
+            "start": 27437,
+            "end": 27442,
+            "id": "47239052"
+        },
+        {
+            "title": "Commensalism",
+            "text": "commensal",
+            "start": 27519,
+            "end": 27528,
+            "id": "72660"
+        },
+        {
+            "title": "Second plague pandemic",
+            "text": "second plague pandemic",
+            "start": 28068,
+            "end": 28090,
+            "id": "33390780"
+        },
+        {
+            "title": "Typhus",
+            "text": "typhus",
+            "start": 28403,
+            "end": 28409,
+            "id": "20321147"
+        },
+        {
+            "title": "Smallpox",
+            "text": "smallpox",
+            "start": 28411,
+            "end": 28419,
+            "id": "16829895"
+        },
+        {
+            "title": "Respiratory tract infection",
+            "text": "respiratory infections",
+            "start": 28424,
+            "end": 28446,
+            "id": "3454087"
+        },
+        {
+            "title": "Public Health England",
+            "text": "Public Health England",
+            "start": 28810,
+            "end": 28831,
+            "id": "35234838"
+        },
+        {
+            "title": "Bioarchaeology",
+            "text": "osteoarcheologists",
+            "start": 29048,
+            "end": 29066,
+            "id": "1923764"
+        },
+        {
+            "title": "Second plague pandemic",
+            "text": "second pandemic",
+            "start": 29718,
+            "end": 29733,
+            "id": "33390780"
+        },
+        {
+            "title": "Geoffrey Parker (historian)",
+            "text": "Geoffrey Parker",
+            "start": 30312,
+            "end": 30327,
+            "id": "4274137"
+        },
+        {
+            "title": "Habsburg Spain",
+            "text": "Spain",
+            "start": 30598,
+            "end": 30603,
+            "id": "938546"
+        },
+        {
+            "title": "Muslim world",
+            "text": "Islamic world",
+            "start": 30644,
+            "end": 30657,
+            "id": "191429"
+        },
+        {
+            "title": "Algiers",
+            "text": "Algiers",
+            "start": 30821,
+            "end": 30828,
+            "id": "1644"
+        },
+        {
+            "title": "Ottoman Empire",
+            "text": "Ottoman",
+            "start": 31132,
+            "end": 31139,
+            "id": "22278"
+        },
+        {
+            "title": "Constantinople",
+            "text": "Constantinople",
+            "start": 31276,
+            "end": 31290,
+            "id": "5646"
+        },
+        {
+            "title": "Baghdad",
+            "text": "Baghdad",
+            "start": 31344,
+            "end": 31351,
+            "id": "4492"
+        },
+        {
+            "title": "Alexandre Yersin",
+            "text": "Alexandre Yersin",
+            "start": 32301,
+            "end": 32317,
+            "id": "727904"
+        },
+        {
+            "title": "San Francisco plague of 1900\u20131904",
+            "text": "San Francisco plague of 1900\u20131904",
+            "start": 32418,
+            "end": 32451,
+            "id": "35316091"
+        },
+        {
+            "title": "Insecticide",
+            "text": "insecticide",
+            "start": 32530,
+            "end": 32541,
+            "id": "149463"
+        },
+        {
+            "title": "Antibiotic",
+            "text": "antibiotic",
+            "start": 32555,
+            "end": 32565,
+            "id": "1805"
+        },
+        {
+            "title": "Waldemar Haffkine#Anti-plague vaccine",
+            "text": "plague vaccine",
+            "start": 32574,
+            "end": 32588,
+            "id": null
+        },
+        {
+            "title": "Drug resistance",
+            "text": "drug resistance",
+            "start": 32643,
+            "end": 32658,
+            "id": "205627"
+        },
+        {
+            "title": "Madagascar",
+            "text": "Madagascar",
+            "start": 32763,
+            "end": 32773,
+            "id": "18964"
+        },
+        {
+            "title": "21st century Madagascar plague outbreaks",
+            "text": "deadliest outbreak of the plague",
+            "start": 32867,
+            "end": 32899,
+            "id": "55586589"
+        },
+        {
+            "title": "Case fatality rate",
+            "text": "case fatality rate",
+            "start": 33018,
+            "end": 33036,
+            "id": "3560385"
+        },
+        {
+            "title": "Bubonic plague",
+            "text": "bubonic plague",
+            "start": 33052,
+            "end": 33066,
+            "id": "16392927"
+        },
+        {
+            "title": "Antibiotic",
+            "text": "antibiotic",
+            "start": 33098,
+            "end": 33108,
+            "id": "1805"
+        },
+        {
+            "title": "A Journal of the Plague Year",
+            "text": "A Journal of the Plague Year",
+            "start": 33201,
+            "end": 33229,
+            "id": "352506"
+        },
+        {
+            "title": "Daniel Defoe",
+            "text": "Daniel Defoe",
+            "start": 33245,
+            "end": 33257,
+            "id": "8193"
+        },
+        {
+            "title": "Great Plague of London",
+            "text": "Great Plague of London",
+            "start": 33273,
+            "end": 33295,
+            "id": "12286"
+        },
+        {
+            "title": "Black Death (film)",
+            "text": "Black Death",
+            "start": 33311,
+            "end": 33322,
+            "id": "23887068"
+        },
+        {
+            "title": "The Betrothed (Manzoni novel)",
+            "text": "I promessi sposi",
+            "start": 33385,
+            "end": 33401,
+            "id": "724284"
+        },
+        {
+            "title": "Alessandro Manzoni",
+            "text": "Alessandro Manzoni",
+            "start": 33440,
+            "end": 33458,
+            "id": "44845"
+        },
+        {
+            "title": "Milan",
+            "text": "Milan",
+            "start": 33467,
+            "end": 33472,
+            "id": "36511"
+        },
+        {
+            "title": "Amilcare Ponchielli",
+            "text": "Amilcare Ponchielli",
+            "start": 33521,
+            "end": 33540,
+            "id": "75907"
+        },
+        {
+            "title": "The Betrothed (1941 film)",
+            "text": "1941",
+            "start": 33580,
+            "end": 33584,
+            "id": "42585616"
+        },
+        {
+            "title": "Cronaca fiorentina di Marchionne di Coppo Stefani",
+            "text": "Cronaca fiorentina",
+            "start": 33603,
+            "end": 33621,
+            "id": "32412162"
+        },
+        {
+            "title": "Florence",
+            "text": "Florence",
+            "start": 33691,
+            "end": 33699,
+            "id": "11525"
+        },
+        {
+            "title": "Baldassarre Bonaiuti",
+            "text": "Baldassarre Bonaiuti",
+            "start": 33715,
+            "end": 33735,
+            "id": "32412176"
+        },
+        {
+            "title": "Danse Macabre",
+            "text": "Danse Macabre",
+            "start": 33738,
+            "end": 33751,
+            "id": "8884"
+        },
+        {
+            "title": "The Decameron",
+            "text": "The Decameron",
+            "start": 33858,
+            "end": 33871,
+            "id": "19816731"
+        },
+        {
+            "title": "Giovanni Boccaccio",
+            "text": "Giovanni Boccaccio",
+            "start": 33877,
+            "end": 33895,
+            "id": "12957"
+        },
+        {
+            "title": "Doomsday Book (novel)",
+            "text": "Doomsday Book",
+            "start": 34047,
+            "end": 34060,
+            "id": "1333969"
+        },
+        {
+            "title": "Connie Willis",
+            "text": "Connie Willis",
+            "start": 34095,
+            "end": 34108,
+            "id": "375987"
+        },
+        {
+            "title": "A Feast in Time of Plague",
+            "text": "A Feast in Time of Plague",
+            "start": 34111,
+            "end": 34136,
+            "id": "48613771"
+        },
+        {
+            "title": "Alexander Pushkin",
+            "text": "Aleksandr Pushkin",
+            "start": 34155,
+            "end": 34172,
+            "id": "52790"
+        },
+        {
+            "title": "A Feast in Time of Plague (opera)",
+            "text": "an opera",
+            "start": 34191,
+            "end": 34199,
+            "id": "3218993"
+        },
+        {
+            "title": "C\u00e9sar Cui",
+            "text": "C\u00e9sar Cui",
+            "start": 34203,
+            "end": 34212,
+            "id": "143810"
+        },
+        {
+            "title": "Four thieves vinegar",
+            "text": "Four thieves vinegar",
+            "start": 34223,
+            "end": 34243,
+            "id": "21697262"
+        },
+        {
+            "title": "Geisslerlieder",
+            "text": "Geisslerlieder",
+            "start": 34315,
+            "end": 34329,
+            "id": "1519772"
+        },
+        {
+            "title": "Flagellant",
+            "text": "flagellant",
+            "start": 34342,
+            "end": 34352,
+            "id": "251560"
+        },
+        {
+            "title": "Sonnet",
+            "text": "sonnet",
+            "start": 34395,
+            "end": 34401,
+            "id": "28260"
+        },
+        {
+            "title": "Thomas Nashe",
+            "text": "Thomas Nashe",
+            "start": 34405,
+            "end": 34417,
+            "id": "264439"
+        },
+        {
+            "title": "Summer's Last Will and Testament",
+            "text": "Summer's Last Will and Testament",
+            "start": 34445,
+            "end": 34477,
+            "id": "13149997"
+        },
+        {
+            "title": "The Plague",
+            "text": "The Plague",
+            "start": 34487,
+            "end": 34497,
+            "id": "986"
+        },
+        {
+            "title": "Albert Camus",
+            "text": "Albert Camus",
+            "start": 34516,
+            "end": 34528,
+            "id": "983"
+        },
+        {
+            "title": "Fascism",
+            "text": "Fascism",
+            "start": 34562,
+            "end": 34569,
+            "id": "11054"
+        },
+        {
+            "title": "Ring a Ring o' Roses",
+            "text": "Ring a Ring o' Roses",
+            "start": 34573,
+            "end": 34593,
+            "id": "914005"
+        },
+        {
+            "title": "The Seventh Seal",
+            "text": "The Seventh Seal",
+            "start": 34679,
+            "end": 34695,
+            "id": "176545"
+        },
+        {
+            "title": "Ingmar Bergman",
+            "text": "Ingmar Bergman",
+            "start": 34734,
+            "end": 34748,
+            "id": "14626"
+        },
+        {
+            "title": "World Without End (Follett novel)",
+            "text": "World Without End",
+            "start": 34751,
+            "end": 34768,
+            "id": "9682847"
+        },
+        {
+            "title": "Ken Follett",
+            "text": "Ken Follett",
+            "start": 34787,
+            "end": 34798,
+            "id": "67160"
+        },
+        {
+            "title": "World Without End (miniseries)",
+            "text": "a miniseries of the same name",
+            "start": 34812,
+            "end": 34841,
+            "id": "34925496"
+        },
+        {
+            "title": "The Years of Rice and Salt",
+            "text": "The Years of Rice and Salt",
+            "start": 34852,
+            "end": 34878,
+            "id": "299323"
+        },
+        {
+            "title": "Kim Stanley Robinson",
+            "text": "Kim Stanley Robinson",
+            "start": 34911,
+            "end": 34931,
+            "id": "16807"
+        },
+        {
+            "title": "Second plague pandemic",
+            "text": "Second plague pandemic",
+            "start": 35014,
+            "end": 35036,
+            "id": "33390780"
+        },
+        {
+            "title": "Black Death in medieval culture",
+            "text": "Black Death in medieval culture",
+            "start": 35039,
+            "end": 35070,
+            "id": "20155472"
+        },
+        {
+            "title": "Black Death in England",
+            "text": "Black Death in England",
+            "start": 35073,
+            "end": 35095,
+            "id": "20993417"
+        },
+        {
+            "title": "Crisis of the Late Middle Ages",
+            "text": "Crisis of the Late Middle Ages",
+            "start": 35098,
+            "end": 35128,
+            "id": "3525088"
+        },
+        {
+            "title": "Flagellant",
+            "text": "Flagellant",
+            "start": 35131,
+            "end": 35141,
+            "id": "251560"
+        },
+        {
+            "title": "Globalization and disease",
+            "text": "Globalization and disease",
+            "start": 35144,
+            "end": 35169,
+            "id": "8430768"
+        },
+        {
+            "title": "List of epidemics",
+            "text": "List of epidemics",
+            "start": 35172,
+            "end": 35189,
+            "id": "945818"
+        },
+        {
+            "title": "Timeline of plague",
+            "text": "Timeline of plague",
+            "start": 35192,
+            "end": 35210,
+            "id": "52927658"
+        },
+        {
+            "title": "BBC",
+            "text": "BBC",
+            "start": 36283,
+            "end": 36286,
+            "id": "19344654"
+        },
+        {
+            "title": "Yersinia pestis",
+            "text": "Yersinia pestis",
+            "start": 36305,
+            "end": 36320,
+            "id": "34367"
+        },
+        {
+            "title": "Wikt:acral",
+            "text": "acral",
+            "start": 36445,
+            "end": 36450,
+            "id": null
+        },
+        {
+            "title": "Gangrene",
+            "text": "gangrene",
+            "start": 36451,
+            "end": 36459,
+            "id": "237977"
+        },
+        {
+            "title": "Digit (anatomy)",
+            "text": "fingers",
+            "start": 36467,
+            "end": 36474,
+            "id": "18581278"
+        },
+        {
+            "title": "Bubonic plague",
+            "text": "bubonic plague",
+            "start": 36482,
+            "end": 36496,
+            "id": "16392927"
+        },
+        {
+            "title": "Tissue (biology)",
+            "text": "flesh",
+            "start": 36517,
+            "end": 36522,
+            "id": "103915"
+        },
+        {
+            "title": "Necrosis",
+            "text": "die",
+            "start": 36526,
+            "end": 36529,
+            "id": "39936"
+        },
+        {
+            "title": "Bubo",
+            "text": "bubo",
+            "start": 36558,
+            "end": 36562,
+            "id": "8542879"
+        },
+        {
+            "title": "Lymph node",
+            "text": "lymph node",
+            "start": 36632,
+            "end": 36642,
+            "id": "82342"
+        },
+        {
+            "title": "Danse Macabre",
+            "text": "Danse Macabre",
+            "start": 36785,
+            "end": 36798,
+            "id": "8884"
+        },
+        {
+            "title": "Allegory",
+            "text": "allegory",
+            "start": 36803,
+            "end": 36811,
+            "id": "1837"
+        },
+        {
+            "title": "Tournai",
+            "text": "Tournai",
+            "start": 36911,
+            "end": 36918,
+            "id": "175362"
+        },
+        {
+            "title": "Death by burning",
+            "text": "burned at the stake",
+            "start": 36951,
+            "end": 36970,
+            "id": "97645"
+        },
+        {
+            "title": "Pieter Bruegel the Elder",
+            "text": "Pieter Bruegel",
+            "start": 37045,
+            "end": 37059,
+            "id": "64384"
+        },
+        {
+            "title": "The Triumph of Death",
+            "text": "The Triumph of Death",
+            "start": 37062,
+            "end": 37082,
+            "id": "633342"
+        },
+        {
+            "title": "Martigues",
+            "text": "Martigues",
+            "start": 37223,
+            "end": 37232,
+            "id": "655823"
+        },
+        {
+            "title": "Marseille",
+            "text": "Marseille",
+            "start": 37239,
+            "end": 37248,
+            "id": "40888948"
+        },
+        {
+            "title": "Great Plague of London",
+            "text": "Great Plague of London",
+            "start": 37506,
+            "end": 37528,
+            "id": "12286"
+        },
+        {
+            "title": "Plague doctor",
+            "text": "plague doctor",
+            "start": 37570,
+            "end": 37583,
+            "id": "560306"
+        },
+        {
+            "title": "Plague doctor costume",
+            "text": "apparel",
+            "start": 37600,
+            "end": 37607,
+            "id": "28844729"
+        },
+        {
+            "title": "Marseille",
+            "text": "Marseille",
+            "start": 37670,
+            "end": 37679,
+            "id": "40888948"
+        },
+        {
+            "title": "Great Plague of Marseille",
+            "text": "Great Plague",
+            "start": 37691,
+            "end": 37703,
+            "id": "3573933"
+        }
+    ],
+    "_chunk_id": "b_618-94669475"
+}

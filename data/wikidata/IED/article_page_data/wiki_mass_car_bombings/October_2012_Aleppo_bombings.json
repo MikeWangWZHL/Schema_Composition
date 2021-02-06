@@ -1,0 +1,66 @@
+{
+    "_id": "39068854",
+    "id": "39068854",
+    "title": "October 2012 Aleppo bombings",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "==See also==",
+            "start": 488,
+            "end": 500
+        },
+        {
+            "text": "==References==",
+            "start": 549,
+            "end": 563
+        }
+    ],
+    "categories": [
+        "Terrorist incidents in Aleppo during the Syrian Civil War",
+        "Terrorist incidents in Syria in 2012",
+        "October 2012 events in Asia",
+        "Attacks on buildings and structures in Syria",
+        "Suicide car and truck bombings in Syria"
+    ],
+    "infobox": "{{Infobox civilian attack\n|title       = October 2012 Aleppo bombings\n|partof      = [[Syrian Civil War]]\n|image       = Saadallah al-Jabiri square, Aleppo, after the explosion of October 2012.jpg\n|image_size  =\n|alt         =\n|caption     =\n|map         =\n|map_size    =\n|map_alt     =\n|map_caption =\n|location    = [[Aleppo]], [[Syria]]\n|target      = [[Saadallah Al-Jabiri Square]] <br>and the nearby areas \n|coordinates =\n|date        = 3 October 2012\n|time        = 08:00\n|timezone    = [[UTC]]+3\n|type        = 3 suicide [[car bomb]]s\n|fatalities  = 40 (mostly civilians)\n|injuries    = 122\n|victim      =\n|perps       =\n|perp        =\n|perpetrators= \n|perpetrator =\n|weapons     =\n|numparts    =\n|numpart     =\n|dfens       =\n|dfen        =\n|footage     =\n}}",
+    "article": "On 3 October 2012, three suicide car bombs exploded at the eastern corner of the Saadallah Al-Jabiri Square, killing 40 people. At least 122 people were reported injured. The bombs targeted an officers' club, nearby buildings of the Touristic Hotel, the historic \"Jouha Caf\u00e9\" and the Mirage Hotel near Bab Jnen. Both hotels and the surrounding buildings suffered extensive damage while the Jouha caf\u00e9 was completely destroyed. A small building within the officers' club was also ruined.\n\n==See also==\n* List of bombings during the Syrian Civil War\n\n==References==",
+    "links": [
+        {
+            "title": "Suicide attack",
+            "text": "suicide",
+            "start": 25,
+            "end": 32,
+            "id": "18835454"
+        },
+        {
+            "title": "Car bomb",
+            "text": "car bomb",
+            "start": 33,
+            "end": 41,
+            "id": "155282"
+        },
+        {
+            "title": "Saadallah al-Jabiri Square",
+            "text": "Saadallah Al-Jabiri Square",
+            "start": 81,
+            "end": 107,
+            "id": "28168099"
+        },
+        {
+            "title": "Bab al-Jinan",
+            "text": "Bab Jnen",
+            "start": 302,
+            "end": 310,
+            "id": "19732364"
+        },
+        {
+            "title": "List of terrorist incidents in Syria",
+            "text": "List of bombings during the Syrian Civil War",
+            "start": 503,
+            "end": 547,
+            "id": "49277698"
+        }
+    ],
+    "_chunk_id": "b_12651689502-12658573438"
+}

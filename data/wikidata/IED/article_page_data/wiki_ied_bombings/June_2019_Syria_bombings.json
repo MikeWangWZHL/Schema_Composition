@@ -1,0 +1,112 @@
+{
+    "_id": "61795975",
+    "id": "61795975",
+    "title": "June 2019 Syria bombings",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "== See also ==",
+            "start": 282,
+            "end": 296
+        },
+        {
+            "text": "== References ==",
+            "start": 403,
+            "end": 419
+        }
+    ],
+    "categories": [
+        "2019 crimes in Syria",
+        "2019 murders in Asia",
+        "2010s murders in Syria",
+        "21st-century mass murder in Syria",
+        "Aleppo Governorate in the Syrian Civil War",
+        "Car and truck bombings in Syria",
+        "Crime in Aleppo Governorate",
+        "Crime in Raqqa Governorate",
+        "Improvised explosive device bombings in 2019",
+        "June 2019 crimes in Asia",
+        "June 2019 events in Syria",
+        "Marketplace attacks in Asia",
+        "Mass murder in 2019",
+        "Raqqa Governorate in the Syrian Civil War",
+        "Terrorist incidents in Asia in 2019",
+        "Terrorist incidents in Syria in the 2010s"
+    ],
+    "infobox": "{{Infobox civilian attack\n|map = {{Location map many | Syria\n| width = 300\n| float = right\n| label = Raqqa\n  | marksize = 8\n  | lat_deg = 35 | lat_min = 57\n  | lon_deg = 39 | lon_min = 01\n| label2 = Azaz\n  | mark2size = 8\n  | lat2_deg = 36 | lat2_min = 35\n  | lon2_deg = 37 | lon2_min = 02\n}}\n|location=[[Raqqa]] & [[Azaz]], Syria\n|date=2 June 2019\n|fatalities=34+ (24 in Azaz) (10 in Raqqa)\n|injuries=80+\n|partof=the [[Syrian Civil War]]\n|perpetrator=[[Islamic State of Iraq and the Levant]]\n|target=[[Civilian]]s\n|title=June 2019 Syria bombings\n}}",
+    "article": "On 2 June 2019 three IED (two of which were car bombs) were detonated by the Islamic State of Iraq and the Levant in northern Syria - one in Azaz and two in Raqqa. Over 30 people were killed including civilians and dozens of others were wounded. Among the dead were five children.\n\n== See also ==\n*January 2017 Azaz bombing\n*November 2019 Syria bombings\n*Eastern Syria insurgency\n*Turkey\u2013ISIL conflict\n\n== References ==",
+    "links": [
+        {
+            "title": "Improvised explosive device",
+            "text": "IED",
+            "start": 21,
+            "end": 24,
+            "id": "265112"
+        },
+        {
+            "title": "Car bomb",
+            "text": "car bomb",
+            "start": 44,
+            "end": 52,
+            "id": "155282"
+        },
+        {
+            "title": "Islamic State of Iraq and the Levant",
+            "text": "Islamic State of Iraq and the Levant",
+            "start": 77,
+            "end": 113,
+            "id": "9087364"
+        },
+        {
+            "title": "Syria",
+            "text": "Syria",
+            "start": 126,
+            "end": 131,
+            "id": "7515849"
+        },
+        {
+            "title": "Azaz",
+            "text": "Azaz",
+            "start": 141,
+            "end": 145,
+            "id": "9263278"
+        },
+        {
+            "title": "Raqqa",
+            "text": "Raqqa",
+            "start": 157,
+            "end": 162,
+            "id": "858965"
+        },
+        {
+            "title": "January 2017 Azaz bombing",
+            "text": "January 2017 Azaz bombing",
+            "start": 298,
+            "end": 323,
+            "id": "52852632"
+        },
+        {
+            "title": "November 2019 Syria bombings",
+            "text": "November 2019 Syria bombings",
+            "start": 325,
+            "end": 353,
+            "id": "62236727"
+        },
+        {
+            "title": "Eastern Syria insurgency",
+            "text": "Eastern Syria insurgency",
+            "start": 355,
+            "end": 379,
+            "id": "59327526"
+        },
+        {
+            "title": "Turkey\u2013ISIL conflict",
+            "text": "Turkey\u2013ISIL conflict",
+            "start": 381,
+            "end": 401,
+            "id": "47320825"
+        }
+    ],
+    "_chunk_id": "b_17802718516-17809794348"
+}

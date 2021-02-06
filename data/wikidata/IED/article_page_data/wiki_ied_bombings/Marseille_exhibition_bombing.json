@@ -1,0 +1,111 @@
+{
+    "_id": "57944411",
+    "id": "57944411",
+    "title": "Marseille exhibition bombing",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "==See also==",
+            "start": 493,
+            "end": 505
+        },
+        {
+            "text": "==References==",
+            "start": 574,
+            "end": 588
+        }
+    ],
+    "categories": [
+        "1983 crimes in France",
+        "1983 murders in Europe",
+        "1980s murders in France",
+        "20th century in Marseille",
+        "Attacks on buildings and structures in Marseille",
+        "Improvised explosive device bombings in 1983",
+        "Improvised explosive device bombings in France",
+        "Murder in Marseille",
+        "September 1983 crimes",
+        "September 1983 events in Europe",
+        "Terrorist incidents by unknown perpetrators",
+        "Terrorist incidents in Europe in 1983",
+        "Terrorist incidents in France in the 1980s",
+        "Terrorist incidents in Marseille",
+        "Unsolved murders in France"
+    ],
+    "infobox": "{{Infobox civilian attack\n| title       = Marseille exhibition bombing\n| partof      = \n| image       =\n| image_size  = \n| alt         = \n| caption     = \n| map         =\n| map_size    =\n| map_alt     =\n| map_caption =\n| location    = [[Marseille]], France\n| target      = Marseille International Fair (''Foire International de Marseille'')\n| coordinates = \n| date        = 30 September 1983\n| time        = \n| timezone    = \n| type        = [[Bomb]]ing\n| fatalities  = 1\n| injuries    = 25\n| victim      =\n| perps       = \n| perp        = \n| perpetrators= \n| perpetrator = Unknown\n| susperps    = \n| susperp     = \n| weapons     = \n| numparts    =\n| numpart     =\n| dfens       =\n| dfen        =\n| footage     =\n| motive      = Unknown\n}}",
+    "article": "On 30 September 1983, a bomb detonated during an international fair at the Palais des Congr\u00e8s (exhibition centre) in Marseille, France. One person was killed and 25 other people were injured in the attack, which happened near the American and Algerian stands.\n\nMany groups claimed responsibility, including the Charles Martel Group, the Armenian Secret Army for the Liberation of Armenia, the Lebanese Armed Revolutionary Factions and Commando Delta. The real culprits were never identified.\n\n==See also==\n*1983 Orly Airport attack\n*Algerian consulate bombing in Marseille\n\n==References==",
+    "links": [
+        {
+            "title": "Convention center",
+            "text": "exhibition centre",
+            "start": 95,
+            "end": 112,
+            "id": "522941"
+        },
+        {
+            "title": "Marseille",
+            "text": "Marseille",
+            "start": 117,
+            "end": 126,
+            "id": "40888948"
+        },
+        {
+            "title": "United States",
+            "text": "American",
+            "start": 230,
+            "end": 238,
+            "id": "3434750"
+        },
+        {
+            "title": "Algeria",
+            "text": "Algeria",
+            "start": 243,
+            "end": 250,
+            "id": "358"
+        },
+        {
+            "title": "Charles Martel Group",
+            "text": "Charles Martel Group",
+            "start": 311,
+            "end": 331,
+            "id": "11536027"
+        },
+        {
+            "title": "Armenian Secret Army for the Liberation of Armenia",
+            "text": "Armenian Secret Army for the Liberation of Armenia",
+            "start": 337,
+            "end": 387,
+            "id": "290310"
+        },
+        {
+            "title": "Lebanese Armed Revolutionary Factions",
+            "text": "Lebanese Armed Revolutionary Factions",
+            "start": 393,
+            "end": 430,
+            "id": "23423651"
+        },
+        {
+            "title": "Commando Delta",
+            "text": "Commando Delta",
+            "start": 435,
+            "end": 449,
+            "id": "29240829"
+        },
+        {
+            "title": "1983 Orly Airport attack",
+            "text": "1983 Orly Airport attack",
+            "start": 507,
+            "end": 531,
+            "id": "19327804"
+        },
+        {
+            "title": "Algerian consulate bombing in Marseille",
+            "text": "Algerian consulate bombing in Marseille",
+            "start": 533,
+            "end": 572,
+            "id": "57934736"
+        }
+    ],
+    "_chunk_id": "b_16953792864-16962062061"
+}

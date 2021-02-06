@@ -1,0 +1,52 @@
+{
+    "_id": "35870583",
+    "id": "35870583",
+    "title": "2012 Deir ez-Zor bombing",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "==See also==",
+            "start": 219,
+            "end": 231
+        },
+        {
+            "text": "==References==",
+            "start": 280,
+            "end": 294
+        }
+    ],
+    "categories": [
+        "Deir ez-Zor",
+        "Car and truck bombings in Syria",
+        "Terrorist incidents in Syria in 2012",
+        "May 2012 events in Asia",
+        "Deir ez-Zor Governorate in the Syrian Civil War"
+    ],
+    "infobox": "{{Infobox civilian attack\n| title       = 2012 Deir ez-Zor bombing\n|partof       = the [[Syrian Civil War]]\n| image       = \n| image_size  = \n| alt         = \n| caption     = \n| location    = [[Deir ez-Zor]], [[Syria]]\n| target      = military intelligence complex\n| coordinates = \n| date        = 19 May 2012\n| time        = \n| timezone    = \n| type        = \n| fatalities  = 9\n| injuries    = dozens\n| victim      =\n| perps       = \n| perp        = \n| susperps    =\n| susperp     = \n| weapons     = \n| numparts    =\n| numpart     =\n| dfens       =\n| dfen        =\n| footage     =\n}}",
+    "article": "The 2012 Deir ez-Zor bombing involved a car bomb blast in the Syrian city of Deir ez-Zor killing 9 people on 19 May 2012 during the Syrian Civil War. The blast struck a parking lot for a military intelligence complex.\n\n==See also==\n* List of bombings during the Syrian Civil War\n\n==References==",
+    "links": [
+        {
+            "title": "2012 Deir ez-Zor bombing",
+            "text": "2012 Deir ez-Zor bombing",
+            "start": 4,
+            "end": 28,
+            "id": "35870583"
+        },
+        {
+            "title": "Syrian civil war",
+            "text": "Syrian Civil War",
+            "start": 132,
+            "end": 148,
+            "id": "30741795"
+        },
+        {
+            "title": "List of terrorist incidents in Syria",
+            "text": "List of bombings during the Syrian Civil War",
+            "start": 234,
+            "end": 278,
+            "id": "49277698"
+        }
+    ],
+    "_chunk_id": "b_11862590620-11871211487"
+}

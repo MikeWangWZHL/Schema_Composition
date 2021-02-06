@@ -1,0 +1,130 @@
+{
+    "_id": "35110137",
+    "id": "35110137",
+    "title": "March 2012 Damascus bombings",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "==Background==",
+            "start": 490,
+            "end": 504
+        },
+        {
+            "text": "==Bombings==",
+            "start": 748,
+            "end": 760
+        },
+        {
+            "text": "==Perpetrators==",
+            "start": 1218,
+            "end": 1234
+        },
+        {
+            "text": "==See also==",
+            "start": 1362,
+            "end": 1374
+        },
+        {
+            "text": "== References ==",
+            "start": 1462,
+            "end": 1478
+        }
+    ],
+    "categories": [
+        "Terrorist incidents in Damascus during the Syrian Civil War",
+        "Car and truck bombings in Syria",
+        "Terrorist incidents in Syria in 2012",
+        "March 2012 events in Asia",
+        "Attacks on buildings and structures in Syria"
+    ],
+    "infobox": "{{Infobox civilian attack\n|title=March 2012 Damascus Bombings\n|partof=the [[Syrian Civil War]]\n| image      = Damascus-map.png\n| caption    = Damascus highlighted within Syria\n|location=[[Damascus]]\n|target=Government security buildings<ref name=aj1703>{{cite web|url=http://www.aljazeera.com/news/middleeast/2012/03/201231761115256388.html |title=Twin car bombs kill dozens in Damascus |work=Al Jazeera|date=4 October 2011 |accessdate=18 March 2012}}</ref>\n|date={{start date and age|2012|03|17}}\n|time=7:30 AM<ref name=aj1703/>\n|timezone=[[UTC+2:00]]\n|type=car bombings<ref name=aj1703/>\n|fatalities=27<ref name=aj1703/>\n|injuries=140\n|perps=[[al-Nusra Front]]{{Citation needed|date=August 2015}}\n}}",
+    "article": "The March 2012 Damascus bombings were two large car bombs that exploded in front of the air intelligence and criminal security headquarters in the Syrian capital of Damascus. At least 27 people were reported killed and over a 140 injured in the fourth major bombing since the beginning of the uprising and the second in the city. As in previous cases, the opposition blamed the government for orchestrating attacks, while the government placed the blame on terrorists and foreign groups. \n\n==Background==\nThe bombing came near the date of the one year anniversary of the 2011-2012 Syrian uprising. There had already been two bombings in Damascus and one in Aleppo. Another Aleppo car bombing came the next day, followed by a car bombing in Daraa.\n\n==Bombings==\nTwo large car bombs exploded on 17 March 2012 at 7:30 AM in front of the air intelligence and criminal security headquarters in the Syrian capital of Damascus. At least 27 people were reported killed and over a 140 injured. \n\nThe government placed the blame on terrorists and foreign groups, while the opposition blamed it for orchestrating attacks to divert attention from its atrocities.\n\nResponsibility for the attack was claimed by the al-Nusra Front.\n\n==Perpetrators==\nal-Nusra Front is a jihadist group which also claims responsibility for the earlier al-Midan bombing and the Aleppo bombings.\n\n==See also==\n* List of bombings during the Syrian uprising (2011\u2013present)\n* 1986 Damascus bombings\n\n== References ==",
+    "links": [
+        {
+            "title": "March 2012 Damascus bombings",
+            "text": "March 2012 Damascus bombings",
+            "start": 4,
+            "end": 32,
+            "id": "35110137"
+        },
+        {
+            "title": "Damascus",
+            "text": "Damascus",
+            "start": 165,
+            "end": 173,
+            "id": "8914"
+        },
+        {
+            "title": "Syrian civil war",
+            "text": "the uprising",
+            "start": 289,
+            "end": 301,
+            "id": "30741795"
+        },
+        {
+            "title": "Syrian civil war",
+            "text": "2011-2012 Syrian uprising",
+            "start": 571,
+            "end": 596,
+            "id": "30741795"
+        },
+        {
+            "title": "Damascus",
+            "text": "Damascus",
+            "start": 911,
+            "end": 919,
+            "id": "8914"
+        },
+        {
+            "title": "Al-Nusra Front",
+            "text": "al-Nusra Front",
+            "start": 1201,
+            "end": 1215,
+            "id": "34929376"
+        },
+        {
+            "title": "Al-Nusra Front",
+            "text": "al-Nusra Front",
+            "start": 1235,
+            "end": 1249,
+            "id": "34929376"
+        },
+        {
+            "title": "Jihadism",
+            "text": "jihadist",
+            "start": 1255,
+            "end": 1263,
+            "id": "7826589"
+        },
+        {
+            "title": "January 2012 al-Midan bombing",
+            "text": "al-Midan bombing",
+            "start": 1319,
+            "end": 1335,
+            "id": "34301494"
+        },
+        {
+            "title": "February 2012 Aleppo bombings",
+            "text": "Aleppo bombings",
+            "start": 1344,
+            "end": 1359,
+            "id": "34693906"
+        },
+        {
+            "title": "List of terrorist incidents in Syria",
+            "text": "List of bombings during the Syrian uprising (2011\u2013present)",
+            "start": 1377,
+            "end": 1435,
+            "id": "49277698"
+        },
+        {
+            "title": "1986 Damascus bombings",
+            "text": "1986 Damascus bombings",
+            "start": 1438,
+            "end": 1460,
+            "id": "34258353"
+        }
+    ],
+    "_chunk_id": "b_11699397706-11707761357"
+}

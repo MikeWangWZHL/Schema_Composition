@@ -1,0 +1,195 @@
+{
+    "_id": "53426564",
+    "id": "53426564",
+    "title": "Newry customs bombing",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "== Background ==",
+            "start": 320,
+            "end": 336
+        },
+        {
+            "text": "== Attack ==",
+            "start": 1453,
+            "end": 1465
+        },
+        {
+            "text": "==References==",
+            "start": 1610,
+            "end": 1624
+        }
+    ],
+    "categories": [
+        "1972 in Northern Ireland",
+        "1972 murders in the United Kingdom",
+        "1970s in County Armagh",
+        "20th-century mass murder in Northern Ireland",
+        "Attacks on buildings and structures in 1972",
+        "Attacks on buildings and structures in Northern Ireland",
+        "August 1972 crimes",
+        "August 1972 events in the United Kingdom",
+        "History of Newry",
+        "Improvised explosive device bombings in 1972",
+        "Improvised explosive device bombings in Northern Ireland",
+        "Mass murder in 1972",
+        "Mass murder in County Armagh",
+        "Provisional IRA bombings",
+        "Terrorist incidents in County Armagh",
+        "Terrorist incidents in the United Kingdom in 1972",
+        "The Troubles in County Armagh"
+    ],
+    "infobox": "{{Infobox civilian attack\n| title       = Newry customs bombing\n| partof      = [[the Troubles]]\n| location    = [[Newry]] [[County Armagh]], [[Northern Ireland]]\n| date        = 22 August 1972\n| time        = \n| map         = {{Location map|Northern Ireland\n|relief = yes\n|width = 250\n|lat = 54.185039\n|long = -6.331617\n|marksize = 5\n|caption = Newry customs office\n}}\n| type        = [[Time bomb]]\n| target      = Newry [[Customs|customs office]]\n| fatalities  = 9 (6 civilians 3 IRA volunteers\n| injuries    = 20\n| perpetrator = [[Provisional IRA]]\n}}",
+    "article": "On 22 August 1972 a bomb planted by the Provisional Irish Republican Army, an Irish republican paramilitary group, detonated prematurely at a customs office in Newry. Three IRA members killed six civilians and themselves in the explosion. The event was one of the bloodiest of 1972, the deadliest year of The Troubles.\n\n== Background ==\nSince 1971, the Provisional IRA had been waging a campaign to end British rule in Northern Ireland. Gun and bomb attacks became daily occurrences in the province as the campaign continued. In January 1972, soldiers from the Parachute Regiment shot dead 14 civil rights protesters in Derry, in an event later known as Bloody Sunday. The attack enraged the nationalist community and as a result support for the IRA surged. In the following months the ferocity of the conflict, and as a result number of casualties, rose dramatically.\n\nMilitary installations and civilian businesses were targeted frequently. Civilians often fell victim to the IRA's attacks. This most prominently occurred on Bloody Friday, when at least 20 bombs planted by the IRA exploded in quick succession in Belfast. As a result of the bombs, 9 people were killed and another 130 injured.\n\nNewry, a mainly nationalist town near the Irish border, had a lot of IRA supporters. Attacks had already taken place in the town, leading to seven people - three civilians, two police officers, one British soldier and one IRA volunteer - being killed.  \n\n== Attack ==\nThree IRA members walked into the office with a bomb. It exploded prematurely, killing all of them, two lorry drivers and four customs staff.\n\n\n==References==",
+    "links": [
+        {
+            "title": "Provisional Irish Republican Army",
+            "text": "Provisional Irish Republican Army",
+            "start": 40,
+            "end": 73,
+            "id": "23299"
+        },
+        {
+            "title": "Irish republicanism",
+            "text": "Irish republican",
+            "start": 78,
+            "end": 94,
+            "id": "772738"
+        },
+        {
+            "title": "Paramilitary",
+            "text": "paramilitary",
+            "start": 95,
+            "end": 107,
+            "id": "146730"
+        },
+        {
+            "title": "Detonation",
+            "text": "detonate",
+            "start": 115,
+            "end": 123,
+            "id": "306686"
+        },
+        {
+            "title": "HM Customs and Excise",
+            "text": "customs",
+            "start": 142,
+            "end": 149,
+            "id": "376886"
+        },
+        {
+            "title": "Newry",
+            "text": "Newry",
+            "start": 160,
+            "end": 165,
+            "id": "352560"
+        },
+        {
+            "title": "Civilian",
+            "text": "civilian",
+            "start": 196,
+            "end": 204,
+            "id": "145804"
+        },
+        {
+            "title": "Explosion",
+            "text": "explosion",
+            "start": 228,
+            "end": 237,
+            "id": "18993857"
+        },
+        {
+            "title": "The Troubles",
+            "text": "The Troubles",
+            "start": 305,
+            "end": 317,
+            "id": "30770"
+        },
+        {
+            "title": "Northern Ireland",
+            "text": "Northern Ireland",
+            "start": 419,
+            "end": 435,
+            "id": "21265"
+        },
+        {
+            "title": "Parachute Regiment (United Kingdom)",
+            "text": "Parachute Regiment",
+            "start": 561,
+            "end": 579,
+            "id": "364721"
+        },
+        {
+            "title": "Civil and political rights",
+            "text": "civil rights",
+            "start": 593,
+            "end": 605,
+            "id": "37071"
+        },
+        {
+            "title": "Derry",
+            "text": "Derry",
+            "start": 620,
+            "end": 625,
+            "id": "9055"
+        },
+        {
+            "title": "Bloody Sunday (1972)",
+            "text": "Bloody Sunday",
+            "start": 654,
+            "end": 667,
+            "id": "5030"
+        },
+        {
+            "title": "Irish nationalism",
+            "text": "nationalist",
+            "start": 692,
+            "end": 703,
+            "id": "334434"
+        },
+        {
+            "title": "Military base",
+            "text": "Military installation",
+            "start": 870,
+            "end": 891,
+            "id": "843566"
+        },
+        {
+            "title": "Bloody Friday (1972)",
+            "text": "Bloody Friday",
+            "start": 1027,
+            "end": 1040,
+            "id": "240148"
+        },
+        {
+            "title": "Republic of Ireland\u2013United Kingdom border",
+            "text": "Irish border",
+            "start": 1240,
+            "end": 1252,
+            "id": "2347513"
+        },
+        {
+            "title": "Royal Ulster Constabulary",
+            "text": "police officers",
+            "start": 1375,
+            "end": 1390,
+            "id": "60995"
+        },
+        {
+            "title": "British Army",
+            "text": "British soldier",
+            "start": 1396,
+            "end": 1411,
+            "id": "4887"
+        },
+        {
+            "title": "Volunteer (Irish republican)",
+            "text": "volunteer",
+            "start": 1424,
+            "end": 1433,
+            "id": "8185913"
+        }
+    ],
+    "_chunk_id": "b_15916431175-15924288067"
+}

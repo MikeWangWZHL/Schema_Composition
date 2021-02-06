@@ -1,0 +1,836 @@
+{
+    "_id": "442916",
+    "id": "442916",
+    "title": "Avian influenza",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "== History ==",
+            "start": 2343,
+            "end": 2356
+        },
+        {
+            "text": "==Genetics==",
+            "start": 3682,
+            "end": 3694
+        },
+        {
+            "text": "==Subtypes==",
+            "start": 4935,
+            "end": 4947
+        },
+        {
+            "text": "== Mode of transmission  ==",
+            "start": 6733,
+            "end": 6760
+        },
+        {
+            "text": "=== Village poultry ===",
+            "start": 8339,
+            "end": 8362
+        },
+        {
+            "text": "==H5N1==",
+            "start": 9185,
+            "end": 9193
+        },
+        {
+            "text": "===Controversial research===",
+            "start": 12010,
+            "end": 12038
+        },
+        {
+            "text": "==H7N9==",
+            "start": 13986,
+            "end": 13994
+        },
+        {
+            "text": "==Domestic animals==",
+            "start": 17063,
+            "end": 17083
+        },
+        {
+            "text": "===Birds===",
+            "start": 17228,
+            "end": 17239
+        },
+        {
+            "text": "===Cats===",
+            "start": 17674,
+            "end": 17684
+        },
+        {
+            "text": "== Global impact ==",
+            "start": 17890,
+            "end": 17909
+        },
+        {
+            "text": "=== Stigma ===",
+            "start": 19273,
+            "end": 19287
+        },
+        {
+            "text": "=== Indonesia ===",
+            "start": 19909,
+            "end": 19926
+        },
+        {
+            "text": "=== Economic ===",
+            "start": 22271,
+            "end": 22287
+        },
+        {
+            "text": "==Prevention==",
+            "start": 23692,
+            "end": 23706
+        },
+        {
+            "text": "=== For village poultry farmers ===",
+            "start": 26249,
+            "end": 26284
+        },
+        {
+            "text": "=== Culling ===",
+            "start": 28349,
+            "end": 28364
+        },
+        {
+            "text": "=== People-poultry relations ===",
+            "start": 31010,
+            "end": 31042
+        },
+        {
+            "text": "==See also==",
+            "start": 33156,
+            "end": 33168
+        },
+        {
+            "text": "==References==",
+            "start": 33577,
+            "end": 33591
+        },
+        {
+            "text": "==Sources==",
+            "start": 33594,
+            "end": 33605
+        },
+        {
+            "text": "==External links==",
+            "start": 33877,
+            "end": 33895
+        }
+    ],
+    "categories": [
+        "Avian influenza",
+        "Animal virology",
+        "Bird diseases",
+        "Poultry diseases",
+        "Agricultural health and safety"
+    ],
+    "infobox": null,
+    "article": "Avian influenza, known informally as avian flu or bird flu, is a variety of influenza caused by viruses adapted to birds. The type with the greatest risk is highly pathogenic avian influenza (HPAI). Bird flu is similar to swine flu, dog flu, horse flu and human flu as an illness caused by strains of influenza viruses that have adapted to a specific host. Out of the three types of influenza viruses (A, B, and C), influenza A virus is a zoonotic infection with a natural reservoir almost entirely in birds. Avian influenza, for most purposes, refers to the influenza A virus.\n\nThough influenza A is adapted to birds, it can also stably adapt and sustain person-to-person transmission. Recent influenza research into the genes of the Spanish flu virus shows it to have genes adapted from both human and avian strains. Pigs can also be infected with human, avian, and swine influenza viruses, allowing for mixtures of genes (reassortment) to create a new virus, which can cause an antigenic shift to a new influenza A virus subtype which most people have little to no immune protection against.\n\nAvian influenza strains are divided into two types based on their pathogenicity: high pathogenicity (HP) or low pathogenicity (LP). The most well-known HPAI strain, H5N1, appeared in China in 1996, and also has low pathogenic strains found in North America. Companion birds in captivity are unlikely to contract the virus and there has been no report of a companion bird with avian influenza since 2003. Pigeons can contract avian strains, but rarely become ill and are incapable of transmitting the virus efficiently to humans or other animals.\n\nBetween early 2013 and early 2017, 916 lab-confirmed human cases of H7N9 were reported to the World Health Organization (WHO). On 9 January 2017, the National Health and Family Planning Commission of China reported to WHO 106 cases of H7N9 which occurred from late November through late December, including 35 deaths, 2 potential cases of human-to-human transmission, and 80 of these 106 persons stating that they have visited live poultry markets.  The cases are reported from Jiangsu (52), Zhejiang (21), Anhui (14), Guangdong (14), Shanghai (2), Fujian (2) and Hunan (1).  Similar sudden increases in the number of human cases of H7N9 have occurred in previous years during December and January.\n\n== History ==\nThe most widely quoted date for the beginning of recorded history of avian influenza (initially known as fowl plague) was in 1878 when it was differentiated from other diseases that caused high mortality rates in birds. Fowl plague, however, also included Newcastle disease until as recently as the 1950s. Between 1959 and 1995, there were 15 recorded occasions of the emergence of HPAI viruses in poultry, but losses were minimal. Between 1996 and 2008 however, HPAI outbreaks in poultry have occurred at least 11 times and 4 of these outbreaks have involved millions of birds.\n\nIn the 1990s, the world's poultry population grew 76% in developing countries and 23% in developed countries, contributing to the increased prevalence of avian influenza. Before the 1990s, HPAI caused high mortality in poultry, but infections were sporadic and contained. Outbreaks have become more common due to the high density and frequent movement of flocks from intensive poultry production.\n\nInfluenza A/H5N1 was first isolated from a goose in China in 1996. Human infections were first reported in 1997 in Hong Kong. Since 2003, more than 700 human cases of Asian HPAI H5N1 have been reported to the WHO, primarily from 15 countries in Asia, Africa, the Pacific, Europe, and the Middle East, though over 60 countries have been affected.\n\n==Genetics==\nGenetic factors in distinguishing between \"human flu viruses\" and \"avian flu viruses\" include:\n:PB2: (RNA polymerase): Amino acid (or residue) position 627 in the PB2 protein encoded by the PB2 RNA gene. Until H5N1, all known avian influenza viruses had a Glu at position 627, while all human influenza viruses had a Lys.\n\n:HA: (hemagglutinin): Avian influenza HA viruses bind alpha 2-3 sialic acid receptors, while human influenza HA viruses bind alpha 2-6 sialic acid receptors. Swine influenza viruses have the ability to bind both types of sialic acid receptors. Hemagglutinin is the major antigen of the virus against which neutralizing antibodies are produced, and influenza virus epidemics are associated with changes in its antigenic structure. This was originally derived from pigs, and should technically be referred to as \"pig flu\".\n\nThe evolution of avian influenza virus has been influenced by genetic variation in the virus population due to genome segment reassortment and mutation. Also homologous recombination occurs in viral genes, suggesting that genetic variation generated by homologous recombination has also played a role in driving the evolution of the virus and potentially has affected virulence and host range.\n\n==Subtypes==\nThere are many subtypes of avian influenza viruses, but only some strains of five subtypes have been known to infect humans: H5N1, H7N3, H7N7, H7N9, and H9N2. At least one person, an elderly woman in Jiangxi Province, China, died of pneumonia in December 2013 from the H10N8 strain, the first human fatality confirmed to be caused by that strain.\n\nMost human cases of the avian flu are a result of either handling dead infected birds or from contact with infected fluids. It can also be spread through contaminated surfaces and droppings. While most wild birds have only a mild form of the H5N1 strain, once domesticated birds such as chickens or turkeys are infected, H5N1 can potentially become much more deadly because the birds are often in close contact. H5N1 is a large threat in Asia with infected poultry due to low hygiene conditions and close quarters. Although it is easy for humans to contract the infection from birds, human-to-human transmission is more difficult without prolonged contact. However, public health officials are concerned that strains of avian flu may mutate to become easily transmissible between humans.\n  \nSpreading of H5N1 from Asia to Europe is much more likely caused by both legal and illegal poultry trades than dispersing through wild bird migrations, being that in recent studies, there were no secondary rises in infection in Asia when wild birds migrate south again from their breeding grounds. Instead, the infection patterns followed transportation such as railroads, roads, and country borders, suggesting poultry trade as being much more likely. While there have been strains of avian flu to exist in the United States, they have been extinguished and have not been known to infect humans.\n \nExamples of avian influenza A virus strains:\n\n\n== Mode of transmission  ==\n\nAvian influenza is most often spread by contact between infected and healthy birds, though can also be spread indirectly through contaminated equipment. The virus is found in secretions from the nostrils, mouth, and eyes of infected birds as well as their droppings. HPAI infection is spread to people often through direct contact with infected poultry, such as during slaughter or plucking. Though the virus can spread through airborne secretions, the disease itself is not an airborne disease. Highly pathogenic strains spread quickly among flocks and can destroy a flock within 28 hours; the less pathogenic strains may affect egg production but are much less deadly.\n\nAlthough it is possible for humans to contract the avian influenza virus from birds, human-to-human contact is much more difficult without prolonged contact. However, public health officials are concerned that strains of avian flu may mutate to become easily transmissible between humans. Some strains of avian influenza are present in the intestinal tract of large numbers of shore birds and water birds, but these strains rarely cause human infection.\n\nFive manmade ecosystems have contributed to modern avian influenza virus ecology: integrated indoor commercial poultry, range-raised commercial poultry, live poultry markets, backyard and hobby flocks, and bird collection and trading systems including cockfighting. Indoor commercial poultry has had the largest impact on the spread of HPAI, with the increase in HPAI outbreaks largely the result of increased commercial production since the 1990s.\n\n=== Village poultry ===\nIn the early days of the HPAI H5N1 pandemic, village poultry and their owners were frequently implicated in disease transmission. Village poultry, also known as backyard and hobby flocks, are small flocks raised under extensive conditions and often allowed free range between multiple households. However, research has shown that these flocks pose less of a threat than intensively raised commercial poultry with homogenous genetic stock and poor biosecurity. Backyard and village poultry also do not travel great distances compared to transport of intensively raised poultry and contribute less to the spread of HPAI. This initial implication of Asian poultry farmers as one broad category presented challenges to prevention recommendations as commercial strategies did not necessarily apply to backyard poultry flocks.\n\n==H5N1==\n\n\n\nThe highly pathogenic influenza A virus subtype H5N1 is an emerging avian influenza virus that is causing global concern as a potential pandemic threat. It is often referred to simply as \"bird flu\" or \"avian influenza\", even though it is only one of many subtypes.\n\nH5N1 has killed millions of poultry in a growing number of countries throughout Asia, Europe, and Africa. Health experts are concerned that the coexistence of human flu viruses and avian flu viruses (especially H5N1) will provide an opportunity for genetic material to be exchanged between species-specific viruses, possibly creating a new virulent influenza strain that is easily transmissible and lethal to humans. The mortality rate for humans with H5N1 is 60%.\n\nSince the first human H5N1 outbreak occurred in 1997, there has been an increasing number of HPAI H5N1 bird-to-human transmissions, leading to clinically severe and fatal human infections. Because a significant species barrier exists between birds and humans, the virus does not easily spread to humans, however some cases of infection are being researched to discern whether human-to-human transmission is occurring. More research is necessary to understand the pathogenesis and epidemiology of the H5N1 virus in humans. Exposure routes and other disease transmission characteristics, such as genetic and immunological factors that may increase the likelihood of infection, are not clearly understood.\n\nThe first known transmission of H5N1 to a human occurred in Hong Kong in 1997, when there was an outbreak of 18 human cases; 6 deaths were confirmed. None of the infected people worked with poultry. After culling all of the poultry in the area, no more cases were diagnosed. In 2006, the first human-to-human transmission likely occurred when 7 members of a family in Sumatra became infected after contact with a family member who had worked with infected poultry.\n\nAlthough millions of birds have become infected with the virus since its discovery, 359 people have died from H5N1 in twelve countries according to World Health Organization reports as of August 10, 2012.\n\nAs an example, the H5N1 outbreak in Thailand caused massive economic losses, especially among poultry workers. Infected birds were culled and slaughtered. The public lost confidence with the poultry products, thus decreasing the consumption of chicken products. This also elicited a ban from importing countries. There were, however, factors which aggravated the spread of the virus, including bird migration, cool temperature (increases virus survival) and several festivals at that time.\n\nA mutation in the virus was discovered in two Guangdong patients in February 2017 which rendered it more deadly to chickens, inasmuch as it could infect every organ; the risk to humans was not increased, however.\n\n===Controversial research===\nA study published in 2012 in Science Magazine reported on research findings that allowed for the airborne transmission of H5N1 in laboratory ferrets. The study identified the 5 mutations necessary for the virus to become airborne and immediately sparked controversy over the ethical implications of making such potentially dangerous information available to the general public. The study was allowed to remain available in its entirety, though it remains a controversial topic within the scientific community.\n\nThe study in question, however, created airborne H5N1 via amino acid substitutions that largely mitigated the devastating effects of the disease. This fact was underscored by the 0% fatality rate among the ferrets infected via airborne transmission, as well as the fundamental biology underlying the substitutions. Flu viruses attach to host cells via the hemagluttinin proteins on their envelope. These hemagluttinin proteins bind to sialic acid receptors on host cells, which can fall into two categories. The sialic acid receptors can be either 2,3 or 2,6-linked, with the species of origin largely deciding receptor preference. In influenzas of avian origin 2,3-linkage is preferred, vs. influenzas of human origin in which 2,6-linkage is preferable. 2,3-linked SA receptors in humans are found predominantly in the lower respiratory tract, a fact that is the primary foundation for the deadliness of avian influenzas in humans, and also the key to their lack of airborne transmission. In the study that created an airborne avian influenza among ferrets it was necessary to switch the receptor preference of the host cells to those of 2,6-linkage, found predominantly in humans' upper respiratory tract, in order to create an infection that could shed aerosolized virus particles. Such an infection, however, must occur in the upper respiratory tract of humans, thus fundamentally undercutting the fatal trajectory of the disease.\n\n==H7N9==\n\n\nInfluenza A virus subtype H7N9 is a novel avian influenza virus first reported to have infected humans in 2013 in China.  Most of the reported cases of human infection have resulted in severe respiratory illness. In the month following the report of the first case, more than 100 people had been infected, an unusually high rate for a new infection; a fifth of those patients had died, a fifth had recovered, and the rest remained critically ill. The World Health Organization (WHO) has identified H7N9 as \"...an unusually dangerous virus for humans.\" As of June 30, 133 cases have been reported, resulting in the deaths of 43.\n\nResearch regarding background and transmission is ongoing.  It has been established that many of the human cases of H7N9 appear to have a link to live bird markets.  As of July 2013,  there had been no evidence of sustained human-to-human transmission, however a study group headed by one of the world's leading experts on avian flu reported that several instances of human-to-human infection were suspected.\nIt has been reported that H7N9 virus does not kill poultry, which will make surveillance much more difficult.  Researchers have commented on the unusual prevalence of older males among H7N9-infected patients. While several environmental, behavioral, and biological explanations for this pattern have been proposed, as yet, the reason is unknown.  Currently no vaccine exists, but the use of influenza antiviral drugs known as neuraminidase inhibitors in cases of early infection may be effective.\n\nThe number of cases detected after April  fell abruptly. The decrease in the number of new human H7N9 cases may have resulted from containment measures taken by Chinese authorities, including closing live bird markets, or from a change in seasons, or  possibly a combination of both factors. Studies indicate that avian influenza viruses have a seasonal pattern, thus it is thought that infections may  pick up again when the weather turns cooler in China.\n\nIn the four years from early 2013 to early 2017, 916 lab-confirmed human cases of H7N9 were reported to WHO.\n\nOn 9 January 2017, the National Health and Family Planning Commission of China reported to WHO 106 cases which occurred from late November through December. 29, 2016.  The cases are reported from Jiangsu (52), Zhejiang (21), Anhui (14), Guangdong (14), Shanghai (2), Fujian (2) and Hunan (1).  80 of these 106 persons have visited live poultry markets.  Of these cases, there have been 35 deaths.  In two of the 106 cases, human-to-human transmission could not be ruled out.\n\nAffected prefectures in Jiangsu province closed live poultry markets in late December 2016, whereas Zhejiang, Guangdong and Anhui provinces went the route of strengthening live poultry market regulations.  Travellers to affected regions are recommended to avoid poultry farms, live bird markets, and surfaces which appear to be contaminated with poultry feces.  Similar sudden increases in the number of human cases of H7N9 have occurred in previous years during December and January.\n\n==Domestic animals==\n\n\nSeveral domestic species have been infected with and shown symptoms of H5N1 viral infection, including cats, dogs, ferrets, pigs, and birds.\n\n===Birds===\n\nAttempts are made in the United States to minimize the presence of HPAI in poultry through routine surveillance of poultry flocks in commercial poultry operations. Detection of a HPAI virus may result in immediate culling of the flock. Less pathogenic viruses are controlled by vaccination, which is done primarily in turkey flocks (ATCvet codes:  for the inactivated fowl vaccine,  for the inactivated turkey combination vaccine).\n\n===Cats===\nAvian influenza in cats can show a variety of symptoms and usually lead to death. Cats are able to get infected by either consuming an infected bird or by contracting the virus from another infected cat.\n\n== Global impact ==\nIn 2005, the formation of the International Partnership on Avian and Pandemic Influenza was announced in order to elevate the importance of avian flu, coordinate efforts, and improve disease reporting and surveillance in order to better respond to future pandemics. New networks of laboratories have emerged to detect and respond to avian flu, such as the Crisis Management Center for Animal Health, the Global Avian Influenza Network for Surveillance, OFFLU, and the Global Early Warning System for major animal diseases. After the 2003 outbreak, WHO member states have also recognized the need for more transparent and equitable sharing of vaccines and other benefits from these networks. Cooperative measures created in response to HPAI have served as a basis for programs related to other emerging and re-emerging infectious diseases.\n\nHPAI control has also been used for political ends. In Indonesia, negotiations with global response networks were used to recentralize power and funding to the Ministry of Health. In Vietnam policymakers, with the support of the Food and Agriculture Organization of the United Nations (FAO), used HPAI control to accelerate the industrialization of livestock production for export by proposing to increase the portion of large-scale commercial farms and reducing the number of poultry keepers from 8 to 2 million by 2010.\n\n=== Stigma ===\nBackyard poultry production was viewed as \"traditional Asian\" agricultural practices that contrasted with modern commercial poultry production and seen as a threat to biosecurity. Backyard production appeared to hold greater risk than commercial production due to lack of biosecurity and close contact with humans, though HPAI spread in intensively raised flocks was greater due to high density rearing and genetic homogeneity. Asian culture itself was blamed as the reason why certain interventions, such as those that only looked at placed-based interventions, would fail without looking for a multifaceted solutions.\n\n=== Indonesia ===\nPress accounts of avian flu in Indonesia were seen by poultry farmers as conflating suspected cases while the public did see the accounts as informative, though many became de-sensitized to the idea of impending danger or only temporarily changed their poultry-related behavior. Rumors also circulated in Java in 2006. These tended to focus on bird flu being linked to big businesses in order to drive small farmers out of the market by exaggerating the danger of avian influenza, avian flu being introduced by foreigners to force Indonesians to purchase imported chicken and keep Indonesian chicken off the world market, and the government using avian flu as a ploy to attract funds from wealthy countries. Such rumors reflected concerns about big businesses, globalization, and a distrust of the national government in a country where \"the amount of decentralization here is breathtaking\" according to Steven Bjorge, a WHO epidemiologist in Jakarta in 2006.\n\nIn the context a decentralized national government that the public did not completely trust, Indonesian Health Minister Siti Fadilah Supari announced in December 2006 that her government would no longer be sharing samples of H5N1 collected from Indonesian patients. This decision came as a shock to the international community as it disrupted the Global Influenza Surveillance Network (GISN) coordinated by the WHO for managing seasonal and pandemic influenza. GISN is based on countries sharing virus specimens freely with the WHO which assesses and eventually sends these samples to pharmaceutical companies in order to produce vaccines that are sold back to these countries. Though this was initially seen as an attempt to protect national sovereignty at all costs, it was instead used for a domestic political struggle. Prior to Indonesia's dispute with the GISN, the Ministry of Health, already weak due to the decentralized nature the government, was experiencing further leakage of funding to state and non-state agencies due to global health interventions. By reasserting control over public health issues and funding by setting itself up as the sole Indonesian representative to the WHO, the Ministry of Health made itself a key player in the management of future international funds relating vaccine production and renegotiated benefits from global surveillance networks.\n\n=== Economic ===\nApproximately 20% of the protein consumed in developing countries come from poultry. In the wake of the H5N1 pandemic, millions of poultry were killed. In Vietnam alone, over 50 million domestic birds were killed due to HPAI infection and control attempts. A 2005 report by the FAO totaled economic losses in South East Asia around US$10 billion. This had the greatest impact on small scale commercial and backyard producers relative to total assets compared to industrial chains which primarily experience temporary decreases in exports and loss of consumer confidence. Some governments did provide compensation for culled poultry, it was often far below market value (close to 30% of market value in Vietnam), while others such as Cambodia provide no compensation to farmers at all.\n\nAs poultry serves as a source of food security and liquid assets, the most vulnerable populations were poor small scale farmers. The loss of birds due to HPAI and culling in Vietnam led to an average loss of 2.3 months of production and US$69\u2013108 for households where many have an income of $2 a day or less. The loss of food security for vulnerable households can be seen in the stunting of children under 5 in Egypt. Women are another population at risk as in most regions of the world, small flocks are tended to by women. Widespread culling also resulted in the decreased enrollment of girls in school in Turkey.\n\n==Prevention==\n\nPeople who do not regularly come into contact with birds are not at high risk for contracting avian influenza. Those at high risk include poultry farm workers, animal control workers, wildlife biologists, and ornithologists who handle live birds. Organizations with high-risk workers should have an avian influenza response plan in place before any cases have been discovered. Biosecurity of poultry flocks is also important for prevention. Flocks should be isolated from outside birds, especially wild birds, and their waste; vehicles used around the flock should be regularly disinfected and not shared between farms; and birds from slaughter channels should not be returned to the farm.\n\nWith proper infection control and use of personal protective equipment (PPE), the chance for infection is low. Protecting the eyes, nose, mouth, and hands is important for prevention because these are the most common ways for the virus to enter the body. Appropriate personal protective equipment includes aprons or coveralls, gloves, boots or boot covers, and a head cover or hair cover. Disposable PPE is recommended. An N-95 respirator and unvented/indirectly vented safety goggles are also part of appropriate PPE. A powered air purifying respirator (PAPR) with hood or helmet and face shield is also an option.\n\nProper reporting of an isolated case can help to prevent spread. The Centers for Disease Control and Prevention (US) recommendation is that if a worker develops symptoms within 10 days of working with infected poultry or potentially contaminated materials, they should seek care and notify their employer, who should notify public health officials.\n\nFor future avian influenza threats, the WHO suggests a 3 phase, 5 part plan.\n* Phase: Pre-pandemic\n** Reduce opportunities for human infection\n** Strengthen the early warning system\n* Phase: Emergence of a pandemic virus\n** Contain or delay spread at the source\n* Phase: Pandemic declared and spreading internationally\n** Reduce morbidity, mortality, and social disruption\n** Conduct research to guide response measures\nVaccines for poultry have been formulated against several of the avian H5N1 influenza varieties. Control measures for HPAI encourage mass vaccinations of poultry though The World Health Organization has compiled a list of known clinical trials of pandemic influenza prototype vaccines, including those against H5N1. In some countries still at high risk for HPAI spread, there is compulsory strategic vaccination though vaccine supply shortages remain a problem.\n\n=== For village poultry farmers ===\nDuring the initial response to H5N1, a one size fits all recommendation was used for all poultry production systems, though measures for intensively raised birds were not necessarily appropriate for extensively raised birds. When looking at village-raised poultry, it was first assumed that the household was the unit and that flocks did not make contact with other flocks, though more effective measures came into use when the epidemiological unit was the village.\n\nRecommendations involve restructuring commercial markets to improve biosecurity against avian influenza. Poultry production zoning is used to limit poultry farming to specific areas outside of urban environments while live poultry markets improve biosecurity by limiting the number of traders holding licenses and subjecting producers and traders to more stringent inspections. These recommendations in combination with requirements to fence and house all poultry, and to limit free ranging flocks, will eventually lead to fewer small commercial producers and backyard producers, costing livelihoods as they are unable to meet the conditions needed to participate.\n\nA summary of reports to the World Organisation for Animal Health in 2005 and 2010 suggest that surveillance and under-reporting in developed and developing countries is still a challenge. Often, donor support can focus on HPAI control alone, while similar diseases such as Newcastle disease, acute fowl cholera, infectious laryngotracheitis, and infectious bursal disease still affect poultry populations. When HPAI tests come back negative, a lack of funded testing for differential diagnoses can leave farmers wondering what killed their birds.\n\nSince traditional production systems require little investment and serve as a safety net for lower income households, prevention and treatment can be seen as less cost-effective than letting poultry die. Effective control not only requires prior agreements to be made with relevant government agencies, such as seen with Indonesia, they must also not unduly threaten food security.\n\n=== Culling ===\n\nCulling is used in order to decrease the threat of avian influenza transmission by killing potentially infected birds. The FAO manual on HPAI control recommends a zoning strategy which begins with the identification of an infected area (IA) where sick or dead birds have tested positive. All poultry in this zone are culled while the area 1 to 5\u00a0km from the outer boundary of the IA is considered the restricted area (RA) placed under strict surveillance. 2 to 10\u00a0km from the RA is the control area (CA) that serves as a buffer zone in case of spread. Culling is not recommended beyond the IA unless there is evidence of spread. The manual, however, also provides examples of how control was carried out between 2004 and 2005 to contain H5N1 where all poultry was to be stamped out in a 3\u00a0km radius beyond the infected point and beyond that a 5\u00a0km radius where all fowl was to be vaccinated. This culling method was indiscriminate as a large proportion of the poultry inside these areas were small backyard flocks which did not travel great enough distances to carry infection to adjacent villages without human effort and may have not been infected at all. Between 2004 and 2005, over 100 million chickens were culled in Asia to contain H5N1.\n\nThe risk of mass culling of birds and the resulting economic impact led to farmers who were reluctant to report sick poultry. The culls often preempted actual lab testing for H5N1 as avian flu policy justified sacrificing poultry as a safeguard against HPAI spread. In response to these policies, farmers in Vietnam between 2003 and 2004 became more and more unwilling to surrender apparently healthy birds to authorities and stole poultry destined for culls as it stripped poultry of their biosocial and economic worth. By the end of 2005, the government implemented a new policy that targeted high-risk flock in the immediate vicinity of infected farms and instituted voluntary culling with compensation in the case of a local outbreak.\n\nNot only did culling result in severe economic impacts especially for small scale farmers, culling itself may be an ineffective preventative measure. In the short-term, mass culling achieves its goals of limiting the immediate spread of HPAI, it has been found to impede the evolution of host resistance which is important for the long-term success of HPAI control. Mass culling also selects for elevated influenza virulence and results in the greater mortality of birds overall. Effective culling strategies must be selective as well as considerate of economic impacts to optimize epidemiological control and minimize economic and agricultural destruction.\n\n=== People-poultry relations ===\nPrevention and control programs must take into account local understandings of people-poultry relations. In the past, programs that have focused on singular, place-based understandings of disease transmission have been ineffective. In the case of Northern Vietnam, health workers saw poultry as commodities with an environment that was under the control of people. Poultry existed in the context of farms, markets, slaughterhouses, and roads while humans were indirectly the primary transmitters of avian flu, placing the burden of disease control on people. However, farmers saw their free ranging poultry in an environment dominated by nonhuman forces that they could not exert control over. There were a host of nonhuman actors such as wild birds and weather patterns whose relationships with the poultry fostered the disease and absolved farmers of complete responsibility for disease control.\n\nAttempts at singular, place-based controls sought to teach farmers to identify areas where their behavior could change without looking at poultry behaviors. Behavior recommendations by Vietnam's National Steering Committee for Avian Influenza Control and Prevention (NSCAI) were drawn from the FAO Principles of Biosecurity. These included restrictions from entering areas where poultry are kept by erecting barriers to segregate poultry from non-human contact, limits on human movement of poultry and poultry-related products ideally to transporters, and recommendations for farmers to wash hands and footwear before and after contact with poultry. Farmers, pointed to wind and environmental pollution as reasons poultry would get sick. NSCAI recommendations also would disrupt longstanding livestock production practices as gates impede sales by restricting assessment of birds by appearance and offend customers by limiting outside human contact. Instead of incorporating local knowledge into recommendations, cultural barriers were used as scapegoats for failed interventions. Prevention and control methods have been more effective when also considering the social, political, and ecological agents in play.\n\n==See also==\n\n* H7N9\n* Global spread of H5N1\n* H5N1\n* Health crisis\n* Influenza\n* Influenzavirus A\n* Influenza pandemic\n* Influenza Genome Sequencing Project\n* Influenza research\n* Influenza vaccine\n* International Partnership on Avian and Pandemic Influenza\n* OIE/FAO Network of Expertise on Avian Influenza\n* Pandemic Preparedness and Response Act\n* Subtypes of Influenza A virus\n* Transmission and infection of H5N1\n\n\n==References==\n\n\n==Sources==\n*Orent, Wendy  (2006)  The Science of Avian Flu, Answers to Nine Frequently Asked Questions (Discover Magazine. Health & Medicine. February 20, 2006. 59-61)\n* Haugan, Salomon   (2012)  Influenza: Etiology, Pathogenesis and Interventions (Nova Science Publishers, Inc.) \n\n==External links==\n\n\n\nInternational\n:United Nations System Coordinator for Avian and Human Influenza (UNSIC)\n:* Avian Influenza and the Pandemic Threat\n\nWorld Health Organisation (WHO)\n:* WHO Avian influenza resource\n:* The United Nation's World Health Organization's Avian Flu Facts Sheet for 2006\n:* In-depth analysis of bird flu  Symptoms & in-depth analysis on avian flu\n\nFood and Agriculture Organization of the UN (FAO)\n:* FAO Avian Influenza portal Information resources, animations, videos, photos\n:* FAO Bird Flu disease card\n\nWorld Organisation for Animal Health (OIE)\n:* Current status of HPAI worldwide at OIE. WAHID Interface \u2013 OIE World Animal Health Information Database\n:* Disease card\n* Avian influenza resource By Dr. Nati Elkin \u2013 Atlases, vaccines and information.\n\nUnited States\n* PandemicFlu.Gov U.S. Government avian and pandemic flu information\n* CIDRAP Avian Flu Overview \"Avian Influenza (Bird Flu): Agricultural and Wildlife Considerations\"\n* US Avian Influenza Response U.S. Agency for International Development (USAID)\n* Avian influenza research and recommendations National Institute for Occupational Safety and Health\n* Influenza Research Database Database of influenza sequences and related information.\n* Avian Influenza information AVMA \u2013 The American Veterinary Medical Association.\n*  Species Profile- Avian Influenza (Orthomyxoviridae Influenza Type A, subtype H5N1), National Invasive Species Information Center, United States National Agricultural Library. Lists general information and resources for Avian Influenza.\n* Strategic Health Communication for Avian and Pandemic Influenza Prevention Johns Hopkins Bloomberg School of Public Health Center for Communication Programs Global Program on Avian and Pandemic Influenza.\n* Avian Influenza: Critical Program Issues Global Health Technical Brief on Avian Influenza.\n* NIOSH Alert: Protecting Poultry Workers from Avian Influenza (Bird Flu) CDC/NIOSH recommendations for poultry workers\n\nEurope\n* European Commission Avian Influenza control measures\n* Avian Influenza: Prevention and Control Proceedings of the Frontis workshop on Avian Influenza: Prevention and Control, Wageningen, The Netherlands\n* Avian Influenza: Questions & Answers European Centre for Disease Prevention and Control \u2013 Official website\n* FluTrop: Avian Influenza Research in Tropical Countries French Agricultural Research Center for Developing Countries (CIRAD), Avian Influenza website\n\n\n\n\n\n\n\n\n\n\n\n\nBirds that have died of avian influenza. The virus is spread by contact between healthy and unhealthy birds.\nA chicken being tested for flu.\nThe interior of a barn showing infected birds who have been killed by suffocation with foam.",
+    "links": [
+        {
+            "title": "Avian influenza",
+            "text": "Avian influenza",
+            "start": 0,
+            "end": 15,
+            "id": "442916"
+        },
+        {
+            "title": "Avian influenza",
+            "text": "avian flu",
+            "start": 37,
+            "end": 46,
+            "id": "442916"
+        },
+        {
+            "title": "Avian influenza",
+            "text": "bird flu",
+            "start": 50,
+            "end": 58,
+            "id": "442916"
+        },
+        {
+            "title": "Influenza",
+            "text": "influenza",
+            "start": 76,
+            "end": 85,
+            "id": "19572217"
+        },
+        {
+            "title": "Virus",
+            "text": "virus",
+            "start": 96,
+            "end": 101,
+            "id": "19167679"
+        },
+        {
+            "title": "Bird",
+            "text": "bird",
+            "start": 115,
+            "end": 119,
+            "id": "3410"
+        },
+        {
+            "title": "Avian influenza",
+            "text": "highly pathogenic avian influenza",
+            "start": 157,
+            "end": 190,
+            "id": "442916"
+        },
+        {
+            "title": "Avian influenza",
+            "text": "HPAI",
+            "start": 192,
+            "end": 196,
+            "id": "442916"
+        },
+        {
+            "title": "Swine influenza",
+            "text": "swine flu",
+            "start": 222,
+            "end": 231,
+            "id": "1516915"
+        },
+        {
+            "title": "Canine influenza",
+            "text": "dog flu",
+            "start": 233,
+            "end": 240,
+            "id": "3076341"
+        },
+        {
+            "title": "Equine influenza",
+            "text": "horse flu",
+            "start": 242,
+            "end": 251,
+            "id": "3907756"
+        },
+        {
+            "title": "Influenza",
+            "text": "human flu",
+            "start": 256,
+            "end": 265,
+            "id": "19572217"
+        },
+        {
+            "title": "Influenza",
+            "text": "A",
+            "start": 402,
+            "end": 403,
+            "id": "19572217"
+        },
+        {
+            "title": "Influenza B virus",
+            "text": "B",
+            "start": 405,
+            "end": 406,
+            "id": "3833397"
+        },
+        {
+            "title": "Influenza C virus",
+            "text": "C",
+            "start": 412,
+            "end": 413,
+            "id": "3833671"
+        },
+        {
+            "title": "Zoonosis",
+            "text": "zoonotic",
+            "start": 439,
+            "end": 447,
+            "id": "34439"
+        },
+        {
+            "title": "Influenza research",
+            "text": "influenza research",
+            "start": 694,
+            "end": 712,
+            "id": "4699451"
+        },
+        {
+            "title": "Spanish flu",
+            "text": "Spanish flu",
+            "start": 735,
+            "end": 746,
+            "id": "198796"
+        },
+        {
+            "title": "Reassortment",
+            "text": "reassortment",
+            "start": 925,
+            "end": 937,
+            "id": "1236146"
+        },
+        {
+            "title": "Antigenic shift",
+            "text": "antigenic shift",
+            "start": 981,
+            "end": 996,
+            "id": "444371"
+        },
+        {
+            "title": "Pathogen",
+            "text": "pathogen",
+            "start": 1162,
+            "end": 1170,
+            "id": "35038133"
+        },
+        {
+            "title": "Influenza A virus subtype H5N1",
+            "text": "H5N1",
+            "start": 1261,
+            "end": 1265,
+            "id": "1019908"
+        },
+        {
+            "title": "Influenza A virus subtype H7N9",
+            "text": "H7N9",
+            "start": 1711,
+            "end": 1715,
+            "id": "38969724"
+        },
+        {
+            "title": "Virulent Newcastle disease",
+            "text": "Newcastle disease",
+            "start": 2613,
+            "end": 2630,
+            "id": "951569"
+        },
+        {
+            "title": "Intensive animal farming",
+            "text": "intensive",
+            "start": 3304,
+            "end": 3313,
+            "id": "11469677"
+        },
+        {
+            "title": "Influenza A virus subtype H5N1",
+            "text": "H5N1",
+            "start": 3347,
+            "end": 3351,
+            "id": "1019908"
+        },
+        {
+            "title": "World Health Organization",
+            "text": "WHO",
+            "start": 3544,
+            "end": 3547,
+            "id": "33583"
+        },
+        {
+            "title": "Influenza",
+            "text": "human flu",
+            "start": 3738,
+            "end": 3747,
+            "id": "19572217"
+        },
+        {
+            "title": "RNA polymerase",
+            "text": "RNA polymerase",
+            "start": 3797,
+            "end": 3811,
+            "id": "201268"
+        },
+        {
+            "title": "Amino acid",
+            "text": "Amino acid",
+            "start": 3814,
+            "end": 3824,
+            "id": "1207"
+        },
+        {
+            "title": "Residue (chemistry)",
+            "text": "residue",
+            "start": 3829,
+            "end": 3836,
+            "id": "11258494"
+        },
+        {
+            "title": "RNA",
+            "text": "RNA",
+            "start": 3889,
+            "end": 3892,
+            "id": "25758"
+        },
+        {
+            "title": "Influenza A virus subtype H5N1",
+            "text": "H5N1",
+            "start": 3905,
+            "end": 3909,
+            "id": "1019908"
+        },
+        {
+            "title": "Glutamic acid",
+            "text": "Glu",
+            "start": 3951,
+            "end": 3954,
+            "id": "63541"
+        },
+        {
+            "title": "Lysine",
+            "text": "Lys",
+            "start": 4012,
+            "end": 4015,
+            "id": "63544"
+        },
+        {
+            "title": "Hemagglutinin",
+            "text": "hemagglutinin",
+            "start": 4024,
+            "end": 4037,
+            "id": "20939260"
+        },
+        {
+            "title": "Sialic acid",
+            "text": "sialic acid",
+            "start": 4082,
+            "end": 4093,
+            "id": "520602"
+        },
+        {
+            "title": "Swine influenza",
+            "text": "Swine influenza",
+            "start": 4176,
+            "end": 4191,
+            "id": "1516915"
+        },
+        {
+            "title": "Evolution",
+            "text": "evolution",
+            "start": 4544,
+            "end": 4553,
+            "id": "9236"
+        },
+        {
+            "title": "Influenza A virus",
+            "text": "avian influenza virus",
+            "start": 4557,
+            "end": 4578,
+            "id": "440479"
+        },
+        {
+            "title": "Reassortment",
+            "text": "reassortment",
+            "start": 4666,
+            "end": 4678,
+            "id": "1236146"
+        },
+        {
+            "title": "Mutation",
+            "text": "mutation",
+            "start": 4683,
+            "end": 4691,
+            "id": "19702"
+        },
+        {
+            "title": "Homologous recombination",
+            "text": "homologous recombination",
+            "start": 4698,
+            "end": 4722,
+            "id": "2631477"
+        },
+        {
+            "title": "Gene",
+            "text": "gene",
+            "start": 4739,
+            "end": 4743,
+            "id": "4250553"
+        },
+        {
+            "title": "Virulence",
+            "text": "virulence",
+            "start": 4908,
+            "end": 4917,
+            "id": "406929"
+        },
+        {
+            "title": "Jiangxi",
+            "text": "Jiangxi Province",
+            "start": 5148,
+            "end": 5164,
+            "id": "173817"
+        },
+        {
+            "title": "China",
+            "text": "China",
+            "start": 5166,
+            "end": 5171,
+            "id": "5405"
+        },
+        {
+            "title": "Pneumonia",
+            "text": "pneumonia",
+            "start": 5181,
+            "end": 5190,
+            "id": "52135"
+        },
+        {
+            "title": "Cockfight",
+            "text": "cockfight",
+            "start": 8141,
+            "end": 8150,
+            "id": "54920"
+        },
+        {
+            "title": "Extensive farming",
+            "text": "extensive",
+            "start": 8581,
+            "end": 8590,
+            "id": "711157"
+        },
+        {
+            "title": "Intensive farming",
+            "text": "intensively",
+            "start": 8733,
+            "end": 8744,
+            "id": "152772"
+        },
+        {
+            "title": "Biosecurity",
+            "text": "biosecurity",
+            "start": 8810,
+            "end": 8821,
+            "id": "45262"
+        },
+        {
+            "title": "Influenza A virus subtype H5N1",
+            "text": "H5N1",
+            "start": 9245,
+            "end": 9249,
+            "id": "1019908"
+        },
+        {
+            "title": "Pandemic",
+            "text": "pandemic",
+            "start": 9333,
+            "end": 9341,
+            "id": "24255"
+        },
+        {
+            "title": "Hong Kong",
+            "text": "Hong Kong",
+            "start": 10693,
+            "end": 10702,
+            "id": "13404"
+        },
+        {
+            "title": "World Health Organization",
+            "text": "World Health Organization",
+            "start": 11247,
+            "end": 11272,
+            "id": "33583"
+        },
+        {
+            "title": "Thailand",
+            "text": "Thailand",
+            "start": 11341,
+            "end": 11349,
+            "id": "30128"
+        },
+        {
+            "title": "World Health Organization",
+            "text": "World Health Organization",
+            "start": 14448,
+            "end": 14473,
+            "id": "33583"
+        },
+        {
+            "title": "Vaccine",
+            "text": "vaccine",
+            "start": 15395,
+            "end": 15402,
+            "id": "32653"
+        },
+        {
+            "title": "Neuraminidase inhibitor",
+            "text": "neuraminidase inhibitors",
+            "start": 15461,
+            "end": 15485,
+            "id": "2853911"
+        },
+        {
+            "title": "Anatomical Therapeutic Chemical Classification System",
+            "text": "ATCvet",
+            "start": 17574,
+            "end": 17580,
+            "id": "2770"
+        },
+        {
+            "title": "Avian influenza in cats",
+            "text": "Avian influenza in cats",
+            "start": 17685,
+            "end": 17708,
+            "id": "39208560"
+        },
+        {
+            "title": "International Partnership on Avian and Pandemic Influenza",
+            "text": "International Partnership on Avian and Pandemic Influenza",
+            "start": 17940,
+            "end": 17997,
+            "id": "3059367"
+        },
+        {
+            "title": "OIE/FAO Network of Expertise on Animal Influenza",
+            "text": "OFFLU",
+            "start": 18363,
+            "end": 18368,
+            "id": "6256387"
+        },
+        {
+            "title": "Food and Agriculture Organization",
+            "text": "Food and Agriculture Organization of the United Nations (FAO)",
+            "start": 18979,
+            "end": 19040,
+            "id": "11107"
+        },
+        {
+            "title": "Java",
+            "text": "Java",
+            "start": 20232,
+            "end": 20236,
+            "id": "69336"
+        },
+        {
+            "title": "Jakarta",
+            "text": "Jakarta",
+            "start": 20870,
+            "end": 20877,
+            "id": "16275"
+        },
+        {
+            "title": "Personal protective equipment",
+            "text": "personal protective equipment",
+            "start": 24440,
+            "end": 24469,
+            "id": "55530"
+        },
+        {
+            "title": "N95 mask",
+            "text": "N-95",
+            "start": 24822,
+            "end": 24826,
+            "id": "63164437"
+        },
+        {
+            "title": "Powered air-purifying respirator",
+            "text": "powered air purifying respirator",
+            "start": 24920,
+            "end": 24952,
+            "id": "48411613"
+        },
+        {
+            "title": "Centers for Disease Control and Prevention",
+            "text": "Centers for Disease Control and Prevention",
+            "start": 25085,
+            "end": 25127,
+            "id": "6811"
+        },
+        {
+            "title": "Intensive farming",
+            "text": "intensively",
+            "start": 26422,
+            "end": 26433,
+            "id": "152772"
+        },
+        {
+            "title": "Extensive farming",
+            "text": "extensively",
+            "start": 26484,
+            "end": 26495,
+            "id": "711157"
+        },
+        {
+            "title": "World Organisation for Animal Health",
+            "text": "World Organisation for Animal Health",
+            "start": 27446,
+            "end": 27482,
+            "id": "22789"
+        },
+        {
+            "title": "Virulent Newcastle disease",
+            "text": "Newcastle disease",
+            "start": 27691,
+            "end": 27708,
+            "id": "951569"
+        },
+        {
+            "title": "Fowl cholera",
+            "text": "fowl cholera",
+            "start": 27716,
+            "end": 27728,
+            "id": "17620111"
+        },
+        {
+            "title": "Infectious bursal disease",
+            "text": "infectious bursal disease",
+            "start": 27764,
+            "end": 27789,
+            "id": "2201837"
+        },
+        {
+            "title": "Differential diagnosis",
+            "text": "differential diagnoses",
+            "start": 27889,
+            "end": 27911,
+            "id": "915081"
+        },
+        {
+            "title": "Culling",
+            "text": "Culling",
+            "start": 28366,
+            "end": 28373,
+            "id": "2980973"
+        },
+        {
+            "title": "Food and Agriculture Organization",
+            "text": "FAO",
+            "start": 28489,
+            "end": 28492,
+            "id": "11107"
+        },
+        {
+            "title": "Virulence",
+            "text": "virulence",
+            "start": 30766,
+            "end": 30775,
+            "id": "406929"
+        },
+        {
+            "title": "Food and Agriculture Organization",
+            "text": "FAO",
+            "start": 32236,
+            "end": 32239,
+            "id": "11107"
+        },
+        {
+            "title": "Influenza A virus subtype H7N9",
+            "text": "H7N9",
+            "start": 33172,
+            "end": 33176,
+            "id": "38969724"
+        },
+        {
+            "title": "Global spread of H5N1",
+            "text": "Global spread of H5N1",
+            "start": 33179,
+            "end": 33200,
+            "id": "3627082"
+        },
+        {
+            "title": "Influenza A virus subtype H5N1",
+            "text": "H5N1",
+            "start": 33203,
+            "end": 33207,
+            "id": "1019908"
+        },
+        {
+            "title": "Health crisis",
+            "text": "Health crisis",
+            "start": 33210,
+            "end": 33223,
+            "id": "32890301"
+        },
+        {
+            "title": "Influenza",
+            "text": "Influenza",
+            "start": 33226,
+            "end": 33235,
+            "id": "19572217"
+        },
+        {
+            "title": "Influenza A virus",
+            "text": "Influenzavirus A",
+            "start": 33238,
+            "end": 33254,
+            "id": "440479"
+        },
+        {
+            "title": "Influenza pandemic",
+            "text": "Influenza pandemic",
+            "start": 33257,
+            "end": 33275,
+            "id": "2888063"
+        },
+        {
+            "title": "Influenza Genome Sequencing Project",
+            "text": "Influenza Genome Sequencing Project",
+            "start": 33278,
+            "end": 33313,
+            "id": "3811707"
+        },
+        {
+            "title": "Influenza research",
+            "text": "Influenza research",
+            "start": 33316,
+            "end": 33334,
+            "id": "4699451"
+        },
+        {
+            "title": "Influenza vaccine",
+            "text": "Influenza vaccine",
+            "start": 33337,
+            "end": 33354,
+            "id": "1045705"
+        },
+        {
+            "title": "International Partnership on Avian and Pandemic Influenza",
+            "text": "International Partnership on Avian and Pandemic Influenza",
+            "start": 33357,
+            "end": 33414,
+            "id": "3059367"
+        },
+        {
+            "title": "OIE/FAO Network of Expertise on Animal Influenza",
+            "text": "OIE/FAO Network of Expertise on Avian Influenza",
+            "start": 33417,
+            "end": 33464,
+            "id": "6256387"
+        },
+        {
+            "title": "Pandemic Preparedness and Response Act",
+            "text": "Pandemic Preparedness and Response Act",
+            "start": 33467,
+            "end": 33505,
+            "id": "2879812"
+        },
+        {
+            "title": "Category:Subtypes of Influenza A virus",
+            "text": "Subtypes of Influenza A virus",
+            "start": 33508,
+            "end": 33537,
+            "id": null
+        },
+        {
+            "title": "Transmission and infection of H5N1",
+            "text": "Transmission and infection of H5N1",
+            "start": 33540,
+            "end": 33574,
+            "id": "3627466"
+        },
+        {
+            "title": "Wendy Orent",
+            "text": "Orent, Wendy",
+            "start": 33607,
+            "end": 33619,
+            "id": "28937928"
+        },
+        {
+            "title": "Nova Science Publishers",
+            "text": "Nova Science Publishers, Inc.",
+            "start": 33844,
+            "end": 33873,
+            "id": "8236687"
+        },
+        {
+            "title": "United States National Agricultural Library",
+            "text": "United States National Agricultural Library",
+            "start": 35327,
+            "end": 35370,
+            "id": "1263741"
+        }
+    ],
+    "_chunk_id": "b_1127798658-1156558787"
+}

@@ -1,0 +1,413 @@
+{
+    "_id": "1227829",
+    "id": "1227829",
+    "title": "Hong Kong flu",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "==History==",
+            "start": 352,
+            "end": 363
+        },
+        {
+            "text": "==Clinical data==",
+            "start": 2475,
+            "end": 2492
+        },
+        {
+            "text": "==Virology==",
+            "start": 2582,
+            "end": 2594
+        },
+        {
+            "text": "==Mortality==",
+            "start": 3778,
+            "end": 3791
+        },
+        {
+            "text": "==See also==",
+            "start": 5042,
+            "end": 5054
+        },
+        {
+            "text": "==References==",
+            "start": 5075,
+            "end": 5089
+        },
+        {
+            "text": "==External links==",
+            "start": 5092,
+            "end": 5110
+        }
+    ],
+    "categories": [
+        "1968 in Hong Kong",
+        "Health in Hong Kong",
+        "Influenza pandemics",
+        "1968 health disasters",
+        "20th-century epidemics"
+    ],
+    "infobox": null,
+    "article": "The Hong Kong flu (also known as 1968 flu pandemic) was a flu pandemic whose outbreak in 1968 and 1969 killed an estimated one to four million people globally. It was caused by an H3N2 strain of the influenza A virus, descended from H2N2 through antigenic shift, a genetic process in which genes from multiple subtypes reassorted to form a new virus.\n\n==History==\nThe first recorded instance of the outbreak appeared on 13 July 1968 in Hong Kong. There is a possibility that this outbreak actually began in mainland China before spreading to Hong Kong, but this is unconfirmed. By the end of July 1968, extensive outbreaks were reported in Vietnam and Singapore. Despite the lethality of the 1957 Asian Flu in China, little improvement had been made regarding the handling of such epidemics. The Times newspaper was the first source to report this new possible pandemic. \n\nBy September 1968, the flu had reached India, the Philippines, northern Australia, and Europe. That same month, the virus entered California, carried by troops returning from the Vietnam War, but did not become widespread in the United States until December 1968. It reached Japan, Africa, and South America by 1969.\n\nIn Berlin, the excessive number of deaths led to corpses being stored in subway tunnels, and in West Germany, garbage collectors had to bury the dead due to insufficient undertakers. In total, East and West Germany registered 60,000 estimated deaths. In some areas of France, half the workforce was bedridden, and manufacturing suffered large disruptions due to absenteeism. The British postal and train services were also severely disrupted.\n\nThe outbreak in Hong Kong, where population density was greater than 6,000 people per square kilometre, reached maximum intensity in two weeks; it lasted six months in total from July to December 1968. Worldwide deaths from this virus peaked in December 1968 and January 1969. By that time, public health warnings and virus descriptions were widely issued in the scientific and medical journals.\n\nIn comparison to other pandemics of the 20th century, the Hong Kong flu yielded a low death rate. The disease was allowed to spread through the population without restrictions on economic activity, until a vaccine became available four months after it started.\n\nThe H3N2 virus returned during the following 1969/1970 flu season, resulting in a second, deadlier wave of deaths. It remains in circulation today as a strain of the seasonal flu.\n\n==Clinical data==\nFlu symptoms typically lasted four to five days but some persisted for up to two weeks.\n\n==Virology==\n\nThe Hong Kong flu was the first known outbreak of the H3N2 strain, though there is serologic evidence of H3N1 infections in the late 19th century. The virus was isolated in Queen Mary Hospital.\n\nBoth the H2N2 and H3N2 pandemic flu strains contained genes from avian influenza viruses. The new subtypes arose in pigs coinfected with avian and human viruses and were soon transferred to humans. Swine were considered the original \"intermediate host\" for influenza because they supported reassortment of divergent subtypes. However, other hosts appear capable of similar coinfection (for example, many poultry species), and direct transmission of avian viruses to humans is possible. H1N1, associated with the 1918 flu pandemic, may have been transmitted directly from birds to humans.\n\nThe Hong Kong flu strain shared internal genes and the neuraminidase with the 1957 Asian flu (H2N2). Accumulated antibodies to the neuraminidase or internal proteins may have resulted in many fewer casualties than most pandemics. However, cross-immunity within and between subtypes of influenza is poorly understood.\n\nThe basic reproduction number of the flu in this period was estimated at 1.80.\n\n==Mortality==\nThe United States Centers for Disease Control and Prevention (CDC) estimated that in total, the virus killed one million people worldwide, from its beginning in July 1968 until the outbreak faded during the winter of 1969\u201370. The CDC estimated that about 34,000 to 100,000 people died in the U.S; most excess deaths were in those 65 and older. However, fewer people died during this pandemic than in previous pandemics for several reasons:\n\n# Some immunity against the N2 flu virus may have been retained in populations struck by the Asian Flu strains which had been circulating since 1957;\n# The pandemic did not gain momentum until near the winter school holidays, thus limiting the infection spreading;\n# Improved medical care gave vital support to the very ill;\n# The availability of antibiotics that were more effective against secondary bacterial infections.\n\nFor this pandemic, there were two geographically distinct mortality patterns. In North America (the United States and Canada), the first pandemic season (1968/69) was more severe than the second (1969/70). In the \"smoldering\" pattern seen in Europe and Asia (United Kingdom, France, Japan, and Australia), the second pandemic season was two to five times more severe than the first.\n\n==See also==\n*Influenza vaccine\n\n==References==\n\n\n==External links==\n\n* Influenza Research Database \u2013 Database of influenza genomic sequences and related information.\n\n\n\n\n\n\n\n\nThe influenza viruses that caused the Hong Kong flu (magnified approximately 100,000 times).",
+    "links": [
+        {
+            "title": "Hong Kong flu",
+            "text": "Hong Kong flu",
+            "start": 4,
+            "end": 17,
+            "id": "1227829"
+        },
+        {
+            "title": "Hong Kong flu",
+            "text": "1968 flu pandemic",
+            "start": 33,
+            "end": 50,
+            "id": "1227829"
+        },
+        {
+            "title": "Influenza pandemic",
+            "text": "flu pandemic",
+            "start": 58,
+            "end": 70,
+            "id": "2888063"
+        },
+        {
+            "title": "Influenza A virus subtype H3N2",
+            "text": "H3N2",
+            "start": 180,
+            "end": 184,
+            "id": "2957262"
+        },
+        {
+            "title": "Influenza A virus",
+            "text": "influenza A virus",
+            "start": 199,
+            "end": 216,
+            "id": "440479"
+        },
+        {
+            "title": "Influenza A virus subtype H2N2",
+            "text": "H2N2",
+            "start": 233,
+            "end": 237,
+            "id": "2957254"
+        },
+        {
+            "title": "Antigenic shift",
+            "text": "antigenic shift",
+            "start": 246,
+            "end": 261,
+            "id": "444371"
+        },
+        {
+            "title": "Genetics",
+            "text": "genetic",
+            "start": 265,
+            "end": 272,
+            "id": "12266"
+        },
+        {
+            "title": "Gene",
+            "text": "gene",
+            "start": 290,
+            "end": 294,
+            "id": "4250553"
+        },
+        {
+            "title": "Reassortment",
+            "text": "reassorted",
+            "start": 319,
+            "end": 329,
+            "id": "1236146"
+        },
+        {
+            "title": "British Hong Kong",
+            "text": "Hong Kong",
+            "start": 436,
+            "end": 445,
+            "id": "27413692"
+        },
+        {
+            "title": "Mainland China",
+            "text": "mainland China",
+            "start": 507,
+            "end": 521,
+            "id": "55079"
+        },
+        {
+            "title": "Hong Kong",
+            "text": "Hong Kong",
+            "start": 542,
+            "end": 551,
+            "id": "13404"
+        },
+        {
+            "title": "Vietnam",
+            "text": "Vietnam",
+            "start": 640,
+            "end": 647,
+            "id": "202354"
+        },
+        {
+            "title": "Singapore",
+            "text": "Singapore",
+            "start": 652,
+            "end": 661,
+            "id": "27318"
+        },
+        {
+            "title": "1957\u20131958 influenza pandemic",
+            "text": "Asian Flu",
+            "start": 697,
+            "end": 706,
+            "id": "63564574"
+        },
+        {
+            "title": "The Times",
+            "text": "The Times",
+            "start": 792,
+            "end": 801,
+            "id": "39127"
+        },
+        {
+            "title": "Pandemic",
+            "text": "pandemic",
+            "start": 861,
+            "end": 869,
+            "id": "24255"
+        },
+        {
+            "title": "India",
+            "text": "India",
+            "start": 912,
+            "end": 917,
+            "id": "14533"
+        },
+        {
+            "title": "Philippines",
+            "text": "Philippines",
+            "start": 923,
+            "end": 934,
+            "id": "23440"
+        },
+        {
+            "title": "Australia",
+            "text": "Australia",
+            "start": 945,
+            "end": 954,
+            "id": "4689264"
+        },
+        {
+            "title": "Europe",
+            "text": "Europe",
+            "start": 960,
+            "end": 966,
+            "id": "9239"
+        },
+        {
+            "title": "California",
+            "text": "California",
+            "start": 1003,
+            "end": 1013,
+            "id": "5407"
+        },
+        {
+            "title": "United States Armed Forces",
+            "text": "troops",
+            "start": 1026,
+            "end": 1032,
+            "id": "32212"
+        },
+        {
+            "title": "Vietnam War",
+            "text": "Vietnam War",
+            "start": 1052,
+            "end": 1063,
+            "id": "32611"
+        },
+        {
+            "title": "Japan",
+            "text": "Japan",
+            "start": 1148,
+            "end": 1153,
+            "id": "15573"
+        },
+        {
+            "title": "Africa",
+            "text": "Africa",
+            "start": 1155,
+            "end": 1161,
+            "id": "5334607"
+        },
+        {
+            "title": "South America",
+            "text": "South America",
+            "start": 1167,
+            "end": 1180,
+            "id": "26769"
+        },
+        {
+            "title": "Influenza A virus subtype H3N2",
+            "text": "H3N2",
+            "start": 2298,
+            "end": 2302,
+            "id": "2957262"
+        },
+        {
+            "title": "Influenza A virus subtype H3N2",
+            "text": "H3N2",
+            "start": 2650,
+            "end": 2654,
+            "id": "2957262"
+        },
+        {
+            "title": "Serology",
+            "text": "serologic",
+            "start": 2679,
+            "end": 2688,
+            "id": "1063406"
+        },
+        {
+            "title": "Influenza A virus subtype H3N1",
+            "text": "H3N1",
+            "start": 2701,
+            "end": 2705,
+            "id": "8017513"
+        },
+        {
+            "title": "Queen Mary Hospital (Hong Kong)",
+            "text": "Queen Mary Hospital",
+            "start": 2769,
+            "end": 2788,
+            "id": "1076877"
+        },
+        {
+            "title": "Influenza A virus subtype H2N2",
+            "text": "H2N2",
+            "start": 2800,
+            "end": 2804,
+            "id": "2957254"
+        },
+        {
+            "title": "Influenza pandemic",
+            "text": "pandemic flu",
+            "start": 2814,
+            "end": 2826,
+            "id": "2888063"
+        },
+        {
+            "title": "Avian influenza",
+            "text": "avian influenza",
+            "start": 2856,
+            "end": 2871,
+            "id": "442916"
+        },
+        {
+            "title": "Influenza A virus subtype H1N1",
+            "text": "H1N1",
+            "start": 3277,
+            "end": 3281,
+            "id": "2866555"
+        },
+        {
+            "title": "Spanish flu",
+            "text": "1918 flu pandemic",
+            "start": 3303,
+            "end": 3320,
+            "id": "198796"
+        },
+        {
+            "title": "Neuraminidase",
+            "text": "neuraminidase",
+            "start": 3435,
+            "end": 3448,
+            "id": "1506941"
+        },
+        {
+            "title": "1957\u20131958 influenza pandemic",
+            "text": "Asian flu",
+            "start": 3463,
+            "end": 3472,
+            "id": "63564574"
+        },
+        {
+            "title": "Influenza A virus subtype H2N2",
+            "text": "H2N2",
+            "start": 3474,
+            "end": 3478,
+            "id": "2957254"
+        },
+        {
+            "title": "Pandemic",
+            "text": "pandemic",
+            "start": 3599,
+            "end": 3607,
+            "id": "24255"
+        },
+        {
+            "title": "Cross-reactivity",
+            "text": "cross-immunity",
+            "start": 3619,
+            "end": 3633,
+            "id": "4517354"
+        },
+        {
+            "title": "Basic reproduction number",
+            "text": "basic reproduction number",
+            "start": 3702,
+            "end": 3727,
+            "id": "917273"
+        },
+        {
+            "title": "Centers for Disease Control and Prevention",
+            "text": "Centers for Disease Control and Prevention",
+            "start": 3810,
+            "end": 3852,
+            "id": "6811"
+        },
+        {
+            "title": "1957\u20131958 influenza pandemic",
+            "text": "Asian Flu",
+            "start": 4326,
+            "end": 4335,
+            "id": "63564574"
+        },
+        {
+            "title": "Health care",
+            "text": "medical care",
+            "start": 4509,
+            "end": 4521,
+            "id": "261925"
+        },
+        {
+            "title": "Antibiotic",
+            "text": "antibiotics",
+            "start": 4580,
+            "end": 4591,
+            "id": "1805"
+        },
+        {
+            "title": "Infection",
+            "text": "secondary bacterial infections",
+            "start": 4625,
+            "end": 4655,
+            "id": "37220"
+        },
+        {
+            "title": "Influenza vaccine",
+            "text": "Influenza vaccine",
+            "start": 5056,
+            "end": 5073,
+            "id": "1045705"
+        },
+        {
+            "title": "Influenza",
+            "text": "influenza",
+            "start": 5221,
+            "end": 5230,
+            "id": "19572217"
+        }
+    ],
+    "_chunk_id": "b_1981420551-1999916646"
+}

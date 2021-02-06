@@ -1,0 +1,127 @@
+{
+    "_id": "52980310",
+    "id": "52980310",
+    "title": "Wanganui Computer Centre bombing",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "==Bombing==",
+            "start": 319,
+            "end": 330
+        },
+        {
+            "text": "==In popular culture==",
+            "start": 1268,
+            "end": 1290
+        },
+        {
+            "text": "==See also==",
+            "start": 2047,
+            "end": 2059
+        },
+        {
+            "text": "==References==",
+            "start": 2088,
+            "end": 2102
+        }
+    ],
+    "categories": [
+        "Terrorist incidents in New Zealand",
+        "1982 in New Zealand",
+        "Suicide bombing",
+        "Failed terrorist attempts in Oceania",
+        "Terrorist incidents in Oceania in 1982",
+        "Terrorist incidents in New Zealand in the 1980s",
+        "November 1982 events in Oceania"
+    ],
+    "infobox": "{{Infobox civilian attack\n| title       = Wanganui Computer Centre bombing\n| partof      = \n| image       = \n| image_size  = \n| alt         = \n| caption     = \n| map         = \n| map_size    = \n| map_alt     = \n| map_caption = \n| location    = [[Wanganui]], [[New Zealand]]\n| target      = [[National Law Enforcement System]] mainframe\n| coordinates = {{coord|-39.9306|175.0564|region:NZ-MWT_type:landmark|display=inline}}\n| date        = {{start date|18 November 1982}}\n| time        = {{circa}} 12:35 am\n| timezone    = [[NZDT]]\n| type        = [[Suicide bombing]]\n| fatalities  = 1 (perpetrator)\n| injuries    = \n| victims     = \n| perpetrators= Neil Roberts\n| assailants  = \n| susperps    = \n| weapons     = \n| numparts    = \n| dfens       = \n| motive      = \n| inquiry     = \n| coroner     = \n| accused     = \n| convicted   = \n| verdict     = \n| convictions = \n| charges     = \n| litigation  = \n| website     = <!-- {{URL|example.com}} -->\n| module      =\n}}",
+    "article": "The Wanganui Computer Centre bombing occurred in Wanganui, New Zealand, in 1982. The event was carried out to protest New Zealand's ability to record the personal information of citizens which was seen as potentially dangerous by civil libertarians. The Computer Centre continued to operate until its closure in 2005.\n\n==Bombing==\n\nOn 18 November 1982, a suicide bomb attack was made against a facility housing the main computer system of the New Zealand Police, Courts, Ministry of Transport and other law enforcement agencies, in Wanganui. The force of the blast made it so that police were initially unable to determine the sex of the perpetrator. The attacker, a \"punk rock\" anarchist named Neil Roberts, was the only person killed, and the computer system was undamaged. He had written on a piece of cardboard before the explosion, \"Heres [sic] one anarchist down. Hopefully there\u2019s a lot more waking up. One day we\u2019ll win - one day.\u201d A public toilet nearby had the slogan \"We have maintained a silence closely resembling stupidity\" painted on it, a slogan which the police believe Roberts had painted, and borrowed from the Revolutionary Proclamation of the Junta Tuitiva of 1809. The phrase is still closely linked with the bombing by the New Zealand public. \n\n==In popular culture==\nIn 1984, a short was produced titled The Maintenance of Silence. The film portrays a young man named Eric probing into the facts of the bombing. The protagonist is disturbed by being awakened in Auckland at the exact moment of the bombing in Wanganui. Eric becomes absorbed in pondering the character and fate of Neil Roberts. \n\nRochelle Bright wrote a musical play about Neil Roberts in 2015 as part of her residency at the Michael King Writers' Centre in Auckland. \n\nThe graffitied sentence \"We have maintained a silence closely resembling stupidity\" has been used by New Zealand artist Ann Shelton in various works, notably as part of her \"Doublethink\" installation (2013) and exhibition \"The City of Lead and Gold\" (Sarjeant Gallery, Wanganui, 2013).\n\n==See also==\n* Terrorism in New Zealand\n\n==References==",
+    "links": [
+        {
+            "title": "Wanganui Computer Centre bombing",
+            "text": "Wanganui Computer Centre bombing",
+            "start": 4,
+            "end": 36,
+            "id": "52980310"
+        },
+        {
+            "title": "Whanganui",
+            "text": "Wanganui",
+            "start": 49,
+            "end": 57,
+            "id": "351331"
+        },
+        {
+            "title": "Suicide attack",
+            "text": "suicide bomb",
+            "start": 355,
+            "end": 367,
+            "id": "18835454"
+        },
+        {
+            "title": "National Law Enforcement System",
+            "text": "the main computer system",
+            "start": 411,
+            "end": 435,
+            "id": "23682260"
+        },
+        {
+            "title": "New Zealand Police",
+            "text": "New Zealand Police",
+            "start": 443,
+            "end": 461,
+            "id": "406756"
+        },
+        {
+            "title": "Whanganui",
+            "text": "Wanganui",
+            "start": 532,
+            "end": 540,
+            "id": "351331"
+        },
+        {
+            "title": "Anarchism",
+            "text": "anarchist",
+            "start": 679,
+            "end": 688,
+            "id": "12"
+        },
+        {
+            "title": "La Paz revolution",
+            "text": "Junta Tuitiva",
+            "start": 1164,
+            "end": 1177,
+            "id": "27255488"
+        },
+        {
+            "title": "Auckland",
+            "text": "Auckland",
+            "start": 1486,
+            "end": 1494,
+            "id": "18660332"
+        },
+        {
+            "title": "Ann Shelton (photographer)",
+            "text": "Ann Shelton",
+            "start": 1880,
+            "end": 1891,
+            "id": "50293456"
+        },
+        {
+            "title": "Sarjeant Gallery",
+            "text": "Sarjeant Gallery",
+            "start": 2011,
+            "end": 2027,
+            "id": "4213592"
+        },
+        {
+            "title": "Terrorism in New Zealand",
+            "text": "Terrorism in New Zealand",
+            "start": 2062,
+            "end": 2086,
+            "id": "11217912"
+        }
+    ],
+    "_chunk_id": "b_15813166713-15820616430"
+}

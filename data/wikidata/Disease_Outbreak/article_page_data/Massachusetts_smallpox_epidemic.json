@@ -1,0 +1,71 @@
+{
+    "_id": "37779977",
+    "id": "37779977",
+    "title": "Massachusetts smallpox epidemic",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "== European Infection ==",
+            "start": 213,
+            "end": 237
+        },
+        {
+            "text": "== Native American Infection ==",
+            "start": 1191,
+            "end": 1222
+        },
+        {
+            "text": "==References==",
+            "start": 1654,
+            "end": 1668
+        }
+    ],
+    "categories": [
+        "1633 in the Thirteen Colonies",
+        "17th-century health disasters",
+        "Colonial Massachusetts",
+        "Smallpox epidemics",
+        "17th-century epidemics"
+    ],
+    "infobox": null,
+    "article": "The Massachusetts smallpox epidemic or Colonial epidemic was a smallpox outbreak that hit Massachusetts in 1633. Smallpox outbreaks were not confined to 1633 however, and occurred nearly every ten years.\n__TOC__\n\n== European Infection ==\nEuropeans brought smallpox to North America when they first began colonizing. Most Europeans were immune to the disease due to living conditions in overpopulated Europe. However, 20 settlers on the Mayflower were infected including their only physician Dr Samuel Fuller.\n\nWhile the European settlers remained mostly unaffected by smallpox in 1630, they witnessed their Native American neighbors fall victim to it rapidly. A New England colonist in 1630 said the Native Americans \"fell down so generally of this disease as they were in the end not able to help one another, not to make a fire, nor to fetch a little water to drink, nor any to bury the dead...\". Yet despite the destruction wrought by smallpox, it was seen as a gift from god by some Puritans. Including Increase Mather, a clergyman and one of Harvard College's first presidents, who stated that the smallpox epidemic was God's solution to the Native American and Puritan land disputes.\n\n== Native American Infection ==\nNearby Native Americans were not immune to smallpox and by 1618, a year after the first epidemic swept through Massachusetts, more than two thirds of the Massachusetts Native Americans including the Mohawks, native people in the Lake Ontario area and the Iroquois were killed from infection. The epidemic continued and by 1633, smallpox infected entire tribes and left the people unable to care for each other or bury their dead.\n\n==References==",
+    "links": [
+        {
+            "title": "Massachusetts smallpox epidemic",
+            "text": "Massachusetts smallpox epidemic",
+            "start": 4,
+            "end": 35,
+            "id": "37779977"
+        },
+        {
+            "title": "Massachusetts smallpox epidemic",
+            "text": "Colonial epidemic",
+            "start": 39,
+            "end": 56,
+            "id": "37779977"
+        },
+        {
+            "title": "Massachusetts",
+            "text": "Massachusetts",
+            "start": 90,
+            "end": 103,
+            "id": "1645518"
+        },
+        {
+            "title": "Samuel Fuller (Pilgrim)",
+            "text": "Dr Samuel Fuller",
+            "start": 491,
+            "end": 507,
+            "id": "11495311"
+        },
+        {
+            "title": "Increase Mather",
+            "text": "Increase Mather",
+            "start": 1007,
+            "end": 1022,
+            "id": "273766"
+        }
+    ],
+    "_chunk_id": "b_12329364812-12336896813"
+}

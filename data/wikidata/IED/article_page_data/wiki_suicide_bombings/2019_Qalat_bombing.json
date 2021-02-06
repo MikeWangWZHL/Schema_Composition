@@ -1,0 +1,86 @@
+{
+    "_id": "61830613",
+    "id": "61830613",
+    "title": "2019 Qalat bombing",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "== References ==",
+            "start": 799,
+            "end": 815
+        }
+    ],
+    "categories": [
+        "2019 murders in Afghanistan",
+        "21st century in Zabul Province",
+        "21st-century mass murder in Afghanistan",
+        "Attacks on buildings and structures in 2019",
+        "Attacks on buildings and structures in Afghanistan",
+        "Attacks on hospitals",
+        "Crime in Zabul Province",
+        "Islamic terrorism in Afghanistan",
+        "Islamic terrorist incidents in 2019",
+        "Mass murder in 2019",
+        "September 2019 crimes in Asia",
+        "September 2019 events in Afghanistan",
+        "Suicide bombings in 2019",
+        "Suicide car and truck bombings in Afghanistan",
+        "Taliban bombings",
+        "Terrorist incidents in Afghanistan in 2019"
+    ],
+    "infobox": "{{Infobox civilian attack\n| title       = 2019 Qalat bombing\n| partof      = [[War in Afghanistan (2001\u2013present)]]\n| image       = \n| image_size  = \n| alt         =  \n| caption     = \n| map         =\n {{Location map many | Afghanistan\n| width       = 280\n| label       = Intersection\n| position    = right\n| background  = #FFFFDD\n| coordinates =\n }}\n| map_size    = \n| map_alt     = \n| map_caption = \n| location    = [[Qalati Ghilji]], [[Zabul Province]], [[Afghanistan]]\n| target      = Hospital\n| coordinates = {{coord|32|6|22|N|66|54|25|E|region:AF|display=inline,title}} \n| date        = {{start date|2019|09|19|df=yes}}\n| time        = \n| timezone    = \n| type        = \n| fatalities  = 39 (+1 attacker)\n| injuries    = 140+\n| victims     = <!-- or | victim = -->\n| perpetrators= Unknown\n| assailants  = <!-- or | assailant = -->\n| susperps    = <!-- or | susperp = -->\n| weapons     = Suicide car bombing\n| numparts    = <!-- or | numpart = -->\n| dfens       = <!-- or | dfen = -->\n| motive      = \n| inquiry     = \n| coroner     = \n| accused     = \n| convicted   = \n| verdict     = \n| convictions = \n| charges     = \n| litigation  = \n| website     = <!-- {{URL|example.com}} -->\n| module      = \n}}",
+    "article": "On 19 September 2019, a suicide car bombing occurred outside a hospital in Qalati Ghilji, Zabul Province, Afghanistan. At least 20 people were estimated to be killed and over 90 others injured. By 20 September the death toll had risen to 39, with most of the victims being doctors and patients. More than 140 people were also injured in the attack, although the true number is believed to be higher. The Taliban later claimed that they meant to bomb the National Directorate of Security, a governmental intelligence building next door to the hospital, but were unable to park there so they ended up parking in front of the hospital instead. Governor Rahmatullah Yarmal later said that the hospital had been destroyed. The hospital was the main health facility in Zabul Province before the bombing.\n\n== References ==",
+    "links": [
+        {
+            "title": "Suicide attack",
+            "text": "suicide",
+            "start": 24,
+            "end": 31,
+            "id": "18835454"
+        },
+        {
+            "title": "Car bomb",
+            "text": "car bomb",
+            "start": 32,
+            "end": 40,
+            "id": "155282"
+        },
+        {
+            "title": "Qalati Ghilji",
+            "text": "Qalati Ghilji",
+            "start": 75,
+            "end": 88,
+            "id": "4986390"
+        },
+        {
+            "title": "Zabul Province",
+            "text": "Zabul Province",
+            "start": 90,
+            "end": 104,
+            "id": "362239"
+        },
+        {
+            "title": "Afghanistan",
+            "text": "Afghanistan",
+            "start": 106,
+            "end": 117,
+            "id": "737"
+        },
+        {
+            "title": "Taliban",
+            "text": "Taliban",
+            "start": 404,
+            "end": 411,
+            "id": "30635"
+        },
+        {
+            "title": "National Directorate of Security",
+            "text": "National Directorate of Security",
+            "start": 454,
+            "end": 486,
+            "id": "10946695"
+        }
+    ],
+    "_chunk_id": "b_17809794348-17817466236"
+}

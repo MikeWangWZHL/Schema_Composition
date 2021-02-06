@@ -1,0 +1,83 @@
+{
+    "_id": "52754818",
+    "id": "52754818",
+    "title": "January 2, 2017 Baghdad bombings",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "==Responsibility==",
+            "start": 638,
+            "end": 656
+        },
+        {
+            "text": "==References==",
+            "start": 779,
+            "end": 793
+        }
+    ],
+    "categories": [
+        "Suicide bombings in 2017",
+        "21st-century mass murder in Iraq",
+        "2017 murders in Asia",
+        "2010s in Baghdad",
+        "ISIL terrorist incidents in Iraq",
+        "Islamic terrorist incidents in 2017",
+        "January 2017 crimes in Asia",
+        "January 2017 events in Iraq",
+        "Marketplace attacks in Iraq",
+        "Mass murder in 2017",
+        "Mass murder in Iraq",
+        "Suicide car and truck bombings in Iraq",
+        "Terrorist incidents in Baghdad",
+        "Terrorist incidents in Iraq in 2017",
+        "Violence against Shia Muslims in Iraq"
+    ],
+    "infobox": "{{Infobox civilian attack\n| title       = January 2017 Baghdad bombings\n| partof      = [[Iraqi Civil War (2014\u20132017)|Iraqi Civil War]]\n| image       =\n| caption     =\n|map= {{Location map|Iraq\n|width = 300\n|float = right\n|label = Baghdad\n  |marksize = 8\n  |lat_deg = 33 | lat_min = 20\n  |lon_deg = 44 | lon_min = 23\n}}\n| map_size    =\n| location    = [[Baghdad]], Iraq\n| coordinates =\n| date        = {{Start date|2017|01|2|df=y}}\n| time        =\n| timezone    =\n| type        = car bombings, IEDs\n| fatalities  = At least 56\n| injuries    = At least 122<ref name=\"NYT\" />\n| target      = [[Shia Islam|Shiite]] civilians\n| perps       = [[Islamic State of Iraq and the Levant]]\n| weapons     = Car bombs\n}}",
+    "article": "On January 2, 2017, at least three suicide car bombings took place in a Shia Muslim eastern district of Sadr City, as well as behind the Kindi and Imam Ali hospitals, killing 56 people and injuring more than 120 others. Haider al-Abadi, Iraq's prime minister, had informed in a news conference that the suicide bombing, in Sadr City's busy market, was operated by the suicide bomber who detonated a vehicle with explosives. The bomber had pretended to hire day labourers in the market; once labourers gathered near the vehicle, the vehicle was detonated by him. The French President Fran\u00e7ois Hollande was in the city during the attacks.\n\n==Responsibility==\nThe jihadist group Islamic State claimed the responsibility of attacks, with a targeted attack on a \"gathering of Shia\".\n\n==References==",
+    "links": [
+        {
+            "title": "Shia Islam",
+            "text": "Shia Muslim",
+            "start": 72,
+            "end": 83,
+            "id": "26961"
+        },
+        {
+            "title": "Sadr City",
+            "text": "Sadr City",
+            "start": 104,
+            "end": 113,
+            "id": "210704"
+        },
+        {
+            "title": "Haider al-Abadi",
+            "text": "Haider al-Abadi",
+            "start": 220,
+            "end": 235,
+            "id": "440404"
+        },
+        {
+            "title": "President of France",
+            "text": "French President",
+            "start": 566,
+            "end": 582,
+            "id": "24899"
+        },
+        {
+            "title": "Fran\u00e7ois Hollande",
+            "text": "Fran\u00e7ois Hollande",
+            "start": 583,
+            "end": 600,
+            "id": "563975"
+        },
+        {
+            "title": "Islamic State of Iraq and the Levant",
+            "text": "Islamic State",
+            "start": 676,
+            "end": 689,
+            "id": "9087364"
+        }
+    ],
+    "_chunk_id": "b_15759513433-15767339522"
+}

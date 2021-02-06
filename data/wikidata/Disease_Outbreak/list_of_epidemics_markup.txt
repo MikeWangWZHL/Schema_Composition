@@ -1,0 +1,1833 @@
+== Chronology ==
+Events in '''boldface''' are ongoing.
+{| class="wikitable sortable"
+|-
+! Event
+! data-sort-type="isoDate"| Date
+! Location
+! Disease
+! data-sort-type="number"| Death toll (estimate)
+! Ref.
+|-
+| 1200 BC Babylon influenza epidemic
+| data-sort-value="-1200"|1200 BC
+| [[Babylon]], or Babirus of the  [[Persia]]ns, [[Central Asia]], [[Mesopotamia]] and [[Southern Asia]]
+|[[Sanskrit]] scholars found records of a disease resembling the [[Flu]]
+| data-sort-value="0"|Unknown
+| <ref name="flu">Mouritz, A. (1921). ''[http://www.gutenberg.org/ebooks/61607 The Flu]''. Retrieved April 5, 2020.</ref>
+|-
+| [[Plague of Athens]]
+| data-sort-value="-429"|429–426 BC
+| [[Greece]], [[Libya]], [[Egypt]], [[Ethiopia]]
+| Unknown, possibly [[typhus]], [[typhoid fever]] or [[viral hemorrhagic fever]]
+| data-sort-value="87500"|75,000–100,000
+| <ref>{{Cite web |url=https://www.history.com/topics/middle-ages/pandemics-timeline |title=Pandemics That Changed History |website=History.com |archive-url=https://web.archive.org/web/20200303184702/https://www.history.com/topics/middle-ages/pandemics-timeline |archive-date=2020-03-03 |access-date=2020-04-14}}</ref><ref>{{Cite web |url=http://umm.edu/news-and-events/news-releases/1999/plague-of-athens-another-medical-mystery-solved-at-university-of-maryland |title=Plague of Athens: Another Medical Mystery Solved at University of Maryland |website=University of Maryland Medical Center |url-status=dead |archive-url=https://web.archive.org/web/20151204030552/http://umm.edu/news-and-events/news-releases/1999/plague-of-athens-another-medical-mystery-solved-at-university-of-maryland |archive-date=2015-12-04 |access-date=2016-02-10}}</ref><ref>{{Cite journal |last1=Papagrigorakis |first1=Manolis J. |last2=Yapijakis |first2=Christos |last3=Synodinos |first3=Philippos N. |last4=Baziotopoulou-Valavani |first4=Effie |year=2007
+ |title=DNA examination of ancient dental pulp incriminates typhoid fever as a probable cause of the Plague of Athens |journal=International Journal of Infectious Diseases |volume=10 |issue=3 |pages=206–214 |doi=10.1016/j.ijid.2005.09.001 |pmid=16412683|doi-access=free }}</ref><ref>{{Cite journal |last1=Olson |first1=PE |last2=Hames |first2=CS |last3=Benenson |first3=AS |last4=Genovese |first4=EN |year=1996 |title=The Thucydides syndrome: Ebola déjà vu? (or Ebola reemergent?) |journal= Emerging Infectious Diseases|volume=2 |issue=2 |pages=155–156 |doi=10.3201/eid0202.960220 |pmc=2639821 |pmid=8964060}}</ref>
+|-
+| [[412 BC epidemic]]
+| data-sort-value="-412"|412 BC
+| [[Greece]] ([[Northern Greece]], [[Roman Republic]])
+| Unknown, possibly [[influenza]]
+| data-sort-value="0"|Unknown
+| <ref>{{cite book |last=Potter |first=C. W. |title=Influenza |chapter=Foreword |date=2002 |page=vii |publisher=[[Elsevier Science]]}}</ref>
+|-
+| [[Antonine Plague]]
+| data-sort-value="0165"|165–180 (possibly up to 190)
+| [[Roman Empire]]
+| Unknown, possibly [[smallpox]]
+| data-sort-value="07500000"|5–10 million
+| <ref>[http://news.bbc.co.uk/2/hi/health/4381924.stm "Past pandemics that ravaged Europe"] {{Webarchive|url=https://web.archive.org/web/20171007210210/http://news.bbc.co.uk/2/hi/health/4381924.stm|date=2017-10-07}}, BBC News, 7 November 2005</ref>
+|-
+| Jian'an Plague
+| 217
+| [[Han dynasty#Eastern Han|Han Dynasty]]
+| Unknown, possibly [[typhoid fever]]
+| data-sort-value="0"|Unknown
+| <ref>{{Cite journal|last=Mazanec|first=Thomas J.|date=2020-09-01|title=Review: The Halberd at Red Cliff: Jian'an and the Three Kingdoms, by Xiaofei Tian|url=https://online.ucpress.edu/SLA/article/4/3/353/110917/Review-The-Halberd-at-Red-Cliff-Jian-an-and-the|journal=Studies in Late Antiquity|language=en|volume=4|issue=3|pages=353–359|doi=10.1525/sla.2020.4.3.353|issn=2470-6469}}</ref><ref>{{Cite book|last=Tian|first=Xiaofei|url=https://brill.com/view/book/9781684170920/BP000003.xml|title=Plague and Poetry: Rethinking Jian’an|date=2018-10-14|publisher=Brill|isbn=978-1-68417-092-0|language=en}}</ref>
+|-
+| [[Plague of Cyprian]]
+| data-sort-value="0250"|250–266
+| [[Europe]]
+| Unknown, possibly [[smallpox]]
+| data-sort-value="0"|Unknown
+| <ref>D. Ch. Stathakopoulos ''Famine and Pestilence in the late Roman and early Byzantine Empire'' (2007) 95</ref><ref>{{cite web |last1=Harper |first1=Kyle |title=Solving the Mystery of an Ancient Roman Plague |url=https://www.theatlantic.com/science/archive/2017/11/solving-the-mystery-of-an-ancient-roman-plague/543528/ |website=The Atlantic |access-date=20 March 2020 |date=1 November 2017}}</ref>
+|-
+| [[Plague of Justinian]] (beginning of [[First plague pandemic]])
+| data-sort-value="0541"|541–542
+| [[Europe]] and [[West Asia]]
+| [[Bubonic plague]]
+| data-sort-value="057500000"|15–100 million (25–60% of population of Europe)
+| <ref name=":4">{{Cite journal|last1=Mordechai|first1=Lee|last2=Eisenberg|first2=Merle|last3=Newfield|first3=Timothy P.|last4=Izdebski|first4=Adam|last5=Kay|first5=Janet E.|last6=Poinar|first6=Hendrik|date=2019-12-17|title=The Justinianic Plague: An inconsequential pandemic?|journal=Proceedings of the National Academy of Sciences|language=en|volume=116|issue=51|pages=25546–25554|doi=10.1073/pnas.1903797116|issn=0027-8424|pmid=31792176|pmc=6926030|doi-access=free}}</ref><ref>{{Cite news|last=Tharoor|first=Ishaan|date=2010-10-26|title=Top 10 Terrible Epidemics - TIME|language=en-US|work=Time|url=http://content.time.com/time/specials/packages/article/0,28804,2027479_2027486_2027546,00.html|access-date=2020-12-29|issn=0040-781X}}</ref><ref>{{cite web|last1=Maugh|first1=Thomas|title=An Empire's Epidemic|url=https://www.ph.ucla.edu/epi/bioter/anempiresepidemic.html|access-date=20 March 2020|website=University of California, Los Angeles}}</ref>
+|-
+| [[Roman Plague of 590]] (part of [[First plague pandemic]])
+| data-sort-value="0590"|590
+| [[Rome]], [[Byzantine Empire]]
+| [[Bubonic plague]]
+| data-sort-value="000000000"|Unknown
+| <ref>{{cite web|url=http://www.ph.ucla.edu/epi/bioter/anempiresepidemic.html|title=An Empire's Epidemic|first=Ralph R.|last=Frerichs|website=Ph.ucla.edu|access-date=7 July 2018}}</ref>
+|-
+| [[Plague of Sheroe]] (part of [[First plague pandemic]])
+| data-sort-value="0627"|627–628
+| [[Bilad al-Sham]]
+| [[Bubonic plague]]
+| 25,000+
+|
+|-
+| [[Plague of Amwas]] (part of [[First plague pandemic]])
+| data-sort-value="0638"|638–639
+| [[Byzantine Empire]], [[West Asia]], [[Africa]]
+| [[Bubonic plague]]
+| data-sort-value="000000000"|Unknown
+| <ref name=Turner1990>{{Cite journal|last=Turner|first=David|date=November 1990|title=The Politics of Despair: The Plague of 746–747 and Iconoclasm in the Byzantine Empire1|journal=Annual of the British School at Athens|language=en|volume=85|pages=419–434|doi=10.1017/S006824540001577X|issn=2045-2403}}</ref>
+|-
+| [[Plague of 664]] (part of [[First plague pandemic]])
+| data-sort-value="0664"|664–689
+| [[British Isles]]
+| [[Bubonic plague]]
+| data-sort-value="000000000"|Unknown
+| <ref name=Maddicott1997>{{Cite journal|last=Maddicott|first=J. R.|date=1 August 1997|title=Plague in seventh century England|url=https://academic.oup.com/past/article/156/1/7/1438455|journal=Past & Present|language=en|volume=156|issue=1|pages=7–54|doi=10.1093/past/156.1.7|issn=0031-2746}}</ref>
+|-
+| Plague of 698–701 (part of [[First plague pandemic]])
+| data-sort-value="0746"|698–701
+| [[Byzantine Empire]], [[West Asia]], [[Syria]], [[Mesopotamia]]
+| [[Bubonic plague]]
+| data-sort-value="000000000"|Unknown
+| <ref name="Little">{{Cite book |title=Plague and the end of Antiquity|last=Little|first=Little |publisher=Cambridge University Press|year=2007 |isbn=978-0-521-84639-4|location=Cambridge|page=104}}</ref>
+|-
+| [[735–737 Japanese smallpox epidemic]]
+| data-sort-value="0735"|735–737
+| [[Japan]]
+| [[Smallpox]]
+| data-sort-value="02000000"|2 million (approx. {{frac|1|3}} of Japanese population)
+| <ref name="Suzuki">{{Cite journal |last=Suzuki |first=A. |year=2011 |title=Smallpox and the epidemiological heritage of modern Japan: Towards a total history |journal=Medical History |volume=55 |issue=3 |pages=313–318 |doi=10.1017/S0025727300005329 |pmc=3143877 |pmid=21792253}}</ref><ref name="Kohn">{{Cite book |title=Encyclopedia of Plague and Pestilence: From Ancient Times to the Present |last=Kohn |first=George C. |publisher=Checkmark Books |year=2002 |isbn=978-0816048939 |location=Princeton, New Jersey |page=213}}</ref>
+|-
+| Plague of 746–747 (part of [[First plague pandemic]])
+| data-sort-value="0746"|746–747
+| [[Byzantine Empire]], [[West Asia]], [[Africa]]
+| [[Bubonic plague]]
+| data-sort-value="000000000"|Unknown
+| <ref name=Turner1990/>
+|-
+| [[Black Death]] (start of the [[Second plague pandemic]])
+| 1346–1353
+| [[Europe]], [[Asia]] and [[North Africa]]
+| [[Bubonic plague]]  [[File:Yersinia pestis fluorescent.jpeg|thumb|40px|[[Yersinia pestis]] [[Bacteria|bacterium]]]]
+| data-sort-value="075000000|75–200 million (10–60% of European population)
+| <ref>{{Cite book |url=https://books.google.com/books?id=YiHHnV08ebkC&pg=PA21 |title=A pest in the land: new world epidemics in a global perspective |last=Austin Alchon |first=Suzanne |publisher=University of New Mexico Press |year=2003 |isbn=978-0-8263-2871-7 |page=21 |access-date=2016-04-22 |archive-url=https://web.archive.org/web/20190401101639/https://books.google.com/books?id=YiHHnV08ebkC&pg=PA21#v=onepage |archive-date=2019-04-01 |url-status=live}}</ref>
+|-
+| [[Sweating sickness]] (multiple outbreaks)
+| 1485–1551
+| [[UK|Britain]] ([[England]]) and later continental [[Europe]]
+| Unknown, possibly an unknown species of [[hantavirus pulmonary syndrome|hantavirus]]
+| data-sort-value="10001"|10,000+
+| <ref>{{cite journal |last1=Heyman |first1=Paul |last2=Simons |first2=Leopold |last3=Cochez |first3=Christel |title=Were the English Sweating Sickness and the Picardy Sweat Caused by Hantaviruses? |journal=Viruses |volume=6 |issue=1 |pages=151–171 |doi=10.3390/v6010151 |pmid=24402305 |pmc=3917436 |date=7 January 2014}}</ref>
+|-
+| 1489 Spain typhus epidemic
+| 1489
+| [[Spanish Empire|Spain]]
+| [[Typhus]]
+| data-sort-value="17000"|17,000
+| <ref name="Typhus, War, and Vaccines">{{cite web|title=Typhus, War, and Vaccines|url=http://www.historyofvaccines.org/content/blog/typhus-war-and-vaccines|website=historyofvaccines.org|date=16 March 2016|access-date=12 May 2020}}</ref>
+|-
+| [[1510 influenza pandemic]]
+| 1510
+| [[Asia]], [[North Africa]], [[Europe]]
+| [[Influenza]]
+| data-sort-value="0"|Unknown, around 1% of those infected
+| <ref>{{Cite journal|last1=Morens|first1=David|last2=North|first2=Michael|last3=Taubenberger|first3=Jeffrey|date=4 December 2011|title=Eyewitness accounts of the 1510 influenza pandemic in Europe|url=https://www.thelancet.com/action/showPdf?pii=S0140-6736%2810%2962204-0|journal=Lancet|volume=367|issue=9756|pages=1894–1895|pmid=21155080|doi=10.1016/s0140-6736(10)62204-0|pmc=3180818}}</ref>
+|-
+| [[History of smallpox in Mexico|1520 Mexico smallpox epidemic]]
+| 1519–1520
+| [[Viceroyalty of New Spain|Mexico]]
+| [[Smallpox]]
+| data-sort-value="6500000" | 5–8 million (40% of population)
+| <ref name="Megadrought and Megadeath in 16th Century Mexico">{{Cite journal |title=Megadrought and Megadeath in 16th Century Mexico |date=April 8, 2002 |pmc = 2730237|last1 = Acuna-Soto|first1 = R.|last2 = Stahle|first2 = D. W.|last3 = Cleaveland|first3 = M. K.|last4 = Therrell|first4 = M. D.|journal = Emerging Infectious Diseases|volume = 8|issue = 4|pages = 360–362|doi = 10.3201/eid0804.010175|pmid = 11971767}}</ref>
+|-
+| [[Cocoliztli Epidemic of 1545–1548]]
+| 1545–1548
+| [[Viceroyalty of New Spain|Mexico]]
+| [[Salmonella enterica|Possibly ''Salmonella enterica'']]
+| data-sort-value="010000000" | 5–15 million (80% of population)
+| <ref name="American plague">{{Cite web |url=https://www.newscientist.com/article/dn268-american-plague/ |title=American plague |date=December 19, 2000 |website=New Scientist |access-date=October 17, 2018 |archive-url=https://web.archive.org/web/20181017163205/https://www.newscientist.com/article/dn268-american-plague/ |archive-date=October 17, 2018 |url-status=live}}</ref><ref name="Acuna-SotoRomero2000">{{Cite journal |last1=Acuna-Soto |first1=R. |last2=Romero |first2=L. C. |last3=Maguire |first3=J. H. |year=2000 |title=Large epidemics of hemorrhagic fevers in Mexico 1545–1815 |journal=The American Journal of Tropical Medicine and Hygiene |volume=62 |issue=6 |pages=733–739 |doi=10.4269/ajtmh.2000.62.733 |pmid=11304065|doi-access=free }}</ref><ref name="Acuna-SotoStahle2002">{{Cite journal |last1=Acuna-Soto |first1=Rodolfo |last2=Stahle |first2=D. W. |last3=Cleaveland |first3=M. K. |last4=Therrell |first4=M. D. |year=2002 |title=Megadrought and Megadeath in 16th Century Mexico |journal=Emerging Infectious Diseases |volume=8 |issue=4 |pages=360–362 |doi=10.3201/eid0804.010175 |pmc=2730237 |pmid=11971767}}</ref><ref name="sal">{{Cite journal |last1=Vågene |first1=Åshild J. |last2=Herbig |first2=Alexander |last3=Campana |first3=Michael G. |last4=Robles García |first4=Nelly M. |last5=Warinner |first5=Christina |last6=Sabin |first6=Susanna |last7=Spyrou |first7=Maria A. |last8=Andrades Valtueña |first8=Aida |last9=Huson |first9=Daniel |last10=Tuross |first10=Noreen |last11=Bos |first11=Kirsten I. |year=2018 |title=Salmonella enterica genomes from victims of a major sixteenth-century epidemic in Mexico |journal=Nature Ecology & Evolution |volume=2 |issue=3 |pages=520–528 |doi=10.1038/s41559-017-0446-6 |pmid=29335577 |last12=Krause |first12=Johannes|s2cid=3358440 }}</ref>
+|-
+| [[1557 influenza pandemic]]
+| 1557–1559
+| [[Asia]], [[Africa]], [[Europe]], and [[Americas]]
+| [[Influenza]]
+| Unknown
+|
+|-
+| 1561 Chile smallpox epidemic
+| 1561–1562
+| [[Captaincy General of Chile|Chile]]
+| [[Smallpox]]
+| data-sort-value="0"|Unknown (20-25% of native population)
+| <ref>Alonso de Góngora Marmolejo [http://www.cervantesvirtual.com/servlet/SirveObras/bameric/02582741011358306311291/p0000003.htm#I_34_ Historia de Chile desde su descubrimiento hasta el año 1575]. Cervantesvirtual.com. Retrieved on 2011-12-06.</ref>
+|-
+| [[1563 London plague]] (part of the [[Second plague pandemic]])
+| 1563–1564
+| [[London]], [[England]]
+| [[Bubonic plague]]
+| data-sort-value="20101" | 20,100+
+| <ref>{{cite book|url=https://play.google.com/books/reader?id=kRMLAAAAIAAJ&printsec=frontcover&pg=GBS.PA309|title=A History of Epidemics in Britain|last=Creighton|first=Charles|publisher=Cambridge University Press|year=1891|location=Cambridge, UK|page=305}}</ref>
+|-
+| [[Cocoliztli epidemic of 1576]]
+| 1576–1580
+| [[Viceroyalty of New Spain|Mexico]]
+| [[Salmonella enterica|Possibly ''Salmonella enterica'']]
+| data-sort-value="2250000" | 2–2.5 million (50% of population)
+| <ref name="American plague" /><ref name="Acuna-SotoRomero2000" /><ref name="Acuna-SotoStahle2002" /><ref name=sal/>
+|-
+| 1582 Tenerife plague epidemic (part of the [[Second plague pandemic]])
+| 1582–1583
+| [[Tenerife]], [[Spanish Empire|Spain]]
+| [[Bubonic plague]]
+| data-sort-value="7000" | 5,000–9,000
+|<ref>{{Cite web |url=https://www.museosdetenerife.org/assets/downloads/publication-f11acf7d04.pdf|title=Plague. The fourth horseman – Historic epidemics and their impact in Tenerife|language=es|page=28|access-date=15 May 2020}}</ref>
+|-
+| 1592–1596 Seneca nation measles epidemic
+| 1592–1596
+| [[Seneca nation]], [[North America]]
+| [[Measles]]
+| data-sort-value="0"|Unknown
+| <ref>{{Cite web|url=http://www.kporterfield.com/aicttw/articles/disease.html|archive-url=https://web.archive.org/web/20150214060648/http://www.kporterfield.com/aicttw/articles/disease.html|url-status=dead|title=American Indian Epidemics|archive-date=February 14, 2015}}</ref>
+|-
+| [[1592–93 Malta plague epidemic]] (part of the [[Second plague pandemic]])
+| 1592–1593
+| [[Malta]]
+| [[Bubonic plague]]
+| data-sort-value="000003000" | 3,000
+| <ref>{{cite news |title=Our Heritage Saved: St Roque Chapel |url=https://www.independent.com.mt/articles/2007-05-30/local-news/Our-Heritage-Saved:-St-Roque-Chapel-174165 |work=[[The Malta Independent]] |date=30 May 2007 |archive-url=https://web.archive.org/web/20200313042952/https://www.independent.com.mt/articles/2007-05-30/local-news/Our-Heritage-Saved:-St-Roque-Chapel-174165 |archive-date=13 March 2020}}</ref>
+|-
+| [[1592–93 London plague]] (part of the [[Second plague pandemic]])
+| 1592–1593
+| [[London]], [[England]]
+| [[Bubonic plague]]
+| data-sort-value="000019901" | 19,900+
+| <ref>{{cite book |last=Creighton |first=Charles |author-link=Charles Creighton (physician) |date=November 1891 |title=A History of Epidemics in Britain: From A.D 664 to the Extinction of Plague |url=https://archive.org/stream/historyofepidemi01crei#page/350/mode/2up |location=Cambridge, UK |publisher=Cambridge University Press |pages=353–354}}</ref>
+|-
+| 1596–1602 Spain plague epidemic (part of the [[Second plague pandemic]])
+| 1596–1602
+| [[Spanish Empire|Spain]]
+| [[Bubonic plague]]
+| data-sort-value="650000"| 600,000–700,000
+| <ref>{{Cite web |url=http://libro.uca.edu/payne1/payne15.htm |title=A History of Spain |access-date=16 November 2014 |archive-url=https://web.archive.org/web/20170327015606/http://libro.uca.edu/payne1/payne15.htm |archive-date=27 March 2017 |url-status=live}}</ref>
+|-
+| 1600–1650 South America malaria epidemic
+| 1600–1650
+| [[South America]]
+| [[Malaria]]
+| data-sort-value="0"|Unknown
+|{{Citation needed|date=January 2021}}
+|-
+| 1603 London plague epidemic (part of the [[Second plague pandemic]])
+| 1603
+| [[London]], [[England]]
+| [[Bubonic plague]]
+| 40,000
+|<ref>{{Cite web |url=https://us.macmillan.com/books/9781466864504|title=The Death of Queen Elizabeth I, the Return of the Black Plague, the Rise of Shakespeare, Piracy, Witchcraft, and the Birth of the Stuart Era|access-date=11 May 2020}}</ref><ref>{{Cite web |url=http://www.shakespeare-online.com/biography/londondisease.html|title=Worst Diseases in Shakespeare's London|access-date=11 May 2020}}</ref><ref>Bell, Walter George (1951). Belinda Hollyer (ed.). The great Plague in London (folio society ed.). Folio society by arrangement with Random House. pp. 3–5</ref>
+|-
+| 1616 New England infections epidemic
+| 1616–1620
+| [[Southern New England]], [[British North America]], especially the [[Wampanoag people]]
+| Unknown, possibly [[leptospirosis]] with [[Weil syndrome]]. Classic explanations include [[yellow fever]], [[bubonic plague]], [[influenza]], [[smallpox]], [[chickenpox]], [[typhus]], and [[syndemic]] infection of [[hepatitis B]] and [[hepatitis D]]
+| data-sort-value="0"|Unknown (estimated 30–90% of population)
+|<ref>{{Cite journal |last1=Marr |first1=John S. |last2=Cathey |first2=John T. |year=2010 |title=New Hypothesis for Cause of Epidemic among Native Americans, New England, 1616–1619 |journal=Emerging Infectious Diseases |volume=16 |issue=2 |pages=281–286 |doi=10.3201/eid1602.090276 |pmc=2957993 |pmid=20113559}}</ref><ref>{{Cite web |url=https://www.smithsonianmag.com/history/native-intelligence-109314481/ |title=Native intelligence |last=Mann |first=Charles C. |date=December 2005 |access-date=2018-10-17 |archive-url=https://web.archive.org/web/20181123170227/https://www.smithsonianmag.com/history/native-intelligence-109314481/ |archive-date=2018-11-23 |url-status=live}}</ref>
+|-
+| [[1629–1631 Italian plague]] (part of the [[Second plague pandemic]])
+| 1629–1631
+| [[Italy]]
+| [[Bubonic plague]]
+| data-sort-value="1000000" | 1 million
+| <ref name="Hays">{{Cite book |url=https://archive.org/details/epidemicspandemi0000hays |title=Epidemics and pandemics their impacts on human history |last=Hays |first=J. N. |date=2005 |publisher=ABC-CLIO |isbn=978-1851096589 |location=Santa Barbara, CA|page=[https://archive.org/details/epidemicspandemi0000hays/page/103 103] |url-access=registration}}</ref>
+|-
+| 1632–1635 Augsburg plague epidemic (part of the [[Second plague pandemic]])
+| 1632–1635
+| [[Augsburg]], [[Holy Roman Empire|Germany]]
+| [[Bubonic plague]]
+| 13,712
+| <ref>{{Cite book |last1=Eckert|first1=Edward-A.|url=https://www.persee.fr/doc/adh_0066-2062_1978_num_1978_1_1378|title=Annales de Démographie Historique|page=55|date=1978|access-date=14 May 2020}}</ref>
+|-
+| [[Massachusetts smallpox epidemic]]
+| 1633–1634
+| [[Massachusetts Bay Colony]], [[Thirteen Colonies]]
+| [[Smallpox]]
+| 1,000
+| <ref>{{Cite web |url=https://www.usdeadlyevents.com/1633-34-smallpox-epidemic-new-england-natives-plymouth-colonists-ma-1000|title=1633–34 — Smallpox Epidemic, New England Natives, Plymouth Colonists, MA –>1000|website=usdeadlyevents.com|access-date=13 May 2020}}</ref>
+|-
+| 1634–1640 Wyandot people epidemic of infections
+| 1634–1640
+| [[Wyandot people]], [[North America]]
+| [[Smallpox]] and [[Influenza]]
+| data-sort-value="20000"|15,000–25,000
+|<ref>{{cite book |last1=Johansen |first1=Bruce E. |title=American Indian Culture: From Counting Coup to Wampum [2 volumes]: From Counting Coup to Wampum |date=2015 |publisher=ABC-CLIO |isbn=978-1-4408-2874-4 |page=88 |url=https://books.google.com/books?id=mw-FCgAAQBAJ&q=wyandot+people++smallpox+1630&pg=PA88 |access-date=12 February 2020 |language=en}}</ref>
+|-
+| 1637 London plague epidemic (part of the [[Second plague pandemic]])
+| 1636–1637
+| [[London]] and [[Westminster]], [[England]]
+| [[Bubonic plague]]
+| 10,400
+|<ref>{{cite journal |last1=Newman |first1=Kira L. S.|title=Shutt up: bubonic plague and quarantine in early modern England|journal=Journal of Social History|date=2012|volume=45|issue=3|pages=809–834|doi=10.1093/jsh/shr114|jstor=41678910|pmid=22611587|s2cid=24952354|issn=0022-4529}}</ref>
+|-
+| [[Great Plague in late Ming Dynasty]] (part of the [[Second plague pandemic]])
+| 1633–1644
+| [[Ming dynasty|China]]
+| [[Bubonic plague]]
+| data-sort-value="200000"|200,000+
+| <ref name=":12">{{Cite journal|last=Ch’iu|first=Chung-lin|date=|title=The Epidemics in Ming Beijing and the Responses from the Empire’s Public Health System|url=http://www.ihp.sinica.edu.tw/~bihp/75/75.2/chiu.htm|journal=中央研究院歷史語言研究所集刊|language=zh|volume=|pages=331-388|via=}}</ref><ref name="Brook1999">{{Cite book |url=https://books.google.com/books?id=YuMcHWWbXqMC&pg=PA163 |title=The Confusions of Pleasure: Commerce and Culture in Ming China |last=Timothy Brook |publisher=University of California Press |year=1999 |isbn=978-0-520-22154-3 |page=163 |access-date=31 March 2011}}</ref>
+|-
+| [[Great Plague of Seville]] (part of the [[Second plague pandemic]])
+| 1647–1652
+| [[Spanish Empire|Spain]]
+| [[Bubonic plague]]
+| 500,000
+| <ref>[http://libro.uca.edu/payne1/payne15.htm Stanley G. Payne: A History of Spain and Portugal Volume 1, Ch 15 The Seventeenth-Century Decline] ''THE LIBRARY OF IBERIAN RESOURCES ONLINE'', accessed 26 May 2020</ref>
+|-
+| 1648 Central America yellow fever epidemic
+| 1648
+| [[Central America]]
+| [[Yellow fever]]
+| data-sort-value="0"|Unknown
+| <ref>{{cite journal |last1=Rogers |first1=D.J. |last2=Wilson |first2=A.J. |last3=Hay |first3=S.I. |last4=Graham |first4=A.J. |title=The Global Distribution of Yellow Fever and Dengue |journal=Advances in Parasitology |date=2006 |volume=62 |pages=181–220 |doi=10.1016/S0065-308X(05)62006-4 |pmid=16647971 |pmc=3164798 |issn=0065-308X|isbn=9780120317622}}</ref>
+|-
+| [[Naples Plague]] (part of the [[Second plague pandemic]])
+| 1656–1658
+| [[Italy]]
+| [[Bubonic plague]]
+| data-sort-value="1250000"|1,250,000
+| <ref>{{cite journal |last1=Scasciamacchia |first1=Silvia |last2=Serrecchia |first2=Luigina |last3=Giangrossi |first3=Luigi |last4=Garofolo |first4=Giuliano |last5=Balestrucci |first5=Antonio |last6=Sammartino |first6=Gilberto |last7=Fasanella |first7=Antonio |title=Plague Epidemic in the Kingdom of Naples, 1656–1658 |journal=Emerging Infectious Diseases |volume=18 |issue=1 |pages=186–188 |doi=10.3201/eid1801.110597 |pmid=22260781 |pmc=3310102 |language=en-us|year=2012}}</ref>
+|-
+| 1663–1664 Amsterdam plague epidemic (part of the [[Second plague pandemic]])
+| 1663–1664
+| [[Amsterdam]], [[Netherlands]]
+| [[Bubonic plague]]
+| 24,148
+|<ref>{{Cite web |url=https://www.amsterdam.nl/stadsarchief/stukken/rampen/pest|title=De pest|language=nl|date=23 April 2019|access-date=13 May 2020}}</ref>
+|-
+| [[Great Plague of London]] (part of the [[Second plague pandemic]])
+| 1665–1666
+| [[England]]
+| [[Bubonic plague]]
+| data-sort-value="000100000" | 100,000
+| <ref>{{Cite web |url=http://www.britainexpress.com/History/plague.htm |title=UK travel and heritage – Britain Express UK travel guide |last=Ross |first=David |website=The London Plague of 1665 |access-date=14 July 2011 |archive-url=https://web.archive.org/web/20190526192602/https://www.britainexpress.com/History/plague.htm |archive-date=26 May 2019 |url-status=live}}</ref><ref>{{Cite web |url=http://www.nationalarchives.gov.uk/education/resources/great-plague/ |title=Great Plague of 1665–1666 – The National Archives |last=Archives |first=The National |access-date=4 July 2016 |archive-url=https://web.archive.org/web/20160428020939/http://www.nationalarchives.gov.uk/education/resources/great-plague/ |archive-date=28 April 2016 |url-status=live}}</ref>
+|-
+| 1668 France plague (part of the [[Second plague pandemic]])
+| 1668
+| [[Kingdom of France|France]]
+| [[Bubonic plague]]
+| 40,000
+|<ref>{{cite journal |last1=Jones |first1=Colin |title=Plague and Its Metaphors in Early Modern France |journal=Representations |date=1996 |volume=53 |issue=53 |pages=97–127 |doi=10.2307/2928672 |issn=0734-6018|jstor=2928672}}</ref>
+|-
+| [[1675–76 Malta plague epidemic]] (part of the [[Second plague pandemic]])
+| 1675–1676
+| [[Malta]]
+| [[Bubonic plague]]
+| data-sort-value="000011300" | 11,300
+| <ref>{{cite news |last1=Grima |first1=Noel |title=The 1676 plague in Malta |url=http://www.independent.com.mt/articles/2017-06-19/newspaper-lifestyleculture/The-1676-plague-in-Malta-6736175628 |work=[[The Malta Independent]] |date=19 June 2017 |archive-url=https://web.archive.org/web/20171112063500/http://www.independent.com.mt/articles/2017-06-19/newspaper-lifestyleculture/The-1676-plague-in-Malta-6736175628 |archive-date=12 November 2017}}</ref>
+|-
+| 1676–1685 Spain plague (part of the [[Second plague pandemic]])
+| 1676–1685
+| [[Spain]]
+| [[Bubonic plague]]
+| data-sort-value="0"|Unknown
+| <ref>{{cite book |last1=Casey |first1=James |title=Early Modern Spain: A Social History |date=1999 |publisher=Psychology Press |isbn=978-0-415-13813-0 |page=37 |url=https://books.google.com/books?id=mZJ8RnDhkgwC&q=plague+spain+1676&pg=PA37 |access-date=12 February 2020 |language=en}}</ref>
+|-
+| 1677–1678 Boston smallpox epidemic
+| 1677–1678
+| [[Massachusetts Bay Colony]], [[British North America]]
+| [[Smallpox]]
+| data-sort-value="875" | 750–1000
+| <ref>{{Cite web |url=https://www.usdeadlyevents.com/1677-1678-smallpox-epidemic-massachusetts-bay-colony-esp-boston-vic-750-1000|title=1677–1678 — Smallpox Epidemic, Massachusetts Bay Colony, esp. Boston & vic. –750-1,000|website=usdeadlyevents|access-date=17 May 2020}}</ref>
+|-
+| [[Great Plague of Vienna]] (part of the [[Second plague pandemic]])
+| 1679
+| [[Vienna]], [[Austria]]
+| [[Bubonic plague]]
+| 76,000
+| <ref name=EB1911>{{cite EB1911 |wstitle=Plague |volume=21 |page=696 |first=Joseph Frank |last=Payne}}</ref>
+|-
+| 1681 Prague plague epidemic (part of the [[Second plague pandemic]])
+| 1681
+| [[Prague]], [[Czech Kingdom]]
+| [[Bubonic plague]]
+| 83,000
+| <ref>{{Cite web |url=https://www.britannica.com/science/plague/History|title=Plague|website=britannica|access-date=14 May 2020}}</ref>
+|-
+| 1687 South Africa Influenza outbreak
+| 1687
+| [[Dutch Cape Colony|South Africa]]
+| Unknown, possibly [[Influenza]]
+| data-sort-value="0"|Unknown
+| <ref>History of South Africa 1486–1691, George McCall Theal, London, pub. Swan Sonnenschein, 1888. p. 332 ''"Towards the beginning of the winter of 1687 the colony was visited by a destructive disease, a kind of fever which carried off many of the inhabitants. The natives suffered very..."''</ref>
+|-
+| 1693 Boston yellow fever epidemic
+| 1693
+| [[Boston]], [[Massachusetts Bay Colony]], [[British North America]]
+| [[Yellow fever]]
+| data-sort-value="3100"|3,100+
+| <ref>{{Cite web |url=https://www.usdeadlyevents.com/1693-june-17-start-yellow-fever-boston-british-fleet-arrival-from-martinique|title=1693 — June 17 start, Yellow Fever, Boston, British fleet arrival from Martinique[1] — <10?|access-date=12 May 2020}}</ref>
+|-
+| 1699 Charleston and Philadelphia yellow fever epidemic
+| 1699
+| [[Charleston, West Virginia|Charleston]] and [[Philadelphia]], [[British North America]]
+| [[Yellow fever]]
+| data-sort-value="520"|520 (300 in Charleston, 220 in Philadelphia)
+| <ref>{{Cite web |url=https://www.usdeadlyevents.com/1699-yellow-fever-epidemics-charleston-sc170-311-philadelphia-220-390-531|title=1699 — Yellow Fever Epidemics Charleston, SC(170–311); Philadelphia (220) –390 – 531|access-date=12 May 2020}}</ref>
+|-
+| 1702 New York City yellow fever epidemic
+| 1702
+| [[New York City]], [[British North America]]
+| [[Yellow fever]]
+| 500
+| <ref>{{Cite web |url=https://www.usdeadlyevents.com/1702-summer-to-late-fall-yellow-fever-epidemic-new-york-city-ny-500-570|title=1702 — Summer to late Fall, Yellow Fever Epidemic, New York City, NY −500-570|access-date=12 May 2020}}</ref>
+|-
+| 1702–1703 St. Lawrence Valley smallpox epidemic
+| 1702–1703
+| [[New France]], [[Canada]]
+| [[Smallpox]]
+| 1,300
+| <ref>{{Cite journal |last=Desjardins |first=Bertrand |year=1996 |title=Demographic Aspects of the 1702–1703 Smallpox Epidemic in the St. Lawrence Valley |journal=Canadian Studies in Population |volume=23 |issue=1 |pages=49–67 |doi=10.25336/P6459C|doi-access=free }}</ref>
+|-
+| 1707–1709 Iceland smallpox epidemic
+| 1707–1709
+| [[Iceland]]
+| [[Smallpox]]
+| data-sort-value="18001" | 18,000+ (36% of population)
+| <ref name="Hays2005p131">{{Cite book |url=https://archive.org/details/epidemicspandemi0000hays |title=Epidemics and pandemics: their impacts on human history |last=J. N. Hays |publisher=ABC-CLIO |year=2005 |isbn=978-1-85109-658-9 |access-date=29 March 2011 |url-access=registration|page=131}}</ref>
+|-
+| [[Great Northern War plague outbreak]] (part of the [[Second plague pandemic]])
+| 1710–1712
+| [[Denmark]], [[Sweden]], [[Lithuania]]
+| [[Bubonic plague]]
+| data-sort-value="164000" | 164,000
+| <ref>{{cite book|last=Sticker|first=Georg|title=Die Pest|series=Abhandlungen aus der Seuchengeschichte und Seuchenlehre|volume=1|publisher=A. Töpelmann (vormals J. Ricker)|location=Gießen|year=1908|url=https://archive.org/details/abhandlungenausd01stic |page=213}}</ref><ref>{{cite web|last1=Kroll|first1=Stefan|last2=Grabinsky|first2=Anne|title=Städtesystem und Urbanisierung im Ostseeraum in der Neuzeit – Historisches Informationssystem und Analyse von Demografie, Wirtschaft und Baukultur im 17. und 18. Jahrhundert. B: Komplexe Historische Informationssysteme. B2: Der letzte Ausbruch der Pest im Ostseeraum zu Beginn des 18. Jahrhunderts. Chronologie des Seuchenzugs und Bestandsaufnahme überlieferter Sterbeziffern. Karte|url=https://www.phf.uni-rostock.de/imd/Forschung/HomeMare2/Seuchenzug/Karte.html|publisher=[[University of Rostock]]|access-date=2012-08-14}}<br />Specific sections: [https://www.phf.uni-rostock.de/imd/Forschung/HomeMare2/Seuchenzug/Staedte/Danzig.html Danzig]; [https://www.phf.uni-rostock.de/imd/Forschung/HomeMare2/Seuchenzug/Staedte/K%C3%B6nigsberg.html Königsberg]; [https://www.phf.uni-rostock.de/imd/Forschung/HomeMare2/Seuchenzug/Staedte/Stettin.html Stettin]; [https://www.phf.uni-rostock.de/imd/Forschung/HomeMare2/Seuchenzug/Staedte/Memel.html Memel]; [https://www.phf.uni-rostock.de/imd/Forschung/HomeMare2/Seuchenzug/Staedte/Tilsit.html Tilsit]; [https://www.phf.uni-rostock.de/imd/Forschung/HomeMare2/Seuchenzug/Staedte/Narva.html Narva]; [https://www.phf.uni-rostock.de/imd/Forschung/HomeMare2/Seuchenzug/Staedte/Stargard.html Stargard]; [https://www.phf.uni-rostock.de/imd/Forschung/HomeMare2/Seuchenzug/Staedte/Riga.html Riga]; [https://www.phf.uni-rostock.de/imd/Forschung/HomeMare2/Seuchenzug/Staedte/Pernau.html Pernau]; [https://www.phf.uni-rostock.de/imd/Forschung/HomeMare2/Seuchenzug/Staedte/Reval.html Reval]; [https://www.phf.uni-rostock.de/imd/Forschung/HomeMare2/Seuchenzug/Staedte/Stralsund.html Stralsund]; [https://www.phf.uni-rostock.de/imd/Forschung/HomeMare2/Seuchenzug/Staedte/Stockholm.html Stockholm]; [https://www.phf.uni-rostock.de/imd/Forschung/HomeMare2/Seuchenzug/Staedte/Visby.html Visby]; [https://www.phf.uni-rostock.de/imd/Forschung/HomeMare2/Seuchenzug/Staedte/Linkoeping.html Linköping]; [https://www.phf.uni-rostock.de/imd/Forschung/HomeMare2/Seuchenzug/Staedte/Joenkoeping.html Jönköping]; [https://www.phf.uni-rostock.de/imd/Forschung/HomeMare2/Seuchenzug/Staedte/Ystad.html Ystad]; [https://www.phf.uni-rostock.de/imd/Forschung/HomeMare2/Seuchenzug/Staedte/Malmoe.html Malmö]; [https://www.phf.uni-rostock.de/imd/Forschung/HomeMare2/Seuchenzug/Staedte/Helsingoer.html Helsingør]; [https://www.phf.uni-rostock.de/imd/Forschung/HomeMare2/Seuchenzug/Staedte/Kopenhagen.html Kopenhagen]; [https://www.phf.uni-rostock.de/imd/Forschung/HomeMare2/Seuchenzug/Staedte/Hamburg.html Hamburg]</ref>
+|-
+| 1713–1715 North America measles epidemic
+| 1713–1715
+| [[Thirteen Colonies]] and [[New France]], [[Canada]]
+| [[Measles]]
+| data-sort-value="0"|Unknown
+|<ref>{{cite journal |last1=Morens |first1=David M. |title=The Past Is Never Dead – Measles Epidemic, Boston, Massachusetts, 1713  |journal=Emerging Infectious Diseases |volume=21 |issue=7 |pages=1257–1260 |doi=10.3201/eid2107.150397 |pmid=26277799 |pmc=4480406 |language=en-us|year=2015}}</ref><ref>{{Cite journal |last1=Mazan |first1=Ryan |last2=Gagnon |first2=Alain |last3=Desjardins |first3=Bertrand |year=2009 |title=The Measles Epidemic of 1714–1715 in New France |journal=Canadian Studies in Population |volume=36 |issue=3–4 |pages=295–323 |doi=10.25336/P63P5Q|doi-access=free }}</ref>
+|-
+| [[Great Plague of Marseille]] (part of the [[Second plague pandemic]])
+| 1720–1722
+| [[France]]
+| [[Bubonic plague]]
+| data-sort-value="100001" | 100,000+
+| <ref>{{Cite journal |last=Devaux |first=Christian A. |year=2013 |title=Small oversights that led to the Great Plague of Marseille (1720–1723): Lessons from the past |journal=Infection, Genetics and Evolution |volume=14 |pages=169–185 |doi=10.1016/j.meegid.2012.11.016 |pmid=23246639}}</ref>
+|-
+| [[1721 Boston smallpox outbreak]]
+| 1721–1722
+| [[Massachusetts Bay Colony]]
+| [[Smallpox]]
+| 844
+| <ref>{{Cite web |url=http://www.todayinsci.com/B/Boylston_Zabdiel/Boylston_Zabdiel.htm |title=Zabdiel Boylston and inoculation |access-date=16 November 2014 |archive-url=https://web.archive.org/web/20150905143618/http://www.todayinsci.com/B/Boylston_Zabdiel/Boylston_Zabdiel.htm |archive-date=5 September 2015 |url-status=live}}</ref>
+|-
+| 1730 Cádiz yellow fever epidemic
+| 1730
+| [[Cádiz]], [[Spain]]
+| [[Yellow fever]]
+| 2,200
+| <ref>{{Cite web |url=https://www.npr.org/sections/goatsandsoda/2016/08/28/491471697/yellow-fever-timeline-the-history-of-a-long-misunderstood-disease|title=Yellow Fever Timeline: The History Of A Long Misunderstood Disease|date=28 August 2016|access-date=12 May 2020}}</ref>
+|-
+| 1732–1733 Thirteen Colonies influenza epidemic
+| 1732–1733
+| [[Thirteen Colonies]]
+| [[Influenza]]
+| data-sort-value="0"|Unknown
+| <ref name="TurningPoints">{{Cite web |url=http://www.ambrosevideo.com/items.cfm?id=1071 |title=Ambrosevideo.com |access-date=2011-03-27 |archive-url=https://web.archive.org/web/20160417075306/http://www.ambrosevideo.com/items.cfm?id=1071 |archive-date=2016-04-17 |url-status=live}}</ref>
+|-
+| 1733 New France smallpox epidemic
+| 1733
+| [[New France]], [[Canada]]
+| [[Smallpox]]
+| data-sort-value="0"|Unknown
+| <ref>{{Cite journal |last1=Gagnon |first1=Alain |last2=Mazan |first2=Ryan |year=2009 |title=Does exposure to infectious diseases in infancy affect old-age mortality? Evidence from a pre-industrial population |journal=Social Science & Medicine |volume=68 |issue=9 |pages=1609–1616 |doi=10.1016/j.socscimed.2009.02.008 |pmid=19269727}}</ref>
+|-
+| 1735–1741 Diphtheria epidemic
+| 1735–1741
+| [[New England]], [[Province of New York]], [[Province of New Jersey]], [[British North America]]
+| [[Diphtheria]]
+| 20,000
+| <ref>{{Cite book |last=Purvis|first=Thomas L.|url=https://books.google.com/books?id=BZRJSx3uMYEC&q=1687+thirteen+colonies+++measles&pg=PA173|title=Colonial America To 1763|page=173|date=2014|isbn=9781438107998|access-date=17 May 2020}}</ref>
+|-
+| [[Great Plague of 1738]] (part of the [[Second plague pandemic]])
+| 1738
+| [[Balkans]]
+| [[Bubonic plague]]
+| data-sort-value="50000" | 50,000
+| <ref>{{cite web|url=http://www.genealogy.ro/cont/20c.htm|title=Banat's historical chronology for the last millennium- XVIII Century |website=www.genealogy.ro |publisher=Genealogy RO Group|access-date=26 May 2020}}</ref>
+|-
+| 1738–1739 North Carolina smallpox epidemic
+| 1738–1739
+| [[Province of Carolina]], [[Thirteen Colonies]]
+| [[Smallpox]]
+| data-sort-value="10,000" | 7,700–11,700
+| <ref>{{Cite web |url=https://www.usdeadlyevents.com/1738-39-smallpox-catawba-ncsc-and-cherokee-natives-nc-7700-11700|title=1738–39 — Smallpox, Catawba (NC/SC) and Cherokee Natives (NC) –7,700–11,700|website=usdeadlyevents.com|access-date=13 May 2020}}</ref>
+|-
+| 1739–1740 Thirteen Colonies measles epidemic
+| 1739–1740
+| [[Thirteen Colonies]]
+| [[Measles]]
+| data-sort-value="0"|Unknown
+| {{Citation needed|date=May 2020}}
+|-
+| 1741 Cartagena yellow fever epidemic
+| 1741
+| [[Cartagena, Colombia|Cartagena]], [[Colombia]]
+| [[Yellow fever]]
+| data-sort-value="20,000" | 20,000
+| <ref name="Thomas Jefferson University">{{Cite web |url=https://jdc.jefferson.edu/cgi/viewcontent.cgi?referer=https://www.ecosia.org/&httpsredir=1&article=1004&context=yellow_fever_symposium|title=The Early History of Yellow Fever|publisher=Thomas Jefferson University|page=3|website=jdc.jefferson.edu|date=September 2009|access-date=16 May 2020}}</ref>
+|-
+| 1743 Sicily plague epidemic (part of the [[Second plague pandemic]])
+| 1743
+| [[Messina]], [[Sicily]], [[Italy]]
+| [[Bubonic plague]]
+| data-sort-value="45,000" | 40,000–50,000
+| <ref>{{cite journal |last1=Tognotti |first1=Eugenia |title=Lessons from the History of Quarantine, from Plague to Influenza A|journal=Emerging Infectious Diseases |date=February 2013 |volume=19 |issue=2 |pages=254–259 |doi=10.3201/eid1902.120312 |pmid=23343512 |pmc=3559034 |language=en-us}}</ref><ref>{{cite journal |last1=Wyman|first1=Walter|title=The North American Review|journal=The Black Plague|date=April 1897|volume=164|issue=485|page=442|publisher=University of Northern Iowa|jstor=25118799}}</ref>
+|-
+| 1747 Thirteen Colonies measles outbreak
+| 1747
+| [[Thirteen Colonies]]
+| [[Measles]]
+| data-sort-value="0"|Unknown
+| {{Citation needed|date=May 2020}}
+|-
+| 1759  North America measles outbreak
+| 1759
+| [[North America]]
+| [[Measles]]
+| data-sort-value="0"|Unknown
+| <ref>{{cite book |last1=LeMay |first1=Michael C. |title=Global Pandemic Threats: A Reference Handbook: A Reference Handbook |date=2016 |publisher=ABC-CLIO |isbn=978-1-4408-4283-2 |page=227 |url=https://books.google.com/books?id=_UzODAAAQBAJ&q=1759++measles++north++america&pg=PA227 |access-date=12 February 2020 |language=en}}</ref>
+|-
+| 1760 Charleston smallpox epidemic
+| 1760
+| [[Charleston, South Carolina|Charleston]], [[British North America]]
+| [[Smallpox]]
+| data-sort-value="800" | 730–940
+| <ref>{{cite journal |last1=Krebsbach |first1=Suzanne |title=The Great Charlestown Smallpox Epidemic of 1760 |journal=The South Carolina Historical Magazine |date=1996 |volume=97 |issue=1 |pages=30–37 |issn=0038-3082|jstor=27570134}}</ref><ref>{{Cite web |url=https://www.usdeadlyevents.com/1760-smallpox-epidemic-charleston-sc-as-well-as-undocumented-native-deaths-730-940|title=1760 — Smallpox Epidemic, Charleston, SC (as well as undocumented Native deaths)–730-940|website=usdeadlyevents.com|access-date=13 May 2020}}</ref>
+|-
+| 1762 Havana yellow fever epidemic
+| 1762
+| [[Havana]], [[Captaincy General of Cuba|Cuba]]
+| [[Yellow fever]]
+| data-sort-value="8,000" | 8,000
+| <ref name="Thomas Jefferson University"/>
+|-
+| 1763 Pittsburgh area smallpox outbreak
+| 1763
+| [[North America]], present-day [[Pittsburgh]] area
+| [[Smallpox]]
+| data-sort-value="0"|Unknown
+| <ref>{{cite journal |last1=Ranlet |first1=Philip |title=The British, the Indians, and Smallpox: What Actually Happened at Fort Pitt in 1763? |journal=Pennsylvania History: A Journal of Mid-Atlantic Studies |date=2000 |volume=67 |issue=3 |pages=427–441 |issn=0031-4528|jstor=27774278}}</ref>
+|-
+| [[Russian plague of 1770–1772]] (part of the [[Second plague pandemic]])
+| 1770–1772
+| [[Russian Empire|Russia]]
+| [[Bubonic plague]]
+| data-sort-value="50000" | 50,000
+| <ref>{{cite journal | last=Melikishvili | first=Alexander | s2cid=7420734 | year=2006 | volume=36 | pages=19–31 | journal=Critical Reviews in Microbiology | title=Genesis of the anti-plague system: the Tsarist period | issue=1 | url=http://cns.miis.edu/antiplague/pdfs/melikishvili.pdf | doi=10.1080/10408410500496763| citeseerx=10.1.1.204.1976 | pmid=16610335}}</ref>
+|-
+| 1772 North America measles epidemic
+| 1772
+| [[North America]]
+| [[Measles]]
+| data-sort-value="1080"|1,080
+| <ref>{{cite web|url=https://www.usdeadlyevents.com/1772-measles-epidemics-charleston-sc-800-900-philadelphia-pa-180-980-1080|title=1772 — Measles Epidemics, Charleston, SC (800-900), Philadelphia, PA (180) –980-1,080|website=usdeadlyevents.com|access-date=14 January 2021}}</ref>
+|-
+| [[1772–1773 Persian Plague]] (part of the [[Second plague pandemic]])
+| data-sort-value="1772" | 1772–1773
+| [[Afsharid Empire|Persia]]
+| [[Bubonic plague]]
+| data-sort-value="02000001" | 2 million+
+| <ref name="Shahraki">{{cite journal | pmc=5037359 | pmid=27457063 | doi=10.4178/epih.e2016033 | volume=38 | title=Plague in Iran: its history and current status | year=2016 | author=Hashemi Shahraki A, Carniel E, Mostafavi E | journal=Epidemiol Health | page=e2016033}}</ref>
+|-
+| 1775–1776 England influenza outbreak
+| 1775–1776
+| [[England]]
+| [[Influenza]]
+| data-sort-value="0"|Unknown
+| <ref name="Lancet">{{Cite journal |last1=Prichard |first1=Augustin |last2=Fothergill |first2=John |year=1894 |title=Influenza in 1775 |url=https://zenodo.org/record/1663344 |journal=The Lancet |volume=143 |issue=3673 |pages=175–176 |doi=10.1016/S0140-6736(01)66026-4 |access-date=2019-07-05 |archive-url=https://web.archive.org/web/20200103214437/https://zenodo.org/record/1663344 |archive-date=2020-01-03 |url-status=live}}</ref>
+|-
+| [[1775–1782 North American smallpox epidemic]]
+| 1775–1782
+| Native populations in what is now the [[Pacific Northwest]] of the [[United States]]
+| [[Smallpox]]
+| 11,000+
+| <ref>Greg Lange,[http://www.historylink.org/essays/output.cfm?file_id=5100 "Smallpox epidemic ravages Native Americans on the northwest coast of North America in the 1770s"] {{Webarchive|url=https://web.archive.org/web/20080526181907/http://www.historylink.org/essays/output.cfm?file_id=5100 |date=2008-05-26}}, 23 Jan 2003, HistoryLink.org, ''Online Encyclopedia of Washington State History'', accessed 2 Jun 2008</ref><ref>{{Cite journal |last1=Houston |first1=C. S. |last2=Houston |first2=S. |year=2000 |title=The first smallpox epidemic on the Canadian Plains: In the fur-traders' words |journal=The Canadian Journal of Infectious Diseases |volume=11 |issue=2 |pages=112–115 |doi=10.1155/2000/782978 |pmc=2094753 |pmid=18159275}}</ref>
+|-
+| 1778 Spain dengue fever outbreak
+| 1778
+| [[Spain]]
+| [[Dengue fever]]
+| data-sort-value="0"|Unknown
+|<ref>{{cite book |last1=Rohé |first1=George Henry |last2=Robin |first2=Albert |title=Text-book of Hygiene: A Comprehensive Treatise on the Principles and Practice of Preventive Medicine from an American Standpoint |date=1908 |publisher=Davis |page=[https://archive.org/details/textbookhygiene00robigoog/page/n450 428] |url=https://archive.org/details/textbookhygiene00robigoog |quote=spain 1788 dengue fever. |access-date=12 February 2020 |language=en}}</ref>
+|-
+| 1788 Pueblo Indians smallpox epidemic
+| 1788
+| [[Pueblo Indians]] in northern [[New Spain]] (what is now the [[Southwestern United States]])
+| [[Smallpox]]
+| data-sort-value="0"|Unknown
+| <ref>{{cite book |last1=Waldman |first1=Carl |last2=Braun |first2=Molly |title=Atlas of the North American Indian |date=2009 |publisher=Infobase Publishing |isbn=978-1-4381-2671-5 |page=295 |url=https://books.google.com/books?id=P2HKD9PgC6wC&q=pueblo+indian+1788+smallpox&pg=PA295 |access-date=12 February 2020 |language=en}}</ref>
+|-
+| 1788 United States measles epidemic
+| 1788
+| [[United States]]
+| [[Measles]]
+| data-sort-value="0"|Unknown
+| {{Citation needed|date=May 2020}}
+|-
+| 1789–1790 New South Wales smallpox epidemic
+| 1789–1790
+| [[New South Wales, Australia|New South Wales]], [[Australia]]
+| [[Smallpox]]
+| data-sort-value="0"|Unknown (50–70% of native population)
+| <ref>''The History of Small-Pox in Australia, 1788–1908'', JHL Cumpston, (1914, Government Printer, Melb.)This epidemic is unlikely to have been a natural event.  see, Warren (2013) {{doi|10.1080/14443058.2013.849750}} [http://www.ahc.org.au/history/history.html After Cook and coinciding with Colonisation] ''"With the arrival of the Europeans, the Gadigal population was virtually wiped. In 1789 and 1790 a smallpox epidemic swept through the Aboriginal population around Sydney"'' {{Webarchive|url=https://web.archive.org/web/20080625020532/http://www.ahc.org.au/history/history.html |date=2008-06-25}}</ref><ref>{{Cite web |url=https://www.thefreelibrary.com/The+origin+of+the+smallpox+outbreak+in+Sydney+in+1789.-a0180278188|title=The origin of the smallpox outbreak in Sydney in 1789.|website=thefreelibrary|access-date=14 May 2020}}</ref>
+|-
+| 1793 United States influenza and typhus epidemic
+| 1793
+| [[United States]]
+| [[Influenza]] and [[epidemic typhus]]
+| data-sort-value="0"|Unknown
+| {{Citation needed|date=May 2020}}
+|-
+| [[1793 Philadelphia yellow fever epidemic]]
+| 1793
+| [[Philadelphia]], [[United States]]
+| [[Yellow fever]]
+| data-sort-value="5000"|5,000+
+| <ref>{{Cite web |url=http://www.libby-genealogy.com/epidemics.htm |title=Epidemics |access-date=2008-06-08 |archive-url=https://web.archive.org/web/20130722144136/http://www.libby-genealogy.com/epidemics.htm |archive-date=2013-07-22 |url-status=live}}</ref>
+|-
+| 1800–1803 Spain yellow fever epidemic
+| 1800–1803
+| [[Spain]]
+| [[Yellow fever]]
+| data-sort-value="60001"|60,000+
+| <ref>{{Cite web |url=http://www.iberianature.com/material/tigermosquito.htm |title=Tiger mosquitoes and the history of yellow fever and dengue in Spain |access-date=16 November 2014 |archive-url=https://web.archive.org/web/20170804192609/http://www.iberianature.com/material/tigermosquito.htm |archive-date=4 August 2017 |url-status=live}}</ref>
+|-
+| 1801 Ottoman Empire and Egypt bubonic plague epidemic
+| 1801
+| [[Ottoman Empire]], [[Egypt]]
+| [[Bubonic plague]]
+| data-sort-value="0"|Unknown
+| <ref name="Davidson1893">{{Cite book |url=https://archive.org/details/b21912245 |title=Hygiene & diseases of warm climates |last=Andrew Davidson |publisher=Pentland |year=1893 |page=[https://archive.org/details/b21912245/page/337 337] |access-date=31 March 2011}}</ref>
+|-
+| 1802–1803 Saint-Domingue yellow fever epidemic
+| 1802–1803
+| [[Saint-Domingue]]
+| [[Yellow fever]]
+| data-sort-value="42000"|29,000–55,000
+| <ref name= "medicina">{{Cite web|url=http://s2.medicina.uady.mx/observatorio/docs/er/ac/RE2013_Ac_Marr.pdf|title=The 1802 Saint-Domingue Yellow Fever Epidemic and the Louisiana Purchase (page 78)|date=2013|access-date=12 May 2020|archive-url=https://web.archive.org/web/20160204181607/http://s2.medicina.uady.mx/observatorio/docs/er/ac/RE2013_Ac_Marr.pdf|archive-date=4 February 2016|url-status=dead}}</ref>
+|-
+| 1812 Egypt bubonic plague epidemic (part of the [[Second plague pandemic]])
+| 1812
+| [[Egypt]]
+| [[Bubonic plague]]
+| data-sort-value="0"|Unknown
+| {{Citation needed|date=May 2020}}
+|-
+| 1812 Russia Typhus epidemic
+| 1812
+| [[Russian Empire|Russia]]
+| [[Typhus]]
+| 300,000
+| <ref name="Typhus, War, and Vaccines"/>
+|-
+| [[1812–19 Ottoman plague epidemic]] (part of the [[Second plague pandemic]])
+| 1812–1819
+| [[Ottoman Empire]]
+| [[Bubonic plague]]
+| data-sort-value="300,001"| 300,000+
+| <ref>{{cite web |last1=Lynch |first1=Lily |title=Odessa, 1812: Plague and Tyranny at the Edge of the Empire |url=https://balkanist.net/plague-and-political-tyranny-odessa/ |website=Balkanist |archive-url=https://web.archive.org/web/20200213021356/https://balkanist.net/plague-and-political-tyranny-odessa/ |archive-date=13 February 2020 |date=5 December 2015}}</ref>
+|-
+| [[1813–14 Malta plague epidemic]] (part of the [[Second plague pandemic]])
+| 1813–1814
+| [[Malta]]
+| [[Bubonic plague]]
+| 4,500
+| <ref>{{cite news |last1=Mangion |first1=Fabian |title=Maltese islands devastated by a deadly epidemic 200 years ago |url=https://timesofmalta.com/articles/view/maltese-islands-devastated-by-a-deadly-epidemic-200-years-ago.470542 |work=[[Times of Malta]] |date=19 May 2013 |access-date=28 May 2020 |archive-url=https://web.archive.org/web/20200312144053/https://timesofmalta.com/articles/view/maltese-islands-devastated-by-a-deadly-epidemic-200-years-ago.470542 |archive-date=12 March 2020}}</ref>
+|-
+| [[Caragea's plague]] (part of the [[Second plague pandemic]])
+| 1813
+| [[Moldavia|Romania]]
+| [[Bubonic plague]]
+| 60,000
+| <ref>Ştefan Ionescu, Bucureştii în vremea fanarioţilor (Bucharest in the time of the Phanariotes), Editura Dacia, Cluj, 1974.  p. 287-293</ref>
+|-
+| 1817–1819 Ireland typhus epidemic
+| 1817–1819
+| [[Ireland]]
+| [[Typhus]]
+| 65,000
+| <ref>{{Cite journal |title=Typhus Epidemic in Ireland, 1817–1819: Priests, Ministers, Doctors|journal=Collectanea Hibernica|volume=41|pages=117–152|date=1999|jstor=30004680|last1=Fenning|first1=Hugh|issue=41}}</ref>
+|-
+| [[First cholera pandemic]]
+| 1817–1824
+| [[Asia]], [[Europe]]
+| [[Cholera]]
+| data-sort-value="100,001"| 100,000+
+| <ref name="Hays2005p193">{{Cite book |url=https://archive.org/details/epidemicspandemi0000hays |title=Epidemics and pandemics: their impacts on human history |last=J. N. Hays |publisher=ABC-CLIO |year=2005 |isbn=978-1-85109-658-9 |access-date=29 March 2011 |url-access=registration|page=193}}</ref>
+|-
+| 1820 Savannah yellow fever epidemic
+| 1820
+| [[Savannah, Georgia]], [[United States]]
+| [[Yellow fever]]
+| 700
+| <ref>{{cite web |url=http://projects.leadr.msu.edu/youngamerica/exhibits/show/the-autumnal-fever|title=The Autumnal Fever: The Outbreak of the Yellow Fever in Savannah, Georgia in 1820|website=projects.leadr.msu.edu|access-date=12 May 2020}}</ref>
+|-
+| 1821 Barcelona yellow fever epidemic
+| 1821
+| [[Barcelona]], [[Spain]]
+| [[Yellow fever]]
+| data-sort-value="12500"|5,000–20,000
+| <ref name=Britannica>{{cite EB1911 |wstitle=Yellow Fever |volume=28 |pages=910–911}}</ref><ref>{{cite web|url=https://iberianature.com/barcelona/tag/yellow-fever-in-spain|title=Yellow fever in Barcelona|date=14 May 2009|access-date=12 May 2020}}</ref>
+|-
+| [[Second cholera pandemic]]
+| 1826–1837
+| [[Asia]], [[Europe]], [[North America]]
+| [[Cholera]]
+| data-sort-value="100,001"| 100,000+
+| <ref name=Hays2005p211>{{Cite book |url=https://archive.org/details/epidemicspandemi0000hays |title=Epidemics and pandemics: their impacts on human history |last=J. N. Hays |publisher=ABC-CLIO |year=2005 |isbn=978-1-85109-658-9 |access-date=29 March 2011 |url-access=registration|page=211}}</ref>
+|-
+| 1828–1829 New South Wales smallpox epidemic
+| 1828–1829
+| [[New South Wales]], [[Australia]]
+| [[Smallpox]]
+| 19,000
+| <ref>{{Cite web |url=http://www.scu.edu.au/schools/gcm/ar/arr/arow/hgkr.html |title=Aboriginal Health History |url-status=dead |archive-url=https://web.archive.org/web/20110927104026/http://www.scu.edu.au/schools/gcm/ar/arr/arow/hgkr.html |archive-date=27 September 2011 |access-date=16 November 2014 |df=dmy-all}}</ref><ref>{{Cite web |url=https://candobetter.net/node/3720|title=The smallpox holocaust that swept Aboriginal Australia – Red hot echidna spikes are burning me|website=candobetter|access-date=14 May 2020}}</ref>
+|-
+| [[Groningen epidemic]]
+| 1829
+| [[Netherlands]]
+| [[Malaria]]
+| 2,800
+| <ref>{{Cite web |url=https://www.rtvnoord.nl/nieuws/220326/Epidemieen-in-Groningen-De-Groninger-ziekte-1826|title=Epidemieën in Groningen: De Groninger ziekte (1826)|language=nl|website=rtvnoord|date=22 March 2020|access-date=18 April 2020}}</ref>
+|-
+| 1829–1833 Pacific Northwest malaria epidemic
+| 1829–1833
+| [[Pacific Northwest]], [[United States]]
+| [[Malaria]], possibly other diseases too
+| 150,000
+| <ref>{{Cite web |url=https://raogk.org/encyclopedia/epidemics|title=A Listing Of Some Worldwide Epidemics|website=raogk|access-date=18 May 2020}}</ref><ref>{{Cite web |url=https://oregonencyclopedia.org/articles/disease_epidemics_1770s-1850s|title=Disease Epidemics among Indians, 1770s–1850s (essay)|website=oregonencyclopedia|access-date=18 April 2020}}</ref>
+|-
+| 1829–1835 Iran plague outbreak
+| 1829–1835
+| [[Iran]]
+| [[Bubonic plague]]
+| data-sort-value="0"|Unknown
+| <ref>[http://www.ams.ac.ir/aim/010136/0022.htm A History of the Human Plague in Iran] {{webarchive|url=https://web.archive.org/web/20110719081147/http://www.ams.ac.ir/aim/010136/0022.htm |date=2011-07-19}}, Mohammad Azizi, Farzaneh Azizi</ref>
+|-
+| 1831–1834 Plains Indians smallpox epidemic
+| 1831–1834
+| [[Plains Indians]]
+| [[Smallpox]]
+| data-sort-value="0"|Unknown
+| {{Citation needed|date=May 2020}}
+|-
+| 1834–1836 Egypt plague epidemic
+| 1834–1836
+| [[Egypt]]
+| [[Bubonic plague]]
+| data-sort-value="0"|Unknown
+| <ref name="Kuhnke">Kuhnke, Laverne. ''Lives at Risk: Public Health in Nineteenth-Century Egypt.'' [http://ark.cdlib.org/ark:/13030/ft5t1nb3mq/ ark.cdlib.org] {{Webarchive|url=https://web.archive.org/web/20081120024817/http://ark.cdlib.org/ark:/13030/ft5t1nb3mq/ |date=2008-11-20}}, Berkeley: University of California Press, c1990.</ref><ref name="Gallagher">Gallagher, Nancy. ''Egypt's Other Wars: Epidemics and the Politics of Public Health.'' Syracuse University Press, c1990. American University in Cairo Press. {{ISBN|977-424-295-5}}{{Page needed|date=July 2013}}</ref>
+|-
+| [[1837 Great Plains smallpox epidemic]]
+| 1837–1838
+| [[Great Plains]], [[United States]] and [[Canada]]
+| [[Smallpox]]
+| data-sort-value="17,001"| 17,000+
+| <ref>{{Cite web |url=https://www.nlm.nih.gov/nativevoices/timeline/293.html |title=Smallpox decimates tribes; survivors join together – Timeline – Native Voices |website=www.nlm.nih.gov |access-date=4 July 2016 |archive-url=https://web.archive.org/web/20160816170039/https://www.nlm.nih.gov/nativevoices/timeline/293.html |archive-date=16 August 2016 |url-status=live}}</ref>
+|-
+| 1840 South Africa smallpox epidemic
+| 1840
+| [[South Africa]]
+| [[Smallpox]]
+| data-sort-value="0"|Unknown
+| {{Citation needed|date=May 2020}}
+|-
+| 1841 Southern United States yellow fever epidemic
+| 1841
+| [[Southern United States]] (especially [[Louisiana]] and [[Florida]])
+| [[Yellow fever]]
+| 3,498
+| <ref>{{Cite web |url=https://www.usdeadlyevents.com/1841-yellow-fever-esp-fl-la-esp-new-orleans-also-vicksburg-charleston-3498|title=1841 — Yellow Fever, esp. FL & LA, esp. New Orleans, also Vicksburg, Charleston −3,498|website=usdeadlyevents.com|access-date=12 May 2020}}</ref>
+|-
+| [[1847 North American typhus epidemic]]
+| 1847–1848
+| [[Canada]]
+| [[Typhus]]
+| data-sort-value="20,001"|20,000+
+|<ref name="CCHA">{{Cite journal |last=Gallagher |first=The Reverend John A. |year=1936 |title=The Irish Emigration of 1847 and Its Canadian Consequences |url=http://www.umanitoba.ca/colleges/st_pauls/ccha/Back%20Issues/CCHA1935-36/Gallagher.html |journal=Canadian Catholic Historical Association Report, University of Manitoba Web Site |access-date=2008-03-23 |archive-url=https://web.archive.org/web/20071011072535/http://umanitoba.ca/colleges/st_pauls/ccha/Back%20Issues/CCHA1935-36/Gallagher.html |archive-date=2007-10-11 |url-status=live}}</ref>
+|-
+| 1847 Southern United States yellow fever epidemic
+| 1847
+| [[Southern United States]] (especially [[New Orleans]])
+| [[Yellow fever]]
+| 3,400
+| <ref>{{Cite web |url=https://www.usdeadlyevents.com/1847-yellow-fever-esp-new-orleans-also-galveston-mobile-pensacola-vicksburg-3400|title=1847 –Yellow Fever, esp. New Orleans, also Galveston, Mobile, Pensacola, Vicksburg >3,400|website=usdeadlyevents.com|access-date=12 May 2020}}</ref>
+|-
+| 1847–1848 influenza epidemic
+| 1847–1848
+| [[World]]wide
+| [[Influenza]]
+| data-sort-value="0"|Unknown
+| <ref name="AJAMA">{{cite journal |year=1849 |title=On the Influenza, or Epidemic Catarrhal Fever of 1847–8 |journal=The American Journal of the Medical Sciences |volume=18 |issue=35 |pages=148–154 |doi=10.1097/00000441-184907000-00018 |pmc=5277660|last1=a s |first1=&NA }}</ref>
+|-
+| 1848–1849 Hawaii epidemic of infections
+| 1848–1849
+| [[Hawaiian Kingdom]]
+| [[Measles]], [[whooping cough]], [[dysentery]] and [[influenza]]
+| 10,000
+| <ref>{{cite journal |last1=Schmitt |first1=Robert C. |last2=Nordyke |first2=Eleanor C. |title=Death in Hawai'i: the Epidemics of 1848 - 1849 |journal=Hawaiian Journal of History |date=2001 |volume=35 |hdl=10524/339 }}</ref>
+|-
+| 1853 New Orleans yellow fever epidemic
+| 1853
+| [[New Orleans]], [[United States]]
+| [[Yellow fever]]
+| 7,970
+| <ref name=Britannica/>
+|-
+| [[Third cholera pandemic]]
+| 1846–1860
+| [[World|Worldwide]]
+| [[Cholera]]
+| data-sort-value="01000001"|1 million+
+| <ref name="Hays2005p236">{{Cite book |url=https://archive.org/details/epidemicspandemi0000hays |title=Epidemics and pandemics: their impacts on human history |last=J. N. Hays |publisher=ABC-CLIO |year=2005 |isbn=978-1-85109-658-9 |access-date=29 March 2011 |url-access=registration|page=236}}</ref>
+|-
+| 1853 Ottoman Empire plague epidemic
+| 1853
+| [[Ottoman Empire]]
+| [[Bubonic plague]]
+| data-sort-value="0"|Unknown
+| <ref name="Practitioner">{{Cite book |url=https://books.google.com/books?id=cWUCAAAAYAAJ |title=Practitioner |year=1877 |access-date=29 March 2011}}</ref>
+|-
+| [[1853 Copenhagen cholera outbreak]]
+| 1853
+| [[Copenhagen]], [[Denmark]]
+| [[Cholera]]
+| 4,737
+| <ref>[http://wayback-01.kb.dk/wayback/20100504134515/http://www2.kb.dk/udstillinger/medhist/kolera/efterhistorien.html] {{Webarchive|url=https://web.archive.org/web/20150103085703/http://wayback-01.kb.dk/wayback/20100504134515/http://www2.kb.dk/udstillinger/medhist/kolera/efterhistorien.html |date=2015-01-03}} About Cholera epidemic of Copenhagen 1853</ref>
+|-
+| [[1854 Broad Street cholera outbreak]]
+| 1854
+| [[London]], [[England]]
+| [[Cholera]]
+| 616
+| <ref name="Snow1855">{{Cite book |url=https://archive.org/details/b28985266 |title=On the mode of communication of cholera |last=John Snow |publisher=John Churchill |year=1855 |access-date=29 March 2011}}</ref>
+|-
+| 1855 Norfolk yellow fever epidemic
+| 1855
+| [[Norfolk]] and [[Portsmouth]], [[England]]
+| [[Yellow fever]]
+| 3,000 (2,000 in Norfolk, 1,000 in Portsmouth)
+| <ref>{{Cite web|url=https://www.historicforrest.com/norfolkHistoricalSociety/insights/2005_summer/epidemic.html|title=Norfolk's Yellow Fever Epidemic of 1855|publisher=historicforrest.com|access-date=9 May 2020}}</ref>
+|-
+| [[Third plague pandemic]]
+| 1855–1960
+| [[World]]wide
+| [[Bubonic plague]]
+| data-sort-value="12,000,010"| 12 million+ (India and China)
+| <ref name=Pryor/><ref>{{cite journal |last1=Stenseth |first1=Nils Chr |title=Plague Through History |journal=Science |date=8 August 2008 |volume=321 |issue=5890 |pages=773–774 |doi=10.1126/science.1161496 |s2cid=161336516 }}</ref>
+|-
+| 1857 Lisbon yellow fever epidemic
+| 1857
+| [[Lisbon]], [[Portugal]]
+| [[Yellow fever]]
+| 6,000
+| <ref name=Britannica/>
+|-
+| 1857 Victoria smallpox epidemic
+| 1857
+| [[Victoria (Australia)|Victoria]], [[Australia]]
+| [[Smallpox]]
+| data-sort-value="0"|Unknown
+| <ref>{{Cite web |url=http://www.medicalpioneers.com/colonial.htm |title=Australian Medical Pioneers Index (AMPI) – Colonial Medical Life |access-date=16 November 2014 |archive-url=https://web.archive.org/web/20170629093854/http://medicalpioneers.com/colonial.htm |archive-date=29 June 2017 |url-status=live}}</ref>
+|-
+| 1857–1859 Europe and the Americas influenza epidemic
+| 1857–1859
+| [[Europe]], [[North America]], [[South America]]
+| [[Influenza]]
+| data-sort-value="0"|Unknown
+| <ref>Beveridge, W.I.B. Influenza, the Last Great Plague (Heinemann, London, 1977){{Page needed|date=July 2013}}</ref>
+|-
+| 1862–1863 British Columbia Smallpox epidemic
+| 1862–1863
+| [[British Columbia]], [[Canada]]
+| [[Smallpox]]
+| 32,000
+| <ref>{{Cite book |url=https://s3.amazonaws.com/hwdsbcommons/wp-content/uploads/sites/7647/2016/09/ch1_sb_topic4.pdf|title=Creating Canada: 1850–1890|access-date=14 May 2020|page=42}}</ref><ref>{{cite web|url=https://www.macleans.ca/news/canada/how-a-smallpox-epidemic-forged-modern-british-columbia|title=How a smallpox epidemic forged modern British Columbia|website=macleans.ca|access-date=14 May 2020}}</ref>
+|-
+| 1861–1865 United States typhoid fever epidemic
+| 1861–1865
+| [[United States]]
+| [[Typhoid fever]]
+| 80,000
+| <ref>{{cite web|title=Typhoid Fever History|url=http://www.news-medical.net/health/Typhoid-Fever-History.aspx|website=news-medical.net|access-date=13 May 2020}}</ref>
+|-
+| [[Fourth cholera pandemic]]
+| 1863–1875
+| [[Middle East]]
+| [[Cholera]]
+| 600,000
+| <ref name="Hays2005p267">{{Cite book |url=https://archive.org/details/epidemicspandemi0000hays |title=Epidemics and pandemics: their impacts on human history |last=J. N. Hays |publisher=ABC-CLIO |year=2005 |isbn=978-1-85109-658-9 |access-date=29 March 2011 |url-access=registration|page=267}}</ref>
+|-
+| 1867 Sydney measles epidemic
+| 1867
+| [[Sydney]], [[Australia]]
+| [[Measles]]
+| 748
+| <ref name="Dictionary of Sydney">{{Cite web |url=https://dictionaryofsydney.org/entry/epidemics|title=Epidemics|website=dictionaryofsydney.org|date=2008|access-date=16 May 2020}}</ref>
+|-
+| [[Yellow fever in Buenos Aires|1871 Buenos Aires yellow fever epidemic]]
+| 1871
+| [[Buenos Aires]], [[Argentina]]
+| [[Yellow fever]]
+| data-sort-value="19850"|13,500–26,200
+| <ref>{{Cite web |url=http://www.greywall.demon.co.uk/genealogy/yfever/index.html|title=The Yellow Fever Outbreak of 1871|access-date=12 May 2020}}</ref>
+|-
+| 1870–1875 Europe smallpox epidemic
+| 1870–1875
+| [[Europe]]
+| [[Smallpox]]
+| 500,000
+| <ref>{{Cite web |url=https://www.strategypage.com/articles/smallpox/6.asp|title=Franco-Prussian War|website=strategypage.com|access-date=14 May 2020}}</ref><ref>{{cite journal |last1=Jorland|first1=Gerard|url=https://www.cairn-int.info/article-E_SEVE_033_0025--smallpox-and-the-franco-prussian-war-of.htm|title=Smallpox and the Franco-Prussian War of 1870|journal=Les Tribunes de la Santé|date=2011|volume=33|pages=25–30|doi=10.3917/seve.033.0025}}</ref>
+|-
+| 1875 Fiji measles outbreak
+| 1875
+| [[Fiji]]
+| [[Measles]]
+| data-sort-value="40,000"| 40,000
+| <ref>{{Cite news |url=http://www.britishnewspaperarchive.co.uk/viewer/bl/0000081/18750929/038/0007 |title=Death of Forty Thousand Fijians from Measles |date=29 Sep 1875 |access-date=9 Nov 2012 |publisher=Liverpool Mercury}}</ref>
+|-
+| 1875–1876 Australia scarlet fever epidemic
+| 1875–1876
+| [[Australia]]
+| [[Scarlet fever]]
+| 8,000
+| <ref name="Dictionary of Sydney"/>
+|-
+| 1876 Ottoman Empire plague epidemic
+| 1876
+| [[Ottoman Empire]]
+| [[Bubonic plague]]
+| 20,000
+| <ref>{{Cite web |url=https://www.1902encyclopedia.com/P/PLA/plague-13.html|title=Plague in the 19th Century: (2) 1853–84|website=1902encyclopedia|access-date=16 May 2020}}</ref>
+|-
+| 1878 New Orleans yellow fever epidemic
+| 1878
+| [[New Orleans]], [[United States]]
+| [[Yellow fever]]
+| 4,046
+| <ref name= "medicina"/>
+|-
+| 1878 Mississippi Valley yellow fever epidemic
+| 1878
+| [[Mississippi Valley]], [[United States]]
+| [[Yellow fever]]
+| 13,000
+| <ref name= "medicina"/>
+|-
+| [[Fifth cholera pandemic]]
+| 1881–1896
+| [[Asia]], [[Africa]], [[Europe]], [[South America]]
+| [[Cholera]]
+| data-sort-value="298,600"|298,600
+| <ref name="Hays2005p303">{{Cite book |url=https://archive.org/details/epidemicspandemi0000hays |title=Epidemics and pandemics: their impacts on human history |last=J. N. Hays |publisher=ABC-CLIO |year=2005 |isbn=978-1-85109-658-9 |access-date=29 March 2011 |url-access=registration|page=303}}</ref>
+|-
+| 1885 Montreal smallpox epidemic
+| 1885
+| [[Montreal]], [[Canada]]
+| [[Smallpox]]
+| 3,164
+| <ref>[https://www.amazon.com/Plague-Story-Smallpox-Montreal-Michael/dp/0002156938 Plague A Story of Smallpox in Montreal] [[Michael Bliss]], 1991, accessed 8 May 2020</ref>
+|-
+| [[1889–1890 flu pandemic]]
+| 1889–1890
+| [[World]]wide
+| [[Influenza]] or [[Human coronavirus OC43|Human coronavirus OC43 / HCoV-OC43]]<ref>{{cite journal |last1=King |first1=Anthony |title=An uncommon cold |journal=New Scientist |date=May 2020 |volume=246 |issue=3280 |pages=32–35 |doi=10.1016/S0262-4079(20)30862-9 |pmid=32501321 |pmc=7252012 |bibcode=2020NewSc.246...32K }}</ref><ref>{{cite journal |last1=Huynh |first1=Jeremy |last2=Li |first2=Shimena |last3=Yount |first3=Boyd |last4=Smith |first4=Alexander |last5=Sturges |first5=Leslie |last6=Olsen |first6=John C. |last7=Nagel |first7=Juliet |last8=Johnson |first8=Joshua B. |last9=Agnihothram |first9=Sudhakar |last10=Gates |first10=J. Edward |last11=Frieman |first11=Matthew B. |last12=Baric |first12=Ralph S. |last13=Donaldson |first13=Eric F. |title=Evidence Supporting a Zoonotic Origin of Human Coronavirus Strain NL63 |journal=Journal of Virology |date=1 December 2012 |volume=86 |issue=23 |pages=12816–12825 |doi=10.1128/JVI.00906-12 |pmid=22993147 |pmc=3497669 }}</ref> (disputed)
+| data-sort-value="01000000"|1 million
+| <ref name="Board1893">{{Cite book |url=https://archive.org/details/b21459393 |title=Further report and papers on epidemic influenza, 1889–92: with an introduction by the medical officer of the Local Government Board |last=Great Britain. Local Government Board |publisher=Eyre |year=1893 |page=49 |access-date=29 March 2011}}</ref>
+|-
+| [[1894 Hong Kong plague]] (part of the [[Third plague pandemic]])
+| 1894–1929
+| [[Hong Kong]]
+| [[Bubonic plague]]
+| 20,000+
+| <ref>{{Cite web|date=2016-01-11|title=A lesson from history – Hong Kong’s plague epidemic points way ahead in face of crisis|url=https://www.scmp.com/news/hong-kong/article/1899938/lesson-history-hong-kongs-plague-epidemic-points-way-ahead-face|access-date=2021-01-16|website=South China Morning Post|language=en}}</ref>
+|-
+| [[Bombay plague epidemic]]  (part of the [[Third plague pandemic]])
+| 1896–1905
+| [[Bombay]], [[India]]
+| [[Bubonic plague]]
+| 20,788
+| <ref>{{Cite web |url=https://www.outlookindia.com/website/story/opinion-colonial-experiences-from-the-bombay-plague-of-1896-no-lessons-learned/350389/?next|title=The 1896 Bombay Plague: Lessons In What Not To Do|website=outlookindia|date=9 April 2020|access-date=13 May 2020}}</ref>
+|-
+| 1896–1906 Congo Basin African trypanosomiasis epidemic
+| 1896–1906
+| [[Congo Basin]]
+| [[African trypanosomiasis]]
+| 500,000
+| <ref name="African trypanosomiasis">{{Cite web |url=https://www.who.int/trypanosomiasis_african/country/history/en/index5.html|title=The history of sleeping sickness|website=WHO|access-date=12 May 2020}}</ref>
+|-
+| [[1899 Porto plague outbreak]] (part of the [[Third plague pandemic]])
+| 1899
+| [[Porto]], [[Portugal]]
+| [[Bubonic plague]]
+| 132
+| <ref name="Pontes2012">{{cite thesis |last=Pontes |first=David |date=2012 |title=O cerco da peste no Porto: Cidade, imprensa e saúde pública na crise sanitária de 1899 |type=master's degree |publisher=Faculdade de Letras da Universidade do Porto |url=https://repositorio-aberto.up.pt/bitstream/10216/73326/2/28279.pdf |language=pt |access-date=2 March 2020}}</ref>
+|-
+| [[Sixth cholera pandemic]]
+| 1899–1923
+| [[Europe]], [[Asia]], [[Africa]]
+| [[Cholera]]
+| data-sort-value="800,001"| 800,000+
+| <ref name="Hays2005p345">{{Cite book |url=https://archive.org/details/epidemicspandemi0000hays |title=Epidemics and pandemics: their impacts on human history |last=J. N. Hays |publisher=ABC-CLIO |year=2005 |isbn=978-1-85109-658-9 |access-date=29 March 2011 |url-access=registration|page=345}}</ref>
+|-
+| [[San Francisco plague of 1900–1904]] (part of the [[Third plague pandemic]])
+| 1900–1904
+| [[San Francisco]], [[United States]]
+| [[Bubonic plague]]
+| 119
+| <ref>{{Cite book |title=Plague Ports: The Global Urban Impact of Bubonic Plague: 1894–1901 |last=Echenberg |first=Myron |publisher=New York University Press |year=2007 |isbn=978-0-8147-2232-9 |location=Sacramento |page=231}}</ref>
+|-
+| 1900 Sydney bubonic plague epidemic (part of the [[Third plague pandemic]])
+| 1900
+| [[Australia]]
+| [[Bubonic plague]]
+| 103
+|<ref>{{Cite web|date=2015-09-03|title=The day bubonic plague hit Sydney|url=https://www.dailytelegraph.com.au/news/nsw/bubonic-plague-sydney-how-a-city-survived-the-black-death-in-1900/news-story/f36b9184eba49c72ae9791c574f7b826|access-date=2020-07-26|website=www.dailytelegraph.com.au|language=en}}</ref>
+|-
+| 1900–1920 Uganda African trypanosomiasis epidemic
+| 1900–1920
+| [[Uganda]]
+| [[African trypanosomiasis]]
+| data-sort-value="250,000"|200,000–300,000
+| <ref name="African trypanosomiasis"/>
+|-
+| Papua New Guinea kuru epidemic
+| 1901–2009
+| [[Papua New Guinea]]
+| [[Kuru (disease)|Kuru]]
+| 2,700–3,000+
+| <ref>{{cite journal |last1=Liberski |first1=Pawel |last2=Gajos |first2=Agata |last3=Sikorska |first3=Beata |last4=Lindenbaum |first4=Shirley |title=Kuru, the First Human Prion Disease † |journal=Viruses |year=2019 |volume=11 |issue=3 |page=232 |doi=10.3390/v11030232 |pmid=30866511 |pmc=6466359 }}</ref><ref>{{cite web |last1=Zafar Khan |first1=Zartash |title=Kuru: Background, Pathophysiology, Epidemiology |url=https://emedicine.medscape.com/article/220043-overview}}</ref>
+|-
+| 1903 India plague epidemic (part of the [[Third plague pandemic]])
+| 1903
+| [[British Raj|India]]
+| [[Bubonic plague]]
+| 22
+| <ref name="DSHS" />
+|-
+| 1903 Fremantle plague epidemic (part of the [[Third plague pandemic]])
+| 1903
+| [[Fremantle|Fremantle, Western Australia]]
+| [[Bubonic plague]]
+| 4
+| <ref>{{cite wikisource |title=Report on the outbreak of plague at Fremantle |date=1903 |first1=George Hugh Spencer |last1=Blackburne |first2=T. L. |last2=Anderson}}</ref>
+|-
+|[[1906 malaria outbreak in Ceylon]]
+|1906–1936
+|[[British Ceylon|Ceylon]]
+|[[Malaria]]
+|80,000
+|<ref>{{Cite journal|last1=Wijesundere|first1=Dilkushi Anula|last2=Ramasamy|first2=Ranjan|date=2017-08-28|title=Analysis of Historical Trends and Recent Elimination of Malaria from Sri Lanka and Its Applicability for Malaria Control in Other Countries|journal=Frontiers in Public Health|volume=5|page=212|doi=10.3389/fpubh.2017.00212|issn=2296-2565|pmc=5581355|pmid=28894732}}</ref>
+|-
+| [[Manchurian plague]] (part of the [[Third plague pandemic]])
+| 1910–1911
+| [[Qing dynasty|China]]
+| [[Pneumonic plague]]
+| 60,000
+| <ref name=":02">{{Cite web|url=https://disasterhistory.org/the-manchurian-plague-1910-11|title=Manchurian plague, 1910–11|last=Meiklejohn|first=Iain|website=Disaster History|language=en-GB|access-date=23 April 2020}}</ref>
+|-
+| 1910 China plague (part of the [[Third plague pandemic]])
+| 1910–1912
+| [[Qing dynasty|China]]
+| [[Bubonic plague]]
+| 40,000
+| <ref name="Harbin Plague" />
+|-
+| [[Encephalitis lethargica#Pandemic of 1915–1926|1915 Encephalitis lethargica pandemic]]
+| 1915–1926
+| Worldwide
+| [[Encephalitis lethargica]]
+| data-sort-value="500,000"| 500,000
+| <ref name=":2">{{Cite journal|last1=Ravenholt|first1=R. T|last2=Foege|first2=WilliamH|title=1918 Influenza, Encephalitis Lethargica, Parkinsonism|date=1982-10-16|url=http://www.sciencedirect.com/science/article/pii/S0140673682908200|journal=The Lancet|series=Originally published as Volume 2, Issue 8303|language=en|volume=320|issue=8303|pages=860–864|doi=10.1016/S0140-6736(82)90820-0|pmid=6126720|s2cid=45138249|issn=0140-6736}}</ref><ref name=":3">{{Cite journal|last1=McCall|first1=Sherman|last2=Vilensky|first2=Joel A|last3=Gilman|first3=Sid|last4=Taubenberger|first4=Jeffery K|date=May 2008|title=The relationship between encephalitis lethargica and influenza: A critical analysis|journal=Journal of Neurovirology|volume=14|issue=3|pages=177–185|doi=10.1080/13550280801995445|issn=1355-0284|pmc=2778472|pmid=18569452}}</ref><ref>{{cite journal |last1=Foster |first1=Harold D. |last2=Hoffer |first2=Abram |title=Chapter 16 – Hyperoxidation of the Two Catecholamines, Dopamine and Adrenaline: Implications for the Etiologies and Treatment of Encephalitis Lethargica, Parkinson's Disease, Multiple Sclerosis, Amyotrophic Lateral Sclerosis, and Schizophrenia |url=https://www.sciencedirect.com/science/article/pii/B9780444528094501575 |journal=Oxidative Stress and Neurodegenerative Disorders |publisher=Elsevier Science B.V. |access-date=11 February 2020 |pages=369–382 |language=en |date=1 January 2007|doi=10.1016/B978-044452809-4/50157-5}}</ref>
+|-
+| 1916 United States polio epidemic
+| 1916
+| [[United States]]
+| [[Poliomyelitis]]
+| data-sort-value="7,130" | 7,130
+| <ref name="Ochmann and Roser" >{{Cite journal |url=https://ourworldindata.org/polio|title=Polio (graph "Reported paralytic polio cases and deaths in the United States since 1910")|last1=Ochman|first1=Sophie|last2=Roser|first2=Max|journal=Our World in Data|date=9 November 2017|publisher=OurWorldInData.org|access-date=15 May 2020}}</ref>
+|-
+| [[1918 flu pandemic|1918 influenza pandemic ('Spanish flu')]]
+| 1918–1920
+| [[World]]wide
+| |[[Influenza A virus subtype H1N1]] [[File:Reconstructed Spanish Flu Virus.jpg|thumb|50px|H1N1 virus]]
+| data-sort-value="58,500,000"| 17–100 million
+| <ref name=":1" /><ref>{{cite journal |last1=P. Spreeuwenberg |display-authors=etal|title=Reassessing the Global Mortality Burden of the 1918 Influenza Pandemic. |journal=[[American Journal of Epidemiology]] |volume=187|issue=12|pages=2561–2567|date=1 December 2018 |doi=10.1093/aje/kwy191 |pmid=30202996|pmc=7314216}}</ref><ref>{{Cite journal|last=Borza|first=T.|date=2001-12-10|title=[Spanish flu in Norway 1918-19]|url=https://pubmed.ncbi.nlm.nih.gov/11808016/#affiliation-1|journal=Tidsskrift for den Norske Laegeforening |volume=121|issue=30|pages=3551–3554|issn=0029-2001|pmid=11808016}}</ref>
+|-
+| [[Epidemic typhus#20th century|1918–1922 Russia typhus epidemic]]
+| 1918–1922
+| [[Russian Soviet Federative Socialist Republic|Russia]]
+| [[Typhus]]
+| data-sort-value="2500000"| 2–3 million
+| <ref>{{cite journal| pmc=1036775 | pmid=8246643 | doi=10.1017/s0025727300058725 | volume=37 | title=Typhus and its control in Russia, 1870–1940 | year=1993 | author=Patterson KD | journal=Med Hist |issue = 4| pages=361–381 [378]}}</ref>
+|-
+| [[1924 Los Angeles pneumonic plague outbreak]]
+| 1924
+| [[Los Angeles]], [[United States]]
+| [[Pneumonic plague]]
+| 30
+| <ref>{{cite journal | author = Viseltear A.J. | date = March 1974 | title = The Pneumonic Plague Epidemic of 1924 in Los Angeles | journal = Yale J. Biol. Med. | volume = 47 | issue = 1| pages = 40–54| pmid = 4596466 | pmc = 2595158 }}</ref>
+|-
+| [[1924–1925 Minnesota smallpox epidemic]]
+| 1924–1925
+| [[Minnesota]], [[United States]]
+| [[Smallpox]]
+| 500
+| <ref>{{Cite web |last=Nelson |first=Paul |title=Smallpox Epidemic, 1924–1925 |url=http://www.mnopedia.org/event/smallpox-epidemic-1924-1925 |work=MNopedia |date=2018-01-02 |access-date=2019-07-25}}</ref>
+|-
+| 1927 Montreal typhoid fever epidemic
+| 1927
+| [[Montreal]], [[Canada]]
+| [[Typhoid fever]]
+| 538
+| <ref>{{cite book|last1=Berger|first1=Stephen|title=Typhoid and Enteric Fever: Global Status: 2017 edition|url=https://books.google.com/books?id=XFEWDgAAQBAJ&q=%221993%22+%22+%09Typhoid+fever%22+%22mpumalanga%22&pg=PA11|access-date=16 May 2020|isbn=9781498816878|date=20 January 2017}}</ref>
+|-
+| [[1929–1930 Psittacosis Pandemic]]
+| 1929–1930
+| [[World]]wide
+| [[Psittacosis]]
+| 100+
+| <ref name="Honigsbaum2020">{{cite book|last=Honigsbaum|first=Mark|url=https://openaccess.city.ac.uk/id/eprint/23272/1/The%20Pandemic%20Century-ver3.pdf|title=The Pandemic Century: One Hundred Years of Panic, Hysteria and Hubris|publisher=Hurst & Company|year=2020|isbn=9781787381216|location=London|pages=67–98|chapter=3. The Great Parrot Fever Pandemic}}</ref>
+|-
+| [[Croydon typhoid outbreak of 1937]]
+| 1937
+| [[Croydon]], [[United Kingdom]]
+| [[Typhoid fever]]
+| 43
+| <ref name="Ravenel1938">{{cite journal|last1=Ravenel|first1=Mazÿk P.|date=May 1938|title=The Croydon Epidemic of Typhoid Fever|journal=[[American Journal of Public Health and the Nation's Health|American Journal of Public Health and the Nations Health]]|volume=28|issue=5|pages=644–646|doi=10.2105/AJPH.28.5.644|pmid=18014847|pmc=1529192|doi-access=free|author-link1=Mazÿck P. Ravenel}}</ref>
+|-
+| 1937 Australia polio epidemic
+| 1937
+| [[Australia]]
+| [[Polio]]myelitis
+| Unknown
+| <ref>{{Cite web|last=Melbourne|first=Professor Joan McMeeken, University of|date=2018-01-18|title=Remembering Australia's polio scourge|url=https://pursuit.unimelb.edu.au/articles/remembering-australia-s-polio-scourge|access-date=2020-07-26|website=Pursuit|language=en}}</ref>
+|-
+| 1940 Sudan yellow fever epidemic
+| 1940
+| [[Anglo-Egyptian Sudan|Sudan]]
+| [[Yellow fever]]
+| 1,627
+| <ref>{{Cite web |url=http://regist2.virology-education.com/presentations/2019/2ICREID/31_Magboul.pdf|title=Yellow Fever in Sudan|access-date=13 May 2020}}</ref>
+|-
+| 1942–1944 Egypt malaria epidemic
+| 1942–1944
+| [[Kingdom of Egypt|Egypt]]
+| [[Malaria]]
+| data-sort-value="0"|Unknown
+| <ref name=Kuhnke /><ref name=Gallagher />
+|-
+| 1946 China plague epidemic (part of the [[Third plague pandemic]])
+| 1946
+| [[Republic of China (1912-1949)|China]]
+| [[Bubonic plague]]
+| data-sort-value="0"|Unknown
+| {{Citation needed|date=May 2020}}
+|-
+| 1946 Egypt relapsing fever epidemic
+| 1946
+| [[Kingdom of Egypt|Egypt]]
+| [[Relapsing fever]]
+| data-sort-value="0"|Unknown
+| <ref name=Kuhnke /><ref name=Gallagher />
+|-
+| 1947 Egypt cholera epidemic
+| 1947
+| [[Kingdom of Egypt|Egypt]]
+| [[Cholera]]
+| data-sort-value="10277"|10,277
+| <ref name=Kuhnke /><ref name=Gallagher /><ref>{{cite journal| pmc=2553924 | pmid=20603928 | volume=1 | title=Cholera Epidemic in Egypt (1947): A Preliminary Report | year=1948 | author=Shousha AT | journal=Bull. World Health Organ. |issue = 2| pages=353–81}}</ref>
+|-
+| 1948–1952 United States polio epidemic
+| 1948–1952
+| [[United States]]
+| [[Poliomyelitis]]
+|  data-sort-value="9000"| 9,000
+| <ref name="Ochmann and Roser"/>
+|-
+| [[1957–1958 influenza pandemic|1957–1958 influenza pandemic ('Asian flu')]]
+| 1957–1958
+| [[World]]wide
+| [[Influenza A virus subtype H2N2]]
+| data-sort-value="2,500,000"| 1–4 million
+| <ref name=":1">{{Cite web|last=|first=|date=2013|title=Pandemic Influenza Risk Management WHO Interim Guidance|url=https://www.who.int/influenza/preparedness/pandemic/GIP_PandemicInfluenzaRiskManagementInterimGuidance_Jun2013.pdf?ua=1|url-status=live|archive-url=https://web.archive.org/web/20210121225326/https://www.who.int/influenza/preparedness/pandemic/GIP_PandemicInfluenzaRiskManagementInterimGuidance_Jun2013.pdf?ua=1|archive-date=2021-01-21|access-date=7 December 2020|website=[[World Health Organization]]|page=19}}</ref><ref name="Paul2008">{{Cite book |url=https://books.google.com/books?id=oPSG1PGmZUkC|title=Fundamental Immunology|last=William E. Paul |year=2008 |publisher=Lippincott Williams & Wilkins |isbn=978-0-7817-6519-0 |access-date=29 March 2011 |archive-url=https://web.archive.org/web/20140702155855/http://books.google.com/books?id=oPSG1PGmZUkC |archive-date=2 July 2014 |url-status=live}}</ref><ref name=":0" />
+|-
+| 1960–1962 Ethiopia yellow fever epidemic
+| 1960–1962
+| [[Ethiopia]]
+| [[Yellow fever]]
+| 30,000
+| <ref>{{cite journal|title=Reemergence of yellow fever in Ethiopia after 50 years, 2013: epidemiological and entomological investigations|date=15 May 2017|doi=10.1186/s12879-017-2435-4|last1=Lilay|first1=Abrham|last2=Asamene|first2=Negga|last3=Bekele|first3=Abyot|last4=Mengesha|first4=Mesfin|last5=Wendabeku|first5=Milliyon|last6=Tareke|first6=Israel|last7=Girmay|first7=Abiy|last8=Wuletaw|first8=Yonas|last9=Adossa|first9=Abate|last10=Ba|first10=Yamar|last11=Sall|first11=Amadou|last12=Jima|first12=Daddi|last13=Mengesha|first13=Debritu|s2cid=21276606|journal=BMC Infectious Diseases|volume=17|issue=1|page=343|pmid=28506254|pmc=5432991|doi-access=free}}</ref>
+|-
+| [[Seventh cholera pandemic]]
+| 1961–1975
+| [[World]]wide
+| [[Cholera]] ([[El Tor|El Tor strain]])
+| data-sort-value="0"|Unknown
+| <ref name="Hays2005p421">{{Cite book |url=https://archive.org/details/epidemicspandemi0000hays |title=Epidemics and pandemics: their impacts on human history |last=J. N. Hays |publisher=ABC-CLIO |year=2005 |isbn=978-1-85109-658-9 |access-date=29 March 2011 |url-access=registration|page=421}}</ref>
+|-
+| [[Hong Kong flu]]
+| 1968–1970
+| [[World]]wide (mainly in [[British Hong Kong|Hong Kong]])
+| [[Influenza A virus subtype H3N2]] [[File:Influenza virus.png|thumb|50px|H3N2 virus]]
+| data-sort-value="2,500,000"| 1–4 million
+| <ref name=":1" /><ref name=Paul2008 /><ref name=":0">{{cite web|url=http://apps.who.int/gb/ebwha/pdf_files/WHA64/A64_10-en.pdf|title=Report of the Review Committee on the Functioning of the International Health Regulations (2005) in relation to Pandemic (H1N1) 2009 |date=2011-05-05|page=37|url-status=live|archive-url=https://web.archive.org/web/20150514145306/http://apps.who.int/gb/ebwha/pdf_files/WHA64/A64_10-en.pdf|archive-date=14 May 2015|access-date=1 March 2015}}</ref>
+|-
+| 1971 Staphorst polio epidemic
+| 1971
+| [[Staphorst]], [[Netherlands]]
+| [[Poliomyelitis]]
+| 5
+| <ref>{{Cite web |url=https://anderetijden.nl/aflevering/340/Polio-in-Staphorst|title=Polio in Staphorst|language=nl|website=anderetijden|access-date=15 May 2020}}</ref>
+|-
+| [[1972 Yugoslav smallpox outbreak]]
+| 1972
+| [[Socialist Federal Republic of Yugoslavia|Yugoslavia]]
+| [[Smallpox]]
+| 35
+| <ref>{{cite journal| pmid=4826683 | volume=69 | title=[Smallpox in Yugoslavia in 1972 (author's transl)] | year=1974 | author=Ehrengut W | journal=Med Klin | issue=8 | pages=350–352}}</ref>
+|-
+| [[London flu]]
+| 1972–1973
+| [[United States]]
+| [[Influenza A virus subtype H3N2]]
+| 1,027
+| <ref>{{Cite news |url=https://news.google.com/newspapers?id=HwohAAAAIBAJ&pg=2551,1652625&dq=london-flu+1973 |title=New, Deadly Flu Strain Detected in Albany Co |date=January 24, 1975 |work=Schenectady Gazette |access-date=August 3, 2012 |agency=Associated Press |page=3}}</ref>
+|-
+| 1973 Italy Cholera El Tor epidemic
+| 1973
+| [[Italy]]
+| [[Cholera]] ([[El Tor|El Tor strain]])
+| 24
+| <ref>{{cite journal | doi = 10.1016/S0140-6736(74)93214-0 | volume=303 | year=1974 | journal=The Lancet | page=669 | author=De Lorenzo F., Manzillo G., Soscia M., Balestrieri G.G.| title=Epidemic of Cholera el Tor in Naples, 1973 | issue=7859 | pmid=4132328 }}</ref>
+|-
+| [[1974 smallpox epidemic of India]]
+| 1974
+| [[India]]
+| [[Smallpox]]
+| 15,000
+| <ref name="SmallpoxIndia1974">{{cite web|url=http://www.smallpoxhistory.ucl.ac.uk/ |title=The control and eradication of smallpox in South Asia |website=www.smallpoxhistory.ucl.ac.uk |access-date=2008-12-18 |url-status=dead |archive-url=https://web.archive.org/web/20081019023043/http://www.smallpoxhistory.ucl.ac.uk/ |archive-date=2008-10-19}}</ref>
+|-
+| [[1977 Russian flu]]
+| 1977–1979
+| [[World]]wide
+| [[Influenza A virus subtype H1N1]]
+| 700,000
+| <ref name=":6">{{Cite journal|last=Michaelis|first=Martin|last2=Doerr|first2=Hans Wilhem|last3=Cinatl|first3=Jindrich|date=2009-08-01|title=Novel swine-origin influenza A virus in humans: another pandemic knocking at the door|url=https://link.springer.com/article/10.1007/s00430-009-0118-5|journal=Medical Microbiology and Immunology|language=en|volume=198|issue=3|pages=175–183 (Table 1)|doi=10.1007/s00430-009-0118-5|issn=1432-1831|via=}}</ref><ref name=":7">{{Cite web|last=|first=|date=2020-11-18|title=You’re more likely to die from the H1N1 flu if you were born in 1957|url=https://nouvelles.umontreal.ca/en/article/2018/01/19/you-re-more-likely-to-die-from-the-h1n1-flu-if-you-were-born-in-1957/|url-status=live|archive-url=|archive-date=|access-date=2021-01-24|website=University of Montreal|language=en}}</ref>
+|-
+| [[Sverdlovsk anthrax leak]]
+| 1979
+| [[Russia]]
+| [[Anthrax]]
+| 105
+| <ref>{{Cite journal|last1=Meselson|first1=Matthew|last2=Guillemin|first2=J|last3=Hugh-Jones|first3=Martin|last4=Langmuir|first4=A|last5=Popova|first5=I|last6=Shelokov|first6=A|last7=Yampolskaya|first7=O|date=1994-12-01|title=The Sverdlovsk anthrax outbreak of 1979|url=https://www.researchgate.net/publication/15224942|journal=Science|volume=266|issue=5188|pages=1202–8|doi=10.1126/science.7973702|pmid=7973702|bibcode=1994Sci...266.1202M}}</ref>
+|-
+| '''[[HIV/AIDS pandemic]]'''
+| 1981–present
+| [[World]]wide
+| [[HIV/AIDS]] [[File:HIV-budding-Color.jpg|50px|thumb|[[Human immunodeficiency virus]]]]
+| data-sort-value="35000001" | 35 million+ (as of 2020)
+| <ref>{{cite web|url=https://www.cdc.gov/hiv/statistics/overview/index.html|title=Statistics Overview - HIV surveillance report (International Statistics)|date=2020|website=cdc.gov|publisher=[[Centers For Disease Control and Prevention]]|access-date=29 December 2020}}</ref>
+|-
+| 1984 Western Sahara plague
+| 1984
+| [[Western Sahara]]
+| [[Bubonic plague]]
+| 64
+| {{Citation needed|date=May 2020}}
+|-
+| 1986 Oju yellow fever epidemic
+| 1986
+| [[Oju, Nigeria|Oju]], [[Nigeria]]
+| [[Yellow fever]]
+| 5,600+
+| <ref>{{Cite journal |title=Epidemic yellow fever in eastern Nigeria, 1986.| pmid=2894558 | doi=10.1016/s0140-6736(88)91425-0 | volume=1 | year=1988 | author=De Cock KM, Monath TP, Nasidi A, Tukei PM, Enriquez J, Lichfield P, Craven RB, Fabiyi A, Okafor BC, Ravaonjanahary C | journal=Lancet | issue=8586 | pages=630–3| s2cid=31563771 }}</ref>
+|-
+| 1987 Mali yellow fever epidemic
+| 1987
+| [[Mali]]
+| [[Yellow fever]]
+| 145
+| <ref>{{Cite web |url=https://www.who.int/csr/don/2005_01_06/en|title=Yellow fever in Mali|website=who.int|access-date=12 May 2020}}</ref>
+|-
+| 1991 Bangladesh cholera epidemic
+| 1991
+| [[Bangladesh]]
+| [[Cholera]]
+| data-sort-value="8921"|8,410–9,432
+| <ref name=WHOCholeraTable>[https://www.who.int/bulletin/volumes/90/3/BLT-11-093427-table-T3.html Summary of cholera cases and deaths reported in the literature, by date, country and World Health Organization (WHO) mortality stratum] Mohammad Ali, Anna Lena Lopez, Young Ae You, Young Eun Kim, Binod Sah, Brian Maskery & John Clemens, Bulletin of the World Health Organisation, Volume 90, Number 3, March 2012, 209-218A ''www.who.int'', accessed 4 May 2020</ref>
+|-
+|1991 Latin America cholera epidemic
+|1991–1993
+|[[Peru]], [[Chile]], [[Bolivia]], [[Ecuador]], [[Colombia]], [[Mexico]], [[El Salvador]], [[Guatemala]]
+|[[Cholera]]
+|8,000
+|<ref>{{Cite journal|last1=Tickner|first1=Joel|last2=Gouveia-Vigeant|first2=Tami|date=June 2005|title=The 1991 Cholera Epidemic in Peru: Not a Case of Precaution Gone Awry|journal=Risk Analysis|language=en|volume=25|issue=3|pages=495–502|doi=10.1111/j.1539-6924.2005.00617.x|pmid=16022685|s2cid=15792284}}</ref><ref>{{Cite journal|date=1991|title=Cholera in the Americas|journal=Bulletin of the Pan American Health Organization|volume=25|issue=3|pages=267–273|issn=0085-4638|pmid=1742573}}</ref>
+|-
+| [[1994 plague in India]]
+| 1994
+| [[India]]
+| [[Bubonic plague]] and [[Pneumonic plague]]
+| 56
+| <ref>{{Cite journal |last=Dutt |first=Ashok |date=2006 |title=Surat Plaque of 1994 re-examined |url=http://www.tm.mahidol.ac.th/seameo/2006_37_4/21-3658.pdf |journal=Southeast Asian Journal of Tropical Medicine and Public Health |volume=37 |issue=4 |pages=755–760 |access-date=19 June 2016 |archive-url=https://web.archive.org/web/20160206192456/http://www.tm.mahidol.ac.th/seameo/2006_37_4/21-3658.pdf |archive-date=6 February 2016 |url-status=live |pmid=17121302}}</ref>
+|-
+| [[United Kingdom BSE outbreak]]
+| 1996–2001
+| [[United Kingdom]]
+| [[Variant Creutzfeldt–Jakob disease|Variant Creutzfeldt–Jakob disease / vCJD]]
+| 178
+| <ref>{{Cite web |url=https://www.bbc.com/news/uk-45906585|title='Mad cow disease': What is BSE?|website=BBC|date=18 October 2018|access-date=12 May 2020}}</ref><ref name="vCJD">{{cite web |title=Variant Creutzfeldt–Jakob Disease, Current Data (July 2012) |url=http://www.cjd.ed.ac.uk/vcjdworld.htm |access-date=20 April 2020 |publisher=The National Creutzfeldt–Jakob Disease Surveillance Unit (NCJDSU), [[University of Edinburgh]] |url-status=bot: unknown |archive-url=https://web.archive.org/web/20120721234746/http://www.cjd.ed.ac.uk/vcjdworld.htm |archive-date=21 July 2012 |df=dmy}};</ref>
+|-
+| 1996 West Africa meningitus epidemic
+| 1996
+| [[West Africa]]
+| [[Meningitis]]
+| data-sort-value="10000"|10,000
+| <ref>[https://www.nytimes.com/1996/05/08/world/wide-epidemic-of-meningitis-fatal-to-10000-in-west-africa.html Wide Epidemic of Meningitis Fatal to 10,000 in West Africa] Eoward W. French, 8 May 1996 ''www.nytimes.com'', accessed 26 April 2020</ref>
+|-
+| [[1998–99 Malaysia Nipah virus outbreak]]
+| 1998–1999
+| [[Malaysia]]
+| [[Nipah virus infection]]
+| 105
+| <ref name="Nipah outbreak Malaysia98_99">{{cite journal|url=http://www.mjpath.org.my/2007.2/02Nipah_Virus_lessons.pdf|title=Lessons from the Nipah virus outbreak in Malaysia|author1=Lai-Meng Looi|author2=Kaw-Bing Chua|publisher=Department of Pathology, University of Malaya and National Public Health Laboratory of the Ministry of Health, Malaysia|journal=The Malaysian Journal of Pathology|year=2007|volume=29|number=2|pages=63–7|pmid=19108397|archive-url=https://web.archive.org/web/20190830060915/http://www.mjpath.org.my/2007.2/02Nipah_Virus_lessons.pdf|archive-date=30 August 2019|url-status=live}}</ref>
+|-
+| 2000 Central America dengue epidemic
+| 2000
+| [[Central America]]
+| [[Dengue fever]]
+| data-sort-value="40"| 40+
+| <ref>{{Cite web |url=http://www.paho.org/English/sha/be_v21n4-dengue.htm |title=Dengue in the Americas: The Epidemics of 2000 |access-date=2008-08-05 |archive-url=https://web.archive.org/web/20171017153210/http://www1.paho.org/English/sha/be_v21n4-dengue.htm |archive-date=2017-10-17 |url-status=live}}</ref>
+|-
+| 2001 Nigeria cholera epidemic
+| 2001
+| [[Nigeria]]
+| [[Cholera]]
+| data-sort-value="401"| 400+
+| <ref>{{Cite news |url=http://news.bbc.co.uk/1/hi/world/africa/1677526.stm |title=Nigeria cholera outbreak kills 400 |date=2001-11-26 |access-date=16 November 2014 |archive-url=https://web.archive.org/web/20031219043217/http://news.bbc.co.uk/1/hi/world/africa/1677526.stm |archive-date=19 December 2003 |url-status=live}}</ref>
+|-
+| 2001 South Africa cholera epidemic
+| 2001
+| [[South Africa]]
+| [[Cholera]]
+| 139
+| <ref>{{Cite web |url=http://www.redcross.org/news/in/health/010312cholera.html |title=Cholera Spreads Through South Africa Townships |access-date=16 November 2014 |archive-url=https://web.archive.org/web/20090603003241/http://www.redcross.org/news/in/health/010312cholera.html |archive-date=3 June 2009 |url-status=dead}}<!--In archive: "The page you requested could not be found."--></ref><ref>[https://www.who.int/csr/don/2001_03_16/en/ 2001 – Cholera in South Africa] 16 March 2001 ''www.who.int'', accessed 28 April 2020</ref>
+|-
+| [[2002–04 SARS outbreak]]
+| 2002–2004
+| [[World]]wide
+| [[Severe acute respiratory syndrome|Severe acute respiratory syndrome / SARS]]
+| 774
+| <ref>{{Cite web | url=https://www.who.int/csr/sars/country/table2004_04_21/en/ |title = WHO &#124; Summary of probable SARS cases with onset of illness from 1 November 2002 to 31 July 2003}}</ref>
+|-
+| 2003 Algeria plague outbreak
+| 2003
+| [[Algeria]]
+| [[Bubonic plague]]
+| data-sort-value="1"| 1 (18 cases)
+| <ref>{{Cite journal |last1=Bertherat |first1=Eric |last2=Bekhoucha |first2=Souad |last3=Chougrani |first3=Saada |last4=Razik |first4=Fathia |last5=Duchemin |first5=Jean B. |last6=Houti |first6=Leila |last7=Deharib |first7=Larbi |last8=Fayolle |first8=Corinne |last9=Makrerougrass |first9=Banaouda |last10=Dali-Yahia |first10=Radia |last11=Bellal |first11=Ramdan |year=2007 |title=Plague Reappearance in Algeria after 50 Years, 2003 |journal=Emerging Infectious Diseases |volume=13 |issue=10 |pages=1459–1462 |doi=10.3201/eid1310.070284 |pmc=2851531 |pmid=18257987 |last12=Belhabri |first12=Leila |last13=Chaieb |first13=Amina |last14=Tikhomirov |first14=Evgueni |last15=Carniel |first15=Elisabeth}}</ref>
+|- 
+| 2003–2019 Asia and Egypt Avian influenza epidemic
+| 2003–2019
+| [[Southeast Asia]] and [[Egypt]]
+| [[Influenza A virus subtype H5N1]]
+| 455
+| <ref>{{Cite web |url=https://www.who.int/influenza/human_animal_interface/2020_MAY_tableH5N1.pdf|title=Cumulative number of confirmed human cases for avian influenza A(H5N1) reported to WHO, 2003 – 2020|date=8 May 2020|access-date=4 January 2020}}</ref>
+|-
+| 2004 Afghanistan leishmaniasis epidemic
+| 2004
+| [[Afghanistan]]
+| [[Leishmaniasis]]
+| data-sort-value="0"| 0 (3,958 cases)
+| <ref name="WHOint" /><ref>[https://wwwnc.cdc.gov/eid/article/12/10/06-0076_article Zoonotic Cutaneous Leishmaniasis, Afghanistan] Volume 12, Number 10 – October 2006 ''wwwnc.cdc.gov/eid'', accessed 30 April 2020</ref>
+|-
+| 2004 Indonesia dengue epidemic
+| 2004
+| [[Indonesia]]
+| [[Dengue fever]]
+| 658
+| <ref>[https://www.who.int/csr/don/2004_05_11a/en/ Dengue fever in Indonesia – update 4] 11 May 2004 ''www.who.int'', accessed 16 February 2020</ref>
+|-
+| 2004 Senegal cholera outbreak
+| 2004
+| [[Senegal]]
+| [[Cholera]]
+| 2
+| <ref>{{Cite web |url=http://www.mg.co.za/article/2004-10-29-cholera-epidemic-takes-hold-in-senegal |title=Cholera epidemic takes hold in Senegal |last=Staff Reporter |website=The M&G Online |access-date=16 November 2014 |archive-url=https://web.archive.org/web/20170203162006/http://mg.co.za/article/2004-10-29-cholera-epidemic-takes-hold-in-senegal |archive-date=3 February 2017 |url-status=live}}</ref>
+|-
+| 2004 Sudan ebola outbreak
+| 2004
+| [[Sudan]]
+| [[Ebola]]
+| 7
+| <ref name=WHO2014/>
+|-
+| [[2005 dengue outbreak in Singapore]]
+| 2005
+| [[Singapore]]
+| [[Dengue fever]]
+| 27
+| <ref>{{Cite journal |last1=Koh |first1=B. K. |last2=Ng |first2=L. C. |last3=Kita |first3=Y. |last4=Tang |first4=C. S. |last5=Ang |first5=L. W. |last6=Wong |first6=K. Y. |last7=James |first7=L. |last8=Goh |first8=K. T. |year=2008 |title=The 2005 dengue epidemic in Singapore: Epidemiology, prevention and control |url=http://www.annals.edu.sg/pdf/37VolNo7Jul2008/V37N7p538.pdf |journal=Annals of the Academy of Medicine, Singapore |volume=37 |issue=7 |pages=538–545 |pmid=18695764 |access-date=2018-10-17 |archive-url=https://web.archive.org/web/20170706065103/http://www.annals.edu.sg/PDF/37VolNo7Jul2008/V37N7p538.pdf |archive-date=2017-07-06 |url-status=live}}</ref>
+|-
+| 2006 Luanda cholera epidemic
+| 2006
+| [[Luanda]], [[Angola]]
+| [[Cholera]]
+| data-sort-value="1200"| 1,200+
+| <ref>[http://news.bbc.co.uk/2/hi/africa/4990960.stm Worst cholera outbreak in Angola] {{Webarchive|url=https://web.archive.org/web/20170429080644/http://news.bbc.co.uk/2/hi/africa/4990960.stm |date=2017-04-29}}, [[BBC]]</ref>
+|-
+| 2006 Ituri Province plague epidemic
+| 2006
+| [[Ituri Province]], [[Democratic Republic of the Congo]]
+| [[Bubonic plague]]
+| 61
+| <ref>[https://www.who.int/csr/don/2006_06_14/en/ Plague in the Democratic Republic of the Congo] 14 June 2006 ''www.who.int'', accessed 26  February 2020</ref><ref>[https://www.who.int/csr/don/2006_10_13/en/ Plague in the Democratic Republic of the Congo] 13 October 2006 ''www.who.int'', accessed 26  February 2020</ref>
+|-
+| 2006 India malaria outbreak
+| 2006
+| [[India]]
+| [[Malaria]]
+| 17
+| <ref>{{Cite web |url=http://www.bio-medicine.org/medicine-news/Malaria-Epidemic-Sweeps-Northeast-India-9507-1/ |title=Malaria Epidemic Sweeps Northeast India |access-date=2008-07-01 |archive-url=https://web.archive.org/web/20170203074542/http://www.bio-medicine.org/medicine-news/Malaria-Epidemic-Sweeps-Northeast-India-9507-1/ |archive-date=2017-02-03 |url-status=live}}</ref>
+|-
+| [[2006 dengue outbreak in India]]
+| 2006
+| [[India]]
+| [[Dengue fever]]
+| data-sort-value="50"| 50+
+| <ref>{{Cite web |url=http://www.news-medical.net/?id=20348 |title=Dengue epidemic threatens India's capital |date=2 October 2006 |website=News-Medical.net |access-date=16 November 2014 |archive-url=https://web.archive.org/web/20090115204240/http://www.news-medical.net/?id=20348 |archive-date=15 January 2009 |url-status=live}}</ref>
+|-
+| [[2006 dengue outbreak in Pakistan]]
+| 2006
+| [[Pakistan]]
+| [[Dengue fever]]
+| data-sort-value="50"| 50+
+| <ref>{{Cite journal |last1=Khan |first1=E. |last2=Siddiqui |first2=J. |last3=Shakoor |first3=S. |last4=Mehraj |first4=V. |last5=Jamil |first5=B. |last6=Hasan |first6=R. |year=2007 |title=Dengue outbreak in Karachi, Pakistan, 2006: Experience at a tertiary care center |journal=Transactions of the Royal Society of Tropical Medicine and Hygiene |volume=101 |issue=11 |pages=1114–1119 |doi=10.1016/j.trstmh.2007.06.016 |pmid=17706259}}</ref>
+|-
+| 2006 Philippines dengue epidemic
+| 2006
+| [[Philippines]]
+| [[Dengue fever]]
+| data-sort-value="1000"|1,000
+| <ref>[https://www.researchgate.net/publication/267872402_Epidemiology_of_Dengue_Disease_in_the_Philippines_2000-2011_A_Systematic_Literature_Review Epidemiology of Dengue Disease in the Philippines (2000–2011): A Systematic Literature Review] November 2014 PLoS Neglected Tropical Diseases via ''www.researchgate.net'', accessed 16 February 2020</ref>
+|-
+| [[2006–07 East Africa Rift Valley fever outbreak]]
+| 2006–2007
+| [[East Africa]]
+| [[Rift Valley fever]]
+| 394
+| <ref>[https://www.who.int/news-room/fact-sheets/detail/rift-valley-fever Rift Valley fever] 19 February 2018 ''www.who.int'', accessed 26 April 2020</ref>
+|-
+| [[Mweka, Democratic Republic of the Congo#Epidemic|Mweka ebola epidemic]]
+| 2007
+| [[Democratic Republic of the Congo]]
+| [[Ebola]]
+| 187
+| <ref>[http://www.smh.com.au/news/world/mourners-die-as-fever-grips-congo/2007/08/30/1188067243698.html "Mourners die as fever grips Congo."] {{Webarchive|url=https://www.webcitation.org/69YJ51ur3?url=http://www.smh.com.au/news/world/mourners-die-as-fever-grips-congo/2007/08/30/1188067243698.html |date=2012-07-30}} ''Sydney Morning Herald'', August 30, 2007</ref>
+|-
+| 2007 Ethiopia cholera epidemic
+| 2007
+| [[Ethiopia]]
+| [[Cholera]]
+| 684
+| <ref>{{Cite news |url=https://www.theguardian.com/world/2007/feb/22/ethiopia |title=Fatal outbreak not a cholera epidemic, insists Ethiopia |last=Xan Rice |date=2007-02-22 |work=The Guardian |access-date=16 November 2014 |archive-url=https://web.archive.org/web/20171026111149/https://www.theguardian.com/world/2007/feb/22/ethiopia |archive-date=26 October 2017 |url-status=live}}</ref>
+|-
+| [[2007 Iraq cholera outbreak]]
+| 2007
+| [[Iraq]]
+| [[Cholera]]
+| 10
+| <ref>[http://www.nbcnews.com/id/21121516 Cholera outbreak in Iraq growing] {{Webarchive|url=https://web.archive.org/web/20170204003658/http://www.nbcnews.com/id/21121516/ |date=2017-02-04}}, [[Associated Press]]</ref>
+|-
+| 2007 Nigeria polio outbreak
+| 2007
+| [[Nigeria]]
+| [[Poliomyelitis]]
+| data-sort-value="0"|Unknown (69 cases)
+| <ref>[http://news.bbc.co.uk/2/hi/africa/7037462.stm Vaccine-linked polio hits Nigeria] {{Webarchive|url=https://web.archive.org/web/20160820225129/http://news.bbc.co.uk/2/hi/africa/7037462.stm |date=2016-08-20}}, BBC News</ref>
+|-
+| 2007 Puerto Rico, Dominican Republic, and Mexico dengue fever epidemic
+| 2007
+| [[Puerto Rico]], [[Dominican Republic]], [[Mexico]]
+| [[Dengue fever]]
+| 183
+| <ref>[http://www.alertnet.org/thenews/newsdesk/NA5209573.htm Dengue fever epidemic hits Caribbean, Latin America] {{Webarchive|url=https://web.archive.org/web/20090803084737/http://www.alertnet.org/thenews/newsdesk/NA5209573.htm |date=2009-08-03}}, Reuters</ref>
+|-
+| 2007 Uganda ebola outbreak
+| 2007
+| [[Uganda]]
+| [[Ebola]]
+| 37
+| <ref name=WHO2014>{{cite press release| title = Ebola virus disease | url =https://www.who.int/en/news-room/fact-sheets/detail/ebola-virus-disease | publisher = [[World Health Organization]] (WHO) |access-date = 26 February 2020 | date = 12 February 2018| df = dmy-all}}</ref>
+|-
+| 2007 Vietnam cholera outbreak
+| 2007
+| [[Vietnam]]
+| [[Cholera]]
+| 2
+| <ref>[http://english.vietnamnet.vn/social/2007/11/754637/ Cholera epidemic losing its sting] {{webarchive|url=https://web.archive.org/web/20080626003631/http://english.vietnamnet.vn/social/2007/11/754637/ |date=2008-06-26}}</ref><ref>{{cite journal| pmc=3321958 | pmid=20350415 | doi=10.3201/eid1604.091493 | volume=16 | title=Cholera outbreak, Laos, 2007 | year=2010 | author=Sithivong N, Izumiya H, Munnalath K, Phouthavane T, Chomlasak K, Sisavath L, Vongdouangchanh A, Vongprachanh P, Watanabe H, Ohinishi M | journal=Emerg Infect Dis | issue=4 | pages=745–6}}</ref>
+|-
+| 2007 Netherlands Q-fever epidemic
+| 2007–2018
+| [[Netherlands]]
+| [[Q-fever]]
+| 95
+| <ref>{{Cite web |url=https://www.nu.nl/binnenland/5550881/q-koorts-nog-niet-voorbij-in-totaal-al-95-doden.html|title=Q-koorts nog niet voorbij: In totaal al 95 doden|language=Dutch|website=nu.nl|date=3 November 2018|access-date=4 February 2021}}</ref>
+|-
+| 2008 Brazil dengue epidemic
+| 2008
+| [[Brazil]]
+| [[Dengue fever]]
+| 67
+| <ref>[https://edition.cnn.com/2008/HEALTH/conditions/04/03/brazil.dengue/index.html Thousands hit by Brazil outbreak of dengue] ''edition.cnn.com'', accessed 16 February 2020</ref>
+|-
+| 2008 Cambodia dengue epidemic
+| 2008
+| [[Cambodia]]
+| [[Dengue fever]]
+| 407
+| <ref>[http://www.alertnet.org/thenews/newsdesk/BKK133167.htm Cambodia suffers worst dengue epidemic, 407 dead] {{Webarchive|url=https://web.archive.org/web/20091111203520/http://www.alertnet.org/thenews/newsdesk/BKK133167.htm |date=2009-11-11}}, Reuters</ref>
+|-
+| 2008 Chad cholera epidemic
+| 2008
+| [[Chad]]
+| [[Cholera]]
+| 123
+| <ref>{{Cite web |url=http://www.irinnews.org/report.aspx?reportid=51238 |title=Cholera epidemic in western Chad kills 123 |access-date=2008-06-08 |archive-url=https://web.archive.org/web/20090112054136/http://www.irinnews.org/report.aspx?reportid=51238 |archive-date=2009-01-12 |url-status=live |date=2004-09-02}}</ref>
+|-
+| 2008–2017 China hand, foot, and mouth disease epidemic
+| 2008–2017
+| [[China]]
+| [[Hand, foot, and mouth disease]]
+| data-sort-value="3322" | 3,322+
+| <ref name=HFMD>{{cite journal |doi=10.3201/eid2403.171303|title=Epidemiology of Recurrent Hand, Foot and Mouth Disease, China, 2008–2015|year=2018|last1=Huang|first1=Jiao|last2=Liao|first2=Qiaohong|last3=Ooi|first3=Mong How|last4=Cowling|first4=Benjamin J.|last5=Chang|first5=Zhaorui|last6=Wu|first6=Peng|last7=Liu|first7=Fengfeng|last8=Li|first8=Yu|last9=Luo|first9=Li|last10=Yu|first10=Shuanbao|last11=Yu|first11=Hongjie|last12=Wei|first12=Sheng|journal=Emerging Infectious Diseases|volume=24|issue=3|pmid=29460747|pmc=5823341}}''2008–2015, ≈13 million HFMD cases were reported, including 123,261 severe cases and 3,322 deaths in 31 provinces of mainland China''</ref>
+|-
+| 2008 India cholera epidemic
+| 2008
+| [[India]]
+| [[Cholera]]
+| 115
+| <ref>[http://news.bbc.co.uk/2/hi/south_asia/6968281.stm Cholera death toll in India rises] {{Webarchive|url=https://web.archive.org/web/20171111043033/http://news.bbc.co.uk/2/hi/south_asia/6968281.stm |date=2017-11-11}}, BBC News</ref>
+|-
+| 2008 Madagascar plague outbreak
+| 2008
+| [[Madagascar]]
+| [[Bubonic plague]]
+| data-sort-value="18"| 18+
+| <ref>{{Cite web|url=http://eldib.wordpress.com/2008/01/10/2175/|archive-url=https://web.archive.org/web/20090509210150/http://eldib.wordpress.com/2008/01/10/2175/|url-status=dead|title=Madagascar: eighteen dead from Bubonic Plague, five in hospital since 1 January 2008|archive-date=May 9, 2009}}</ref>
+|-
+| 2008 Philippines dengue epidemic
+| 2008
+| [[Philippines]]
+| [[Dengue fever]]
+| data-sort-value="172" |172
+| <ref>{{Cite web |url=http://www.terradaily.com/reports/Dengue_cases_in_Philippines_rise_by_43_percent_government_999.html |title=Dengue cases in Philippines rise by 43 percent: government |access-date=16 November 2014 |archive-url=https://web.archive.org/web/20171017153157/http://www.terradaily.com/reports/Dengue_cases_in_Philippines_rise_by_43_percent_government_999.html |archive-date=17 October 2017 |url-status=live}}</ref>
+|-
+| [[2008–09 Zimbabwean cholera outbreak]]
+| 2008–2009
+| [[Zimbabwe]]
+| [[Cholera]]
+| data-sort-value="4293"|4,293
+| <ref name=WHOZim>{{cite web|url=https://www.who.int/cholera/countries/ZimbabweCountryProfileOct2009.pdf |access-date=16 February 2020 |title=Cholera Country Profile: Zimbabwe |date=31 October 2009 |publisher=World Health Organization – Global Task Force on Cholera Control}}</ref>
+|-
+| [[2009 Bolivian dengue fever epidemic]]
+| 2009
+| [[Bolivia]]
+| [[Dengue fever]]
+| 18
+| <ref>{{cite journal| pmc=3516305 | pmid=23042846 | doi=10.4269/ajtmh.2012.11-0770 | volume=87 | title=The history of dengue outbreaks in the Americas | year=2012 | author=Brathwaite Dick O, San Martín JL, Montoya RH, del Diego J, Zambrano B, Dayan GH | journal=Am J Trop Med Hyg | issue=4 | pages=584–593}}</ref>
+|-
+| [[2009 Gujarat hepatitis outbreak]]
+| 2009
+| [[India]]
+| [[Hepatitis B]]
+| 49
+| <ref>{{Cite web |url=http://www.ndtv.com/convergence/ndtv/story.aspx?id=NEWEN20090084387 |title=NDTV Report |access-date=2009-02-23 |archive-url=https://web.archive.org/web/20090225134231/http://www.ndtv.com/convergence/ndtv/story.aspx?id=NEWEN20090084387 |archive-date=2009-02-25 |url-status=dead}}</ref>
+|-
+| Queensland 2009 dengue outbreak
+| 2009
+| [[Queensland]], [[Australia]]
+| [[Dengue fever]]
+| data-sort-value="1.1"| 1+ (503 cases)
+| <ref>{{Cite journal |last=McCredie |first=J. |s2cid=41469446 |year=2009 |title=Dengue fever epidemic hits northern Australia |journal=BMJ |volume=338 |pages=b967 |doi=10.1136/bmj.b967 |pmid=19273518}}</ref>
+|-
+| [[Mumps outbreaks in the 2000s]]
+| 2009
+| [[World]]wide
+| [[Mumps]]
+| data-sort-value="0"|Unknown
+| {{Citation needed|date=May 2020}}
+|-
+| [[2009–10 West African meningitis outbreak]]
+| 2009–2010
+| [[West Africa]]
+| [[Meningitis]]
+| data-sort-value="1100"|1,100
+| <ref>{{Cite journal |last=Odigwe |first=C. |s2cid=11085562 |year=2009 |title=West Africa has worst meningitis epidemic for 10 years |journal=BMJ |volume=338 |pages=b1638 |doi=10.1136/bmj.b1638 |pmid=19383759}}</ref>
+|-
+| [[2009 swine flu pandemic]]
+| 2009–2010
+| [[World]]wide
+| [[Influenza A virus subtype H1N1]]
+| data-sort-value="284,000"|Lab confirmed deaths: 18,449 (reported to the [[World Health Organization|WHO]])
+Estimated death toll: 284,000 (possible range 151,700-575,400)
+|<ref>{{Cite web|url=https://www.cdc.gov/flu/spotlights/pandemic-global-estimates.htm|title=First Global Estimates of 2009 H1N1 Pandemic Mortality Released by CDC-Led Collaboration|date=2019-11-20|website=www.cdc.gov|language=en-us|access-date=2020-03-12}}</ref><ref>{{Cite web|title=Pandemic (H1N1) 2009|url=https://www.who.int/csr/don/2010_08_06/en/}}</ref>
+|-
+| [[2010s Haiti cholera outbreak]]
+| 2010–2019
+| [[Haiti]]
+| [[Cholera]] (strain serogroup O1, serotype Ogawa)
+| data-sort-value="10075"|10,075
+| <ref>{{cite web|title=Epidemiological Update Cholera 28 Dec 2017 |website=www.paho.org |url=http://www.paho.org/hq/index.php?option=com_docman&task=doc_download&Itemid=&gid=43291&lang=pt}}</ref>
+|-
+| 2010–2014 Democratic Republic of the Congo measles outbreak
+| 2010–2014
+| [[Democratic Republic of the Congo]]
+| [[Measles]]
+| data-sort-value="4,501"| 4,500+
+| <ref>{{Cite web |url=http://www.doctorswithoutborders.org/press/release.cfm?id=5132&cat=press-release |title=Doctorswithoutborders.org |website=MSF USA |url-status=dead |archive-url=https://web.archive.org/web/20110927220605/http://www.doctorswithoutborders.org/press/release.cfm?id=5132&cat=press-release |archive-date=27 September 2011 |access-date=16 November 2014}}</ref><ref>{{Cite web |url=http://www.msf.org/article/democratic-republic-congo-more-measles-vaccinations-needed |title=Democratic Republic of Congo: More measles vaccinations needed |website=Médecins Sans Frontières (MSF) International |access-date=16 November 2014 |archive-url=https://web.archive.org/web/20141102114052/http://www.msf.org/article/democratic-republic-congo-more-measles-vaccinations-needed |archive-date=2 November 2014 |url-status=live}}</ref>
+|-
+| 2011 Vietnam hand, foot and mouth disease epidemic
+| 2011
+| [[Vietnam]]
+| [[Hand, foot and mouth disease]]
+| 170
+| <ref>[https://news.yahoo.com/vietnam-alert-common-virus-kills-81-children-071532226.html Vietnam on alert as common virus kills 81 children – Yahoo News] {{Webarchive|url=https://web.archive.org/web/20160305003723/http://news.yahoo.com/vietnam-alert-common-virus-kills-81-children-071532226.html |date=2016-03-05}}. News.yahoo.com (2011-08-19). Retrieved on 2014-05-12.</ref><ref>{{Cite journal |last1=Nguyen |first1=Ngoc TB |last2=Pham |first2=Hau V. |last3=Hoang |first3=Cuong Q. |last4=Nguyen |first4=Tien M. |last5=Nguyen |first5=Long T. |last6=Phan |first6=Hung C. |last7=Phan |first7=Lan T. |last8=Vu |first8=Long N. |last9=Tran Minh |first9=Nguyen N. |year=2014 |title=Epidemiological and clinical characteristics of children who died from hand, foot and mouth disease in Vietnam, 2011 |journal=BMC Infectious Diseases |volume=14 |pages=341 |doi=10.1186/1471-2334-14-341 |pmc=4068316 |pmid=24942066}}</ref>
+|-
+| [[2011 dengue outbreak in Pakistan]]
+| 2011
+| [[Pakistan]]
+| [[Dengue fever]]
+| data-sort-value="350"| 350+
+| <ref>[http://www.emro.who.int/surveillance-forecasting-response/surveillance-events/conference-on-dengue-control.html Surveillance, forecasting and response International conference on dengue control, 27–29 February 2012] ''www.emro.who.int'' accessed 16 February 2020</ref>
+|-
+| [[2012 yellow fever outbreak in Darfur, Sudan]]
+| 2012
+| [[Darfur]], [[Sudan]]
+| [[Yellow fever]]
+| 171
+| <ref>{{Cite journal |last1=Yuill |first1=Thomas M. |last2=Woodall |first2=John P. |last3=Baekeland |first3=Susan |year=2013 |title=Latest outbreak news from ProMED-mail. Yellow fever outbreak–Darfur Sudan and Chad |journal=International Journal of Infectious Diseases |volume=17 |issue=7 |pages=e476–e478 |doi=10.1016/j.ijid.2013.03.009|doi-access=free }}</ref>
+|-
+| '''[[2012 Middle East respiratory syndrome coronavirus outbreak]]'''
+| 2012–present
+| [[World]]wide
+| [[Middle East respiratory syndrome|Middle East respiratory syndrome / MERS-CoV]]
+| data-sort-value="935"|935 ({{as of|2020|July|4|lc=y}})
+| <ref>{{cite web |title=MERS coronavirus update: 61 cases reported in first half of 2020 |url=http://outbreaknewstoday.com/mers-coronavirus-update-61-cases-reported-in-first-half-of-2020/}}</ref>
+|-
+| [[2013 dengue outbreak in Singapore]]
+| 2013
+| [[Singapore]]
+| [[Dengue fever]]
+| 8
+| <ref>[http://www.channelnewsasia.com/news/singapore/7th-person-dies-of-dengue/893740.html "7th person dies of dengue"] ''Channel Newsasia'' Retrieved 2013-11-20</ref>
+|-
+| 2013 Vietnam measles outbreak
+| 2013–2014
+| [[Vietnam]]
+| [[Measles]]
+| 142
+| <ref>{{Cite news |url=https://www.smh.com.au/world/vietnam-measles-outbreak-kills-more-than-100-people-mostly-children-20140418-zqwkk.html |title=Vietnam measles outbreak kills more than 100 people, mostly children |date=18 April 2014 |work=[[Sydney Morning Herald]] }}</ref>
+|-
+| [[Western African Ebola virus epidemic]]
+| 2013–2016
+| [[World]]wide, primarily concentrated in [[Guinea]], [[Liberia]], [[Sierra Leone]]
+| |[[Ebola]] [[File:Ebola virus virion.jpg|thumb|50 px|Ebola virus virion]]
+| data-sort-value="11301"| 11,323+
+| <ref>{{Cite web|url=https://www.cdc.gov/vhf/ebola/history/2014-2016-outbreak/index.html|title=2014–2016 Ebola Outbreak in West Africa (section titled 'Impact')|date=2019-08-22|website=www.cdc.gov|language=en-us|access-date=2020-02-14}}</ref><ref>{{Cite web |url=http://apps.who.int/gho/data/view.ebola-sitrep.ebola-summary-latest?lang=en |title=Situation summary Latest available situation summary, 26 June 2015. World Health Organisation (2015-06-19). Retrieved on 2015-06-20. |access-date=27 June 2015 |archive-url=https://web.archive.org/web/20160605002217/http://apps.who.int/gho/data/view.ebola-sitrep.ebola-summary-latest?lang=en |archive-date=5 June 2016 |url-status=live}}</ref><ref>{{Cite journal |last1=Gignoux |first1=Etienne |last2=Idowu |first2=Rachel |last3=Bawo |first3=Luke |last4=Hurum |first4=Lindis |last5=Sprecher |first5=Armand |last6=Bastard |first6=Mathieu |last7=Porten |first7=Klaudia |year=2015 |title=Use of Capture–Recapture to Estimate Underreporting of Ebola Virus Disease, Montserrado County, Liberia |journal=Emerging Infectious Diseases |volume=21 |issue=12 |pages=2265–2267 |doi=10.3201/eid2112.150756 |pmc=4672419 |pmid=26583831}}</ref>
+|-
+| [[2013–14 chikungunya outbreak]]
+| 2013–2015
+| [[Americas]]
+| [[Chikungunya]]
+| 183
+| <ref>{{Cite web |url=http://www.paho.org/hq/index.php?option=com_topics&view=article&id=343&Itemid=40931&lang=es |title=Número de casos informados de artritis epidémica chikungunya en las Américas – SE 5 (February 6, 2015) |publisher=Pan American Health Organization |access-date=February 11, 2015 |archive-url=https://web.archive.org/web/20150218071201/http://www.paho.org/hq/index.php?option=com_topics&view=article&id=343&Itemid=40931&lang=es |archive-date=February 18, 2015 |url-status=live}}</ref>
+|-
+| 2013–19 [[Avian influenza]] epidemic
+| 2013–2019
+| [[China]]
+| [[Influenza A virus subtype H7N9]]
+| 616
+| <ref>{{Cite web |date=2019-12-04 |title=FAO H7N9 situation update – Avian Influenza A(H7N9) virus |url=http://www.fao.org/ag/againfo/programmes/en/empres/H7N9/situation_update.html |access-date=2020-06-10 |website=www.fao.org}}</ref>
+|-
+| [[2014 Madagascar plague outbreak]]
+| 2014–2017
+| [[Madagascar]]
+| [[Bubonic plague]]
+| 292
+| <ref>{{Cite web |url=https://www.who.int/csr/don/21-november-2014-plague/en/ |title=Plague – Madagascar |website=WHO |publisher=World Health Organization |access-date=5 July 2016 |archive-url=https://web.archive.org/web/20190502001426/https://www.who.int/csr/don/21-november-2014-plague/en/ |archive-date=2 May 2019 |url-status=live}}</ref>
+|-
+| [[2014 Odisha jaundice outbreak]]
+| 2014–2015
+| [[India]]
+| Primarily [[Hepatitis E]], but also [[Hepatitis A]]
+| 36
+|<ref name="Grapples">{{Cite news |url=http://www.deccanherald.com/content/460129/odisha-grapples-jaundice-outbreak.html |title=Odisha grapples with jaundice outbreak |date=17 February 2015 |work=[[Deccan Herald]] |access-date=17 February 2015 |archive-url=https://web.archive.org/web/20150217120135/http://www.deccanherald.com/content/460129/odisha-grapples-jaundice-outbreak.html |archive-date=17 February 2015 |url-status=live}}</ref>
+|-
+| [[2015 Indian swine flu outbreak]]
+| 2015
+| [[India]]
+| [[Influenza A virus subtype H1N1]]
+| data-sort-value="2035"|2,035
+| <ref name="THE2">{{Cite web |url=http://indianexpress.com/article/india/india-others/swine-flu-deaths-at-1895-cases-near-32k-mark/ |title=Swine flu deaths at 1895; number of cases near 32K mark |last=Press Trust of India |date=March 21, 2015 |publisher=[[The Indian Express]] |access-date=March 21, 2015 |archive-url=https://web.archive.org/web/20151012003206/http://indianexpress.com/article/india/india-others/swine-flu-deaths-at-1895-cases-near-32k-mark/ |archive-date=October 12, 2015 |url-status=live}}</ref><ref name="DeadlySwineFlu">{{Cite news |url=https://www.bbc.com/news/world-asia-india-31547455 |title=India struggles with deadly swine flu outbreak |date=20 February 2015 |work=[[BBC News]] |access-date=21 February 2015 |archive-url=https://web.archive.org/web/20150221082410/http://www.bbc.com/news/world-asia-india-31547455 |archive-date=21 February 2015 |url-status=live}}</ref><ref name="GJDeadlySwineFlu">{{Cite news |url=http://www.business-standard.com/article/pti-stories/swine-flu-claims-5-more-lives-toll-mounts-to-387-in-gujarat-115031500609_1.html |title=Death toll Gujarat |date=15 March 2015 |work=[[Business Standard]] |access-date=15 March 2015 |archive-url=https://web.archive.org/web/20150402093322/http://www.business-standard.com/article/pti-stories/swine-flu-claims-5-more-lives-toll-mounts-to-387-in-gujarat-115031500609_1.html |archive-date=2 April 2015 |url-status=live}}</ref>
+|-
+| [[2015–16 Zika virus epidemic]]
+| 2015–2016
+| [[World]]wide
+| [[Zika virus]]
+| 53
+| <ref>{{cite web |url=https://www.worldwideoutbreak.com/blog/cool_timeline/2015-16-zika-virus-epidemic|title=2015–16 Zika Virus Epidemic|website=worldwideoutbreak|access-date=12 May 2020}}</ref>
+|-
+| [[2016 Angola and DR Congo yellow fever outbreak]]
+| 2016
+| [[Angola]] and [[DR Congo]]
+| [[Yellow fever]]
+| 498 (377 in Angola, 121 in Congo)
+| <ref>{{Cite web |url=http://www.promedmail.org/post/4123983 |title=Yellow fever – countries with dengue: alert 2016-03-28 20:39:56 Archive Number: Archive Number: 20160328.4123983 |website=ProMED-mail |publisher=International Society for Infectious Diseases |access-date=29 March 2016 |archive-url=https://web.archive.org/web/20160410065146/http://www.promedmail.org/post/4123983 |archive-date=10 April 2016 |url-status=live}}</ref>
+|-
+| '''[[2016–20 Yemen cholera outbreak]]'''
+| 2016–present
+| [[Yemen]]
+| [[Cholera]]
+| data-sort-value="3886"|3,886 ({{as of|2019|November|30|lc=y}})
+| <ref>WHO Regional Office for the Eastern Mediterranean [http://applications.emro.who.int/docs/YEM/YEM-Chol-Nov-2019-eng.pdf?ua=1 Cholera Situation in Yemen November 2019"]. Retrieved 30 November 2019.</ref>
+|-
+| [[2017 dengue outbreak in Peshawar]]
+| 2017
+| [[Peshawar]], [[Pakistan]]
+| [[Dengue fever]]
+| 69
+| <ref>{{cite web|url=https://reliefweb.int/disaster/ep-2017-000133-pak|publisher=WHO|title=Pakistan: Dengue Outbreak – Sep 2017 |date= 16 December 2019 |access-date= 15 May 2020 |website=reliefweb.int}}</ref>
+|-
+| [[2017 Gorakhpur Japanese encephalitis outbreak]]
+| 2017
+| [[India]]
+| [[Japanese encephalitis]]
+| data-sort-value="1317"|1,317
+| <ref>[https://www.indiatvnews.com/news/india-encephalitis-outbreak-gorakhpur-muzaffarpur-jev-aes-eastern-uttar-pradesh-northern-bihar-527836 Encephalitis outbreak: AES is a perennial issue in eastern Uttar Pradesh, northern Bihar] Bihar's AES data summary looks more like a repeat of 2017 when a major JEV outbreak in Uttar Pradesh's Gorakhpur claimed the lives of many children. 17 June 2019 ''www.indiatvnews.com'', accessed 17 February 2020</ref>
+|-
+|[[2017 dengue outbreak in Sri Lanka]]
+|2017
+|[[Sri Lanka]]
+|[[Dengue fever]]
+|440
+|<ref>{{Cite web|title=Trends|url=http://www.epid.gov.lk/web/index.php?option=com_casesanddeaths&Itemid=448&lang=en|access-date=2020-12-25|website=www.epid.gov.lk}}</ref>
+|-
+| [[2017–18 United States flu season]]
+| 2017–2018
+| [[United States]]
+| [[Seasonal influenza]]
+| data-sort-value="61000" | 61,000 (46,000–95,000)<ref>{{cite web |title=Archived Estimated Influenza Illnesses, Medical visits, Hospitalizations, and Deaths in the United States — 2017–2018 influenza season {{!}} CDC |url=https://www.cdc.gov/flu/about/burden/2017-2018/archive.htm |website=www.cdc.gov |access-date=15 May 2020 |language=en-us |date=22 November 2019}}</ref>
+| <ref>{{cite news |title=Over 80,000 Americans Died of Flu Last Winter, Highest Toll in Years |url=https://www.nytimes.com/2018/10/01/health/flu-deaths-vaccine.html |access-date=10 April 2020 |publisher=The New York Times Company |date=1 October 2018}}</ref><ref>{{cite web |last1=Belluz |first1=Julia |title=80,000 Americans died of the flu last winter. Get your flu shot. |url=https://www.vox.com/2018/9/27/17910318/flu-deaths-2018-epidemic-outbreak-shot |website=Vox |access-date=10 April 2020 |language=en |date=27 September 2018}}</ref><ref>{{cite web |title=Disease Burden of Influenza |url=https://www.cdc.gov/flu/about/burden/index.html |access-date=14 May 2020 |website=www.cdc.gov |date=17 April 2020}}</ref>
+|-
+| [[2018 Nipah virus outbreak in Kerala]]
+| 2018
+| [[India]]
+| [[Nipah virus infection]]
+| data-sort-value="17"| 17
+| <ref>{{Cite news|url=https://www.thenewsminute.com/article/nipah-virus-contained-last-two-positive-cases-have-recovered-kerala-health-min-82809|title=Nipah virus contained, last two positive cases have recovered: Kerala Health Min|date=2018-06-11|work=The News Minute|access-date=2020-02-16}}</ref>
+|-
+| [[Kivu Ebola epidemic]]
+| 2018–2020
+| [[Democratic Republic of the Congo]] and [[Uganda]]
+| [[Ebola]]
+| data-sort-value="2271"| 2,280
+|<ref>{{cite web |title=Operations Dashboard for ArcGIS |url=https://who.maps.arcgis.com/apps/opsdashboard/index.html#/e70c3804f6044652bc37cce7d8fcef6c |website=who.maps.arcgis.com|date=25 June 2020|access-date=28 June 2020}}</ref><ref>{{Cite web |url=https://www.afro.who.int/publications/ebola-virus-disease-outbreak-uganda-situation-reports |title=Ebola Virus Disease Outbreak Uganda Situation Reports |website=WHO {{!}} Regional Office for Africa |language=en |access-date=3 September 2019 |archive-url=https://web.archive.org/web/20190620130334/https://www.afro.who.int/publications/ebola-virus-disease-outbreak-uganda-situation-reports |archive-date=20 June 2019 |url-status=live}}</ref><ref>{{cite web |title=DR Congo's deadliest Ebola outbreak declared over |url=https://www.bbc.com/news/world-africa-53179323 |website=BBC News |access-date=25 June 2020 |date=25 June 2020}}</ref>
+|-
+|'''2018 NDM-CRE outbreak in Italy'''
+|2018–present
+|[[Italy]]
+|[[New Delhi metallo-beta-lactamase 1|New Delhi metallo-beta-lactamase]]-producing [[Carbapenem-resistant enterobacteriaceae|CRE]]
+|31 (as of September 2019)
+|<ref>{{Cite web|last=|first=|date=29 Jan 2021|title=CDTR, Week 4, 24-30 January 2021|url=https://www.ecdc.europa.eu/sites/default/files/documents/communicable-disease-threats-report-30-jan-2021.pdf|url-status=live|archive-url=|archive-date=|access-date=29 Jan 2021|website=europa}}</ref><ref>{{Cite web|last=|first=|date=12 September 2019|title=Hospitals on alert after superbug outbreak in Tuscany|url=https://www.thelocal.it/20190912/hospitals-on-alert-after-superbug-outbreak-in-tuscany|url-status=live|archive-url=|archive-date=|access-date=29 Jan 2021|website=thelocal}}</ref>
+|-
+| [[2019 measles outbreak in the Democratic Republic of the Congo]]
+| 2019–2020
+| [[Democratic Republic of the Congo]]
+| [[Measles]]
+| 7,018+
+| <ref>{{Cite news |url=http://outbreaknewstoday.com/drc-more-ebola-and-plague-cases-reported-end-of-measles-epidemic-declared-74655/  |title=DRC: More Ebola and plague cases reported, End of measles epidemic declared |language=en}}</ref>
+|-
+| '''[[2019–2020 New Zealand measles outbreak]]'''
+| 2019–present
+| [[New Zealand]]
+| [[Measles]]
+| 2
+| <ref name="MoH">{{cite web |title=2019 measles outbreak information2019/20 measles outbreak information |url=https://www.health.govt.nz/your-health/conditions-and-treatments/diseases-and-illnesses/measles/2019-20-measles-outbreak-information |website=www.health.govt.nz |access-date=5 March 2020}}</ref>
+|-
+| '''[[2019 Philippines measles outbreak]]'''
+| 2019–present
+| [[Philippines]]
+| [[Measles]]
+| 415
+| <ref>{{cite news |last1=Tomacruz |first1=Sofia |title=At least 70 deaths due to measles – DOH |url=https://www.rappler.com/nation/223208-doh-report-deaths-due-to-measles-february-2019 |access-date=11 February 2019 |work=Rappler |date=11 February 2019}}</ref>
+|-
+| [[2019 Kuala Koh measles outbreak]]
+| 2019
+| Kuala Koh, [[Malaysia]]
+| [[Measles]]
+| 15
+| <ref>{{cite web|url=https://says.com/my/news/mysterious-illness-causing-deaths-of-kampung-kuala-koh-orang-asli-identified-as-measles|title=A Measles Outbreak Is The Cause of 15 Orang Asli Deaths In Kelantan|author=Alyssa J. Oon|publisher=Says.com|date=17 June 2019|access-date=27 August 2019|archive-url=https://web.archive.org/web/20190827033231/https://says.com/my/news/mysterious-illness-causing-deaths-of-kampung-kuala-koh-orang-asli-identified-as-measles|archive-date=27 August 2019|url-status=live}}</ref>
+|-
+| '''[[2019 Samoa measles outbreak]]'''
+| 2019–present
+| [[Samoa]]
+| [[Measles]]
+| 83
+| <ref name="Samoa83">{{cite news|url=https://www.rnz.co.nz/international/pacific-news/406802/two-more-deaths-from-measles-in-samoa-over-new-year-period|title=Two more deaths from measles in samoa over new year period|date=2020-01-07|work=Radio New Zealand|url-status=live|archive-url=https://web.archive.org/web/20200107105921/https://www.rnz.co.nz/international/pacific-news/406802/two-more-deaths-from-measles-in-samoa-over-new-year-period|archive-date=2020-01-07}}</ref>
+|-
+| '''[[2019–20 dengue fever epidemic]]'''
+| 2019–present
+| [[Asia-Pacific]], [[Latin America]]
+| [[Dengue fever]]
+| data-sort-value="3,930" | 3,930
+| <ref>{{cite news |title=Dengue and severe dengue |url=https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue |work=World Health Organization (WHO) |date=2 March 2020}}</ref>
+|-
+| '''[[COVID-19 pandemic]]'''
+| 2019–present
+| [[World]]wide
+| [[Coronavirus disease 2019|Coronavirus disease 2019 / COVID-19]] [[File:SARS-CoV-2_without_background.png|thumb|50px|[[Severe acute respiratory syndrome coronavirus 2|SARS-CoV-2]] virus]]
+| data-sort-value="2,300,001 | 2.3 million+ (as of February 2021)
+| <ref>{{Cite web|url=https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6|title=ArcGIS Dashboards- COVID-19 Dashboard by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University|website=gisanddata.maps.arcgis.com|access-date=5 February 2021}}</ref>
+|-
+| '''2019 Nigeria lassa fever epidemic'''
+| 2019–present
+| [[Nigeria]]
+| [[Lassa fever]]
+| 246 (as of January 2021)
+| <ref>{{Cite web|url=http://outbreaknewstoday.com/nigeria-reports-2-lassa-fever-deaths-in-first-week-of-2021|title=Nigeria reports 2 Lassa fever deaths in first week of 2021|date=19 January 2021|access-date=28 January 2021}}</ref>
+|-
+| [[Kivu Ebola epidemic#2020 Équateur Province outbreak and other health problems|2020 Democratic Republic of the Congo Ebola outbreak]]
+| 2020
+| [[Democratic Republic of the Congo]]
+| [[Ebola]]
+| 55
+| <ref>{{cite web |title=UNICEF welcomes end of Ebola outbreak in the Equateur Province of the DRC |url=https://www.unicef.org/press-releases/unicef-welcomes-end-ebola-outbreak-equateur-province-drc |website=www.unicef.org |access-date=18 November 2020}}</ref>
+|-
+| '''2020 novel bunyavirus outbreak '''
+| 2020–present
+| [[China]]
+| [[Severe fever with thrombocytopenia syndrome]]
+| 7 (as of 5 August 2020)
+| <ref name="taiw_Nove">{{Cite web| title = Novel bunyavirus re-emerges in China, kills seven| last = Cheng | first = Ching-Tse| work = Taiwan News| date = 2020-08-05| access-date = 6 August 2020| url = https://www.taiwannews.com.tw/en/news/3980960}}</ref>
+|-
+| '''2020 Nigeria yellow fever epidemic'''
+| 2020–present
+| [[Nigeria]]
+| [[Yellow Fever]]
+| 296 (as of 31 December 2020)
+| <ref>{{Cite web|last=|first=|date=31 Dec 2020|title=YELLOW FEVER SITUATION REPORT week 53 (December 31 2020)|url=https://ncdc.gov.ng/diseases/sitreps/?cat=10&name=An%20update%20of%20Yellow%20Fever%20outbreak%20in%20Nigeria|url-status=live|archive-url=|archive-date=|access-date=27 Jan 2021|website=Nigeria Centre for Disease Control}}</ref>
+|}

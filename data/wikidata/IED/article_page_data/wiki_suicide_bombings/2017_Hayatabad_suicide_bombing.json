@@ -1,0 +1,64 @@
+{
+    "_id": "53197930",
+    "id": "53197930",
+    "title": "2017 Hayatabad suicide bombing",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "== References ==",
+            "start": 155,
+            "end": 171
+        }
+    ],
+    "categories": [
+        "Suicide bombings in 2017",
+        "Suicide bombings in Pakistan",
+        "Terrorist incidents in Peshawar",
+        "Tehrik-i-Taliban Pakistan attacks",
+        "2017 murders in Asia",
+        "Terrorist incidents in Pakistan in 2017",
+        "February 2017 crimes in Asia",
+        "Hayatabad"
+    ],
+    "infobox": "{{Infobox civilian attack\n| title = 2017 Hayatabad suicide bombing\n| partof = the [[War in North-West Pakistan]] and [[Operation Ghazi]]\n| image = \n| image_size = \n| alt = \n| caption = \n| map = {{Location map|Pakistan|lat_deg=34.01|lon_deg=71.35|label=Peshawar|border=none|float=center|}}\n| map_size = \n| map_alt = \n| map_caption = Peshawar is in red color\n| location = [[Hayatabad]], [[Peshawar]], [[Pakistan]]\n| target = Judges\n| coordinates = \n| date = <!-- {{start date|YYYY|MM|DD}}-<br />{{end date|YYYY|MM|DD}} -->\n| time = \n| timezone = \n| type = [[Suicide attack]]\n| fatalities = 2 (+ 1 attacker)\n| injuries = 12<ref name=\"expresstribune\">{{Cite web |url=https://tribune.com.pk/story/1327747/two-killed-peshawar-blast/ |title=One killed in suicide attack on Peshawar judges |last=Firdous |first=Iftikhar}}At least one person was killed and seven people were injured on Wednesday in an explosion in Peshawar\u2019s Hayatabad area.</ref>\n| victims = <!-- or | victim = -->\n| perpetrators = [[Tehrik-i-Taliban Pakistan]]\n| assailants = <!-- or | assailant = -->\n| susperps = <!-- or | susperp = -->\n| weapons = \n| numparts = <!-- or | numpart = -->\n| dfens = <!-- or | dfen = -->\n| motive = \n| inquiry = \n| coroner = \n| accused = \n| convicted = \n| verdict = \n| convictions = \n| charges = \n| litigation = \n| website = <!-- {{URL|example.com}} -->\n| module =\n}}",
+    "article": "On February 15, 2017, a suicide bomber targeted a government van carrying civil judges in Hayatabad. The attack was claimed by Tehrik-i-Taliban Pakistan.\n\n== References ==",
+    "links": [
+        {
+            "title": "Suicide attack",
+            "text": "suicide bomber",
+            "start": 24,
+            "end": 38,
+            "id": "18835454"
+        },
+        {
+            "title": "Van",
+            "text": "van",
+            "start": 61,
+            "end": 64,
+            "id": "63679"
+        },
+        {
+            "title": "Judge",
+            "text": "civil judges",
+            "start": 74,
+            "end": 86,
+            "id": "44719"
+        },
+        {
+            "title": "Hayatabad",
+            "text": "Hayatabad",
+            "start": 90,
+            "end": 99,
+            "id": "2458066"
+        },
+        {
+            "title": "Tehrik-i-Taliban Pakistan",
+            "text": "Tehrik-i-Taliban Pakistan",
+            "start": 127,
+            "end": 152,
+            "id": "18953699"
+        }
+    ],
+    "_chunk_id": "b_15863795692-15870332196"
+}

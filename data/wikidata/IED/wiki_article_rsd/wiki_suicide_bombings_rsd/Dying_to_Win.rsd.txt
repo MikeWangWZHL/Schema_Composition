@@ -1,0 +1,84 @@
+Dying to Win: The Strategic Logic of Suicide Terrorism is Robert Pape's analysis of suicide terrorism from a strategic, social, and psychological point of view. It is based on a database he has compiled at the University of Chicago, where he directs the  Chicago Project on Security and Threats (CPOST). The book's conclusions are based on data from 315 suicide terrorism attacks around the world from 1980 through 2003. Of these, 301 were classified into 18 different campaigns by 11 different militant groups; the remaining 14 appear to have been isolated. Published in May 2005, Pape's volume has been widely noticed by the press, the public, and policymakers alike, and has earned praise from the likes of Peter Bergen, Congressman Ron Paul (R-Texas), and Michael Scheuer.
+
+Dying to Win is divided into three parts, analyzing the strategic, social, and psychological dimension of suicide terrorism.
+
+==Detailed synopsis==
+
+===Introduction===
+
+====Chapter 1: The Growing Threat====
+Pape claims to have compiled the world's first "database of every suicide bombing and attack around the globe from 1980 through 2003—315 attacks in all" (3). "The data show that there is little connection between suicide terrorism and Islamic fundamentalism, or any one of the world's religions. ... Rather, what nearly all suicide terrorist attacks have in common is a specific secular and strategic goal: to compel modern democracies to withdraw military forces from territory that the terrorists consider to be their homeland" (4). It is important that Americans understand this growing phenomenon (4–7).
+
+====Chapter 2: Explaining Suicide Terrorism====
+Caveat: the book's conclusions do not hold for terrorism in general (8–9). Pape distinguishes among demonstrative terrorism, which seeks publicity, destructive terrorism, which seeks to exert coercion through the threat of injury and death as well as to mobilize support, and suicide terrorism, which involves an attacker's actually killing himself or herself along with others, generally as part of a campaign (9–11). Three historical episodes are introduced for purposes of comparison: the ancient Jewish Zealots (11–12; see also 33–34), the 11th-12th-century Ismaili Assassins (12–13; see also 34–35), and the Japanese kamikazes (13; see also 35–37).
+
+Pape had graduate students fluent in many languages scour the international press for incidents of suicide terrorism. There was no suicide terrorism from 1945 to 1980 (13–14). They found 315 incidents, beginning with the 1983 Beirut barracks bombing (14). They were able to classify all but 14 of the incidents into 18 different campaigns by 10 different organizations of predominantly Muslim, Hindu or Sikh religious persuasion. These included the Tamil Tigers (July 1990), the Israeli occupation of Palestine (1994), Persian Gulf (1995), Turkey (1996), Chechnya (2000), Kashmir (2000), and the U.S. (2001) (14–15). Five campaigns were still ongoing in early 2004, when Dying to Win was being written (15–16).
+
+Traditional explanations for suicide terrorism focus on individual motives, but fail to explain the specificity of suicide terrorism (16–17). Economic explanation of this phenomenon yields "poor" results (17–19). Explanation of suicide terrorism as a form of competition between radical groups is dubious (19–20).
+
+Pape proposes an alternative explanation of the "causal logic of suicide terrorism": at the strategic level, suicide terrorism exerts coercive power against democratic states to cease occupation of territory terrorists consider homeland, while at the social level it depends on mass support and at the individual level it is motivated by altruism (20–23). All 18 campaigns shared two elements: (1) a foreign occupation (2) by a democracy.  Only one of the 10 groups shared a religion with the occupiers:  the Kurdistan Workers' Party in Turkey. "The bottom line, then, is that suicide terrorism is mainly a response to foreign occupation" (23).
+
+===Part I: The Strategic Logic of Suicide Terrorism===
+
+====Chapter 3: A Strategy for Weak Actors====
+The willingness of an attacker to die has strategic value (27–29). As a weapon of weak groups incapable of "denial" as a "coercive strategy," suicide terrorism relies on punishment and, especially, "the expectation of future damage," which provides coercive leverage (29–33).
+
+====Chapter 4: Targeting Democracies====
+Pape claims that his research reveals that the key to understanding the phenomenon of suicide attacks is not religion, but that they "compel democracies to withdraw military forces from the terrorists' national homeland" (38). Patterns of timing (39–41), nationalist goals (42–44), and the targeting of democracies (44–45) reveal its logical, not irrational, nature. "At bottom, suicide terrorism is a strategy for national liberation from foreign military occupation by a democratic state" (45). Foreign occupation is defined in terms of control of territory (not military occupation alone) (46). The targets selected by suicide terrorists suggests nationalist, not religious, aims (46–47). Hamas (47–51) and Al-Qaeda (51–58) are analyzed in some detail. In general, the harshness of occupation does not strongly correlate with suicide terrorism (58–60).
+
+====Chapter 5: Learning Terrorism Pays====
+Terrorists are predisposed to attribute success to their technique whenever plausible (62–64). Pape claims that "recent suicide terrorist campaigns ... are associated with gains for the terrorists' political causes about half the time" (64–65). Hamas's success is difficult to evaluate, but Hamas spokespersons express belief in their own success (65–73). Terrorists learn from each other; the spread of the method is therefore neither irrational nor surprising (73–75). But suicide terrorism has failed "to compel target democracies to abandon goals central to national wealth or security" (75–76).
+
+===Part II: The Social Logic of Suicide Terrorism===
+
+====Chapter 6: Occupation and Religious Difference====
+"[T]he taproot of suicide terrorism is nationalism" not religion (79). It is "an extreme strategy for national liberation" (80). This explains how the local community can be persuaded to re-define acts of suicide and murder as acts of martyrdom on behalf of the community (81–83). Pape proposes a nationalist theory of suicide terrorism, seen from the point of view of terrorists. He analyzes the notions of occupation (83–84), homeland (84–85), identity (85–87), religious difference as a contributor to a sense of "alien" occupation (87–88), foreign occupation reverses the relative importance of religion and language (88–92), and the widespread perception of the method as a "last resort" (92–94). A statistical demonstration leads to the conclusion that a "linear" rather than "self-reinforcing spiral" explanation of suicide terrorism is best (94–100). However, different future developments of the phenomenon of suicide terrorism are very possible, and more study of the role of religion is needed (101).
+
+====Chapter 7: Demystifying al-Qaeda====
+With increasing knowledge of al-Qaeda, we see that "the presence of American military forces for combat operations on the homeland territory of the suicide terrorists is stronger than Islamic fundamentalism in predicting whether individuals from that country will become al-Qaeda suicide terrorists" (103). "Al-Qaeda is less a transnational network of like-minded ideologues ... than a cross-national military alliance of national liberation movements working together against what they see as a common imperial threat" (104). The nature of Salafism, a Sunni form of Islamic fundamentalism, is complex (105–07). Statistical analysis fails to corroborate Salafism-terrorism connection, but it does corroborate a connection to U.S. military policies in the Persian Gulf (107–17). Al-Qaeda propaganda emphasizes the "Crusader" theme, which is inherently related to occupation (117–24). Pape concludes that "the core features of al-Qaeda" are captured by his theory (125).
+
+====Chapter 8: Suicide Terrorist Organizations around the Globe====
+Robert Pape examines other campaigns to see if the "dynamics that make religious difference important" are present in other terrorist campaigns, acknowledging the difficulty of the inquiry (126–29). He offers detailed analyses of Lebanon (129–39), Sri Lanka (139–54), the Sikhs in Punjab (154–62), and the Kurdish PKK in Turkey (162–66). His conclusion: "Religion plays a role in suicide terrorism, but mainly in the context of national resistance" and not Islam per se but "the dynamics of religious difference" are what matter (166–67).
+
+===Part III: The Individual Logic of Suicide Terrorism===
+
+====Chapter 9: Altruism and Terrorism====
+Pape presents a Durkheimian analysis of suicide (173–79). "Many acts of suicide terrorism are a murderous form of what Durkheim calls altruistic suicide" (179). Analytical difficulties are acknowledged (180–81). Pape uses suicide rates in general as points of comparison (181–84). Team suicide, which is frequent in suicide terrorism, is an indicator of altruistic suicide, he argues (185–87). Altruistic suicide is a socially constructed phenomenon (187–88): e.g., Hezbollah in Lebanon (188–91), Hamas (191–93), Tamil Tigers (193–95); al-Qaeda (195–96). The altruistic nature of suicide terrorism suggests the number of potential terrorists is large, that suicide terrorism is capable of growing in attractiveness and appeal, and that any attempt at profiling will miss a substantial number of potential suicide terrorists (197–98).
+
+====Chapter 10: The Demographic Profile of Suicide Terrorists====
+"In general, suicide attackers are rarely socially isolated, clinically insane, or economically destitute individuals, but are most often educated, socially integrated, and highly capable people who could be expected to have a good future" (200). Pape discusses problems of data-gathering (201–02). He establishes 462 individuals in his "universe" of suicide terrorists available for analytical purposes (203). Hezbollah suicide bombers in the period 1982–1986 were 71% Communist/Socialist, 21% Islamist, 8% Christian (204–07). In general, suicide terrorists are in their early 20s (207–08). Females are fewer in Islamist groups: "Islamist fundamentalism may actually reduce the number of suicide terrorists by discouraging certain categories of individuals" (208–09). Female suicide terrorists tend to be older than male (209–10). There is no documented mental illness in any case of suicide terrorism, though there are 16 cases of personal trauma (e.g., the loss of a loved one) (210–11). Arab suicide terrorists are in general better educated than average and are from the working or middle classes (211–16). "[T]hey resemble the kind of politically conscious individuals who might join a grassroots movement more than they do wayward adolescents or religious fanatics" (216).
+
+====Chapter 11: Portraits of Three Suicide Terrorists====
+Earlier work has tended to emphasize suicide terrorists' irrationality, but this generalization fit 1980s data better than more recent data (217–20). Pape looks at three individual cases: Mohamed Atta (220–26); Dhanu, a young woman from Jaffna, "the most famous Tamil Tiger suicide bomber" (226–30); and Saeed Hotari, of Hamas (231–34).
+
+===Conclusion===
+
+====Chapter 12: A New Strategy for Victory====
+Though "we" cannot leave the Middle East altogether, Pape asserts, a "strategy for victory" is available (237–38). U.S. should define victory as the separate objectives of "defeating the current pool of terrorists" and preventing a new generation from arising (238–39). He rejects Frum-Perle view that the root of the problem is in Islam (241–44). "Rather, the taproot is American military policy" (244). The notion that Islamic fundamentalism is bent on world domination is "pure fantasy" (244–45). An attempt by the West to force Muslim societies to transform "is likely to dramatically increase the threat we face" (245). He calls for a policy of "'off-shore' balancing": establishing local alliances while maintaining the capacity for rapid deployment of military forces (247–50).
+
+===Appendices===
+
+====Appendix I: Suicide Terrorist Campaigns, 1980–2003====
+Analysis of 18 campaigns.
+
+====Appendix II: Occupations by Democratic States, 1980–2003====
+Fifty-eight occupations by democratic states are listed (265–67).
+
+====Appendix III: Salafism in Major Sunni Muslim Majority Countries====
+Thirty-four countries with Sunni majority populations of 1 m or more and the importance of Salafism in these countries are the subjects of brief commentaries. Salafism is defined as "the belief that society should be organized according to the Quran and Sunna only" (269). Sunni Countries with Salafi-Influenced Populations: Afghanistan (10 m Pashtuns); Algeria (19 m/31m Sunni Muslims); Bangladesh (14 m/114m); Egypt (23 m/62m); Indonesia (26 m/185m); Jordan (2 m/6m); Nigeria (37 m/68m); Oman (2 m/2m); Pakistan (43 m/149m); Saudi Arabia (18 m/18m); Somalia (5 m/10m); Sudan (21 m/21m); Tunisia (5 m/10m); Yemen (8 m/11m) (270–74). Non-Salafi Sunni Countries: Albania, Burkina Faso, Chad, Guinea, Kuwait, Kyrgyzstan, Libya, Malaysia, Mali, Mauritania, Morocco, Niger, Senegal, Sierra Leone, Syria, Tajikistan, Turkey, Turkmenistan, United Arab Emirates, Uzbekistan (274–77).
+
+==Critiques==
+
+In a criticism of Pape's link between occupation and suicide terrorism, an article titled "Design, Inference, and the Strategic Logic of Suicide Terrorism" (published in The American Political Science Review), authors Scott Ashworth, Joshua D. Clinton, Adam Meirowitz, and Kristopher W. Ramsay from Princeton charge Pape with "sampling on the dependent variable" by limiting research only to cases in which suicide terror was used: Pape's analysis has no control group. Appendix II lists 58 occupations by democracies, only 9 of which generated suicide terrorism. An analysis explaining the difference between the 9 with suicide terrorism and the 49 without is lacking.
+
+In response, Pape argues that his research design is sufficient because it collected the universe of known cases of suicide terrorism. In a rejoinder, Ashworth et al. discuss how even large samples of the dependent variable cannot be used to explain variation in outcomes, why suicide terrorism in some places but not others, if the sample does not vary.
+
+In a debate hosted by the Washington Institute, Martin Kramer argued that Pape's thesis was less relevant to Al Qaeda than to Lebanon and Palestine and that there were only 12,000 American troops in Saudi Arabia in 2001 and they had not caused any deaths. In response Pape argued that "The U.S.-led war on terrorism is going badly because it is being waged on a faulty premise. That premise is that suicide terrorism is mainly a product of Islamic fundamentalism."
+
+==References==
+
+
+==External links==
+*  Downloadable audio interview with Scott Horton
+*  Chicago Project on Security and Threats
+*  It's the Occupation Stupid by Robert A. Pape, Foreign Policy magazine, October 18, 2010

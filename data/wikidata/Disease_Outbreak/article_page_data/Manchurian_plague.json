@@ -1,0 +1,217 @@
+{
+    "_id": "63747577",
+    "id": "63747577",
+    "title": "Manchurian plague",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "== History ==",
+            "start": 334,
+            "end": 347
+        },
+        {
+            "text": "== Significance ==",
+            "start": 2040,
+            "end": 2058
+        },
+        {
+            "text": "== References ==",
+            "start": 2890,
+            "end": 2906
+        }
+    ],
+    "categories": [
+        "Epidemics",
+        "Disease outbreaks in China",
+        "History of Manchuria",
+        "Qing dynasty"
+    ],
+    "infobox": null,
+    "article": "The Manchurian plague was a pneumonic plague that occurred between 1910 and 1911. It mainly hit the area of Manchuria, although some cases were reported in other places like Peking and Tianjin. Since there was no vaccine, the plague was very deadly, with estimates that it killed around 60,000 people, including doctors and nurses. \n\n== History ==\nThe plague is thought to have originated from a tarbagan marmot infected with bacterial pneumonia. Tarbagan marmots were hunted for their fur in Manchuria. It was an airborne spread disease and was incredibly deadly, with a near 100 percent mortality rate. Its spread was magnified by marmot hunters gathering in the bitter winter months, and the eventual travel of migrant workers during the Chinese New Year. Russia and Japan both had economic interests in the region and needed to cooperate with Chinese authorities.\n\nThe Cambridge-trained doctor Wu Lien-teh led Chinese efforts to end the plague, and promoted quarantine and the wearing of cloth face masks. He also convened the International Plague Conference in Mukden in April 1911, the first major event of its kind that brought together an international team of scientists concerned with disease control.\n\nThe Chinese government also sought the support of foreign doctors, a number of whom died as a consequence of the disease. In Harbin, this included the Frenchman G\u00e9rald Mesny, from the Imperial Medical College in Tientsin, who disputed Wu's recommendation of masks; a few days later, he died after catching the plague when visiting patients without wearing a mask. Another was the 26-year-old Arthur F. Jackson, a United Free Church of Scotland missionary doctor, who fell ill within eight days of inspecting and quarantining hundreds of poor laborers; he died two days later in Mukden.\n\nIn the end, the death toll reached some 60,000 lives. The hardest hit cities included Changchun, Harbin, and Mukden. Although the disease was largely confined to Manchuria, cases were found elsewhere in cities such as Beijing and Tianjin.\n\n== Significance ==\n\nThe Manchurian plague is believed to have highlighted the importance of a multinational medical response, setting precedence for later organizations such as the World Health Organization. Wu Lien-teh's widespread promotion of cloth plague mask-wearing by doctors, nurses, patients, contacts, and (to the degree that it was possible) the population at large was the first time such an epidemic containment measure had been attempted. The event was also influential in establishing the use of personal protective equipment to stop the spread of disease, and is credited for the origins of the modern hazmat suit.\n\nParallels have also been made between the management and control of the Manchurian plague and other outbreaks of infectious disease such as the Ebola epidemic in West Africa (2013\u20132016) and COVID-19 pandemic (2019\u2013).\n\n== References ==\n\n\n\n\n\n\n\n\n\nVictims of the Manchurian plague, circa 1910.\nPlague workers in personal protective equipment.",
+    "links": [
+        {
+            "title": "Manchurian plague",
+            "text": "Manchurian plague",
+            "start": 4,
+            "end": 21,
+            "id": "63747577"
+        },
+        {
+            "title": "Pneumonic plague",
+            "text": "pneumonic plague",
+            "start": 28,
+            "end": 44,
+            "id": "71064"
+        },
+        {
+            "title": "Manchuria",
+            "text": "Manchuria",
+            "start": 108,
+            "end": 117,
+            "id": "47595"
+        },
+        {
+            "title": "Beijing",
+            "text": "Peking",
+            "start": 174,
+            "end": 180,
+            "id": "18603746"
+        },
+        {
+            "title": "Tianjin",
+            "text": "Tianjin",
+            "start": 185,
+            "end": 192,
+            "id": "50821"
+        },
+        {
+            "title": "Tarbagan marmot",
+            "text": "tarbagan marmot",
+            "start": 396,
+            "end": 411,
+            "id": "12522309"
+        },
+        {
+            "title": "Airborne disease",
+            "text": "airborne spread disease",
+            "start": 514,
+            "end": 537,
+            "id": "24016510"
+        },
+        {
+            "title": "Chinese New Year",
+            "text": "Chinese New Year",
+            "start": 741,
+            "end": 757,
+            "id": "19682699"
+        },
+        {
+            "title": "University of Cambridge",
+            "text": "Cambridge",
+            "start": 873,
+            "end": 882,
+            "id": "25978572"
+        },
+        {
+            "title": "Wu Lien-teh",
+            "text": "Wu Lien-teh",
+            "start": 898,
+            "end": 909,
+            "id": "13137253"
+        },
+        {
+            "title": "Quarantine",
+            "text": "quarantine",
+            "start": 962,
+            "end": 972,
+            "id": "25237"
+        },
+        {
+            "title": "Cloth face mask",
+            "text": "cloth face mask",
+            "start": 992,
+            "end": 1007,
+            "id": "63567907"
+        },
+        {
+            "title": "Shenyang",
+            "text": "Mukden",
+            "start": 1066,
+            "end": 1072,
+            "id": "180264"
+        },
+        {
+            "title": "United Free Church of Scotland",
+            "text": "United Free Church of Scotland",
+            "start": 1626,
+            "end": 1656,
+            "id": "557058"
+        },
+        {
+            "title": "Medical missions",
+            "text": "missionary doctor",
+            "start": 1657,
+            "end": 1674,
+            "id": "52331614"
+        },
+        {
+            "title": "Changchun",
+            "text": "Changchun",
+            "start": 1886,
+            "end": 1895,
+            "id": "250126"
+        },
+        {
+            "title": "Harbin",
+            "text": "Harbin",
+            "start": 1897,
+            "end": 1903,
+            "id": "143373"
+        },
+        {
+            "title": "Beijing",
+            "text": "Beijing",
+            "start": 2018,
+            "end": 2025,
+            "id": "18603746"
+        },
+        {
+            "title": "Tianjin",
+            "text": "Tianjin",
+            "start": 2030,
+            "end": 2037,
+            "id": "50821"
+        },
+        {
+            "title": "World Health Organization",
+            "text": "World Health Organization",
+            "start": 2221,
+            "end": 2246,
+            "id": "33583"
+        },
+        {
+            "title": "Cloth face mask",
+            "text": "cloth plague mask",
+            "start": 2286,
+            "end": 2303,
+            "id": "63567907"
+        },
+        {
+            "title": "Personal protective equipment",
+            "text": "personal protective equipment",
+            "start": 2551,
+            "end": 2580,
+            "id": "55530"
+        },
+        {
+            "title": "Hazmat suit",
+            "text": "hazmat suit",
+            "start": 2658,
+            "end": 2669,
+            "id": "1759366"
+        },
+        {
+            "title": "Western African Ebola virus epidemic",
+            "text": "Ebola epidemic in West Africa (2013\u20132016)",
+            "start": 2816,
+            "end": 2857,
+            "id": "42345073"
+        },
+        {
+            "title": "COVID-19 pandemic",
+            "text": "COVID-19 pandemic (2019\u2013)",
+            "start": 2862,
+            "end": 2887,
+            "id": "62750956"
+        },
+        {
+            "title": "Personal protective equipment",
+            "text": "personal protective equipment",
+            "start": 2980,
+            "end": 3009,
+            "id": "55530"
+        }
+    ],
+    "_chunk_id": "b_18297221580-18304583456"
+}

@@ -1,0 +1,120 @@
+{
+    "_id": "48572105",
+    "id": "48572105",
+    "title": "1996 Paris RER bombing",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "==See also==",
+            "start": 714,
+            "end": 726
+        },
+        {
+            "text": "== References ==",
+            "start": 751,
+            "end": 767
+        }
+    ],
+    "categories": [
+        "1996 crimes in France",
+        "1996 in Paris",
+        "1990s crimes in Paris",
+        "1990s murders in France",
+        "Armed Islamic Group of Algeria",
+        "Attacks on buildings and structures in Paris",
+        "Attacks on railway stations in Europe",
+        "December 1996 crimes",
+        "December 1996 events in Europe",
+        "Improvised explosive device bombings in 1996",
+        "Improvised explosive device bombings in Paris",
+        "Mass murder in 1996",
+        "Mass murder in Paris",
+        "Terrorist incidents in Europe in 1996",
+        "Terrorist incidents in France in the 1990s",
+        "Terrorist incidents on railway systems in Europe",
+        "Terrorist incidents on underground rapid transit systems"
+    ],
+    "infobox": "{{Infobox civilian attack\n| title       = 1996 Paris RER bombing\n| image       = Gare de Port-Royal, plaque fleurie attentat 1996.JPG\n| caption     = A memorial to the victims (2014)\n| location    = [[Gare de Port-Royal]] station in [[Paris]], France\n| target      = RER passengers\n| map         = \n| coordinates = {{coord|48|50|23.55|N|2|20|13.34|E}}\n| date        = {{start date and age|1996|12|3|df=y}}\n| time        = \n| type        = Bombing\n| fatalities  = 4\n| injuries    = 7-91\n| perps       = Unknown, [[Armed Islamic Group|GIA]] suspected\n| weapons     = [[Improvised explosive device]]\n}}",
+    "article": "On 3 December 1996 an IED detonated on the southbound tracks of the Gare de Port-Royal R\u00e9seau Express R\u00e9gional station in Paris, France. Four people were killed in the bombing: two French citizens, a Moroccan and a Canadian.\n\nFollowing the bombing, French officials activated the \"Vigipirate\" nationwide security plan drawn up a year earlier in the wake of a series of bombings by the Armed Islamic Group of Algeria (GIA). The plan included police and army patrols in sensitive public areas and spot checks across the country.\n\nNo group took responsibility for the attack, but the GIA was suspected of being behind the attack. However, unlike this bombing, the group had claimed all the bombings in the campaign.\n\n==See also==\n* 1995 France bombings\n\n== References ==",
+    "links": [
+        {
+            "title": "Improvised explosive device",
+            "text": "IED",
+            "start": 22,
+            "end": 25,
+            "id": "265112"
+        },
+        {
+            "title": "Port-Royal station",
+            "text": "Gare de Port-Royal",
+            "start": 68,
+            "end": 86,
+            "id": "2650490"
+        },
+        {
+            "title": "R\u00e9seau Express R\u00e9gional",
+            "text": "R\u00e9seau Express R\u00e9gional",
+            "start": 87,
+            "end": 110,
+            "id": "172174"
+        },
+        {
+            "title": "French people",
+            "text": "French",
+            "start": 181,
+            "end": 187,
+            "id": "962731"
+        },
+        {
+            "title": "Moroccans in France",
+            "text": "Moroccan",
+            "start": 200,
+            "end": 208,
+            "id": "43498585"
+        },
+        {
+            "title": "Canadians in France",
+            "text": "Canadian",
+            "start": 215,
+            "end": 223,
+            "id": "48082078"
+        },
+        {
+            "title": "1995 France bombings",
+            "text": "series of bombings",
+            "start": 359,
+            "end": 377,
+            "id": "590745"
+        },
+        {
+            "title": "Armed Islamic Group of Algeria",
+            "text": "Armed Islamic Group of Algeria",
+            "start": 385,
+            "end": 415,
+            "id": "300210"
+        },
+        {
+            "title": "Law enforcement in France",
+            "text": "police",
+            "start": 441,
+            "end": 447,
+            "id": "1148696"
+        },
+        {
+            "title": "French Army",
+            "text": "army",
+            "start": 452,
+            "end": 456,
+            "id": "611740"
+        },
+        {
+            "title": "1995 France bombings",
+            "text": "1995 France bombings",
+            "start": 729,
+            "end": 749,
+            "id": "590745"
+        }
+    ],
+    "_chunk_id": "b_14838264636-14846279006"
+}

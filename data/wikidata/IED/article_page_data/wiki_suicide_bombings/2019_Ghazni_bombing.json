@@ -1,0 +1,80 @@
+{
+    "_id": "61241409",
+    "id": "61241409",
+    "title": "2019 Ghazni bombing",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "== See also ==",
+            "start": 171,
+            "end": 185
+        },
+        {
+            "text": "== References ==",
+            "start": 228,
+            "end": 244
+        }
+    ],
+    "categories": [
+        "2019 murders in Afghanistan",
+        "21st century in Ghazni Province",
+        "21st-century mass murder in Afghanistan",
+        "Attacks on buildings and structures in Afghanistan",
+        "Islamic terrorist incidents in 2019",
+        "July 2019 crimes in Asia",
+        "July 2019 events in Afghanistan",
+        "Mass murder in 2019",
+        "Suicide bombings in 2019",
+        "Suicide car and truck bombings in Afghanistan",
+        "Taliban bombings",
+        "Terrorist incidents in Afghanistan in 2019"
+    ],
+    "infobox": "{{Infobox civilian attack\n| title         = 2019 Ghazni bombing\n| location      = [[Ghazni]], [[Afghanistan]]\n| date          = 7 July 2019\n| type          = [[suicide attack|Suicide]] [[car bomb]]\n| fatalities    = 14 (+1 perpetrator)\n| injuries      = 180\n| perpetrators  = {{flagdeco|Afghanistan|Taliban}} [[Taliban]]\n}}",
+    "article": "A suicide car bombing occurred in Ghazni, Afghanistan on 7 July 2019. It killed 14 people and injured another 180. The Taliban has claimed responsibility for the attack.\n\n== See also ==\n*July 2019 Kabul attack (disambiguation)\n\n== References ==",
+    "links": [
+        {
+            "title": "Suicide attack",
+            "text": "suicide",
+            "start": 2,
+            "end": 9,
+            "id": "18835454"
+        },
+        {
+            "title": "Car bomb",
+            "text": "car bomb",
+            "start": 10,
+            "end": 18,
+            "id": "155282"
+        },
+        {
+            "title": "Ghazni",
+            "text": "Ghazni",
+            "start": 34,
+            "end": 40,
+            "id": "370315"
+        },
+        {
+            "title": "Afghanistan",
+            "text": "Afghanistan",
+            "start": 42,
+            "end": 53,
+            "id": "737"
+        },
+        {
+            "title": "Taliban",
+            "text": "Taliban",
+            "start": 119,
+            "end": 126,
+            "id": "30635"
+        },
+        {
+            "title": "July 2019 Kabul attack",
+            "text": "July 2019 Kabul attack (disambiguation)",
+            "start": 187,
+            "end": 226,
+            "id": "61407732"
+        }
+    ],
+    "_chunk_id": "b_17665024053-17672361659"
+}

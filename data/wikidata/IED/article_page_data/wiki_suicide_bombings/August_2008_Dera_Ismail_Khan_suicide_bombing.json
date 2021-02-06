@@ -1,0 +1,135 @@
+{
+    "_id": "53449743",
+    "id": "53449743",
+    "title": "August 2008 Dera Ismail Khan suicide bombing",
+    "redirect": null,
+    "disambiguation": false,
+    "sections": [
+        {
+            "text": "== Events ==",
+            "start": 259,
+            "end": 271
+        },
+        {
+            "text": "=== Bombing ===",
+            "start": 273,
+            "end": 288
+        },
+        {
+            "text": "=== Aftermath ===",
+            "start": 563,
+            "end": 580
+        },
+        {
+            "text": "== Reactions ==",
+            "start": 864,
+            "end": 879
+        },
+        {
+            "text": "=== Shia Community ===",
+            "start": 880,
+            "end": 902
+        },
+        {
+            "text": "===Perpetrators===",
+            "start": 1003,
+            "end": 1021
+        },
+        {
+            "text": "=== Victim's memorial ceremony ===",
+            "start": 1461,
+            "end": 1495
+        },
+        {
+            "text": "==References==",
+            "start": 1716,
+            "end": 1730
+        }
+    ],
+    "categories": [
+        "Suicide bombings in 2008",
+        "21st-century mass murder in Pakistan",
+        "Terrorist incidents in Dera Ismail Khan",
+        "Tehrik-i-Taliban Pakistan attacks",
+        "Terrorist incidents in Pakistan in 2008",
+        "August 2008 events in Asia",
+        "Islamic terrorist incidents in 2008",
+        "Suicide bombings in Pakistan",
+        "Attacks on hospitals"
+    ],
+    "infobox": "{{Infobox civilian attack\n| title = 2008 Dera Ismail Khan suicide bombing\n| partof = [[War in North-West Pakistan]]\n| map = {{Location map|Dera Ismail Khan#Khyber Pakhtunkhwa#Pakistan|lat_deg=31.822221|lon_deg=70.911448|label=DHQ Hospital|border=none|float=center|}}\n| map_size = \n| map_caption = \n| location = District Head Quarter Hospital, [[Dera Ismail Khan]], [[Khyber Pakhtunkhwa]], [[Pakistan]]\n| target = [[Shia]] protesters\n| coordinates = {{coords|31|49|20.6508|N|70|54|41.2128|E}}\n| date = August 19, 2008\n| time = \n| timezone = \n| type = [[Suicide attack]] \n| fatalities = 32 (+1 attacker)\n| injuries = 55\n| victims = [[Shia]] protesters and [[Police|Police officers]] (at the spot)\n| perpetrators = [[Tehreek-i-Taliban Pakistan]]\n| weapons = [[Explosive belt]]\n| numpart = 1\n| dfens = [[Pakistan Army]]<br>[[Khyber Pakhtunkhwa Police|KPK Police]]\n| motive = Retaliation against [[Battle of Bajaur|Operation Sherdill]] in [[Bajaur Agency]].\n}}",
+    "article": "The August 2008 Dera Ismail Khan suicide bombing took place on 19 August 2008, near the Emergency Ward of District Headquarter Hospital in Dera Ismail Khan, killing 32, including 7 policemen. Tehreek-i-Taliban Pakistan claimed responsibility for the attack.\n\n== Events ==\n\n=== Bombing ===\nEarly in the day of the attack, a Shiite scholar Basit Ali was shot dead by gunmen. Many Shii gathered there to protest his death when a suicide bomber blew himself up in the crowd. The blast created many casualties, including the policemen who were controlling the crowd.\n\n=== Aftermath ===\nThe Army took control of the area. The injured were brought to military and public hospitals. The blast led to fear of eruption between sects, leading many shops, markets and business centers to close. Section 144 was imposed and pillion-riding was banned for an indefinite period.\n\n== Reactions ==\n=== Shia Community ===\nThe Shia community observed a three-day mourning from Wednesday in the city for victims of attack.\n\n===Perpetrators===\nThe spokesman of Tehreek-i-Taliban Pakistan Moulvi Omer claimed responsibility for the attack calling it a retaliation against Operation Sherdill and said that the suicide attacks would continue until the military stopped operations in Swat and Bajaur Agency. However Omer disagreed with public opinion of the motive of attack and said that the attack was not against religioun but was against government authorities and security forces.\n\n=== Victim's memorial ceremony ===\nThree years after the attack, a memorial ceremony to honour the victims was held on 19 August 2011 and was attended by many people, including the relatives of 20 deceased and 25 injured who belonged to the same family.\n\n==References==",
+    "links": [
+        {
+            "title": "August 2008 Dera Ismail Khan suicide bombing",
+            "text": "August 2008 Dera Ismail Khan suicide bombing",
+            "start": 4,
+            "end": 48,
+            "id": "53449743"
+        },
+        {
+            "title": "Emergency department",
+            "text": "Emergency Ward",
+            "start": 88,
+            "end": 102,
+            "id": "177163"
+        },
+        {
+            "title": "Dera Ismail Khan",
+            "text": "Dera Ismail Khan",
+            "start": 139,
+            "end": 155,
+            "id": "696749"
+        },
+        {
+            "title": "Tehrik-i-Taliban Pakistan",
+            "text": "Tehreek-i-Taliban Pakistan",
+            "start": 192,
+            "end": 218,
+            "id": "18953699"
+        },
+        {
+            "title": "Shia Islam",
+            "text": "Shiite",
+            "start": 323,
+            "end": 329,
+            "id": "26961"
+        },
+        {
+            "title": "Shia Islam",
+            "text": "Shii",
+            "start": 378,
+            "end": 382,
+            "id": "26961"
+        },
+        {
+            "title": "Tehrik-i-Taliban Pakistan",
+            "text": "Tehreek-i-Taliban Pakistan",
+            "start": 1039,
+            "end": 1065,
+            "id": "18953699"
+        },
+        {
+            "title": "Battle of Bajaur",
+            "text": "Operation Sherdill",
+            "start": 1149,
+            "end": 1167,
+            "id": "18804184"
+        },
+        {
+            "title": "Swat District",
+            "text": "Swat",
+            "start": 1258,
+            "end": 1262,
+            "id": "1236283"
+        },
+        {
+            "title": "Bajaur District",
+            "text": "Bajaur Agency",
+            "start": 1267,
+            "end": 1280,
+            "id": "4461891"
+        }
+    ],
+    "_chunk_id": "b_15916431175-15924288067"
+}
