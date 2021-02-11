@@ -1,0 +1,53 @@
+{
+    "ArtifactExistence.ManufactureAssemble.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.7,
+        "Contact.Contact.Meet": 0.1,
+        "Transaction.ExchangeBuySell.Unspecified": 0.1,
+        "ArtifactExistence.ManufactureAssemble.Unspecified": 0.1
+    },
+    "Contact.Contact.Meet": {
+        "Contact.Contact.Unspecified": 0.4,
+        "Contact.Contact.Meet": 0.2,
+        "Movement.Transportation.Unspecified": 0.4
+    },
+    "Movement.Transportation.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.76,
+        "Contact.Contact.Meet": 0.12,
+        "Contact.Contact.Unspecified": 0.04,
+        "Transaction.ExchangeBuySell.Unspecified": 0.08
+    },
+    "Personnel.StartPosition.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.5,
+        "ArtifactExistence.ManufactureAssemble.Unspecified": 0.5
+    },
+    "Contact.Contact.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.5,
+        "Transaction.ExchangeBuySell.Unspecified": 0.25,
+        "Contact.Contact.Correspondence": 0.25
+    },
+    "Transaction.ExchangeBuySell.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 0.55,
+        "Movement.Transportation.Unspecified": 0.15,
+        "Contact.Contact.Unspecified": 0.2,
+        "Conflict.Attack.Unspecified": 0.05,
+        "Personnel.StartPosition.Unspecified": 0.05
+    },
+    "Contact.Contact.Correspondence": {
+        "Contact.Contact.Correspondence": 0.5,
+        "Transaction.ExchangeBuySell.Unspecified": 0.16666666666666666,
+        "Movement.Transportation.Evacuation": 0.16666666666666666,
+        "Contact.Contact.Unspecified": 0.16666666666666666
+    },
+    "Conflict.Attack.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 0.625,
+        "Contact.Contact.Unspecified": 0.125,
+        "Movement.Transportation.Unspecified": 0.125,
+        "Conflict.Attack.Unspecified": 0.125
+    },
+    "Movement.Transportation.Evacuation": {
+        "Transaction.ExchangeBuySell.Unspecified": 1.0
+    },
+    "Personnel.EndPosition.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 1.0
+    }
+}

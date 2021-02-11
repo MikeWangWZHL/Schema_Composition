@@ -1,0 +1,83 @@
+{
+    "Contact.Contact.Meet": {
+        "Transaction.ExchangeBuySell.Unspecified": 0.09090909090909091,
+        "Movement.Transportation.Unspecified": 0.7,
+        "Personnel.StartPosition.Unspecified": 0.045454545454545456,
+        "Contact.Contact.Meet": 0.12727272727272726,
+        "Contact.Contact.Correspondence": 0.01818181818181818,
+        "Movement.Transportation.Evacuation": 0.01818181818181818
+    },
+    "Personnel.StartPosition.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.21212121212121213,
+        "Contact.Contact.Meet": 0.21212121212121213,
+        "Personnel.StartPosition.Unspecified": 0.15151515151515152,
+        "Transaction.ExchangeBuySell.Unspecified": 0.2727272727272727,
+        "Contact.Contact.Correspondence": 0.12121212121212122,
+        "Movement.Transportation.Evacuation": 0.030303030303030304
+    },
+    "Movement.Transportation.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.7346200241254524,
+        "Contact.Contact.Meet": 0.10494571773220748,
+        "Contact.Contact.Correspondence": 0.013268998793727383,
+        "Transaction.ExchangeBuySell.Unspecified": 0.10494571773220748,
+        "Personnel.StartPosition.Unspecified": 0.007237635705669481,
+        "Cognitive.Inspection.SensoryObserve": 0.0036188178528347406,
+        "Contact.RequestCommand.Unspecified": 0.0012062726176115801,
+        "Movement.Transportation.Evacuation": 0.027744270205066344,
+        "Contact.Contact.Broadcast": 0.0024125452352231603
+    },
+    "Transaction.ExchangeBuySell.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.7428571428571429,
+        "Personnel.StartPosition.Unspecified": 0.012244897959183673,
+        "Contact.Contact.Correspondence": 0.0163265306122449,
+        "Contact.Contact.Meet": 0.07755102040816327,
+        "Transaction.ExchangeBuySell.Unspecified": 0.11836734693877551,
+        "Movement.Transportation.Evacuation": 0.0326530612244898
+    },
+    "ArtifactExistence.ManufactureAssemble.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 0.3333333333333333,
+        "Movement.Transportation.Unspecified": 0.6666666666666666
+    },
+    "Contact.RequestCommand.Meet": {
+        "Movement.Transportation.Unspecified": 1.0
+    },
+    "Movement.Transportation.Evacuation": {
+        "Movement.Transportation.Unspecified": 0.7117117117117117,
+        "Movement.Transportation.Evacuation": 0.036036036036036036,
+        "Transaction.ExchangeBuySell.Unspecified": 0.11711711711711711,
+        "Conflict.Attack.Unspecified": 0.009009009009009009,
+        "Personnel.StartPosition.Unspecified": 0.009009009009009009,
+        "ArtifactExistence.DamageDestroyDisableDismantle.Damage": 0.009009009009009009,
+        "Contact.Contact.Meet": 0.10810810810810811
+    },
+    "Justice.ArrestJailDetain.Unspecified": {
+        "Conflict.Attack.Unspecified": 1.0
+    },
+    "Conflict.Attack.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.6666666666666666,
+        "Contact.Contact.Meet": 0.06666666666666667,
+        "Movement.Transportation.Evacuation": 0.06666666666666667,
+        "Transaction.ExchangeBuySell.Unspecified": 0.06666666666666667,
+        "Personnel.StartPosition.Unspecified": 0.06666666666666667,
+        "Life.Die.Unspecified": 0.06666666666666667
+    },
+    "Contact.RequestCommand.Unspecified": {
+        "Movement.Transportation.Unspecified": 1.0
+    },
+    "ArtifactExistence.DamageDestroyDisableDismantle.Damage": {
+        "Movement.Transportation.Unspecified": 0.5,
+        "Transaction.ExchangeBuySell.Unspecified": 0.5
+    },
+    "Life.Die.Unspecified": {
+        "Movement.Transportation.Unspecified": 1.0
+    },
+    "Contact.Contact.Broadcast": {
+        "Transaction.ExchangeBuySell.Unspecified": 1.0
+    },
+    "Contact.Contact.Correspondence": {
+        "Movement.Transportation.Unspecified": 0.75,
+        "Movement.Transportation.Evacuation": 0.03571428571428571,
+        "Transaction.ExchangeBuySell.Unspecified": 0.10714285714285714,
+        "Contact.Contact.Meet": 0.10714285714285714
+    }
+}

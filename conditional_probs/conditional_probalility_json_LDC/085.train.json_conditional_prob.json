@@ -1,0 +1,172 @@
+{
+    "Personnel.StartPosition.Unspecified": {
+        "Conflict.Attack.Unspecified": 0.09090909090909091,
+        "Transaction.ExchangeBuySell.Unspecified": 0.13636363636363635,
+        "Movement.Transportation.Unspecified": 0.5,
+        "Contact.Contact.Unspecified": 0.045454545454545456,
+        "Contact.Contact.Meet": 0.045454545454545456,
+        "Contact.Contact.Correspondence": 0.09090909090909091,
+        "Justice.ArrestJailDetain.Unspecified": 0.045454545454545456,
+        "Life.Die.Unspecified": 0.045454545454545456
+    },
+    "Life.Die.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 0.03773584905660377,
+        "Contact.Contact.Unspecified": 0.05660377358490566,
+        "Justice.TrialHearing.Unspecified": 0.05660377358490566,
+        "Justice.ArrestJailDetain.Unspecified": 0.03773584905660377,
+        "Movement.Transportation.Unspecified": 0.5094339622641509,
+        "Contact.Contact.Correspondence": 0.05660377358490566,
+        "Conflict.Attack.Unspecified": 0.05660377358490566,
+        "Conflict.Demonstrate.Unspecified": 0.018867924528301886,
+        "Contact.Contact.Broadcast": 0.03773584905660377,
+        "Justice.ChargeIndict.Unspecified": 0.03773584905660377,
+        "Personnel.EndPosition.Unspecified": 0.018867924528301886,
+        "Contact.Contact.Meet": 0.018867924528301886,
+        "Justice.ReleaseParole.Unspecified": 0.018867924528301886,
+        "Justice.Acquit.Unspecified": 0.018867924528301886,
+        "Life.Die.Unspecified": 0.018867924528301886
+    },
+    "Transaction.ExchangeBuySell.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 0.07317073170731707,
+        "Contact.Contact.Broadcast": 0.0975609756097561,
+        "Justice.TrialHearing.Unspecified": 0.07317073170731707,
+        "Justice.ArrestJailDetain.Unspecified": 0.12195121951219512,
+        "Movement.Transportation.Unspecified": 0.34146341463414637,
+        "Conflict.Attack.Unspecified": 0.07317073170731707,
+        "Contact.Contact.Unspecified": 0.07317073170731707,
+        "GenericCrime.GenericCrime.GenericCrime": 0.024390243902439025,
+        "Contact.Contact.Correspondence": 0.04878048780487805,
+        "Contact.Contact.Meet": 0.024390243902439025,
+        "Personnel.EndPosition.Unspecified": 0.024390243902439025,
+        "Life.Injure.Unspecified": 0.024390243902439025
+    },
+    "Contact.Contact.Correspondence": {
+        "Contact.Contact.Broadcast": 0.038461538461538464,
+        "Justice.TrialHearing.Unspecified": 0.07692307692307693,
+        "Justice.ArrestJailDetain.Unspecified": 0.07692307692307693,
+        "Contact.Contact.Unspecified": 0.038461538461538464,
+        "Contact.Contact.Correspondence": 0.19230769230769232,
+        "Movement.Transportation.Unspecified": 0.5,
+        "Justice.InvestigateCrime.Unspecified": 0.038461538461538464,
+        "Justice.ChargeIndict.Unspecified": 0.038461538461538464
+    },
+    "Conflict.Attack.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 0.03636363636363636,
+        "Contact.Contact.Broadcast": 0.03636363636363636,
+        "GenericCrime.GenericCrime.GenericCrime": 0.01818181818181818,
+        "Movement.Transportation.Unspecified": 0.5454545454545454,
+        "Conflict.Attack.Unspecified": 0.09090909090909091,
+        "Life.Die.Unspecified": 0.05454545454545454,
+        "Conflict.Demonstrate.Unspecified": 0.01818181818181818,
+        "Justice.InvestigateCrime.Unspecified": 0.01818181818181818,
+        "Contact.Contact.Unspecified": 0.03636363636363636,
+        "Life.Injure.Unspecified": 0.07272727272727272,
+        "Justice.ArrestJailDetain.Unspecified": 0.07272727272727272
+    },
+    "Contact.Contact.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.4166666666666667,
+        "Contact.Contact.Broadcast": 0.08333333333333333,
+        "Justice.TrialHearing.Unspecified": 0.08333333333333333,
+        "Justice.ArrestJailDetain.Unspecified": 0.08333333333333333,
+        "Transaction.ExchangeBuySell.Unspecified": 0.08333333333333333,
+        "Contact.Contact.Correspondence": 0.25
+    },
+    "GenericCrime.GenericCrime.GenericCrime": {
+        "Justice.TrialHearing.Unspecified": 0.3333333333333333,
+        "Justice.ArrestJailDetain.Unspecified": 0.3333333333333333,
+        "Contact.Contact.Broadcast": 0.3333333333333333
+    },
+    "Movement.Transportation.Unspecified": {
+        "Contact.Contact.Broadcast": 0.037037037037037035,
+        "Justice.TrialHearing.Unspecified": 0.010101010101010102,
+        "Justice.ArrestJailDetain.Unspecified": 0.050505050505050504,
+        "Conflict.Attack.Unspecified": 0.04040404040404041,
+        "Movement.Transportation.Unspecified": 0.6161616161616161,
+        "Life.Die.Unspecified": 0.02356902356902357,
+        "Movement.Transportation.Evacuation": 0.013468013468013467,
+        "Control.ImpedeInterfereWith.Unspecified": 0.003367003367003367,
+        "Contact.Contact.Correspondence": 0.08080808080808081,
+        "Transaction.ExchangeBuySell.Unspecified": 0.016835016835016835,
+        "Personnel.EndPosition.Unspecified": 0.026936026936026935,
+        "Contact.Contact.Unspecified": 0.04040404040404041,
+        "Contact.Contact.Meet": 0.02356902356902357,
+        "Justice.InvestigateCrime.Unspecified": 0.010101010101010102,
+        "Life.Injure.Unspecified": 0.006734006734006734
+    },
+    "Contact.Contact.Broadcast": {
+        "Justice.TrialHearing.Unspecified": 0.08333333333333333,
+        "Justice.ArrestJailDetain.Unspecified": 0.16666666666666666,
+        "Personnel.EndPosition.Unspecified": 0.08333333333333333,
+        "Contact.Contact.Unspecified": 0.08333333333333333,
+        "Movement.Transportation.Unspecified": 0.4166666666666667,
+        "Contact.Contact.Correspondence": 0.16666666666666666
+    },
+    "Justice.ArrestJailDetain.Unspecified": {
+        "Justice.TrialHearing.Unspecified": 0.05263157894736842,
+        "Movement.Transportation.Unspecified": 0.47368421052631576,
+        "Contact.Contact.Unspecified": 0.10526315789473684,
+        "Conflict.Attack.Unspecified": 0.05263157894736842,
+        "Justice.ChargeIndict.Unspecified": 0.10526315789473684,
+        "Life.Injure.Unspecified": 0.05263157894736842,
+        "Contact.Contact.Correspondence": 0.05263157894736842,
+        "Justice.ReleaseParole.Unspecified": 0.05263157894736842,
+        "Justice.Acquit.Unspecified": 0.05263157894736842
+    },
+    "Movement.Transportation.Evacuation": {
+        "Movement.Transportation.Unspecified": 0.8,
+        "Movement.Transportation.Evacuation": 0.2
+    },
+    "Control.ImpedeInterfereWith.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.5,
+        "Contact.Contact.Broadcast": 0.5
+    },
+    "Contact.RequestCommand.Unspecified": {
+        "Justice.TrialHearing.Unspecified": 1.0
+    },
+    "Life.Injure.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.6153846153846154,
+        "Contact.Contact.Unspecified": 0.15384615384615385,
+        "Conflict.Attack.Unspecified": 0.07692307692307693,
+        "Justice.ChargeIndict.Unspecified": 0.07692307692307693,
+        "Justice.ArrestJailDetain.Unspecified": 0.07692307692307693
+    },
+    "Contact.Contact.Meet": {
+        "Movement.Transportation.Unspecified": 0.6153846153846154,
+        "Contact.Contact.Correspondence": 0.11538461538461539,
+        "Contact.Contact.Meet": 0.038461538461538464,
+        "Transaction.ExchangeBuySell.Unspecified": 0.038461538461538464,
+        "Contact.Contact.Broadcast": 0.038461538461538464,
+        "Personnel.EndPosition.Unspecified": 0.038461538461538464,
+        "Contact.Contact.Unspecified": 0.038461538461538464,
+        "Justice.ArrestJailDetain.Unspecified": 0.038461538461538464,
+        "Conflict.Demonstrate.Unspecified": 0.038461538461538464
+    },
+    "Conflict.Demonstrate.Unspecified": {
+        "Contact.Contact.Broadcast": 1.0
+    },
+    "Personnel.EndPosition.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.5555555555555556,
+        "Contact.Contact.Correspondence": 0.2222222222222222,
+        "Justice.ArrestJailDetain.Unspecified": 0.1111111111111111,
+        "Contact.Contact.Unspecified": 0.1111111111111111
+    },
+    "Justice.InvestigateCrime.Unspecified": {
+        "Justice.ChargeIndict.Unspecified": 0.5,
+        "Contact.Contact.Broadcast": 0.5
+    },
+    "Justice.TrialHearing.Unspecified": {
+        "Justice.ChargeIndict.Unspecified": 1.0
+    },
+    "Justice.ChargeIndict.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.3333333333333333,
+        "Justice.Acquit.Unspecified": 0.3333333333333333,
+        "Justice.ReleaseParole.Unspecified": 0.3333333333333333
+    },
+    "Justice.Acquit.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.5,
+        "Justice.ReleaseParole.Unspecified": 0.5
+    },
+    "Justice.ReleaseParole.Unspecified": {
+        "Movement.Transportation.Unspecified": 1.0
+    }
+}

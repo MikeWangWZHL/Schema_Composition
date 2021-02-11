@@ -1,0 +1,17 @@
+{
+    "Transaction.ExchangeBuySell.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 0.35,
+        "Justice.InvestigateCrime.Unspecified": 0.05,
+        "ArtifactExistence.ManufactureAssemble.Unspecified": 0.4,
+        "Movement.Transportation.Unspecified": 0.125,
+        "Contact.Contact.Correspondence": 0.075
+    },
+    "ArtifactExistence.ManufactureAssemble.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.4444444444444444,
+        "Contact.Contact.Correspondence": 0.3333333333333333,
+        "ArtifactExistence.ManufactureAssemble.Unspecified": 0.2222222222222222
+    },
+    "Movement.Transportation.Unspecified": {
+        "Movement.Transportation.Unspecified": 1.0
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "Conflict.Demonstrate.Unspecified": {
+        "Contact.Contact.Meet": 1.0
+    },
+    "Contact.Contact.Meet": {
+        "Contact.Contact.Meet": 0.41025641025641024,
+        "Contact.Contact.Correspondence": 0.07692307692307693,
+        "Movement.Transportation.Unspecified": 0.3333333333333333,
+        "Contact.Contact.Unspecified": 0.07692307692307693,
+        "Contact.Contact.Broadcast": 0.05128205128205128,
+        "Transaction.ExchangeBuySell.Unspecified": 0.05128205128205128
+    },
+    "Movement.Transportation.Unspecified": {
+        "Justice.ArrestJailDetain.Unspecified": 0.024390243902439025,
+        "Contact.Contact.Unspecified": 0.12195121951219512,
+        "Contact.Contact.Meet": 0.0975609756097561,
+        "Conflict.Attack.Unspecified": 0.024390243902439025,
+        "Contact.Contact.Correspondence": 0.04878048780487805,
+        "Movement.Transportation.Unspecified": 0.34146341463414637,
+        "Contact.Contact.Broadcast": 0.12195121951219512,
+        "Transaction.ExchangeBuySell.Unspecified": 0.21951219512195122
+    },
+    "Contact.Contact.Unspecified": {
+        "Contact.Contact.Unspecified": 0.125,
+        "Movement.Transportation.Unspecified": 0.25,
+        "Contact.Contact.Meet": 0.25,
+        "Contact.Contact.Correspondence": 0.0625,
+        "Contact.Contact.Broadcast": 0.125,
+        "Transaction.ExchangeBuySell.Unspecified": 0.1875
+    },
+    "Conflict.Attack.Unspecified": {
+        "Contact.Contact.Meet": 0.5833333333333334,
+        "Movement.Transportation.Unspecified": 0.08333333333333333,
+        "Contact.ThreatenCoerce.Unspecified": 0.08333333333333333,
+        "Contact.Contact.Correspondence": 0.08333333333333333,
+        "Conflict.Attack.Unspecified": 0.08333333333333333,
+        "Life.Die.Unspecified": 0.08333333333333333
+    },
+    "Contact.ThreatenCoerce.Unspecified": {
+        "Contact.Contact.Meet": 1.0
+    },
+    "Transaction.ExchangeBuySell.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.38461538461538464,
+        "Transaction.ExchangeBuySell.Unspecified": 0.23076923076923078,
+        "Contact.Contact.Meet": 0.23076923076923078,
+        "Contact.Contact.Broadcast": 0.15384615384615385
+    },
+    "Contact.Contact.Correspondence": {
+        "Contact.Contact.Correspondence": 0.2,
+        "Movement.Transportation.Unspecified": 0.2,
+        "Contact.Contact.Unspecified": 0.2,
+        "Conflict.Attack.Unspecified": 0.2,
+        "Contact.Contact.Broadcast": 0.2
+    },
+    "Contact.Contact.Broadcast": {
+        "Movement.Transportation.Unspecified": 0.5,
+        "Contact.Contact.Unspecified": 0.5
+    },
+    "Life.Die.Unspecified": {
+        "Contact.Contact.Meet": 1.0
+    },
+    "Personnel.StartPosition.Unspecified": {
+        "Contact.Contact.Meet": 1.0
+    }
+}

@@ -347,7 +347,6 @@ def visualize_instance_graph(G, partition = None, save_path = 'partition_vis_tem
         plt.colorbar(nc)
         plt.axis('off')
 
-
     else:
         nx.draw(G, pos, alpha = 0.5, arrowsize = 10, node_size = 200)
     
@@ -380,15 +379,24 @@ def visualize_instance_graph(G, partition = None, save_path = 'partition_vis_tem
 # print('========================================================')
 # print(count_multihop_overlapping_arg(G,0,2,hop = 1))
 # quit()
-
+'''some util'''
 def bool_arg(bool_str):
     if bool_str in ['False', 'false', 'f', 'no', 'No', 'N']:
         return False
     else:
         return True
+def get_existing_datafiles(input_dir):
+    graph_objects_files = [f for f in listdir(input_dir) if isfile(join(input_dir, f))]
+    datafiles = []
+    for f in graph_objects_files:
+        datafiles.append(f.split('_cluster_')[0])
+    return datafiles
 
 '''usage example'''
 if __name__ == '__main__':
+
+    omited_docs = []
+
     '''set up arg parser'''
     parser = argparse.ArgumentParser(description='graph partition')
     parser.add_argument('-d', '--dataset_name', help='input dataset name', default = 'suicide_ied')
@@ -413,10 +421,13 @@ if __name__ == '__main__':
     output_graph_dir = args['output_graph_pickle_dir']
     if not os.path.exists(output_graph_dir):
         os.makedirs(output_graph_dir)
-    if not os.path.exists(join(output_graph_dir,'png')):
-        os.makedirs(join(output_graph_dir,'png'))
-    if not os.path.exists(join(output_graph_dir,'graph_objects')):
-        os.makedirs(join(output_graph_dir,'graph_objects'))
+        existing_datafiles = []
+    else:
+        existing_datafiles = get_existing_datafiles(output_graph_dir)
+    # if not os.path.exists(join(output_graph_dir,'png')):
+    #     os.makedirs(join(output_graph_dir,'png'))
+    # if not os.path.exists(join(output_graph_dir,'graph_objects')):
+    #     os.makedirs(join(output_graph_dir,'graph_objects'))
     
     # using what partition method
     partition_method = args['partition_method']
@@ -459,24 +470,40 @@ if __name__ == '__main__':
         
         if instance_index == 'inf':
             for instance_index in range(len(g_dicts)):
+                # check if graph object exist:
+                if f'{dataset_name}_{phase}_{instance_index}' in existing_datafiles:
+                    print('!!!!!!!!!!!!!!!!')
+                    print(f'skip existing file: {dataset_name}_{phase}_{instance_index}')
+                    print('!!!!!!!!!!!!!!!!')
+                    continue
                 '''create nx graph of the specified instance'''
                 G = create_nx_graph_Event_and_Argument(g_dicts[instance_index])
                 # G = create_nx_graph_Event_Only(g_dicts[0])
                 print(f'  == instance {instance_index} ==')
                 print("graph name: ", G.graph['name'])
                 
+                node_number = G.number_of_nodes()
+                print('node_number: ', node_number)
+
+
+                # omit huge graphs: 
+                if node_number > 1000:
+                    omited_docs.append(f'{dataset_file}_instance_{instance_index}')
+                    continue
+                
+                # default partition method as girvan newman 
+                partition_method = 'girvan_newman'
+                if node_number > 500:
+                    partition_method = 'spectral_clustering'
+
                 if partition_method == 'girvan_newman':
                     # stopping criteria, should be related to graph size:
-                    node_number = G.number_of_nodes()
-                    print('node_number: ', node_number)
-                    K = int(node_number/4)
+                    K = int(node_number/5)
                     print(f'stop at {K}')
-
                 elif partition_method == 'spectral_clustering':
-                    node_number = G.number_of_nodes()
-                    print('node_number: ', node_number)
-                    max_cluster_num = int(node_number/4)
+                    max_cluster_num = int(node_number/5)
                     print('max cluster num: ', max_cluster_num)
+
 
                 print(f'number of hops: {hop_num} with discount {DISCOUNT}\n')
                 print("graph filtering criteria: if keep single event episode? ", if_keep_single_event_episode)
@@ -525,6 +552,10 @@ if __name__ == '__main__':
                         partitions.append(spectral_clustering(G, weight_keyword = 'score', cluster_num = cluster_num, save_visualization_path = None))
                     
                 partitions_with_modularity = []
+                # edge case 
+                if partitions == []:
+                    continue
+
                 for partition in partitions:
                     # print('partition: ', partition)
                     # print('--------------')
@@ -537,6 +568,11 @@ if __name__ == '__main__':
                 '''sort based on modularity score'''
                 sorted_partitions_with_modularity = sorted(partitions_with_modularity, key = lambda p : p[1], reverse = True)
                 # print('highest modularity partition: ', sorted_partitions_with_modularity[0][0])
+                
+                # edge case
+                if partitions_with_modularity == [] or partitions_with_modularity[0] == []:
+                    continue
+                
                 highest_score_cluster_num = len(sorted_partitions_with_modularity[0][0])
                 print(f'\n\nhighest modularity partition community number: {highest_score_cluster_num}, modularity: {sorted_partitions_with_modularity[0][1]}')
                 '''get highest moduality partition'''
@@ -544,11 +580,12 @@ if __name__ == '__main__':
 
                 '''filter parition'''
                 filtered_best_partition = filter_partition(G,best_partition, if_keep_single_event_episode = if_keep_single_event_episode)
-                
+                highest_score_filtered_cluster_num = len(filtered_best_partition)
                 
                 '''save graph'''
                 G_with_partition = add_node_group_attr(G, filtered_best_partition)
-                save_object_path = join(join(output_graph_dir,'graph_objects'),f'{dataset_file}_{instance_index}.pickle')
+                # save_object_path = join(join(output_graph_dir,'graph_objects'),f'{dataset_file}_{instance_index}.pickle')
+                save_object_path = join(output_graph_dir,f'{dataset_file}_{instance_index}_cluster_{highest_score_filtered_cluster_num}.pickle')
                 nx.write_gpickle(G_with_partition, save_object_path)
 
                 '''visualize subgraphs'''
@@ -558,14 +595,19 @@ if __name__ == '__main__':
                 #     visualize_partition(G, filtered_best_partition, save_path = f'./png/{dataset_name}_{phase}_{instance_index}_hop_{hop_num}_discount_{DISCOUNT}.png',if_show_edge_type = True)
 
                 '''visualize instance graph with partition'''
-                G_event_only = create_nx_graph_Event_Only(g_dicts[instance_index])
-                filtered_best_event_partition = get_event_node_partition(G, filtered_best_partition)
-                assert len(filtered_best_partition) == len(filtered_best_event_partition)
-                if partition_method == 'girvan_newman':
-                    visualize_instance_graph(G_event_only, partition = filtered_best_event_partition, save_path = f'{output_graph_dir}/png/{partition_method}_{dataset_name}_{phase}_{instance_index}_hop_{hop_num}_discount_{DISCOUNT}_cluster_{highest_score_cluster_num}.png')
-                elif partition_method == 'spectral_clustering':
-                    visualize_instance_graph(G_event_only, partition = filtered_best_event_partition, save_path = f'{output_graph_dir}/png/{partition_method}_{dataset_name}_{phase}_{instance_index}_hop_{hop_num}_discount_{DISCOUNT}_cluster_{highest_score_cluster_num}.png')
+                # G_event_only = create_nx_graph_Event_Only(g_dicts[instance_index])
+                # filtered_best_event_partition = get_event_node_partition(G, filtered_best_partition)
+                # assert len(filtered_best_partition) == len(filtered_best_event_partition)
+                # if partition_method == 'girvan_newman':
+                #     visualize_instance_graph(G_event_only, partition = filtered_best_event_partition, save_path = f'{output_graph_dir}/png/{partition_method}_{dataset_name}_{phase}_{instance_index}_hop_{hop_num}_discount_{DISCOUNT}_cluster_{highest_score_filtered_cluster_num}.png')
+                # elif partition_method == 'spectral_clustering':
+                #     visualize_instance_graph(G_event_only, partition = filtered_best_event_partition, save_path = f'{output_graph_dir}/png/{partition_method}_{dataset_name}_{phase}_{instance_index}_hop_{hop_num}_discount_{DISCOUNT}_cluster_{highest_score_filtered_cluster_num}.png')
                 
                 '''convert to UoF format json'''
                 # add_event_node_group_attr(G_event_only, filtered_best_event_partition)
-                # convert_to_UoF_format(G_event_only, using_group = True, output_json_path = f'./vis_json_UoF/{partition_method}_UoF_json_{dataset_name}_{phase}_{instance_index}_cluster_{highest_score_cluster_num}.json')
+                # convert_to_UoF_format(G_event_only, using_group = True, output_json_path = f'./vis_json_UoF/{partition_method}_UoF_json_{dataset_name}_{phase}_{instance_index}_cluster_{highest_score_filtered_cluster_num}.json')
+    
+    with open(join(output_graph_dir,'omited_docs.txt'), 'w') as out:
+        for line in omited_docs:
+            out.write(line)
+            out.write('\n')

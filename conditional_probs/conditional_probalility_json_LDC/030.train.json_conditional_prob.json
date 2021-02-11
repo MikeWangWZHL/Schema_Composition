@@ -1,0 +1,70 @@
+{
+    "Conflict.Attack.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.5135135135135135,
+        "Contact.Contact.Meet": 0.02702702702702703,
+        "Conflict.Attack.Unspecified": 0.24324324324324326,
+        "Conflict.Attack.DetonateExplode": 0.02702702702702703,
+        "Life.Die.Unspecified": 0.10810810810810811,
+        "Contact.Contact.Unspecified": 0.05405405405405406,
+        "Conflict.Defeat.Unspecified": 0.02702702702702703
+    },
+    "Movement.Transportation.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.7868852459016393,
+        "Life.Injure.Unspecified": 0.06557377049180328,
+        "Conflict.Attack.Unspecified": 0.04918032786885246,
+        "Contact.Contact.Meet": 0.03278688524590164,
+        "Contact.Contact.Broadcast": 0.01639344262295082,
+        "Contact.Contact.Unspecified": 0.03278688524590164,
+        "Life.Die.Unspecified": 0.01639344262295082
+    },
+    "Movement.Transportation.Evacuation": {
+        "Movement.Transportation.Unspecified": 0.875,
+        "Life.Injure.Unspecified": 0.125
+    },
+    "Contact.Contact.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.5,
+        "Personnel.EndPosition.Unspecified": 0.5
+    },
+    "Life.Die.Unspecified": {
+        "Life.Die.Unspecified": 0.1,
+        "Conflict.Attack.Unspecified": 0.4,
+        "Movement.Transportation.Unspecified": 0.4,
+        "Contact.Contact.Correspondence": 0.1
+    },
+    "Medical.Intervention.Unspecified": {
+        "Conflict.Attack.Unspecified": 1.0
+    },
+    "Life.Injure.Unspecified": {
+        "Movement.Transportation.Unspecified": 1.0
+    },
+    "GenericCrime.GenericCrime.GenericCrime": {
+        "Contact.Contact.Broadcast": 0.3333333333333333,
+        "ArtifactExistence.ManufactureAssemble.Unspecified": 0.6666666666666666
+    },
+    "Contact.Contact.Broadcast": {
+        "Contact.Contact.Unspecified": 0.3333333333333333,
+        "Movement.Transportation.Evacuation": 0.3333333333333333,
+        "ArtifactExistence.ManufactureAssemble.Unspecified": 0.3333333333333333
+    },
+    "ArtifactExistence.ManufactureAssemble.Unspecified": {
+        "Contact.Contact.Unspecified": 0.3333333333333333,
+        "Contact.Contact.Broadcast": 0.3333333333333333,
+        "Movement.Transportation.Unspecified": 0.3333333333333333
+    },
+    "Contact.ThreatenCoerce.Unspecified": {
+        "Conflict.Attack.Unspecified": 1.0
+    },
+    "Conflict.Demonstrate.Unspecified": {
+        "Conflict.Attack.Unspecified": 1.0
+    },
+    "Cognitive.IdentifyCategorize.Unspecified": {
+        "Contact.Contact.Unspecified": 0.5,
+        "Movement.Transportation.Unspecified": 0.5
+    },
+    "Contact.RequestCommand.Unspecified": {
+        "Contact.RequestCommand.Unspecified": 1.0
+    },
+    "Contact.Contact.Meet": {
+        "Contact.RequestCommand.Unspecified": 1.0
+    }
+}

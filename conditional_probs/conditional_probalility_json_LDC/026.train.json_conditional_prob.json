@@ -1,0 +1,20 @@
+{
+    "Control.ImpedeInterfereWith.Unspecified": {
+        "Contact.Contact.Meet": 1.0
+    },
+    "Contact.Contact.Meet": {
+        "Contact.Contact.Meet": 0.5,
+        "Conflict.Demonstrate.Unspecified": 0.25,
+        "Contact.Contact.Unspecified": 0.25
+    },
+    "Contact.Contact.Correspondence": {
+        "Contact.Contact.Correspondence": 1.0
+    },
+    "Transaction.ExchangeBuySell.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 0.8,
+        "Conflict.Attack.Unspecified": 0.2
+    },
+    "Conflict.Attack.Unspecified": {
+        "Conflict.Attack.Unspecified": 1.0
+    }
+}

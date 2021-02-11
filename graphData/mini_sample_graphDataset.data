@@ -1,0 +1,22 @@
+t # 0
+v 0 A
+v 1 B
+v 3 C
+v 2 D
+e 0 1 a
+e 1 2 a
+e 0 3 a
+e 3 2 a
+t # 1
+v 0 A
+v 1 B
+v 2 D
+e 0 1 a
+e 1 2 a
+t # 2
+v 0 A
+v 1 C
+v 2 D
+e 0 1 a
+e 1 2 a
+t # -1

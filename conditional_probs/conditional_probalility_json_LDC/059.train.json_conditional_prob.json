@@ -1,0 +1,13 @@
+{
+    "Movement.Transportation.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 0.4,
+        "Movement.Transportation.Unspecified": 0.6
+    },
+    "Transaction.ExchangeBuySell.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 0.5555555555555556,
+        "Contact.Contact.Unspecified": 0.4444444444444444
+    },
+    "Contact.Contact.Unspecified": {
+        "Movement.Transportation.Unspecified": 1.0
+    }
+}

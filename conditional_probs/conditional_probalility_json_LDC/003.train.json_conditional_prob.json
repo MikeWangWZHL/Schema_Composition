@@ -1,0 +1,41 @@
+{
+    "Transaction.ExchangeBuySell.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 0.14285714285714285,
+        "Contact.Contact.Unspecified": 0.14285714285714285,
+        "Justice.ArrestJailDetain.Unspecified": 0.2857142857142857,
+        "Conflict.Attack.Unspecified": 0.14285714285714285,
+        "Movement.Transportation.Unspecified": 0.2857142857142857
+    },
+    "Contact.Contact.Meet": {
+        "Contact.Contact.Unspecified": 0.6666666666666666,
+        "Movement.Transportation.Unspecified": 0.16666666666666666,
+        "Conflict.Demonstrate.Unspecified": 0.16666666666666666
+    },
+    "Movement.Transportation.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.7619047619047619,
+        "Justice.ArrestJailDetain.Unspecified": 0.14285714285714285,
+        "Conflict.Attack.Unspecified": 0.09523809523809523
+    },
+    "Contact.Contact.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.3333333333333333,
+        "Contact.Contact.Meet": 0.3333333333333333,
+        "Contact.Contact.Unspecified": 0.3333333333333333
+    },
+    "Conflict.Demonstrate.Unspecified": {
+        "Conflict.Demonstrate.Unspecified": 0.2,
+        "Justice.ArrestJailDetain.Unspecified": 0.2,
+        "Transaction.ExchangeBuySell.Unspecified": 0.2,
+        "Movement.Transportation.Unspecified": 0.4
+    },
+    "Life.Die.Unspecified": {
+        "Conflict.Demonstrate.Unspecified": 1.0
+    },
+    "ArtifactExistence.ManufactureAssemble.Unspecified": {
+        "Movement.Transportation.Unspecified": 1.0
+    },
+    "Justice.ArrestJailDetain.Unspecified": {
+        "Justice.ArrestJailDetain.Unspecified": 0.25,
+        "Conflict.Attack.Unspecified": 0.5,
+        "Movement.Transportation.Unspecified": 0.25
+    }
+}

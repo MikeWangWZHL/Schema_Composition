@@ -1,0 +1,58 @@
+{
+    "Life.Die.Unspecified": {
+        "Life.Die.Unspecified": 0.8333333333333334,
+        "ArtifactExistence.DamageDestroyDisableDismantle.Destroy": 0.16666666666666666
+    },
+    "Conflict.Attack.Unspecified": {
+        "Life.Die.Unspecified": 0.1111111111111111,
+        "ArtifactExistence.DamageDestroyDisableDismantle.Destroy": 0.07407407407407407,
+        "Conflict.Attack.Unspecified": 0.037037037037037035,
+        "Transaction.ExchangeBuySell.Unspecified": 0.37037037037037035,
+        "Movement.Transportation.Unspecified": 0.3333333333333333,
+        "Contact.Contact.Correspondence": 0.07407407407407407
+    },
+    "Transaction.ExchangeBuySell.Unspecified": {
+        "Transaction.Donation.Unspecified": 0.022222222222222223,
+        "Transaction.ExchangeBuySell.Unspecified": 0.4444444444444444,
+        "ArtifactExistence.ManufactureAssemble.Unspecified": 0.022222222222222223,
+        "Movement.Transportation.Unspecified": 0.37777777777777777,
+        "Contact.Contact.Meet": 0.022222222222222223,
+        "Contact.Contact.Unspecified": 0.08888888888888889,
+        "Contact.Contact.Broadcast": 0.022222222222222223
+    },
+    "ArtifactExistence.ManufactureAssemble.Unspecified": {
+        "Transaction.Donation.Unspecified": 0.3333333333333333,
+        "Personnel.StartPosition.Unspecified": 0.3333333333333333,
+        "ArtifactExistence.ManufactureAssemble.Unspecified": 0.3333333333333333
+    },
+    "Movement.Transportation.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.5882352941176471,
+        "Contact.RequestCommand.Unspecified": 0.08823529411764706,
+        "Transaction.ExchangeBuySell.Unspecified": 0.2647058823529412,
+        "Contact.Contact.Meet": 0.029411764705882353,
+        "Personnel.StartPosition.Unspecified": 0.029411764705882353
+    },
+    "Contact.Contact.Meet": {
+        "Movement.Transportation.Unspecified": 0.5,
+        "Contact.RequestCommand.Unspecified": 0.5
+    },
+    "ArtifactExistence.DamageDestroyDisableDismantle.Destroy": {
+        "Movement.Transportation.Unspecified": 0.6153846153846154,
+        "Transaction.ExchangeBuySell.Unspecified": 0.3076923076923077,
+        "Conflict.Attack.Unspecified": 0.07692307692307693
+    },
+    "Contact.Contact.Broadcast": {
+        "Contact.Contact.Correspondence": 1.0
+    },
+    "Contact.Contact.Correspondence": {
+        "Movement.Transportation.Unspecified": 0.3076923076923077,
+        "Contact.Contact.Correspondence": 0.38461538461538464,
+        "Contact.Contact.Broadcast": 0.23076923076923078,
+        "Transaction.ExchangeBuySell.Unspecified": 0.07692307692307693
+    },
+    "Contact.Contact.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 0.6,
+        "Contact.Contact.Unspecified": 0.2,
+        "Movement.Transportation.Unspecified": 0.2
+    }
+}

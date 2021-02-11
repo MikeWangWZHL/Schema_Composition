@@ -1,0 +1,45 @@
+{
+    "Contact.Contact.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 0.14285714285714285,
+        "Contact.Contact.Correspondence": 0.5714285714285714,
+        "Contact.Contact.Unspecified": 0.14285714285714285,
+        "Cognitive.Inspection.SensoryObserve": 0.14285714285714285
+    },
+    "Movement.Transportation.Unspecified": {
+        "Contact.Contact.Correspondence": 0.07727272727272727,
+        "Movement.Transportation.Unspecified": 0.7045454545454546,
+        "Contact.Contact.Meet": 0.045454545454545456,
+        "Transaction.ExchangeBuySell.Unspecified": 0.1409090909090909,
+        "Conflict.Attack.Unspecified": 0.01818181818181818,
+        "Justice.ArrestJailDetain.Unspecified": 0.00909090909090909,
+        "Justice.ChargeIndict.Unspecified": 0.004545454545454545
+    },
+    "Transaction.ExchangeBuySell.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.5416666666666666,
+        "Contact.Contact.Correspondence": 0.18055555555555555,
+        "Contact.Contact.Unspecified": 0.041666666666666664,
+        "Contact.Contact.Meet": 0.041666666666666664,
+        "Transaction.ExchangeBuySell.Unspecified": 0.18055555555555555,
+        "Justice.ArrestJailDetain.Unspecified": 0.013888888888888888
+    },
+    "Contact.Contact.Correspondence": {
+        "Contact.Contact.Correspondence": 0.475,
+        "Movement.Transportation.Unspecified": 0.2,
+        "Contact.Contact.Meet": 0.05,
+        "Contact.Contact.Unspecified": 0.275
+    },
+    "Contact.Contact.Meet": {
+        "Contact.Contact.Meet": 0.14285714285714285,
+        "Transaction.ExchangeBuySell.Unspecified": 0.14285714285714285,
+        "Contact.Contact.Correspondence": 0.14285714285714285,
+        "Movement.Transportation.Unspecified": 0.5714285714285714
+    },
+    "Conflict.Attack.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.7272727272727273,
+        "Transaction.ExchangeBuySell.Unspecified": 0.18181818181818182,
+        "Contact.Contact.Meet": 0.09090909090909091
+    },
+    "Justice.ChargeIndict.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 1.0
+    }
+}

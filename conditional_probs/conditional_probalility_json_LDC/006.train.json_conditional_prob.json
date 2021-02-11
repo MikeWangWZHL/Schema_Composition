@@ -1,0 +1,55 @@
+{
+    "Medical.Intervention.Unspecified": {
+        "Life.Die.Unspecified": 0.125,
+        "Justice.ArrestJailDetain.Unspecified": 0.125,
+        "Movement.Transportation.Unspecified": 0.5,
+        "Contact.Contact.Meet": 0.25
+    },
+    "Conflict.Attack.Unspecified": {
+        "Justice.ArrestJailDetain.Unspecified": 0.3333333333333333,
+        "Disaster.DiseaseOutbreak.Unspecified": 0.1111111111111111,
+        "Movement.Transportation.Unspecified": 0.1111111111111111,
+        "Life.Die.Unspecified": 0.1111111111111111,
+        "Conflict.Attack.Unspecified": 0.1111111111111111,
+        "Justice.ReleaseParole.Unspecified": 0.1111111111111111,
+        "Control.ImpedeInterfereWith.Unspecified": 0.1111111111111111
+    },
+    "Life.Die.Unspecified": {
+        "Life.Die.Unspecified": 0.2,
+        "Justice.ArrestJailDetain.Unspecified": 0.2,
+        "Contact.Contact.Unspecified": 0.2,
+        "Justice.ChargeIndict.Unspecified": 0.2,
+        "Movement.Transportation.Unspecified": 0.2
+    },
+    "Disaster.DiseaseOutbreak.Unspecified": {
+        "Life.Die.Unspecified": 0.42857142857142855,
+        "Justice.ArrestJailDetain.Unspecified": 0.14285714285714285,
+        "Movement.Transportation.Unspecified": 0.2857142857142857,
+        "Conflict.Attack.Unspecified": 0.14285714285714285
+    },
+    "Movement.Transportation.Unspecified": {
+        "Justice.ArrestJailDetain.Unspecified": 0.07142857142857142,
+        "Movement.Transportation.Unspecified": 0.5714285714285714,
+        "Medical.Intervention.Unspecified": 0.14285714285714285,
+        "Contact.Contact.Meet": 0.21428571428571427
+    },
+    "Justice.ArrestJailDetain.Unspecified": {
+        "Justice.ReleaseParole.Unspecified": 0.2,
+        "Contact.ThreatenCoerce.Unspecified": 0.2,
+        "Conflict.Attack.Unspecified": 0.2,
+        "Justice.ChargeIndict.Unspecified": 0.2,
+        "Contact.Contact.Correspondence": 0.2
+    },
+    "Contact.Contact.Unspecified": {
+        "Justice.ChargeIndict.Unspecified": 1.0
+    },
+    "Contact.Contact.Correspondence": {
+        "Justice.ReleaseParole.Unspecified": 0.3333333333333333,
+        "Conflict.Attack.Unspecified": 0.3333333333333333,
+        "Contact.ThreatenCoerce.Unspecified": 0.3333333333333333
+    },
+    "Contact.ThreatenCoerce.Unspecified": {
+        "Conflict.Attack.Unspecified": 0.5,
+        "Justice.ReleaseParole.Unspecified": 0.5
+    }
+}

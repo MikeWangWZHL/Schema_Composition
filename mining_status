@@ -1,0 +1,12 @@
+
+dataset: suicide_ied_train
+    ====== config =======
+    vertex upper bound: 4
+    event node only
+    ====== time =======
+    Mine:   498.07 s
+    Total:  498.3 s
+    =============
+    dataset size:  176
+    using min_sup:  88
+    found 160 frequent subgraphs

@@ -24,7 +24,7 @@ def create_nx_graph_Event_Only(input_dict):
     
     return graph_nx
 
-def create_nx_graph_Event_and_Argument(input_dict):
+def create_nx_graph_Event_and_Argument(input_dict, section_label_dict = None):
     # consider Event nodes and Arguments
     graph_g = Graph.from_dict(input_dict)
     graph_nx = nx.DiGraph(name = graph_g.schemas[0].at_id)
@@ -37,7 +37,11 @@ def create_nx_graph_Event_and_Argument(input_dict):
     for order in graph_g.schemas[0].order:
         event_edges_list.append((order.before, order.after))
     for node in event_nodes_list:
-        graph_nx.add_node(node[0],type = node[1], category = 'Event', group = 0)
+        if section_label_dict is None:
+            graph_nx.add_node(node[0],type = node[1], category = 'Event', group = 0)
+        else:
+            episode_label = section_label_dict[node[0]]['episode']
+            graph_nx.add_node(node[0],type = node[1], category = 'Event', group = 0, episode = episode_label)
     graph_nx.add_edges_from(event_edges_list, type = 'Temporal_Order', category = 'Temporal_Order', score = 1)
     
     # add entity nodes

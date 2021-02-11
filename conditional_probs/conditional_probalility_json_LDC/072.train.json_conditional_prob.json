@@ -1,0 +1,71 @@
+{
+    "Movement.Transportation.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.7619047619047619,
+        "Contact.Contact.Unspecified": 0.047619047619047616,
+        "Personnel.StartPosition.Unspecified": 0.047619047619047616,
+        "ArtifactExistence.ManufactureAssemble.Unspecified": 0.047619047619047616,
+        "Personnel.EndPosition.Unspecified": 0.09523809523809523
+    },
+    "Personnel.StartPosition.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.1724137931034483,
+        "Contact.Contact.Unspecified": 0.06896551724137931,
+        "Contact.Contact.Meet": 0.13793103448275862,
+        "Personnel.EndPosition.Unspecified": 0.06896551724137931,
+        "Transaction.ExchangeBuySell.Unspecified": 0.2413793103448276,
+        "Contact.Contact.Correspondence": 0.1724137931034483,
+        "Personnel.StartPosition.Unspecified": 0.10344827586206896,
+        "ArtifactExistence.ManufactureAssemble.Unspecified": 0.034482758620689655
+    },
+    "Contact.Contact.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.23076923076923078,
+        "Personnel.EndPosition.Unspecified": 0.23076923076923078,
+        "Contact.Contact.Unspecified": 0.07692307692307693,
+        "Contact.Contact.Correspondence": 0.15384615384615385,
+        "Personnel.StartPosition.Unspecified": 0.07692307692307693,
+        "Transaction.ExchangeBuySell.Unspecified": 0.23076923076923078
+    },
+    "Life.Injure.Unspecified": {
+        "Contact.Contact.Unspecified": 0.5,
+        "Medical.Intervention.Unspecified": 0.5
+    },
+    "Contact.Contact.Meet": {
+        "Contact.Contact.Correspondence": 0.09090909090909091,
+        "Contact.Contact.Meet": 0.2727272727272727,
+        "Transaction.ExchangeBuySell.Unspecified": 0.2727272727272727,
+        "Personnel.StartPosition.Unspecified": 0.18181818181818182,
+        "ArtifactExistence.ManufactureAssemble.Unspecified": 0.09090909090909091,
+        "Contact.Contact.Broadcast": 0.09090909090909091
+    },
+    "Contact.Contact.Correspondence": {
+        "Contact.Contact.Meet": 0.13636363636363635,
+        "Transaction.ExchangeBuySell.Unspecified": 0.36363636363636365,
+        "Personnel.EndPosition.Unspecified": 0.18181818181818182,
+        "Contact.Contact.Correspondence": 0.09090909090909091,
+        "Personnel.StartPosition.Unspecified": 0.18181818181818182,
+        "ArtifactExistence.ManufactureAssemble.Unspecified": 0.045454545454545456
+    },
+    "Transaction.ExchangeBuySell.Unspecified": {
+        "ArtifactExistence.ManufactureAssemble.Unspecified": 0.037037037037037035,
+        "Transaction.ExchangeBuySell.Unspecified": 0.3888888888888889,
+        "Personnel.EndPosition.Unspecified": 0.09259259259259259,
+        "Personnel.StartPosition.Unspecified": 0.1574074074074074,
+        "Contact.Contact.Meet": 0.05555555555555555,
+        "Contact.Contact.Correspondence": 0.14814814814814814,
+        "Contact.Contact.Unspecified": 0.07407407407407407,
+        "Movement.Transportation.Unspecified": 0.037037037037037035,
+        "Life.Die.Unspecified": 0.009259259259259259
+    },
+    "Personnel.EndPosition.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 0.3584905660377358,
+        "Movement.Transportation.Unspecified": 0.018867924528301886,
+        "Contact.Contact.Unspecified": 0.09433962264150944,
+        "Personnel.EndPosition.Unspecified": 0.11320754716981132,
+        "Personnel.StartPosition.Unspecified": 0.18867924528301888,
+        "Contact.Contact.Meet": 0.11320754716981132,
+        "Contact.Contact.Correspondence": 0.05660377358490566,
+        "ArtifactExistence.ManufactureAssemble.Unspecified": 0.05660377358490566
+    },
+    "ArtifactExistence.ManufactureAssemble.Unspecified": {
+        "Personnel.StartPosition.Unspecified": 1.0
+    }
+}

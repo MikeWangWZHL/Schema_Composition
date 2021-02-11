@@ -1,0 +1,28 @@
+{
+    "Transaction.ExchangeBuySell.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 0.5892857142857143,
+        "Movement.Transportation.Unspecified": 0.26785714285714285,
+        "Cognitive.Inspection.SensoryObserve": 0.125,
+        "Contact.Contact.Unspecified": 0.017857142857142856
+    },
+    "Conflict.Attack.Unspecified": {
+        "Movement.Transportation.Unspecified": 1.0
+    },
+    "Movement.Transportation.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.3333333333333333,
+        "Transaction.ExchangeBuySell.Unspecified": 0.3333333333333333,
+        "Cognitive.Inspection.SensoryObserve": 0.2222222222222222,
+        "Personnel.StartPosition.Unspecified": 0.1111111111111111
+    },
+    "Cognitive.Inspection.SensoryObserve": {
+        "Transaction.ExchangeBuySell.Unspecified": 0.5,
+        "Movement.Transportation.Unspecified": 0.5
+    },
+    "Personnel.StartPosition.Unspecified": {
+        "Contact.Contact.Correspondence": 0.5,
+        "Contact.Contact.Unspecified": 0.5
+    },
+    "Contact.Contact.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 1.0
+    }
+}

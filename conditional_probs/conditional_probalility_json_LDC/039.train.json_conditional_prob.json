@@ -1,0 +1,56 @@
+{
+    "Conflict.Attack.Unspecified": {
+        "Conflict.Demonstrate.Unspecified": 0.14285714285714285,
+        "Personnel.StartPosition.Unspecified": 0.42857142857142855,
+        "Personnel.EndPosition.Unspecified": 0.2857142857142857,
+        "Contact.Contact.Broadcast": 0.14285714285714285
+    },
+    "Movement.Transportation.Unspecified": {
+        "Justice.ArrestJailDetain.Unspecified": 0.3333333333333333,
+        "Conflict.Attack.Unspecified": 0.3333333333333333,
+        "Conflict.Demonstrate.Unspecified": 0.3333333333333333
+    },
+    "Conflict.Demonstrate.Unspecified": {
+        "Contact.Contact.Unspecified": 0.4,
+        "Life.Injure.Unspecified": 0.2,
+        "Conflict.Attack.Unspecified": 0.2,
+        "Justice.ArrestJailDetain.Unspecified": 0.2
+    },
+    "Transaction.ExchangeBuySell.Unspecified": {
+        "Contact.Contact.Broadcast": 1.0
+    },
+    "Contact.Contact.Meet": {
+        "Contact.Contact.Meet": 0.3333333333333333,
+        "Transaction.ExchangeBuySell.Unspecified": 0.3333333333333333,
+        "Contact.Contact.Broadcast": 0.3333333333333333
+    },
+    "ArtifactExistence.ManufactureAssemble.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 1.0
+    },
+    "Movement.Transportation.PreventPassage": {
+        "Control.ImpedeInterfereWith.Unspecified": 1.0
+    },
+    "Contact.Contact.Broadcast": {
+        "Conflict.Attack.Unspecified": 0.25,
+        "GenericCrime.GenericCrime.GenericCrime": 0.25,
+        "Personnel.StartPosition.Unspecified": 0.25,
+        "Personnel.EndPosition.Unspecified": 0.25
+    },
+    "Contact.Contact.Unspecified": {
+        "Contact.Contact.Unspecified": 1.0
+    },
+    "Life.Die.Unspecified": {
+        "Conflict.Demonstrate.Unspecified": 1.0
+    },
+    "GenericCrime.GenericCrime.GenericCrime": {
+        "Conflict.Attack.Unspecified": 1.0
+    },
+    "Personnel.StartPosition.Unspecified": {
+        "Personnel.EndPosition.Unspecified": 0.5714285714285714,
+        "Personnel.StartPosition.Unspecified": 0.42857142857142855
+    },
+    "Personnel.EndPosition.Unspecified": {
+        "Personnel.EndPosition.Unspecified": 0.5,
+        "Personnel.StartPosition.Unspecified": 0.5
+    }
+}

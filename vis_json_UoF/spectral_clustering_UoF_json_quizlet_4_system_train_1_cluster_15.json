@@ -1,0 +1,5385 @@
+{
+    "directed": true,
+    "neighbor_graph": {
+        "directed": true,
+        "graph": {},
+        "links": [
+            {
+                "target": 64,
+                "source": 0,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 59,
+                "source": 0,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 37,
+                "source": 0,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 55,
+                "source": 0,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 51,
+                "source": 0,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 46,
+                "source": 0,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 42,
+                "source": 0,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 19,
+                "source": 1,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 40,
+                "source": 1,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 20,
+                "source": 1,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 30,
+                "source": 1,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 31,
+                "source": 1,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 21,
+                "source": 1,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 48,
+                "source": 2,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 37,
+                "source": 2,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 22,
+                "source": 3,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 67,
+                "source": 3,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 63,
+                "source": 3,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 66,
+                "source": 3,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 23,
+                "source": 3,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 37,
+                "source": 4,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 32,
+                "source": 5,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 24,
+                "source": 5,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 52,
+                "source": 5,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 47,
+                "source": 6,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 37,
+                "source": 6,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 25,
+                "source": 6,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 52,
+                "source": 7,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 57,
+                "source": 7,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 29,
+                "source": 8,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 37,
+                "source": 10,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 43,
+                "source": 10,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 53,
+                "source": 11,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 39,
+                "source": 11,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 35,
+                "source": 11,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 52,
+                "source": 12,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 38,
+                "source": 12,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 57,
+                "source": 12,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 33,
+                "source": 12,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 26,
+                "source": 12,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 34,
+                "source": 13,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 27,
+                "source": 13,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 51,
+                "source": 14,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 37,
+                "source": 14,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 39,
+                "source": 16,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 36,
+                "source": 16,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 28,
+                "source": 16,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 40,
+                "source": 16,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 35,
+                "source": 16,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 53,
+                "source": 17,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 39,
+                "source": 17,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 35,
+                "source": 17,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 28,
+                "source": 17,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 64,
+                "source": 18,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 59,
+                "source": 18,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 67,
+                "source": 19,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 67,
+                "source": 20,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 69,
+                "source": 20,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 40,
+                "source": 20,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 68,
+                "source": 20,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 29,
+                "source": 20,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 30,
+                "source": 21,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 31,
+                "source": 21,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 67,
+                "source": 22,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 63,
+                "source": 23,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 66,
+                "source": 23,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 32,
+                "source": 24,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 37,
+                "source": 25,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 47,
+                "source": 25,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 45,
+                "source": 25,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 52,
+                "source": 26,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 38,
+                "source": 26,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 57,
+                "source": 26,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 33,
+                "source": 26,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 34,
+                "source": 27,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 40,
+                "source": 28,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 39,
+                "source": 28,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 35,
+                "source": 28,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 36,
+                "source": 28,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 37,
+                "source": 31,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 50,
+                "source": 31,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 60,
+                "source": 31,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 56,
+                "source": 31,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 52,
+                "source": 33,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 38,
+                "source": 33,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 57,
+                "source": 33,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 53,
+                "source": 35,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 39,
+                "source": 35,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 40,
+                "source": 36,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 41,
+                "source": 36,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 42,
+                "source": 37,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 43,
+                "source": 37,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 67,
+                "source": 37,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 44,
+                "source": 37,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 54,
+                "source": 37,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 61,
+                "source": 37,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 55,
+                "source": 37,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 45,
+                "source": 37,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 60,
+                "source": 37,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 46,
+                "source": 37,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 47,
+                "source": 37,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 48,
+                "source": 37,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 49,
+                "source": 37,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 50,
+                "source": 37,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 51,
+                "source": 37,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 56,
+                "source": 37,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 64,
+                "source": 37,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 52,
+                "source": 38,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 65,
+                "source": 38,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 53,
+                "source": 39,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 69,
+                "source": 40,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 67,
+                "source": 40,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 68,
+                "source": 40,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 54,
+                "source": 44,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 55,
+                "source": 46,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 67,
+                "source": 49,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 60,
+                "source": 50,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 61,
+                "source": 50,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 56,
+                "source": 50,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 57,
+                "source": 52,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 58,
+                "source": 52,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 67,
+                "source": 52,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 65,
+                "source": 52,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 63,
+                "source": 52,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 66,
+                "source": 52,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 62,
+                "source": 52,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 64,
+                "source": 55,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 59,
+                "source": 55,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 60,
+                "source": 56,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 61,
+                "source": 56,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 62,
+                "source": 57,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 63,
+                "source": 58,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 64,
+                "source": 59,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 67,
+                "source": 63,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 65,
+                "source": 63,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 66,
+                "source": 63,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 67,
+                "source": 65,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 66,
+                "source": 65,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 67,
+                "source": 66,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 69,
+                "source": 67,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 68,
+                "source": 67,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            },
+            {
+                "target": 69,
+                "source": 68,
+                "edge_relation": "Temporal_Order",
+                "edge_provenance": "",
+                "edge_provenance_sentence": [
+                    "place holder"
+                ],
+                "key": 0,
+                "edge_provenance_offset": []
+            }
+        ],
+        "nodes": [
+            {
+                "node_text": "Attack",
+                "node_text_en": "Attack",
+                "node_cluster_id": "Group_1",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0002028",
+                "id": 0,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_1",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Die",
+                "node_text_en": "Die",
+                "node_cluster_id": "Group_2",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0002346",
+                "id": 1,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_2",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "ManufactureAssemble",
+                "node_text_en": "ManufactureAssemble",
+                "node_cluster_id": "Group_3",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0005849",
+                "id": 2,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_3",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "GenericCrime",
+                "node_text_en": "GenericCrime",
+                "node_cluster_id": "Group_4",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0005953",
+                "id": 3,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_4",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Contact",
+                "node_text_en": "Contact",
+                "node_cluster_id": "Group_3",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0007246",
+                "id": 4,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_3",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Transportation",
+                "node_text_en": "Transportation",
+                "node_cluster_id": "Group_5",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0010199",
+                "id": 5,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_5",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Attack",
+                "node_text_en": "Attack",
+                "node_cluster_id": "Group_3",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0010549",
+                "id": 6,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_3",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Die",
+                "node_text_en": "Die",
+                "node_cluster_id": "Group_6",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0016030",
+                "id": 7,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_6",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "ExchangeBuySell",
+                "node_text_en": "ExchangeBuySell",
+                "node_cluster_id": "Group_7",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0019386",
+                "id": 8,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_7",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Injure",
+                "node_text_en": "Injure",
+                "node_cluster_id": "Group_0",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0022942",
+                "id": 9,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_0",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "EndPosition",
+                "node_text_en": "EndPosition",
+                "node_cluster_id": "Group_5",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0022959",
+                "id": 10,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_5",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Transportation",
+                "node_text_en": "Transportation",
+                "node_cluster_id": "Group_8",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0033240",
+                "id": 11,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_8",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Attack",
+                "node_text_en": "Attack",
+                "node_cluster_id": "Group_6",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0033925",
+                "id": 12,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_6",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Transportation",
+                "node_text_en": "Transportation",
+                "node_cluster_id": "Group_2",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0037899",
+                "id": 13,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_2",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Attack",
+                "node_text_en": "Attack",
+                "node_cluster_id": "Group_3",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0042437",
+                "id": 14,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_3",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "ExchangeBuySell",
+                "node_text_en": "ExchangeBuySell",
+                "node_cluster_id": "Group_0",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0046538",
+                "id": 15,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_0",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Transportation",
+                "node_text_en": "Transportation",
+                "node_cluster_id": "Group_5",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0047897",
+                "id": 16,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_5",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Transportation",
+                "node_text_en": "Transportation",
+                "node_cluster_id": "Group_5",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0049404",
+                "id": 17,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_5",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Transportation",
+                "node_text_en": "Transportation",
+                "node_cluster_id": "Group_0",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0049921",
+                "id": 18,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_0",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "StartPosition",
+                "node_text_en": "StartPosition",
+                "node_cluster_id": "Group_3",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0010721",
+                "id": 19,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_3",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "ExchangeBuySell",
+                "node_text_en": "ExchangeBuySell",
+                "node_cluster_id": "Group_7",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0001834",
+                "id": 20,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_7",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "EndPosition",
+                "node_text_en": "EndPosition",
+                "node_cluster_id": "Group_2",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0046885",
+                "id": 21,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_2",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Transportation",
+                "node_text_en": "Transportation",
+                "node_cluster_id": "Group_4",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0016788",
+                "id": 22,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_4",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Transportation",
+                "node_text_en": "Transportation",
+                "node_cluster_id": "Group_4",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0048999",
+                "id": 23,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_4",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Transportation",
+                "node_text_en": "Transportation",
+                "node_cluster_id": "Group_5",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0023495",
+                "id": 24,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_5",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Attack",
+                "node_text_en": "Attack",
+                "node_cluster_id": "Group_3",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0030687",
+                "id": 25,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_3",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Attack",
+                "node_text_en": "Attack",
+                "node_cluster_id": "Group_6",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0022771",
+                "id": 26,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_6",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Transportation",
+                "node_text_en": "Transportation",
+                "node_cluster_id": "Group_2",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0043106",
+                "id": 27,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_2",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Transportation",
+                "node_text_en": "Transportation",
+                "node_cluster_id": "Group_5",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0035370",
+                "id": 28,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_5",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Transportation",
+                "node_text_en": "Transportation",
+                "node_cluster_id": "Group_7",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0013469",
+                "id": 29,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_7",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Transportation",
+                "node_text_en": "Transportation",
+                "node_cluster_id": "Group_5",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0024294",
+                "id": 30,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_5",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "StartPosition",
+                "node_text_en": "StartPosition",
+                "node_cluster_id": "Group_3",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0048695",
+                "id": 31,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_3",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Transportation",
+                "node_text_en": "Transportation",
+                "node_cluster_id": "Group_5",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0022547",
+                "id": 32,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_5",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Attack",
+                "node_text_en": "Attack",
+                "node_cluster_id": "Group_6",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0038536",
+                "id": 33,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_6",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Attack",
+                "node_text_en": "Attack",
+                "node_cluster_id": "Group_2",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0009846",
+                "id": 34,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_2",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Transportation",
+                "node_text_en": "Transportation",
+                "node_cluster_id": "Group_5",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0034538",
+                "id": 35,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_5",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Transportation",
+                "node_text_en": "Transportation",
+                "node_cluster_id": "Group_5",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0028995",
+                "id": 36,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_5",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Attack",
+                "node_text_en": "Attack",
+                "node_cluster_id": "Group_3",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0000269",
+                "id": 37,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_3",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Contact",
+                "node_text_en": "Contact",
+                "node_cluster_id": "Group_4",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0029381",
+                "id": 38,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_4",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Transportation",
+                "node_text_en": "Transportation",
+                "node_cluster_id": "Group_5",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0034319",
+                "id": 39,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_5",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Transportation",
+                "node_text_en": "Transportation",
+                "node_cluster_id": "Group_5",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0002794",
+                "id": 40,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_5",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Transportation",
+                "node_text_en": "Transportation",
+                "node_cluster_id": "Group_0",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0018691",
+                "id": 41,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_0",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "InvestigateCrime",
+                "node_text_en": "InvestigateCrime",
+                "node_cluster_id": "Group_0",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0027283",
+                "id": 42,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_0",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "ArrestJailDetain",
+                "node_text_en": "ArrestJailDetain",
+                "node_cluster_id": "Group_3",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0038133",
+                "id": 43,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_3",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Transportation",
+                "node_text_en": "Transportation",
+                "node_cluster_id": "Group_9",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0011288",
+                "id": 44,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_9",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Injure",
+                "node_text_en": "Injure",
+                "node_cluster_id": "Group_3",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0018902",
+                "id": 45,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_3",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "DamageDestroyDisableDismantle",
+                "node_text_en": "DamageDestroyDisableDismantle",
+                "node_cluster_id": "Group_1",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0013307",
+                "id": 46,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_1",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Injure",
+                "node_text_en": "Injure",
+                "node_cluster_id": "Group_3",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0046715",
+                "id": 47,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_3",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Attack",
+                "node_text_en": "Attack",
+                "node_cluster_id": "Group_3",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0050213",
+                "id": 48,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_3",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Injure",
+                "node_text_en": "Injure",
+                "node_cluster_id": "Group_3",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0047305",
+                "id": 49,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_3",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Attack",
+                "node_text_en": "Attack",
+                "node_cluster_id": "Group_3",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0050533",
+                "id": 50,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_3",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Attack",
+                "node_text_en": "Attack",
+                "node_cluster_id": "Group_1",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0028991",
+                "id": 51,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_1",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Attack",
+                "node_text_en": "Attack",
+                "node_cluster_id": "Group_6",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0000902",
+                "id": 52,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_6",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Contact",
+                "node_text_en": "Contact",
+                "node_cluster_id": "Group_8",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0028961",
+                "id": 53,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_8",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Transportation",
+                "node_text_en": "Transportation",
+                "node_cluster_id": "Group_9",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0039908",
+                "id": 54,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_9",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Crash",
+                "node_text_en": "Crash",
+                "node_cluster_id": "Group_1",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0002382",
+                "id": 55,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_1",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Attack",
+                "node_text_en": "Attack",
+                "node_cluster_id": "Group_3",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0022358",
+                "id": 56,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_3",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "EndPosition",
+                "node_text_en": "EndPosition",
+                "node_cluster_id": "Group_6",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0017439",
+                "id": 57,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_6",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "IdentifyCategorize",
+                "node_text_en": "IdentifyCategorize",
+                "node_cluster_id": "Group_4",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0015948",
+                "id": 58,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_4",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Die",
+                "node_text_en": "Die",
+                "node_cluster_id": "Group_1",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0035063",
+                "id": 59,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_1",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Contact",
+                "node_text_en": "Contact",
+                "node_cluster_id": "Group_3",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0029939",
+                "id": 60,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_3",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Contact",
+                "node_text_en": "Contact",
+                "node_cluster_id": "Group_0",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0044243",
+                "id": 61,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_0",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Attack",
+                "node_text_en": "Attack",
+                "node_cluster_id": "Group_6",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0047645",
+                "id": 62,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_6",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Transportation",
+                "node_text_en": "Transportation",
+                "node_cluster_id": "Group_4",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0002650",
+                "id": 63,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_4",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Contact",
+                "node_text_en": "Contact",
+                "node_cluster_id": "Group_1",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0009448",
+                "id": 64,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_1",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "ThreatenCoerce",
+                "node_text_en": "ThreatenCoerce",
+                "node_cluster_id": "Group_4",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0004284",
+                "id": 65,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_4",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Contact",
+                "node_text_en": "Contact",
+                "node_cluster_id": "Group_4",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0014160",
+                "id": 66,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_4",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "Contact",
+                "node_text_en": "Contact",
+                "node_cluster_id": "Group_4",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0000932",
+                "id": 67,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_4",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "ExchangeBuySell",
+                "node_text_en": "ExchangeBuySell",
+                "node_cluster_id": "Group_4",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0033460",
+                "id": 68,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_4",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            },
+            {
+                "node_text": "ImpedeInterfereWith",
+                "node_text_en": "ImpedeInterfereWith",
+                "node_cluster_id": "Group_7",
+                "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0005465",
+                "id": 69,
+                "is_mention_id": false,
+                "node_provenance": "",
+                "node_cluster_name": "Group_7",
+                "node_start_time_range": ", ",
+                "node_end_time_range": ", ",
+                "node_provenance_string": [],
+                "node_provenance_offset": []
+            }
+        ],
+        "multigraph": true
+    },
+    "links": [
+        {
+            "target": 64,
+            "source": 0,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 59,
+            "source": 0,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 37,
+            "source": 0,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 55,
+            "source": 0,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 51,
+            "source": 0,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 46,
+            "source": 0,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 42,
+            "source": 0,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 19,
+            "source": 1,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 40,
+            "source": 1,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 20,
+            "source": 1,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 30,
+            "source": 1,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 31,
+            "source": 1,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 21,
+            "source": 1,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 48,
+            "source": 2,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 37,
+            "source": 2,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 22,
+            "source": 3,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 67,
+            "source": 3,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 63,
+            "source": 3,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 66,
+            "source": 3,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 23,
+            "source": 3,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 37,
+            "source": 4,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 32,
+            "source": 5,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 24,
+            "source": 5,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 52,
+            "source": 5,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 47,
+            "source": 6,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 37,
+            "source": 6,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 25,
+            "source": 6,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 52,
+            "source": 7,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 57,
+            "source": 7,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 29,
+            "source": 8,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 37,
+            "source": 10,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 43,
+            "source": 10,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 53,
+            "source": 11,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 39,
+            "source": 11,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 35,
+            "source": 11,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 52,
+            "source": 12,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 38,
+            "source": 12,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 57,
+            "source": 12,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 33,
+            "source": 12,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 26,
+            "source": 12,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 34,
+            "source": 13,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 27,
+            "source": 13,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 51,
+            "source": 14,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 37,
+            "source": 14,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 39,
+            "source": 16,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 36,
+            "source": 16,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 28,
+            "source": 16,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 40,
+            "source": 16,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 35,
+            "source": 16,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 53,
+            "source": 17,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 39,
+            "source": 17,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 35,
+            "source": 17,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 28,
+            "source": 17,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 64,
+            "source": 18,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 59,
+            "source": 18,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 67,
+            "source": 19,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 67,
+            "source": 20,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 69,
+            "source": 20,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 40,
+            "source": 20,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 68,
+            "source": 20,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 29,
+            "source": 20,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 30,
+            "source": 21,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 31,
+            "source": 21,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 67,
+            "source": 22,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 63,
+            "source": 23,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 66,
+            "source": 23,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 32,
+            "source": 24,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 37,
+            "source": 25,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 47,
+            "source": 25,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 45,
+            "source": 25,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 52,
+            "source": 26,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 38,
+            "source": 26,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 57,
+            "source": 26,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 33,
+            "source": 26,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 34,
+            "source": 27,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 40,
+            "source": 28,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 39,
+            "source": 28,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 35,
+            "source": 28,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 36,
+            "source": 28,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 37,
+            "source": 31,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 50,
+            "source": 31,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 60,
+            "source": 31,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 56,
+            "source": 31,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 52,
+            "source": 33,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 38,
+            "source": 33,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 57,
+            "source": 33,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 53,
+            "source": 35,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 39,
+            "source": 35,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 40,
+            "source": 36,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 41,
+            "source": 36,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 42,
+            "source": 37,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 43,
+            "source": 37,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 67,
+            "source": 37,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 44,
+            "source": 37,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 54,
+            "source": 37,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 61,
+            "source": 37,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 55,
+            "source": 37,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 45,
+            "source": 37,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 60,
+            "source": 37,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 46,
+            "source": 37,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 47,
+            "source": 37,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 48,
+            "source": 37,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 49,
+            "source": 37,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 50,
+            "source": 37,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 51,
+            "source": 37,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 56,
+            "source": 37,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 64,
+            "source": 37,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 52,
+            "source": 38,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 65,
+            "source": 38,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 53,
+            "source": 39,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 69,
+            "source": 40,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 67,
+            "source": 40,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 68,
+            "source": 40,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 54,
+            "source": 44,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 55,
+            "source": 46,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 67,
+            "source": 49,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 60,
+            "source": 50,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 61,
+            "source": 50,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 56,
+            "source": 50,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 57,
+            "source": 52,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 58,
+            "source": 52,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 67,
+            "source": 52,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 65,
+            "source": 52,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 63,
+            "source": 52,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 66,
+            "source": 52,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 62,
+            "source": 52,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 64,
+            "source": 55,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 59,
+            "source": 55,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 60,
+            "source": 56,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 61,
+            "source": 56,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 62,
+            "source": 57,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 63,
+            "source": 58,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 64,
+            "source": 59,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 67,
+            "source": 63,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 65,
+            "source": 63,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 66,
+            "source": 63,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 67,
+            "source": 65,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 66,
+            "source": 65,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 67,
+            "source": 66,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 69,
+            "source": 67,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 68,
+            "source": 67,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        },
+        {
+            "target": 69,
+            "source": 68,
+            "edge_relation": "Temporal_Order",
+            "edge_provenance": "",
+            "edge_provenance_sentence": [
+                "place holder"
+            ],
+            "key": 0,
+            "edge_provenance_offset": []
+        }
+    ],
+    "nodes": [
+        {
+            "node_text": "Attack",
+            "node_text_en": "Attack",
+            "node_cluster_id": "Group_1",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0002028",
+            "id": 0,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_1",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Die",
+            "node_text_en": "Die",
+            "node_cluster_id": "Group_2",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0002346",
+            "id": 1,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_2",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "ManufactureAssemble",
+            "node_text_en": "ManufactureAssemble",
+            "node_cluster_id": "Group_3",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0005849",
+            "id": 2,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_3",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "GenericCrime",
+            "node_text_en": "GenericCrime",
+            "node_cluster_id": "Group_4",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0005953",
+            "id": 3,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_4",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Contact",
+            "node_text_en": "Contact",
+            "node_cluster_id": "Group_3",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0007246",
+            "id": 4,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_3",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Transportation",
+            "node_text_en": "Transportation",
+            "node_cluster_id": "Group_5",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0010199",
+            "id": 5,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_5",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Attack",
+            "node_text_en": "Attack",
+            "node_cluster_id": "Group_3",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0010549",
+            "id": 6,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_3",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Die",
+            "node_text_en": "Die",
+            "node_cluster_id": "Group_6",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0016030",
+            "id": 7,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_6",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "ExchangeBuySell",
+            "node_text_en": "ExchangeBuySell",
+            "node_cluster_id": "Group_7",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0019386",
+            "id": 8,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_7",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Injure",
+            "node_text_en": "Injure",
+            "node_cluster_id": "Group_0",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0022942",
+            "id": 9,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_0",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "EndPosition",
+            "node_text_en": "EndPosition",
+            "node_cluster_id": "Group_5",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0022959",
+            "id": 10,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_5",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Transportation",
+            "node_text_en": "Transportation",
+            "node_cluster_id": "Group_8",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0033240",
+            "id": 11,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_8",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Attack",
+            "node_text_en": "Attack",
+            "node_cluster_id": "Group_6",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0033925",
+            "id": 12,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_6",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Transportation",
+            "node_text_en": "Transportation",
+            "node_cluster_id": "Group_2",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0037899",
+            "id": 13,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_2",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Attack",
+            "node_text_en": "Attack",
+            "node_cluster_id": "Group_3",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0042437",
+            "id": 14,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_3",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "ExchangeBuySell",
+            "node_text_en": "ExchangeBuySell",
+            "node_cluster_id": "Group_0",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0046538",
+            "id": 15,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_0",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Transportation",
+            "node_text_en": "Transportation",
+            "node_cluster_id": "Group_5",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0047897",
+            "id": 16,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_5",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Transportation",
+            "node_text_en": "Transportation",
+            "node_cluster_id": "Group_5",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0049404",
+            "id": 17,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_5",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Transportation",
+            "node_text_en": "Transportation",
+            "node_cluster_id": "Group_0",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0049921",
+            "id": 18,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_0",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "StartPosition",
+            "node_text_en": "StartPosition",
+            "node_cluster_id": "Group_3",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0010721",
+            "id": 19,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_3",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "ExchangeBuySell",
+            "node_text_en": "ExchangeBuySell",
+            "node_cluster_id": "Group_7",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0001834",
+            "id": 20,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_7",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "EndPosition",
+            "node_text_en": "EndPosition",
+            "node_cluster_id": "Group_2",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0046885",
+            "id": 21,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_2",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Transportation",
+            "node_text_en": "Transportation",
+            "node_cluster_id": "Group_4",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0016788",
+            "id": 22,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_4",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Transportation",
+            "node_text_en": "Transportation",
+            "node_cluster_id": "Group_4",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0048999",
+            "id": 23,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_4",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Transportation",
+            "node_text_en": "Transportation",
+            "node_cluster_id": "Group_5",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0023495",
+            "id": 24,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_5",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Attack",
+            "node_text_en": "Attack",
+            "node_cluster_id": "Group_3",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0030687",
+            "id": 25,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_3",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Attack",
+            "node_text_en": "Attack",
+            "node_cluster_id": "Group_6",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0022771",
+            "id": 26,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_6",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Transportation",
+            "node_text_en": "Transportation",
+            "node_cluster_id": "Group_2",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0043106",
+            "id": 27,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_2",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Transportation",
+            "node_text_en": "Transportation",
+            "node_cluster_id": "Group_5",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0035370",
+            "id": 28,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_5",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Transportation",
+            "node_text_en": "Transportation",
+            "node_cluster_id": "Group_7",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0013469",
+            "id": 29,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_7",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Transportation",
+            "node_text_en": "Transportation",
+            "node_cluster_id": "Group_5",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0024294",
+            "id": 30,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_5",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "StartPosition",
+            "node_text_en": "StartPosition",
+            "node_cluster_id": "Group_3",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0048695",
+            "id": 31,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_3",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Transportation",
+            "node_text_en": "Transportation",
+            "node_cluster_id": "Group_5",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0022547",
+            "id": 32,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_5",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Attack",
+            "node_text_en": "Attack",
+            "node_cluster_id": "Group_6",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0038536",
+            "id": 33,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_6",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Attack",
+            "node_text_en": "Attack",
+            "node_cluster_id": "Group_2",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0009846",
+            "id": 34,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_2",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Transportation",
+            "node_text_en": "Transportation",
+            "node_cluster_id": "Group_5",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0034538",
+            "id": 35,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_5",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Transportation",
+            "node_text_en": "Transportation",
+            "node_cluster_id": "Group_5",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0028995",
+            "id": 36,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_5",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Attack",
+            "node_text_en": "Attack",
+            "node_cluster_id": "Group_3",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0000269",
+            "id": 37,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_3",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Contact",
+            "node_text_en": "Contact",
+            "node_cluster_id": "Group_4",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0029381",
+            "id": 38,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_4",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Transportation",
+            "node_text_en": "Transportation",
+            "node_cluster_id": "Group_5",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0034319",
+            "id": 39,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_5",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Transportation",
+            "node_text_en": "Transportation",
+            "node_cluster_id": "Group_5",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0002794",
+            "id": 40,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_5",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Transportation",
+            "node_text_en": "Transportation",
+            "node_cluster_id": "Group_0",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0018691",
+            "id": 41,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_0",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "InvestigateCrime",
+            "node_text_en": "InvestigateCrime",
+            "node_cluster_id": "Group_0",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0027283",
+            "id": 42,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_0",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "ArrestJailDetain",
+            "node_text_en": "ArrestJailDetain",
+            "node_cluster_id": "Group_3",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0038133",
+            "id": 43,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_3",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Transportation",
+            "node_text_en": "Transportation",
+            "node_cluster_id": "Group_9",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0011288",
+            "id": 44,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_9",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Injure",
+            "node_text_en": "Injure",
+            "node_cluster_id": "Group_3",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0018902",
+            "id": 45,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_3",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "DamageDestroyDisableDismantle",
+            "node_text_en": "DamageDestroyDisableDismantle",
+            "node_cluster_id": "Group_1",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0013307",
+            "id": 46,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_1",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Injure",
+            "node_text_en": "Injure",
+            "node_cluster_id": "Group_3",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0046715",
+            "id": 47,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_3",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Attack",
+            "node_text_en": "Attack",
+            "node_cluster_id": "Group_3",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0050213",
+            "id": 48,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_3",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Injure",
+            "node_text_en": "Injure",
+            "node_cluster_id": "Group_3",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0047305",
+            "id": 49,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_3",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Attack",
+            "node_text_en": "Attack",
+            "node_cluster_id": "Group_3",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0050533",
+            "id": 50,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_3",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Attack",
+            "node_text_en": "Attack",
+            "node_cluster_id": "Group_1",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0028991",
+            "id": 51,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_1",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Attack",
+            "node_text_en": "Attack",
+            "node_cluster_id": "Group_6",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0000902",
+            "id": 52,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_6",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Contact",
+            "node_text_en": "Contact",
+            "node_cluster_id": "Group_8",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0028961",
+            "id": 53,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_8",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Transportation",
+            "node_text_en": "Transportation",
+            "node_cluster_id": "Group_9",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0039908",
+            "id": 54,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_9",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Crash",
+            "node_text_en": "Crash",
+            "node_cluster_id": "Group_1",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0002382",
+            "id": 55,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_1",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Attack",
+            "node_text_en": "Attack",
+            "node_cluster_id": "Group_3",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0022358",
+            "id": 56,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_3",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "EndPosition",
+            "node_text_en": "EndPosition",
+            "node_cluster_id": "Group_6",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0017439",
+            "id": 57,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_6",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "IdentifyCategorize",
+            "node_text_en": "IdentifyCategorize",
+            "node_cluster_id": "Group_4",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0015948",
+            "id": 58,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_4",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Die",
+            "node_text_en": "Die",
+            "node_cluster_id": "Group_1",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0035063",
+            "id": 59,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_1",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Contact",
+            "node_text_en": "Contact",
+            "node_cluster_id": "Group_3",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0029939",
+            "id": 60,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_3",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Contact",
+            "node_text_en": "Contact",
+            "node_cluster_id": "Group_0",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0044243",
+            "id": 61,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_0",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Attack",
+            "node_text_en": "Attack",
+            "node_cluster_id": "Group_6",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0047645",
+            "id": 62,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_6",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Transportation",
+            "node_text_en": "Transportation",
+            "node_cluster_id": "Group_4",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0002650",
+            "id": 63,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_4",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Contact",
+            "node_text_en": "Contact",
+            "node_cluster_id": "Group_1",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0009448",
+            "id": 64,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_1",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "ThreatenCoerce",
+            "node_text_en": "ThreatenCoerce",
+            "node_cluster_id": "Group_4",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0004284",
+            "id": 65,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_4",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Contact",
+            "node_text_en": "Contact",
+            "node_cluster_id": "Group_4",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0014160",
+            "id": 66,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_4",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "Contact",
+            "node_text_en": "Contact",
+            "node_cluster_id": "Group_4",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0000932",
+            "id": 67,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_4",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "ExchangeBuySell",
+            "node_text_en": "ExchangeBuySell",
+            "node_cluster_id": "Group_4",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0033460",
+            "id": 68,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_4",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        },
+        {
+            "node_text": "ImpedeInterfereWith",
+            "node_text_en": "ImpedeInterfereWith",
+            "node_cluster_id": "Group_7",
+            "node_id": "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0005465",
+            "id": 69,
+            "is_mention_id": false,
+            "node_provenance": "",
+            "node_cluster_name": "Group_7",
+            "node_start_time_range": ", ",
+            "node_end_time_range": ", ",
+            "node_provenance_string": [],
+            "node_provenance_offset": []
+        }
+    ],
+    "multigraph": true,
+    "graph": {},
+    "meta_data": {
+        "narratives": {
+            "caci:Schemas/Instantiated/cluster_1": []
+        },
+        "scores": [
+            [
+                "scorer_li",
+                0.0
+            ],
+            [
+                "scorer_nd",
+                0.0
+            ],
+            [
+                "scorer_ei",
+                0.0
+            ],
+            [
+                "scorer_nc",
+                0.0
+            ],
+            [
+                "scorer_er",
+                0.0
+            ],
+            [
+                "scorer_ps",
+                0.0
+            ],
+            [
+                "scorer_eec",
+                0.0
+            ],
+            [
+                "scorer_qer",
+                0.0
+            ],
+            [
+                "scorer_hs",
+                0.0
+            ],
+            [
+                "scorer_qenr",
+                0.0
+            ],
+            [
+                "scorer_epm",
+                0.0
+            ],
+            [
+                "scorer_ccd",
+                0.0
+            ],
+            [
+                "scorer_aec",
+                0.0
+            ],
+            [
+                "scorer_aetl",
+                0.0
+            ],
+            [
+                "scorer_ser",
+                0.0
+            ],
+            [
+                "scorer_x",
+                0.0
+            ]
+        ],
+        "node_to_atomic_hypothesis_index": {
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0002028": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0002346": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0005849": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0005953": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0007246": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0010199": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0010549": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0016030": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0019386": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0022942": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0022959": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0033240": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0033925": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0037899": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0042437": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0046538": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0047897": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0049404": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0049921": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0010721": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0001834": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0046885": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0016788": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0048999": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0023495": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0030687": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0022771": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0043106": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0035370": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0013469": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0024294": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0048695": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0022547": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0038536": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0009846": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0034538": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0028995": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0000269": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0029381": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0034319": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0002794": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0018691": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0027283": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0038133": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0011288": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0018902": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0013307": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0046715": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0050213": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0047305": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0050533": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0028991": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0000902": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0028961": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0039908": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0002382": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0022358": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0017439": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0015948": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0035063": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0029939": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0044243": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0047645": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0002650": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0009448": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0004284": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0014160": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0000932": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0033460": [
+                0
+            ],
+            "caci:Schemas/Instantiated/cluster_1/Steps/EN_Event_0005465": [
+                0
+            ]
+        }
+    }
+}

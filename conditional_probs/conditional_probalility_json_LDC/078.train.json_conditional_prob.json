@@ -1,0 +1,21 @@
+{
+    "Contact.Contact.Correspondence": {
+        "Movement.Transportation.Unspecified": 0.5,
+        "Transaction.ExchangeBuySell.Unspecified": 0.5
+    },
+    "Movement.Transportation.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 1.0
+    },
+    "ArtifactExistence.ManufactureAssemble.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 1.0
+    },
+    "Cognitive.Inspection.SensoryObserve": {
+        "Contact.Contact.Correspondence": 0.3333333333333333,
+        "Transaction.ExchangeBuySell.Unspecified": 0.3333333333333333,
+        "Cognitive.Inspection.SensoryObserve": 0.3333333333333333
+    },
+    "Transaction.ExchangeBuySell.Unspecified": {
+        "Contact.Contact.Correspondence": 0.3333333333333333,
+        "Cognitive.Inspection.SensoryObserve": 0.6666666666666666
+    }
+}

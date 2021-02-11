@@ -1,0 +1,23 @@
+{
+    "0": "Conflict.Attack.Unspecified",
+    "1": "Life.Die.Unspecified",
+    "2": "Movement.Transportation.Unspecified",
+    "3": "Personnel.EndPosition.Unspecified",
+    "4": "Personnel.StartPosition.Unspecified",
+    "5": "ArtifactExistence.ManufactureAssemble.Unspecified",
+    "6": "Transaction.ExchangeBuySell.Unspecified",
+    "7": "Contact.Contact.Unspecified",
+    "8": "Contact.Contact.Meet",
+    "9": "Contact.Contact.Broadcast",
+    "10": "ArtifactExistence.DamageDestroyDisableDismantle.Damage",
+    "11": "Movement.Transportation.Evacuation",
+    "12": "Contact.Contact.Correspondence",
+    "13": "Life.Injure.Unspecified",
+    "14": "Conflict.Attack.DetonateExplode",
+    "15": "Justice.InvestigateCrime.Unspecified",
+    "16": "Justice.ChargeIndict.Unspecified",
+    "17": "Justice.ArrestJailDetain.Unspecified",
+    "18": "Disaster.Crash.Unspecified",
+    "19": "Justice.TrialHearing.Unspecified",
+    "20": "Justice.Sentence.Unspecified"
+}

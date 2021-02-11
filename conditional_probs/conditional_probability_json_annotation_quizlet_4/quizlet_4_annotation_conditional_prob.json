@@ -1,0 +1,158 @@
+{
+    "Life.Injure.Unspecified": {
+        "Medical.Intervention.Unspecified": 0.16666666666666666,
+        "Movement.Transportation.Unspecified": 0.16666666666666666,
+        "Contact.Contact.Unspecified": 0.16666666666666666,
+        "GenericCrime.GenericCrime.GenericCrime": 0.16666666666666666,
+        "Justice.ChargeIndict.Unspecified": 0.16666666666666666,
+        "Contact.Contact.Broadcast": 0.16666666666666666
+    },
+    "Cognitive.Research.Unspecified": {
+        "Cognitive.Inspection.SensoryObserve": 0.1111111111111111,
+        "Justice.InvestigateCrime.Unspecified": 0.1111111111111111,
+        "Justice.ArrestJailDetain.Unspecified": 0.1111111111111111,
+        "Contact.Contact.Unspecified": 0.3333333333333333,
+        "Movement.Transportation.Evacuation": 0.2222222222222222,
+        "GenericCrime.GenericCrime.GenericCrime": 0.1111111111111111
+    },
+    "ArtifactExistence.DamageDestroyDisableDismantle.Dismantle": {
+        "Cognitive.IdentifyCategorize.Unspecified": 0.5,
+        "ArtifactExistence.ManufactureAssemble.Unspecified": 0.5
+    },
+    "Contact.RequestCommand.Unspecified": {
+        "Contact.Contact.Unspecified": 1.0
+    },
+    "Cognitive.TeachingTrainingLearning.Unspecified": {
+        "Cognitive.IdentifyCategorize.Unspecified": 0.08333333333333333,
+        "Contact.Contact.Broadcast": 0.16666666666666666,
+        "Justice.Sentence.Unspecified": 0.16666666666666666,
+        "Cognitive.Inspection.SensoryObserve": 0.08333333333333333,
+        "Justice.Convict.Unspecified": 0.08333333333333333,
+        "Justice.ChargeIndict.Unspecified": 0.25,
+        "ArtifactExistence.ManufactureAssemble.Unspecified": 0.08333333333333333,
+        "Movement.Transportation.IllegalTransportation": 0.08333333333333333
+    },
+    "Justice.ChargeIndict.Unspecified": {
+        "Contact.Contact.Broadcast": 0.2,
+        "Justice.Sentence.Unspecified": 0.36,
+        "Cognitive.Inspection.SensoryObserve": 0.16,
+        "Justice.ChargeIndict.Unspecified": 0.08,
+        "Contact.Contact.Unspecified": 0.08,
+        "Medical.Intervention.Unspecified": 0.08,
+        "GenericCrime.GenericCrime.GenericCrime": 0.04
+    },
+    "ArtifactExistence.ManufactureAssemble.Unspecified": {
+        "Justice.ChargeIndict.Unspecified": 0.3333333333333333,
+        "Contact.Contact.Unspecified": 0.1111111111111111,
+        "Cognitive.Inspection.SensoryObserve": 0.2222222222222222,
+        "Cognitive.IdentifyCategorize.Unspecified": 0.1111111111111111,
+        "Contact.Contact.Broadcast": 0.1111111111111111,
+        "Conflict.Attack.DetonateExplode": 0.1111111111111111
+    },
+    "Medical.Intervention.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.2,
+        "Contact.Contact.Unspecified": 0.4,
+        "Medical.Intervention.Unspecified": 0.2,
+        "Justice.Sentence.Unspecified": 0.2
+    },
+    "Contact.Contact.Unspecified": {
+        "Cognitive.Inspection.SensoryObserve": 0.1,
+        "Justice.InvestigateCrime.Unspecified": 0.2,
+        "Contact.Contact.Unspecified": 0.4,
+        "Movement.Transportation.Evacuation": 0.1,
+        "Cognitive.IdentifyCategorize.Unspecified": 0.1,
+        "Justice.ArrestJailDetain.Unspecified": 0.1
+    },
+    "GenericCrime.GenericCrime.GenericCrime": {
+        "Justice.ArrestJailDetain.Unspecified": 0.25,
+        "Cognitive.Inspection.SensoryObserve": 0.25,
+        "Conflict.Attack.DetonateExplode": 0.25,
+        "ArtifactExistence.ManufactureAssemble.Unspecified": 0.25
+    },
+    "Movement.Transportation.IllegalTransportation": {
+        "Justice.Sentence.Unspecified": 0.16666666666666666,
+        "Cognitive.Inspection.SensoryObserve": 0.05555555555555555,
+        "Medical.Intervention.Unspecified": 0.1111111111111111,
+        "Contact.Contact.Unspecified": 0.1111111111111111,
+        "ArtifactExistence.ManufactureAssemble.Unspecified": 0.05555555555555555,
+        "Contact.Contact.Broadcast": 0.05555555555555555,
+        "Justice.Convict.Unspecified": 0.05555555555555555,
+        "Justice.ChargeIndict.Unspecified": 0.2222222222222222,
+        "Justice.ArrestJailDetain.Unspecified": 0.05555555555555555,
+        "Conflict.Attack.DetonateExplode": 0.1111111111111111
+    },
+    "Cognitive.Inspection.SensoryObserve": {
+        "Movement.Transportation.Evacuation": 0.15384615384615385,
+        "Contact.Contact.Unspecified": 0.23076923076923078,
+        "Cognitive.IdentifyCategorize.Unspecified": 0.07692307692307693,
+        "Justice.ChargeIndict.Unspecified": 0.07692307692307693,
+        "Movement.Transportation.Unspecified": 0.07692307692307693,
+        "Justice.ArrestJailDetain.Unspecified": 0.07692307692307693,
+        "Justice.Sentence.Unspecified": 0.15384615384615385,
+        "Contact.Contact.Broadcast": 0.15384615384615385
+    },
+    "Justice.InvestigateCrime.Unspecified": {
+        "Cognitive.Inspection.SensoryObserve": 0.3333333333333333,
+        "Contact.Contact.Unspecified": 0.6666666666666666
+    },
+    "Justice.Convict.Unspecified": {
+        "Justice.Sentence.Unspecified": 0.5,
+        "Cognitive.Inspection.SensoryObserve": 0.25,
+        "Contact.Contact.Broadcast": 0.25
+    },
+    "Conflict.Attack.DetonateExplode": {
+        "Contact.Contact.Unspecified": 0.16666666666666666,
+        "Justice.Sentence.Unspecified": 0.08333333333333333,
+        "Justice.ArrestJailDetain.Unspecified": 0.08333333333333333,
+        "Contact.Contact.Broadcast": 0.3333333333333333,
+        "Disaster.Crash.Unspecified": 0.08333333333333333,
+        "Life.Injure.Unspecified": 0.08333333333333333,
+        "Control.ImpedeInterfereWith.Unspecified": 0.08333333333333333,
+        "ArtifactExistence.DamageDestroyDisableDismantle.DisableDefuse": 0.08333333333333333
+    },
+    "Movement.Transportation.Evacuation": {
+        "Contact.Contact.Unspecified": 0.25,
+        "Cognitive.IdentifyCategorize.Unspecified": 0.08333333333333333,
+        "Movement.Transportation.Unspecified": 0.08333333333333333,
+        "Justice.Sentence.Unspecified": 0.08333333333333333,
+        "Justice.ArrestJailDetain.Unspecified": 0.08333333333333333,
+        "Movement.Transportation.Evacuation": 0.4166666666666667
+    },
+    "Cognitive.IdentifyCategorize.Unspecified": {
+        "Contact.Contact.Broadcast": 1.0
+    },
+    "Justice.ArrestJailDetain.Unspecified": {
+        "Justice.Sentence.Unspecified": 0.2857142857142857,
+        "Medical.Intervention.Unspecified": 0.2857142857142857,
+        "Contact.Contact.Unspecified": 0.2857142857142857,
+        "Justice.ChargeIndict.Unspecified": 0.14285714285714285
+    },
+    "Justice.Sentence.Unspecified": {
+        "Contact.Contact.Unspecified": 0.15384615384615385,
+        "Contact.Contact.Broadcast": 0.46153846153846156,
+        "Justice.Sentence.Unspecified": 0.15384615384615385,
+        "Medical.Intervention.Unspecified": 0.15384615384615385,
+        "Cognitive.Inspection.SensoryObserve": 0.07692307692307693
+    },
+    "Contact.Contact.Broadcast": {
+        "Justice.Sentence.Unspecified": 0.125,
+        "Contact.Contact.Broadcast": 0.625,
+        "Cognitive.Inspection.SensoryObserve": 0.125,
+        "Conflict.Attack.DetonateExplode": 0.125
+    },
+    "Life.Die.Unspecified": {
+        "Contact.Contact.Unspecified": 1.0
+    },
+    "Control.ImpedeInterfereWith.Unspecified": {
+        "Contact.Contact.Broadcast": 1.0
+    },
+    "ArtifactExistence.DamageDestroyDisableDismantle.DisableDefuse": {
+        "Contact.Contact.Unspecified": 0.3333333333333333,
+        "Disaster.Crash.Unspecified": 0.3333333333333333,
+        "Contact.Contact.Broadcast": 0.3333333333333333
+    },
+    "Disaster.Crash.Unspecified": {
+        "Contact.Contact.Unspecified": 0.6666666666666666,
+        "Contact.Contact.Broadcast": 0.3333333333333333
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "Transaction.ExchangeBuySell.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.375,
+        "Movement.Transportation.Evacuation": 0.1875,
+        "Transaction.ExchangeBuySell.Unspecified": 0.25,
+        "Contact.Contact.Correspondence": 0.125,
+        "Personnel.StartPosition.Unspecified": 0.0625
+    },
+    "Movement.Transportation.Evacuation": {
+        "Movement.Transportation.Unspecified": 1.0
+    },
+    "Conflict.Attack.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 0.5,
+        "ArtifactExistence.DamageDestroyDisableDismantle.Destroy": 0.5
+    },
+    "ArtifactExistence.ManufactureAssemble.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 1.0
+    },
+    "ArtifactExistence.DamageDestroyDisableDismantle.Destroy": {
+        "ArtifactExistence.DamageDestroyDisableDismantle.Destroy": 1.0
+    },
+    "Cognitive.Inspection.SensoryObserve": {
+        "Movement.Transportation.Unspecified": 1.0
+    },
+    "Movement.Transportation.Unspecified": {
+        "Personnel.StartPosition.Unspecified": 0.4,
+        "Movement.Transportation.Evacuation": 0.4,
+        "Movement.Transportation.Unspecified": 0.2
+    },
+    "Personnel.EndPosition.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 0.5,
+        "Contact.Contact.Correspondence": 0.5
+    }
+}

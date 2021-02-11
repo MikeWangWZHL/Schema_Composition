@@ -1,0 +1,839 @@
+t # 0
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001320 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002049 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003219 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003268 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003465 Personnel.EndPosition.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003909 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004164 Personnel.StartPosition.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004724 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006075 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006094 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006816 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0007730 ArtifactExistence.ManufactureAssemble.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0008007 ArtifactExistence.ManufactureAssemble.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0008100 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0008845 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0008920 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0010328 Transaction.ExchangeBuySell.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0010737 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0010942 Transaction.ExchangeBuySell.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011356 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011724 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0012321 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0013274 Contact.Contact.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0015161 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0015235 Contact.Contact.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018683 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018778 Transaction.ExchangeBuySell.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018929 ArtifactExistence.ManufactureAssemble.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019108 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019653 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019856 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0022199 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023505 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023748 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0025010 ArtifactExistence.ManufactureAssemble.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0026104 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0026344 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027528 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027929 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027994 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0028996 Personnel.StartPosition.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0029022 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030437 Transaction.ExchangeBuySell.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030446 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031778 Personnel.EndPosition.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032543 Transaction.ExchangeBuySell.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032657 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0033135 Contact.Contact.Meet
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0033755 Transaction.ExchangeBuySell.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0034098 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0034231 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035027 Transaction.ExchangeBuySell.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035539 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035833 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0037358 ArtifactExistence.ManufactureAssemble.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0037664 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0038642 ArtifactExistence.ManufactureAssemble.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0038789 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0039785 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0040357 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0040417 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0041304 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0041728 Transaction.ExchangeBuySell.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042111 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0043198 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0044168 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0044382 Personnel.StartPosition.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045031 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045070 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0046273 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0046875 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0047070 ArtifactExistence.ManufactureAssemble.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0047894 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0049710 Contact.Contact.Broadcast
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0049857 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0050742 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035743 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0049508 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006294 Transaction.ExchangeBuySell.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011830 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0014375 Transaction.ExchangeBuySell.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042389 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0044698 Transaction.ExchangeBuySell.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035819 Transaction.ExchangeBuySell.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0021292 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027896 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0046345 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0021102 Personnel.EndPosition.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0033678 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0033626 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018206 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030207 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0015163 Contact.Contact.Meet
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006826 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030089 ArtifactExistence.DamageDestroyDisableDismantle.Damage
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0015415 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0009842 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027118 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001717 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001733 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0008962 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0038022 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0024566 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000442 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006335 Personnel.EndPosition.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006851 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005990 Transaction.ExchangeBuySell.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0016170 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0050370 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031172 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002745 ArtifactExistence.ManufactureAssemble.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005410 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0037070 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001286 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005974 Movement.Transportation.Evacuation
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002607 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004188 Transaction.ExchangeBuySell.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0020352 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0014916 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0047581 Contact.Contact.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0040421 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0044245 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019522 ArtifactExistence.ManufactureAssemble.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005233 Contact.Contact.Correspondence
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030613 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005923 Contact.Contact.Broadcast
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042223 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005588 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0044850 Contact.Contact.Meet
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0034731 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018115 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006990 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006522 Personnel.StartPosition.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0036420 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023996 Contact.Contact.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0036663 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035753 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0048407 Life.Injure.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0014477 Life.Injure.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001118 Transaction.ExchangeBuySell.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0033405 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0013653 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027895 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0022301 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003009 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Conflict.Attack.DetonateExplode
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003814 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006918 Life.Injure.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0049939 Life.Injure.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0036317 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003950 Justice.InvestigateCrime.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006720 Justice.InvestigateCrime.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000997 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019822 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0049607 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018474 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000865 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0015237 Justice.ChargeIndict.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003603 Justice.ChargeIndict.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001761 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0024274 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0024784 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027478 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005368 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0016336 Life.Injure.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0021487 Contact.Contact.Meet
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0026458 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0008183 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031429 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0029589 Life.Injure.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0040155 Contact.Contact.Meet
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005258 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011879 Justice.ArrestJailDetain.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019608 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042109 Life.Injure.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000720 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0039313 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004579 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003657 ArtifactExistence.DamageDestroyDisableDismantle.Damage
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0050373 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0010632 Transaction.ExchangeBuySell.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0043834 Justice.ArrestJailDetain.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0025721 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004972 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018532 Disaster.Crash.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011526 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0048830 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045693 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027338 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023462 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045334 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018315 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006359 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0039059 Transaction.ExchangeBuySell.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023047 Transaction.ExchangeBuySell.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032922 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032780 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0041328 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0017957 Life.Injure.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004026 Transaction.ExchangeBuySell.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0012320 Life.Injure.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018013 Life.Injure.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031046 Life.Injure.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0044969 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0014579 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0022136 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0046955 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042012 Justice.ArrestJailDetain.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0014731 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031493 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019348 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0010309 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031678 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003826 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018212 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005327 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0044951 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0007104 Life.Injure.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018570 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027597 Transaction.ExchangeBuySell.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0043467 Contact.Contact.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023858 Contact.Contact.Broadcast
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035220 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011484 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0017906 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0012757 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0043240 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003638 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0029377 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031910 Personnel.StartPosition.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0024480 Personnel.StartPosition.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006115 Contact.Contact.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003886 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0039016 Contact.Contact.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0028551 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023677 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0049587 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0039511 Contact.Contact.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0050366 Personnel.StartPosition.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045495 Justice.TrialHearing.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019402 Justice.Sentence.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035675 Personnel.StartPosition.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0038816 Life.Injure.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0007995 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0041184 Life.Injure.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0026128 Life.Injure.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0012954 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045692 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0033845 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030919 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0039075 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005655 Transaction.ExchangeBuySell.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0009143 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005742 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019075 Justice.ArrestJailDetain.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030273 Justice.TrialHearing.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003756 Contact.Contact.Meet
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004227 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0026704 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0028626 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001961 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023290 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0040038 Life.Injure.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035013 Life.Die.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003444 Life.Injure.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0033623 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0021378 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0029427 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035473 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045715 Contact.Contact.Broadcast
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006660 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032474 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002736 Justice.InvestigateCrime.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011147 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0037374 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0021281 Movement.Transportation.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0050666 Justice.InvestigateCrime.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0037043 Contact.Contact.Broadcast
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027087 Conflict.Attack.Unspecified
+v caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002629 Movement.Transportation.Unspecified
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001320 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035743 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001320 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001320 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0014731 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001320 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0049508 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001320 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006990 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001320 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0014477 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001320 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006294 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001320 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001286 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002049 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003219 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003268 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001118 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003268 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003009 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003465 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003465 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045693 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003465 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004188 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003465 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027338 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003465 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002607 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003465 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011830 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003465 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0014375 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003465 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042389 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003465 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0044698 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003909 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003909 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019608 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003909 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000865 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003909 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045334 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003909 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018315 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004164 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023677 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004164 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0049587 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004164 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004724 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0043240 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004724 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0029377 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004724 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018315 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004724 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045334 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004724 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006075 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006075 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0041184 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006075 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0026128 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006075 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0010309 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006075 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031678 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006094 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023290 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006094 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0028626 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006094 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035675 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006094 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0050366 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006816 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0021487 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006816 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0040155 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006816 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0007730 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005588 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0008007 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0008007 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002629 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0008007 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018532 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0008100 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0015237 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0008100 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0008920 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0008920 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0016336 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0010328 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000720 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0010328 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0036420 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0010328 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035819 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0010328 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0020352 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0010942 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006826 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011356 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011356 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0021292 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011724 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011724 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0029589 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0012321 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0014916 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0012321 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0012321 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027896 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0012321 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0046345 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0015161 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0039511 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0015161 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0015161 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0022136 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0015235 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0021102 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018683 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0033678 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018778 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018315 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018778 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005974 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018778 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0014477 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018778 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006990 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018929 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0033626 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019108 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019108 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018206 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019653 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019653 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000865 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019653 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030207 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019856 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0022199 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023748 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023748 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003444 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023748 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045692 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023748 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003826 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0025010 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005588 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0025010 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035753 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0026344 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0026344 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0012320 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027528 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0047581 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027528 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0015163 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027929 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027929 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042109 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027929 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0012757 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027929 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0034731 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027929 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018115 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027929 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001286 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027994 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027994 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018013 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0028996 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0029022 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003603 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0029022 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006826 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030437 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001118 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030437 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001961 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030437 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0046955 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030437 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030437 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0050366 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030446 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003657 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030446 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030446 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030089 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031778 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031778 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0010632 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032543 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001118 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032543 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001961 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032543 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031493 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032543 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032543 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035675 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032657 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0015415 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0033755 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045334 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0033755 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005974 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0033755 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0048407 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0033755 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006990 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0034098 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0040421 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0034098 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0034098 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0009842 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035027 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035027 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004026 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035027 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0050366 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035539 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005990 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035833 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0037358 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027118 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0037664 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0037664 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004227 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0037664 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001717 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0038642 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004579 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0038642 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001733 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0038789 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0038789 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0008962 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0039785 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005233 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0039785 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006335 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0039785 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006851 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0040357 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0040357 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0038022 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0040417 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011147 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0040417 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0024566 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0041304 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0041304 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000442 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0041304 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0048830 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0041304 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019522 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0041728 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0041728 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004026 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0041728 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035675 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042111 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005233 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042111 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006335 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042111 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006851 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0043198 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005990 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0044168 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0044168 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000997 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0044168 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0016170 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045031 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0050370 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045070 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045070 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003444 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045070 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0012954 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045070 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003826 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0046273 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0046273 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0050373 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0046273 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011526 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0046875 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0046875 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030613 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0046875 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031172 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0047070 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002745 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0047070 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005588 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0047894 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0049710 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005410 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0049710 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0014579 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0049710 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0049857 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005327 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0049857 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027087 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0049857 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0049857 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0049939 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0049857 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002607 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0050742 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0050742 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0037070 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006294 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0048407 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006294 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0014477 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006294 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006990 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006294 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001286 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006294 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005974 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011830 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001961 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011830 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002736 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011830 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0022301 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011830 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011830 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004227 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011830 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001118 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011830 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004188 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011830 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002607 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0014375 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0014375 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004227 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0014375 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004188 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0014375 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045693 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042389 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001961 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042389 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002736 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042389 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027895 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042389 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042389 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004227 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042389 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001118 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042389 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004188 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042389 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002607 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0044698 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0044698 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004227 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0044698 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001761 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0044698 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004188 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0044698 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027338 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035819 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035819 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000720 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035819 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0036420 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035819 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0020352 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0021292 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027896 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0014916 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0046345 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018206 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0024274 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030207 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030207 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000865 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0015163 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023996 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0015163 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0047581 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030089 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030089 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003657 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0009842 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0040421 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027118 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000720 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001717 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005258 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001717 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011484 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001717 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035220 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001717 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001733 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004579 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0024566 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0044245 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000442 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0039016 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000442 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000442 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032922 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000442 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0048830 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000442 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032780 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000442 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019522 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000442 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0028551 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006335 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005233 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006851 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005233 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005990 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005990 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003756 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005990 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003638 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005990 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0043240 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005990 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0029377 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0016170 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0016170 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000997 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031172 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031172 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030613 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002745 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005923 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002745 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035753 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002745 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042223 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002745 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005588 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005410 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0014579 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005410 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0037070 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001286 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0048407 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001286 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042109 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001286 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0014477 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001286 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0044850 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001286 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001286 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006990 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001286 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0034731 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001286 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018115 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005974 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0048407 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005974 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0014477 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005974 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006990 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005974 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045334 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005974 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018315 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002607 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006522 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002607 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002607 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001118 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002607 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004227 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002607 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003886 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002607 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027087 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004188 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004188 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004227 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004188 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001761 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004188 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045693 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004188 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027338 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0020352 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000720 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0020352 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0036420 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0020352 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0047581 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023996 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019522 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030613 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0013653 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030613 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030613 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0036663 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005588 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035753 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0034731 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0034731 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042109 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018115 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018115 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0012757 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018115 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042109 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006990 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0048407 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006990 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0014477 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006522 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002736 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006522 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001118 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006522 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0033405 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006522 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006522 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001961 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0036663 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0013653 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001118 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001961 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001118 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002736 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001118 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027895 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001118 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031493 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001118 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0022301 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001118 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0046955 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001118 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001118 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003009 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001118 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005258 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001118 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004026 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001118 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035675 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001118 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0050366 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001118 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006115 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0033405 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027895 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027895 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002736 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027895 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005258 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027895 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001961 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0022301 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0022301 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002736 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0022301 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005258 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0022301 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001961 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003009 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006115 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0017906 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019075 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030273 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003814 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006918 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0043240 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027087 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0049939 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0036317 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003950 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006720 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000997 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019822 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0049607 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0039511 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005655 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018474 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000865 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0029377 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0015237 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0050666 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002736 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003603 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001761 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004227 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0024274 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002629 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003638 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003756 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0012757 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0021281 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032474 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0024784 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027478 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005368 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0016336 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0021487 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0039016 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0026458 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035473 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0008183 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023858 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0009143 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031429 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0037043 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0029589 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0040155 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005258 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006660 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003886 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011879 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019608 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005327 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042109 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000720 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0039313 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0021378 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0007104 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004579 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003657 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0050373 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0010632 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030919 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023677 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0049587 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0043467 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0043834 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0025721 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004972 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018532 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011526 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0048830 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045693 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027338 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023462 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003444 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035675 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0050366 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045334 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018315 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006359 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0026704 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0039059 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023047 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027597 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032922 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0044951 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0038816 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032780 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0041328 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0017957 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0028551 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001961 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004026 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0012320 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018013 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019402 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031046 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0044969 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0014579 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045495 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0037374 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035013 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0041184 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0026128 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0022136 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0046955 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042012 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0014731 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031493 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019348 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0010309 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031678 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003826 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0029427 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0012954 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045692 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000060 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018212 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0049939 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005327 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0049607 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035473 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000865 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005655 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000865 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0044951 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000865 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035473 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000865 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030919 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000865 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0007104 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000865 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018570 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000865 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0037374 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000865 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027597 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000865 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0043467 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0000865 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0029427 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031429 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023858 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031429 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0009143 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005258 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006660 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005258 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035220 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005258 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011484 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005258 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005742 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011879 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019075 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011879 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030273 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011879 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0017906 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018532 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0012757 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045693 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004227 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027338 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004227 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045334 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003638 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045334 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0043240 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018315 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003638 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018315 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0029377 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006359 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002629 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0039059 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031910 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0039059 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006115 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0039059 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003886 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023047 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0024480 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023047 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006115 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023047 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003886 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032922 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0039016 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032780 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0021281 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032780 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032474 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032780 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0026704 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032780 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0028551 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0012320 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023677 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018013 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0049587 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0022136 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0039511 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0046955 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001961 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0046955 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0050366 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042012 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045495 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0042012 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019402 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031493 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001961 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031493 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035675 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019348 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0040038 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019348 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0038816 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019348 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0007995 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0010309 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0041184 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0031678 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0026128 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003826 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003444 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003826 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0012954 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003826 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045692 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018212 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0033845 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005327 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027087 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0007104 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005655 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0007104 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035473 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0007104 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030919 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018570 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0037374 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018570 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0029427 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0018570 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0039075 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027597 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005655 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027597 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035473 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023858 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0009143 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035220 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006660 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035220 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005742 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011484 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006660 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011484 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005742 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0017906 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0019075 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0017906 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030273 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0043240 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003756 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0029377 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003756 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003886 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0004227 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0028551 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0021281 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0028551 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032474 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0028551 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0026704 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0050366 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001961 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0050366 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0028626 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035675 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001961 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035675 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0023290 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0007995 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0040038 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0007995 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035013 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0012954 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003444 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045692 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0003444 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0033845 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0033623 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0030919 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0021378 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0039075 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0037374 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0039075 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0029427 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005655 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0035473 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005742 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0045715 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0005742 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0006660 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0026704 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0021281 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0026704 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032474 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0026704 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027087 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0001961 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002736 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0033623 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0011147 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0029427 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0037374 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032474 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0021281 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0032474 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027087 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002736 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0050666 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002736 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0037043 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0021281 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027087 Temporal_Order
+e caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0027087 caci:Schemas/Instantiated/cluster_10/Steps/EN_Event_0002629 Temporal_Order
+t # -1

@@ -1,0 +1,8 @@
+(0, 1, (Life.Die.Unspecified, Victim, PER)); || support = 13
+(0, 1, (Movement.Transportation.Unspecified, PassengerArtifact, PER)); || support = 12
+(0, 1, (Conflict.Attack.Unspecified, Target, PER)); || support = 14
+(0, 1, (Movement.Transportation.Unspecified, Destination, FAC)); || support = 13
+(0, 1, (Life.Injure.Unspecified, Victim, PER)); || support = 12
+(0, 1, (Contact.Contact.Unspecified, Participant, PER)); || support = 13
+(0, 1, (PER, Physical.LocatedNear, GPE)); || support = 12
+(0, 1, (PER, Physical.LocatedNear, FAC)); || support = 12

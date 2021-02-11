@@ -1,0 +1,9 @@
+(0, 1, (A, a, B)); || support = 2
+(0, 1, (A, a, B));(1, 2, (B, a, D)); || support = 2
+(0, 1, (A, a, B));(1, 2, (B, a, D));(0, 3, (A, a, C)); || support = 1
+(0, 1, (A, a, B));(0, 2, (A, a, C)); || support = 1
+(0, 1, (A, a, B));(0, 2, (A, a, C));(2, 3, (C, a, D)); || support = 1
+(0, 1, (A, a, C)); || support = 2
+(0, 1, (A, a, C));(1, 2, (C, a, D)); || support = 2
+(0, 1, (B, a, D)); || support = 2
+(0, 1, (C, a, D)); || support = 2

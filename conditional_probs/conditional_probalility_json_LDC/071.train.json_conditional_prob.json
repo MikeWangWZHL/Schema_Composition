@@ -1,0 +1,76 @@
+{
+    "Conflict.Attack.Unspecified": {
+        "Contact.Contact.Unspecified": 0.08333333333333333,
+        "Conflict.Attack.Unspecified": 0.25,
+        "Transaction.ExchangeBuySell.Unspecified": 0.16666666666666666,
+        "ArtifactExistence.ManufactureAssemble.Unspecified": 0.08333333333333333,
+        "Contact.Contact.Meet": 0.3333333333333333,
+        "Personnel.EndPosition.Unspecified": 0.08333333333333333
+    },
+    "Contact.Contact.Unspecified": {
+        "Personnel.EndPosition.Unspecified": 0.18181818181818182,
+        "Transaction.ExchangeBuySell.Unspecified": 0.2727272727272727,
+        "Contact.Contact.Unspecified": 0.18181818181818182,
+        "Contact.Contact.Broadcast": 0.09090909090909091,
+        "Contact.Contact.Correspondence": 0.09090909090909091,
+        "Conflict.Attack.Unspecified": 0.09090909090909091,
+        "Movement.Transportation.Unspecified": 0.09090909090909091
+    },
+    "Personnel.EndPosition.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 0.09523809523809523,
+        "Contact.Contact.Meet": 0.09523809523809523,
+        "Personnel.StartPosition.Unspecified": 0.19047619047619047,
+        "Justice.ChargeIndict.Unspecified": 0.14285714285714285,
+        "Personnel.EndPosition.Unspecified": 0.42857142857142855,
+        "Conflict.Demonstrate.Unspecified": 0.047619047619047616
+    },
+    "Transaction.ExchangeBuySell.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 0.6,
+        "Contact.Contact.Unspecified": 0.1,
+        "Conflict.Demonstrate.Unspecified": 0.2,
+        "Movement.Transportation.Unspecified": 0.1
+    },
+    "Disaster.DiseaseOutbreak.Unspecified": {
+        "Movement.Transportation.PreventPassage": 0.5,
+        "Movement.Transportation.Unspecified": 0.5
+    },
+    "Contact.Contact.Correspondence": {
+        "Conflict.Demonstrate.Unspecified": 0.25,
+        "Contact.Contact.Correspondence": 0.25,
+        "Contact.Contact.Unspecified": 0.25,
+        "Contact.Contact.Broadcast": 0.25
+    },
+    "ArtifactExistence.ManufactureAssemble.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 1.0
+    },
+    "Movement.Transportation.Unspecified": {
+        "Movement.Transportation.PreventPassage": 0.1,
+        "Contact.Contact.Unspecified": 0.2,
+        "Movement.Transportation.Unspecified": 0.1,
+        "Contact.Contact.Correspondence": 0.1,
+        "Conflict.Attack.Unspecified": 0.1,
+        "Personnel.EndPosition.Unspecified": 0.2,
+        "Conflict.Demonstrate.Unspecified": 0.1,
+        "Personnel.StartPosition.Unspecified": 0.1
+    },
+    "Conflict.Demonstrate.Unspecified": {
+        "Transaction.ExchangeBuySell.Unspecified": 0.1111111111111111,
+        "Contact.Contact.Correspondence": 0.1111111111111111,
+        "Conflict.Demonstrate.Unspecified": 0.1111111111111111,
+        "Contact.Contact.Unspecified": 0.2222222222222222,
+        "Conflict.Attack.Unspecified": 0.1111111111111111,
+        "Personnel.StartPosition.Unspecified": 0.1111111111111111,
+        "Personnel.EndPosition.Unspecified": 0.1111111111111111,
+        "Movement.Transportation.Unspecified": 0.1111111111111111
+    },
+    "Contact.Contact.Meet": {
+        "Contact.Contact.Meet": 1.0
+    },
+    "Personnel.StartPosition.Unspecified": {
+        "Contact.Contact.Correspondence": 0.5,
+        "Movement.Transportation.Unspecified": 0.5
+    },
+    "Justice.ChargeIndict.Unspecified": {
+        "Personnel.StartPosition.Unspecified": 1.0
+    }
+}

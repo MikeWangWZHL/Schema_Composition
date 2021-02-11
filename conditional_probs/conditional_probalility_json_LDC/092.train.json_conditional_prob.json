@@ -1,0 +1,33 @@
+{
+    "Personnel.EndPosition.Unspecified": {
+        "Conflict.Attack.DetonateExplode": 1.0
+    },
+    "Cognitive.Inspection.SensoryObserve": {
+        "Conflict.Attack.DetonateExplode": 1.0
+    },
+    "ArtifactExistence.ManufactureAssemble.Unspecified": {
+        "Conflict.Attack.DetonateExplode": 0.3333333333333333,
+        "ArtifactExistence.DamageDestroyDisableDismantle.Destroy": 0.3333333333333333,
+        "Movement.Transportation.Unspecified": 0.3333333333333333
+    },
+    "Conflict.Attack.DetonateExplode": {
+        "Movement.Transportation.Unspecified": 0.25,
+        "ArtifactExistence.DamageDestroyDisableDismantle.Destroy": 0.375,
+        "Movement.Transportation.Evacuation": 0.125,
+        "Contact.Contact.Unspecified": 0.25
+    },
+    "Contact.Contact.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.5,
+        "ArtifactExistence.DamageDestroyDisableDismantle.Destroy": 0.5
+    },
+    "Movement.Transportation.Unspecified": {
+        "Conflict.Attack.DetonateExplode": 1.0
+    },
+    "Contact.ThreatenCoerce.Unspecified": {
+        "Movement.Transportation.Unspecified": 1.0
+    },
+    "Transaction.ExchangeBuySell.Unspecified": {
+        "ArtifactExistence.DamageDestroyDisableDismantle.Destroy": 0.5,
+        "Conflict.Attack.DetonateExplode": 0.5
+    }
+}

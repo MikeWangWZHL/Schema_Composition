@@ -1,0 +1,95 @@
+{
+    "GenericCrime.GenericCrime.GenericCrime": {
+        "Justice.ArrestJailDetain.Unspecified": 0.07142857142857142,
+        "Justice.InvestigateCrime.Unspecified": 0.07142857142857142,
+        "Movement.Transportation.Evacuation": 0.35714285714285715,
+        "Movement.Transportation.Unspecified": 0.35714285714285715,
+        "Conflict.Attack.Unspecified": 0.14285714285714285
+    },
+    "Justice.ArrestJailDetain.Unspecified": {
+        "Justice.InvestigateCrime.Unspecified": 0.08333333333333333,
+        "Transaction.ExchangeBuySell.Unspecified": 0.08333333333333333,
+        "Movement.Transportation.Unspecified": 0.4166666666666667,
+        "Movement.Transportation.Evacuation": 0.4166666666666667
+    },
+    "Movement.Transportation.Evacuation": {
+        "Justice.InvestigateCrime.Unspecified": 0.041666666666666664,
+        "Movement.Transportation.Unspecified": 0.5,
+        "Movement.Transportation.Evacuation": 0.4166666666666667,
+        "Contact.Contact.Unspecified": 0.041666666666666664
+    },
+    "Conflict.Attack.Unspecified": {
+        "Contact.ThreatenCoerce.Unspecified": 0.043478260869565216,
+        "Movement.Transportation.Evacuation": 0.21739130434782608,
+        "Contact.Contact.Unspecified": 0.13043478260869565,
+        "Justice.ArrestJailDetain.Unspecified": 0.043478260869565216,
+        "Movement.Transportation.Unspecified": 0.08695652173913043,
+        "Transaction.ExchangeBuySell.Unspecified": 0.21739130434782608,
+        "Contact.Contact.Meet": 0.13043478260869565,
+        "Justice.ChargeIndict.Unspecified": 0.08695652173913043,
+        "Conflict.Attack.Unspecified": 0.043478260869565216
+    },
+    "Transaction.ExchangeBuySell.Unspecified": {
+        "Contact.Contact.Meet": 0.10526315789473684,
+        "Justice.InvestigateCrime.Unspecified": 0.05263157894736842,
+        "Movement.Transportation.Unspecified": 0.3684210526315789,
+        "Contact.Contact.Unspecified": 0.05263157894736842,
+        "Transaction.ExchangeBuySell.Unspecified": 0.10526315789473684,
+        "Justice.ChargeIndict.Unspecified": 0.10526315789473684,
+        "Contact.Contact.Broadcast": 0.05263157894736842,
+        "Conflict.Attack.Unspecified": 0.10526315789473684,
+        "Contact.Contact.Correspondence": 0.05263157894736842
+    },
+    "Personnel.StartPosition.Unspecified": {
+        "Movement.Transportation.Evacuation": 0.0625,
+        "Movement.Transportation.Unspecified": 0.375,
+        "Conflict.Attack.Unspecified": 0.0625,
+        "Contact.Contact.Meet": 0.0625,
+        "Contact.Contact.Unspecified": 0.0625,
+        "Transaction.ExchangeBuySell.Unspecified": 0.3125,
+        "Personnel.StartPosition.Unspecified": 0.0625
+    },
+    "Movement.Transportation.Unspecified": {
+        "Movement.Transportation.Evacuation": 0.078125,
+        "Conflict.Attack.Unspecified": 0.125,
+        "Control.ImpedeInterfereWith.Unspecified": 0.015625,
+        "Contact.Contact.Unspecified": 0.09375,
+        "Justice.InvestigateCrime.Unspecified": 0.03125,
+        "Movement.Transportation.Unspecified": 0.296875,
+        "Transaction.ExchangeBuySell.Unspecified": 0.109375,
+        "Contact.Contact.Meet": 0.03125,
+        "Personnel.StartPosition.Unspecified": 0.015625,
+        "GenericCrime.GenericCrime.GenericCrime": 0.078125,
+        "Justice.ArrestJailDetain.Unspecified": 0.015625,
+        "Justice.ChargeIndict.Unspecified": 0.078125,
+        "Contact.Contact.Broadcast": 0.015625,
+        "Contact.Contact.Correspondence": 0.015625
+    },
+    "Contact.ThreatenCoerce.Unspecified": {
+        "Contact.Contact.Unspecified": 0.5,
+        "Movement.Transportation.Evacuation": 0.5
+    },
+    "Control.ImpedeInterfereWith.Unspecified": {
+        "Contact.Contact.Unspecified": 1.0
+    },
+    "Contact.Contact.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.5,
+        "Contact.Contact.Meet": 0.16666666666666666,
+        "Transaction.ExchangeBuySell.Unspecified": 0.3333333333333333
+    },
+    "Life.Die.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.5,
+        "Transaction.ExchangeBuySell.Unspecified": 0.5
+    },
+    "Justice.InvestigateCrime.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.5,
+        "Contact.Contact.Meet": 0.5
+    },
+    "Contact.Contact.Meet": {
+        "Transaction.ExchangeBuySell.Unspecified": 0.5,
+        "Justice.ChargeIndict.Unspecified": 0.5
+    },
+    "Contact.Contact.Broadcast": {
+        "Justice.ChargeIndict.Unspecified": 1.0
+    }
+}

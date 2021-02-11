@@ -1,0 +1,15 @@
+{
+    "Transaction.ExchangeBuySell.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.09090909090909091,
+        "Transaction.ExchangeBuySell.Unspecified": 0.6666666666666666,
+        "Contact.Contact.Correspondence": 0.18181818181818182,
+        "Contact.Contact.Meet": 0.030303030303030304,
+        "ArtifactExistence.ManufactureAssemble.Unspecified": 0.030303030303030304
+    },
+    "ArtifactExistence.ManufactureAssemble.Unspecified": {
+        "Contact.Contact.Meet": 1.0
+    },
+    "Movement.Transportation.Unspecified": {
+        "Movement.Transportation.Unspecified": 1.0
+    }
+}

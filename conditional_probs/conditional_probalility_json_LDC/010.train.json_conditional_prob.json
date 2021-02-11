@@ -1,0 +1,70 @@
+{
+    "Movement.Transportation.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.4523809523809524,
+        "Justice.ReleaseParole.Unspecified": 0.011904761904761904,
+        "Contact.Contact.Meet": 0.10714285714285714,
+        "Cognitive.Inspection.SensoryObserve": 0.13095238095238096,
+        "Contact.Contact.Correspondence": 0.20238095238095238,
+        "Contact.Contact.Unspecified": 0.047619047619047616,
+        "Movement.Transportation.Evacuation": 0.011904761904761904,
+        "ArtifactExistence.DamageDestroyDisableDismantle.Damage": 0.011904761904761904,
+        "Personnel.EndPosition.Unspecified": 0.011904761904761904,
+        "Contact.RequestCommand.Meet": 0.011904761904761904
+    },
+    "Justice.ReleaseParole.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.5714285714285714,
+        "Contact.Contact.Meet": 0.2857142857142857,
+        "Contact.Contact.Unspecified": 0.14285714285714285
+    },
+    "Contact.Contact.Unspecified": {
+        "Movement.Transportation.Unspecified": 0.375,
+        "Contact.Contact.Meet": 0.125,
+        "Movement.Transportation.Evacuation": 0.041666666666666664,
+        "Cognitive.Inspection.SensoryObserve": 0.041666666666666664,
+        "Contact.Contact.Correspondence": 0.375,
+        "Contact.Contact.Unspecified": 0.041666666666666664
+    },
+    "Contact.Contact.Meet": {
+        "Contact.Contact.Meet": 0.12903225806451613,
+        "Movement.Transportation.Unspecified": 0.6129032258064516,
+        "Cognitive.Inspection.SensoryObserve": 0.0967741935483871,
+        "Movement.Transportation.Evacuation": 0.03225806451612903,
+        "Contact.Contact.Correspondence": 0.12903225806451613
+    },
+    "Contact.Contact.Correspondence": {
+        "Contact.Contact.Correspondence": 0.40298507462686567,
+        "Cognitive.Inspection.SensoryObserve": 0.04477611940298507,
+        "Movement.Transportation.Unspecified": 0.34328358208955223,
+        "Contact.Contact.Meet": 0.07462686567164178,
+        "Movement.Transportation.Evacuation": 0.014925373134328358,
+        "Contact.Contact.Unspecified": 0.1044776119402985,
+        "Contact.RequestCommand.Unspecified": 0.014925373134328358
+    },
+    "Personnel.EndPosition.Unspecified": {
+        "Contact.Contact.Correspondence": 0.38461538461538464,
+        "Transaction.ExchangeBuySell.Unspecified": 0.07692307692307693,
+        "Contact.Contact.Unspecified": 0.07692307692307693,
+        "Movement.Transportation.Unspecified": 0.23076923076923078,
+        "Contact.Contact.Meet": 0.15384615384615385,
+        "Movement.Transportation.Evacuation": 0.07692307692307693
+    },
+    "ArtifactExistence.DamageDestroyDisableDismantle.Damage": {
+        "Cognitive.Inspection.SensoryObserve": 1.0
+    },
+    "Movement.Transportation.Evacuation": {
+        "Movement.Transportation.Unspecified": 0.8,
+        "Contact.Contact.Meet": 0.2
+    },
+    "Cognitive.Inspection.SensoryObserve": {
+        "Contact.Contact.Meet": 0.09523809523809523,
+        "Movement.Transportation.Unspecified": 0.3333333333333333,
+        "Contact.Contact.Correspondence": 0.3333333333333333,
+        "Cognitive.Inspection.SensoryObserve": 0.09523809523809523,
+        "Contact.Contact.Unspecified": 0.047619047619047616,
+        "Contact.RequestCommand.Unspecified": 0.047619047619047616,
+        "Contact.RequestCommand.Meet": 0.047619047619047616
+    },
+    "Contact.RequestCommand.Unspecified": {
+        "Movement.Transportation.Unspecified": 1.0
+    }
+}
